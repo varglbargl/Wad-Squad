@@ -16,6 +16,7 @@
           }
         }
         ParentId: 4781671109827199097
+        ChildIds: 9685685806032264942
         ChildIds: 4268290051436786599
         ChildIds: 10288336888600549638
         ChildIds: 15714075669346606607
@@ -40,12 +41,43 @@
           }
           Settings {
             IsEnabled: true
-            Mass: 3000
+            Mass: 10
             LinearDamping: 1
             AngularDamping: 1
           }
           Radius: 1
           Length: 200
+        }
+      }
+      Objects {
+        Id: 9685685806032264942
+        Name: "DudeFollow"
+        Transform {
+          Location {
+            X: 19230
+            Y: 1780
+            Z: -775
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6019812629017338264
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Script {
+          ScriptAsset {
+            Id: 4741586837377158647
+          }
         }
       }
       Objects {

@@ -16,6 +16,32 @@
           }
         }
         ParentId: 4781671109827199097
+        ChildIds: 13539488377418075393
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 13539488377418075393
+        Name: "AnimationRoot"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11738214112588897092
         ChildIds: 18278852322819306124
         ChildIds: 11710709679697504678
         Collidable_v2 {
@@ -33,8 +59,8 @@
         Name: "Head"
         Transform {
           Location {
-            X: -95
-            Z: 40
+            X: -20
+            Z: 55
           }
           Rotation {
           }
@@ -44,7 +70,7 @@
             Z: 1
           }
         }
-        ParentId: 11738214112588897092
+        ParentId: 13539488377418075393
         ChildIds: 15248128838198562653
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -671,8 +697,8 @@
         Name: "Body"
         Transform {
           Location {
-            X: -40
-            Z: 70
+            X: 35
+            Z: 85
           }
           Rotation {
           }
@@ -682,7 +708,7 @@
             Z: 1
           }
         }
-        ParentId: 11738214112588897092
+        ParentId: 13539488377418075393
         ChildIds: 14397618999435902464
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"

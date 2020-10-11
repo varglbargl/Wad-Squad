@@ -170,15 +170,6 @@ Assets {
   }
 }
 Assets {
-  Id: 11251994733772007315
-  Name: "Invisible"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_invisible_001"
-  }
-}
-Assets {
   Id: 11155013891418122625
   Name: "Ellipsoid - Truncated Hollow"
   PlatformAssetType: 1

@@ -1,13 +1,13 @@
 ﻿Assets {
-  Id: 16369335654324649891
-  Name: "WadControl"
+  Id: 4741586837377158647
+  Name: "DudeFollow"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {
       Overrides {
-        Name: "cs:Utils"
+        Name: "cs:Dude"
         AssetReference {
-          Id: 18302965560194460405
+          Id: 268629027727689317
         }
       }
     }

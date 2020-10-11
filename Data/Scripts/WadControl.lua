@@ -16,7 +16,8 @@ local MESH = script:GetCustomProperty("Mesh"):WaitForObject()
 -- local ORB = script:GetCustomProperty("Orb")
 
 local delay = 0.1
-local moveSpeed = 10000 * delay
+local moveSpeed = 12500 * delay
+local gravityForce = -1600
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
@@ -69,7 +70,7 @@ end
 
 function rollThatWad()
   local wadSize = WAD.clientUserData["Size"]
-  local simulatedMass = Vector3.New(0, 0, wadSize * -1500  * delay)
+  local simulatedMass = Vector3.New(0, 0, (wadSize - 1) * gravityForce * delay)
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -104,7 +105,7 @@ function rollThatWad()
 
   -- TODO: Use this part to simulate increased mass proprtional to WAD Size
   WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, delay))
-  WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, delay * 2))
+  WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, delay * 3))
 
   Task.Wait(delay)
 
