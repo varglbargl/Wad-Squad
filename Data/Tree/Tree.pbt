@@ -21,8 +21,6 @@ Objects {
   ChildIds: 15890745258446820654
   ChildIds: 15969670120281364747
   ChildIds: 114523083307116321
-  ChildIds: 12495261938632602304
-  ChildIds: 14801954026603310
   ChildIds: 5889750697227244870
   ChildIds: 1580012088877614752
   ChildIds: 2106668132454366082
@@ -414,15 +412,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -725
-            Y: -570
+            X: -410
+            Y: -535
             Z: 935
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: -62.3679161
+            Pitch: -62.3679199
             Yaw: -160.316437
             Roll: 158.01207
           }
@@ -465,13 +463,16 @@ Objects {
           Name: "Position"
           Vector {
             X: -935
-            Y: -1360
-            Z: 625
+            Y: -985
+            Z: 825
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
+            Pitch: 6.83018879e-06
+            Yaw: 179.999954
+            Roll: 99.9999847
           }
         }
         Overrides {
@@ -501,6 +502,27 @@ Objects {
         }
       }
     }
+    ParameterOverrideMap {
+      key: 13268204437557737595
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1.94882268e-05
+            Y: -7.96269274
+            Z: 26.8022518
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 4.09811328e-05
+            Yaw: 1.39911992e-06
+            Roll: 54.4150314
+          }
+        }
+      }
+    }
     TemplateAsset {
       Id: 16168284251774129750
     }
@@ -511,14 +533,14 @@ Objects {
   Name: "Sanvich"
   Transform {
     Location {
-      X: 740.008789
-      Y: -1684.43457
-      Z: 661.12793
+      X: -2610
+      Y: -485
+      Z: 675
     }
     Rotation {
-      Pitch: 2.11022091
-      Yaw: 1.66865828e-08
-      Roll: 2.90808845
+      Pitch: -2.88977051
+      Yaw: 2.0035797e-08
+      Roll: 2.90809131
     }
     Scale {
       X: 1
@@ -2613,8 +2635,11 @@ Objects {
   Name: "Walls"
   Transform {
     Location {
+      X: 640
+      Y: -610
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
       X: 1.49999988
@@ -4290,7 +4315,6 @@ Objects {
   ChildIds: 13726836177395911327
   ChildIds: 16585569091184106356
   ChildIds: 304738270029228968
-  ChildIds: 12779608870444521847
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -4298,160 +4322,6 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   NetworkContext {
-  }
-}
-Objects {
-  Id: 12779608870444521847
-  Name: "Lego Brick"
-  Transform {
-    Location {
-      X: -17977.1367
-      Y: -2459.55078
-      Z: 534.163757
-    }
-    Rotation {
-      Pitch: 33.7441597
-      Yaw: 99.6851044
-      Roll: 21.0464935
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7085708660934895409
-  ChildIds: 13496695208027358623
-  ChildIds: 4825204904957464426
-  ChildIds: 2819110405541665022
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 2819110405541665022
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-      Yaw: 1.36603776e-05
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 12779608870444521847
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:PrimaryOnly"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 4825204904957464426
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 12779608870444521847
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 1
-            Z: 0.6
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 16933280277602746625
-            SubObjectId: 10866936507393779145
-            InstanceId: 13496695208027358623
-            TemplateId: 16957935951931341272
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 13496695208027358623
-  Name: "Item - Lego Brick"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 12779608870444521847
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 10866936507393779145
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Lego Brick"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16957935951931341272
-    }
   }
 }
 Objects {
@@ -9910,8 +9780,8 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -16980
-      Y: -3295
+      X: -17000
+      Y: -4550
       Z: 635
     }
     Rotation {
@@ -10066,7 +9936,7 @@ Objects {
 }
 Objects {
   Id: 10225962928581513651
-  Name: "Diamond"
+  Name: "Precious Gem"
   Transform {
     Scale {
       X: 1
@@ -10075,6 +9945,12 @@ Objects {
     }
   }
   ParentId: 5176167228366275666
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
       key: 907499025761674707
@@ -10105,8 +9981,8 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -16980
-      Y: -3445
+      X: -17000
+      Y: -4775
       Z: 635
     }
     Rotation {
@@ -10288,6 +10164,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
       }
     }
     TemplateAsset {
@@ -10300,8 +10180,8 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -16980
-      Y: -3595
+      X: -17000
+      Y: -5000
       Z: 635
     }
     Rotation {
@@ -10483,6 +10363,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
       }
     }
     TemplateAsset {
@@ -10495,8 +10379,8 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -16980
-      Y: -3745
+      X: -17000
+      Y: -5250
       Z: 635
     }
     Rotation {
@@ -10690,8 +10574,8 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -16980
-      Y: -3895
+      X: -17000
+      Y: -5500
       Z: 635
     }
     Rotation {
@@ -10872,6 +10756,10 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
         }
       }
     }
@@ -11062,77 +10950,6 @@ Objects {
     }
     TemplateAsset {
       Id: 9577761946829181634
-    }
-  }
-}
-Objects {
-  Id: 14801954026603310
-  Name: "Beetle Buddy"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14325551321018621460
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Beetle Buddy"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -4585
-            Y: 2975
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9176654694323318546
-    }
-  }
-}
-Objects {
-  Id: 12495261938632602304
-  Name: "Beetle Buddy HD"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11738214112588897092
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Beetle Buddy HD"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -4585
-            Y: 3310
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 268629027727689317
     }
   }
 }

@@ -100,7 +100,7 @@ function rollThatWad()
     local lateralWadTorque = cameraForward * torqueToApply.x
     local combinedWadTorque = forwardWadTorque + lateralWadTorque
     local normalizedWadTorque = combinedWadTorque:GetNormalized()
-    finalWadTorque = normalizedWadTorque * moveSpeed / 3
+    finalWadTorque = normalizedWadTorque * moveSpeed / 3.5
   end
 
   -- TODO: Use this part to simulate increased mass proprtional to WAD Size
@@ -162,9 +162,9 @@ function handleGrabberOverlap (trigger, object)
       local itemColor = item.clientUserData["Color"]
 
       if (itemColor) then
-        UTILS.traverseHierarchy(clientItem, function(clientNode)
-          if clientNode:IsA("CoreMesh") and not clientNode:GetCustomProperty("SkipMod") then
-            clientNode:SetColor(itemColor)
+        UTILS.traverseHierarchy(clientItem, function(node)
+          if not node:GetCustomProperty("SkipMod") and node:IsA("CoreMesh") or node:IsA("Light") then
+            node:SetColor(itemColor)
           end
         end)
       end

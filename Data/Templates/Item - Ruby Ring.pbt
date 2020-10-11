@@ -1,6 +1,6 @@
 ﻿Assets {
   Id: 14629083160350114745
-  Name: "Ruby Ring"
+  Name: "Item - Ruby Ring"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {

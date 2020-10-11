@@ -47,7 +47,5 @@ function dudeWalkingAnimation()
   dudeWalkingAnimation()
 end
 
-Task.Wait(1)
-
 Task.Spawn(dudeFollowButOnTheGround)
 Task.Spawn(dudeWalkingAnimation)

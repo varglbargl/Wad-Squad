@@ -26,7 +26,7 @@ local randomColor = colors[math.random(1, #colors)]
 item.clientUserData["Color"] = randomColor
 
 UTILS.traverseHierarchy(item, function(node)
-  if node:IsA("CoreMesh") and not node:GetCustomProperty("SkipMod") then
+  if not node:GetCustomProperty("SkipMod") and node:IsA("CoreMesh") or node:IsA("Light") then
     node:SetColor(randomColor)
   end
 end)
