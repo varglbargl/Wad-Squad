@@ -37,7 +37,7 @@
     Id: "585f30045c644c5ebe342b9400214fdc"
     OwnerAccountId: "21c0b4284eff4bb091ce80a75c984fd4"
     OwnerName: "varglbargl"
-    Description: "Just a sandwich. Nothin\' fancy."
+    Description: "Just a sandwich. Nothin\' fancy.\r\n\r\nupdate: Fixed some colors. I originally picked them under a custom skybox and they looked a little weird under default lighting. No more purple ham!"
   }
   SerializationVersion: 65
 }

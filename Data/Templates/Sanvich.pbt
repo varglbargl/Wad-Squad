@@ -391,9 +391,9 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 0.755000055
-              G: 0.706930101
-              B: 0.425065
+              R: 0.332000017
+              G: 0.307330936
+              B: 0.162679985
               A: 1
             }
           }
@@ -451,18 +451,18 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 1
+            Float: 1.28
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 1
+            Float: 0.7
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 0.755000055
-              G: 0.706930101
-              B: 0.425065
+              R: 0.332000017
+              G: 0.307330936
+              B: 0.162679985
               A: 1
             }
           }
@@ -1075,7 +1075,7 @@
             Color {
               R: 1
               G: 0.365
-              B: 0.454000026
+              B: 0.303
               A: 1
             }
           }
@@ -1145,7 +1145,7 @@
             Color {
               R: 1
               G: 0.365
-              B: 0.454000026
+              B: 0.303
               A: 1
             }
           }
@@ -1216,7 +1216,7 @@
             Color {
               R: 1
               G: 0.365
-              B: 0.454000026
+              B: 0.303
               A: 1
             }
           }
@@ -1286,7 +1286,7 @@
             Color {
               R: 1
               G: 0.365
-              B: 0.454000026
+              B: 0.303
               A: 1
             }
           }
@@ -1399,9 +1399,9 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 0.755000055
-              G: 0.706930101
-              B: 0.425065
+              R: 0.332000017
+              G: 0.307330936
+              B: 0.162679985
               A: 1
             }
           }
@@ -1459,18 +1459,18 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 1
+            Float: 1.28
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 1
+            Float: 0.7
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 0.755000055
-              G: 0.706930101
-              B: 0.425065
+              R: 0.332000017
+              G: 0.307330936
+              B: 0.162679985
               A: 1
             }
           }

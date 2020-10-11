@@ -1,4 +1,13 @@
 ﻿Assets {
+  Id: 18440814011778038326
+  Name: "Metal Iron 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_iron_001"
+  }
+}
+Assets {
   Id: 18353433627847787208
   Name: "Chain Tile 01"
   PlatformAssetType: 1
@@ -8,12 +17,12 @@
   }
 }
 Assets {
-  Id: 18063086438225634970
-  Name: "Gem - Diamond 6-Sided Polished"
-  PlatformAssetType: 1
+  Id: 18133699642558591580
+  Name: "Plastic Shiny"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_diamond_6_sided_polished_001"
+    AssetType: "MaterialAssetRef"
+    AssetId: "plastic_shiny_001"
   }
 }
 Assets {
@@ -26,6 +35,24 @@ Assets {
   }
 }
 Assets {
+  Id: 17818334485311273062
+  Name: "Snow 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_snow_001_uv"
+  }
+}
+Assets {
+  Id: 17512052449164844187
+  Name: "Hill 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hill_001"
+  }
+}
+Assets {
   Id: 17481560565727335353
   Name: "Tree Oak 01"
   PlatformAssetType: 1
@@ -35,12 +62,21 @@ Assets {
   }
 }
 Assets {
-  Id: 15825257594056467265
-  Name: "Flower Bellflower Patch 01"
+  Id: 16971722803005799468
+  Name: "Pipe - Half Thick"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_foliage_gen_flower_bell_patch_001_ref"
+    AssetId: "sm_half-pipe_003"
+  }
+}
+Assets {
+  Id: 15835672292391321145
+  Name: "Sand 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_sand_001_uv"
   }
 }
 Assets {
@@ -53,6 +89,24 @@ Assets {
   }
 }
 Assets {
+  Id: 14738121030007239017
+  Name: "Hill 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hill_004"
+  }
+}
+Assets {
+  Id: 14295650898991336118
+  Name: "Food Cheese 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_food_generic_cheese_001_uv"
+  }
+}
+Assets {
   Id: 14163900403650610806
   Name: "Craftsman End Table"
   PlatformAssetType: 1
@@ -62,21 +116,21 @@ Assets {
   }
 }
 Assets {
+  Id: 13462049096682644055
+  Name: "Terrain - Grass"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_terrain_rock-grass-001_wa"
+  }
+}
+Assets {
   Id: 13282259600726273799
   Name: "Cylinder"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_002"
-  }
-}
-Assets {
-  Id: 12657791796308583219
-  Name: "Pipe - Thin"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pipe_003"
   }
 }
 Assets {
@@ -107,57 +161,30 @@ Assets {
   }
 }
 Assets {
-  Id: 11959917457289143983
-  Name: "Collect Coin Star Ping 01 SFX"
-  PlatformAssetType: 7
-  PrimaryAsset {
-    AssetType: "AudioAssetRef"
-    AssetId: "sfx_collect_coin_star_ping_01_Cue_ref"
-  }
-}
-Assets {
-  Id: 11657302615033082619
-  Name: "Bush 01"
+  Id: 11488686579340352419
+  Name: "Hill 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bush_generic_001"
+    AssetId: "sm_hill_002"
   }
 }
 Assets {
-  Id: 11298254080295207448
-  Name: "Rock Pile 001"
+  Id: 11155013891418122625
+  Name: "Ellipsoid - Truncated Hollow"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_rocks_small_001"
+    AssetId: "sm_ellipsoid_hollow_001"
   }
 }
 Assets {
-  Id: 10443531781920856908
-  Name: "Bone Human Humerus 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_humerus_01_ref"
-  }
-}
-Assets {
-  Id: 9825684335820985729
-  Name: "Metal Basic Steel"
+  Id: 10184847056121543272
+  Name: "Basic Material"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "steel_001"
-  }
-}
-Assets {
-  Id: 9819992955511143106
-  Name: "Bush Leafy Low 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_foliage_gen_leafy_bush_002"
+    AssetId: "mi_basic_pbr_material_001"
   }
 }
 Assets {
@@ -179,6 +206,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9256376963641243765
+  Name: "Wedge"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_wedge_001"
+  }
+}
+Assets {
   Id: 9199751096616988864
   Name: "Candle Flame VFX"
   PlatformAssetType: 1
@@ -188,30 +224,39 @@ Assets {
   }
 }
 Assets {
-  Id: 7577530180947540064
-  Name: "Grass Clumps"
+  Id: 7440098882693208513
+  Name: "Prism - 8-Sided Half"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_half_octagon_001"
+  }
+}
+Assets {
+  Id: 7210998986192987884
+  Name: "Bark Redwood 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_grass_002_uv"
+    AssetId: "mi_bark_redwood_001_uv"
   }
 }
 Assets {
-  Id: 7369632945904869019
-  Name: "Bone Human Skull 01"
-  PlatformAssetType: 1
+  Id: 6581084023841296860
+  Name: "Moss 01"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_skull_01_ref"
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_moss_001_uv"
   }
 }
 Assets {
-  Id: 5897087829068728465
-  Name: "Pyramid - 6-Sided Truncated Polished"
+  Id: 5889849021351536779
+  Name: "Cylinder - Chamfered"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pyramid_sixsided_truncated_hq_001"
+    AssetId: "sm_cylinder_chamfer"
   }
 }
 Assets {
@@ -224,21 +269,12 @@ Assets {
   }
 }
 Assets {
-  Id: 5144325868401884318
-  Name: "Bone Human Tibula 01"
+  Id: 4691692031683937777
+  Name: "Pipe - Half Thin"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_tib_01_ref"
-  }
-}
-Assets {
-  Id: 4850200685106868950
-  Name: "Ball"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_sphere_001"
+    AssetId: "sm_half-pipe_002"
   }
 }
 Assets {
@@ -251,6 +287,33 @@ Assets {
   }
 }
 Assets {
+  Id: 4050437425243511619
+  Name: "Wood Raw"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wood_raw_001_uv"
+  }
+}
+Assets {
+  Id: 3951634741642929759
+  Name: "Decal Bullet Damage Wood"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_bullet_wood_001"
+  }
+}
+Assets {
+  Id: 3370722629091869980
+  Name: "Prism - 6-Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prism_hexagon_001"
+  }
+}
+Assets {
   Id: 2678246725600216788
   Name: "Chain Ceiling Anchor"
   PlatformAssetType: 1
@@ -260,30 +323,39 @@ Assets {
   }
 }
 Assets {
-  Id: 1733344654949256309
-  Name: "Rock 03"
+  Id: 2193443187905391329
+  Name: "Large Wood Board 8m"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_rock_generic_003"
+    AssetId: "sm_large_board_6m"
   }
 }
 Assets {
-  Id: 628701200590198676
-  Name: "Rock 01"
+  Id: 1794493300960258535
+  Name: "Wedge - Convex"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_rock_generic_001"
+    AssetId: "sm_wedge_curved_convex_001"
   }
 }
 Assets {
-  Id: 225729877190367786
-  Name: "Bone Human Ribcage 01"
+  Id: 1754334535761015864
+  Name: "Food Fruit 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_food_generic_apple_001_uv"
+  }
+}
+Assets {
+  Id: 442133322379644050
+  Name: "Cone - Bullet"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_ribcage_01_ref"
+    AssetId: "sm_bullet_001"
   }
 }
 Assets {
@@ -293,14 +365,5 @@ Assets {
   PrimaryAsset {
     AssetType: "AudioBlueprintAssetRef"
     AssetId: "abp_sunny_punk_rock_sections_kit_ref"
-  }
-}
-Assets {
-  Id: 20253322222348443
-  Name: "Dirt 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "dirt_001"
   }
 }

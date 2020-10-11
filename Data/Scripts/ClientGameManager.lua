@@ -4,13 +4,14 @@ local ITEMS = script:GetCustomProperty("Items"):WaitForObject()
 
 local clientPlayer = Game.GetLocalPlayer()
 local clientWad = nil
+local spawnHeight = 1600
 
 function handleJoined(player)
   if player.id ~= clientPlayer.id then return end
 
   print(player.name .. " joined the new WAD SQUAD")
 
-  clientWad = World.SpawnAsset(WAD, {position = player:GetWorldPosition() + Vector3.New(0, 0, 800)})
+  clientWad = World.SpawnAsset(WAD, {position = player:GetWorldPosition() + Vector3.New(0, 0, spawnHeight)})
   clientWad.clientUserData["Size"] = 1
 
   local wadControl = clientWad:GetCustomProperty("WadControl"):WaitForObject()

@@ -421,9 +421,9 @@
               Overrides {
                 Name: "ma:Shared_BaseMaterial:color"
                 Color {
-                  R: 0.755000055
-                  G: 0.706930101
-                  B: 0.425065
+                  R: 0.332000017
+                  G: 0.307330936
+                  B: 0.162679985
                   A: 1
                 }
               }
@@ -481,18 +481,18 @@
               }
               Overrides {
                 Name: "ma:Shared_BaseMaterial:utile"
-                Float: 1
+                Float: 1.28
               }
               Overrides {
                 Name: "ma:Shared_BaseMaterial:vtile"
-                Float: 1
+                Float: 0.7
               }
               Overrides {
                 Name: "ma:Shared_BaseMaterial:color"
                 Color {
-                  R: 0.755000055
-                  G: 0.706930101
-                  B: 0.425065
+                  R: 0.332000017
+                  G: 0.307330936
+                  B: 0.162679985
                   A: 1
                 }
               }
@@ -706,19 +706,19 @@
             Name: "Lettuce"
             Transform {
               Location {
-                X: -56.0359497
-                Y: 156.967438
-                Z: 88.7157898
+                X: 86.2216797
+                Y: 154.371536
+                Z: 100.129524
               }
               Rotation {
-                Pitch: 1.87555623
-                Yaw: 1.06778907e-05
-                Roll: -91.0957
+                Pitch: 89.4970856
+                Yaw: -89.9813232
+                Roll: -179.482513
               }
               Scale {
-                X: 5.80248547
-                Y: -0.279701233
-                Z: 4.16414452
+                X: 0.045969408
+                Y: 2.90211
+                Z: 3.26426315
               }
             }
             ParentId: 5369984264814360519
@@ -759,7 +759,7 @@
             }
             CoreMesh {
               MeshAsset {
-                Id: 14687245596944954243
+                Id: 1794493300960258535
               }
               Teams {
                 IsTeamCollisionEnabled: true
@@ -1077,7 +1077,7 @@
             Name: "Wedge"
             Transform {
               Location {
-                X: 130.179932
+                X: 129.805374
                 Y: 102.478561
                 Z: 19.0028496
               }
@@ -1088,7 +1088,7 @@
               }
               Scale {
                 X: 0.0479997061
-                Y: 3.491
+                Y: 3.49726129
                 Z: 4.128
               }
             }
@@ -1105,7 +1105,7 @@
                 Color {
                   R: 1
                   G: 0.365
-                  B: 0.454000026
+                  B: 0.303
                   A: 1
                 }
               }
@@ -1175,7 +1175,7 @@
                 Color {
                   R: 1
                   G: 0.365
-                  B: 0.454000026
+                  B: 0.303
                   A: 1
                 }
               }
@@ -1246,7 +1246,7 @@
                 Color {
                   R: 1
                   G: 0.365
-                  B: 0.454000026
+                  B: 0.303
                   A: 1
                 }
               }
@@ -1316,7 +1316,7 @@
                 Color {
                   R: 1
                   G: 0.365
-                  B: 0.454000026
+                  B: 0.303
                   A: 1
                 }
               }
@@ -1429,9 +1429,9 @@
               Overrides {
                 Name: "ma:Shared_BaseMaterial:color"
                 Color {
-                  R: 0.755000055
-                  G: 0.706930101
-                  B: 0.425065
+                  R: 0.332000017
+                  G: 0.307330936
+                  B: 0.162679985
                   A: 1
                 }
               }
@@ -1489,18 +1489,18 @@
               }
               Overrides {
                 Name: "ma:Shared_BaseMaterial:utile"
-                Float: 1
+                Float: 1.28
               }
               Overrides {
                 Name: "ma:Shared_BaseMaterial:vtile"
-                Float: 1
+                Float: 0.7
               }
               Overrides {
                 Name: "ma:Shared_BaseMaterial:color"
                 Color {
-                  R: 0.755000055
-                  G: 0.706930101
-                  B: 0.425065
+                  R: 0.332000017
+                  G: 0.307330936
+                  B: 0.162679985
                   A: 1
                 }
               }
@@ -1713,6 +1713,7 @@
           AssetId: "None"
         }
       }
+      DirectlyPublished: true
     }
     Assets {
       Id: 16971722803005799468
@@ -1760,12 +1761,12 @@
       }
     }
     Assets {
-      Id: 14687245596944954243
-      Name: "Pipe - Quarter Wedge Thick"
+      Id: 1794493300960258535
+      Name: "Wedge - Convex"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_quarter_pipe_wedge_003"
+        AssetId: "sm_wedge_curved_convex_001"
       }
     }
     Assets {
@@ -1885,6 +1886,7 @@
     Id: "585f30045c644c5ebe342b9400214fdc"
     OwnerAccountId: "21c0b4284eff4bb091ce80a75c984fd4"
     OwnerName: "varglbargl"
+    Description: "Just a sandwich. Nothin\' fancy."
   }
   SerializationVersion: 65
 }
