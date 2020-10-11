@@ -1,6 +1,7 @@
 ﻿local WAD = script:GetCustomProperty("Wad")
 local WAD_CAMERA_FOLLOW = script:GetCustomProperty("WadFollowCamera"):WaitForObject()
 local ITEMS = script:GetCustomProperty("Items"):WaitForObject()
+local UTILS = require(script:GetCustomProperty("Utils"))
 
 local clientPlayer = Game.GetLocalPlayer()
 local clientWad = nil
@@ -36,22 +37,11 @@ function tellServerAboutWad()
   tellServerAboutWad()
 end
 
-function traverseHierarchy(node, callback)
-
-  for _, item in ipairs(node:GetChildren()) do
-    if item:IsA("Folder") then
-      traverseHierarchy(item, callback)
-    else
-      callback(item)
-    end
-  end
-end
-
 function regenerateAllItems()
 
   Task.Wait(30)
 
-  traverseHierarchy(ITEMS, function (item)
+  UTILS.traverseHierarchy(ITEMS, function (item)
     if item:IsA("CoreMesh") and item.visibility == Visibility.FORCE_OFF then
       item.visibility = Visibility.INHERIT
     end

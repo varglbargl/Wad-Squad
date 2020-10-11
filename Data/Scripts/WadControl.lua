@@ -1,4 +1,5 @@
-﻿local WAD_OVERRIDE = script:GetCustomProperty("WadOverride")
+﻿local UTILS = require(script:GetCustomProperty("Utils"))
+local WAD_OVERRIDE = script:GetCustomProperty("WadOverride")
 local WAD = nil
 
 if WAD_OVERRIDE then
@@ -98,6 +99,7 @@ function rollThatWad()
   local normalizedWadTorque = combinedWadTorque:GetNormalized()
   local finalWadTorque = normalizedWadTorque * moveSpeed / 3
 
+  -- TODO: Use this part to simulate increased mass proprtional to WAD Size
   WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, delay))
   WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, delay * 2))
 
@@ -137,10 +139,11 @@ function handleGrabberOverlap (trigger, object)
       -- TODO: Bounce off at the the angle at which you collided mirrored along
       -- the axis perpendicular to vector between wad and object
       -- OMG THAT SOUNDS LIKE SUCH A MATH NIGHTMARE
+      -- ALSO TODO: Fix the part where they can clip through objects.
       WAD:SetVelocity(WAD:GetVelocity() * -1)
       WAD:SetAngularVelocity(WAD:GetAngularVelocity() * -1)
       print(item.name .. " is too B I G H")
-      playSoundEffect(BOUNCE_OFF_SOUND)
+      UTILS.playSoundEffect(BOUNCE_OFF_SOUND, WAD:GetWorldPosition())
     end
 
     if tooSmol then print(item.name .. " is too smol uwu") end
@@ -152,8 +155,15 @@ function handleGrabberOverlap (trigger, object)
       -- The big important part:
       clientItem.parent = WAD
 
-      local itemColor = item:GetColor()
-      clientItem:SetColor(itemColor)
+      local itemColor = item.clientUserData["Color"]
+
+      if (itemColor) then
+        UTILS.traverseHierarchy(clientItem, function(clientNode)
+          if clientNode:IsA("CoreMesh") and not clientNode:GetCustomProperty("SkipMod") then
+            clientNode:SetColor(itemColor)
+          end
+        end)
+      end
 
       wadSize = wadSize + itemSize / 25
 
@@ -170,20 +180,12 @@ function handleGrabberOverlap (trigger, object)
       local pickupSound = clientItem:GetCustomProperty("PickupSound")
 
       if pickupSound then
-        playSoundEffect(pickupSound, object:GetWorldPosition())
+        UTILS.playSoundEffect(pickupSound, object:GetWorldPosition())
       else
-        playSoundEffect(DEFAULT_PICKUP_SOUND, object:GetWorldPosition())
+        UTILS.playSoundEffect(DEFAULT_PICKUP_SOUND, object:GetWorldPosition())
       end
     end
   end
-end
-
-function playSoundEffect(sound, sfxPosition)
-  sfxPosition = sfxPosition or WAD:GetWorldPosition()
-  local sfx = World.SpawnAsset(sound, {position = sfxPosition})
-  sfx.isTransient = true
-  sfx.pitch = math.random(-200, 200)
-  sfx:Play()
 end
 
 -- handler params: Trigger_, Object_
