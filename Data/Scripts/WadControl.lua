@@ -12,6 +12,7 @@ local BOUNCE_OFF_SOUND = script:GetCustomProperty("BounceOffSound")
 local DEFAULT_PICKUP_SOUND = script:GetCustomProperty("DefaultPickupSound")
 local GRABBER = script:GetCustomProperty("Grabber"):WaitForObject()
 local MESH = script:GetCustomProperty("Mesh"):WaitForObject()
+local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 -- local CAMERA_CONTAINER = script:GetCustomProperty("CameraContainer"):WaitForObject()
 -- local ORB = script:GetCustomProperty("Orb")
 
@@ -22,6 +23,8 @@ local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
 
+
+-- TODO: You're really just gonna have to fix this eventually
 function handleKeyPress(player, keyCode)
   -- W
   if keyCode == "ability_extra_21" then
@@ -100,7 +103,7 @@ function rollThatWad()
     local lateralWadTorque = cameraForward * torqueToApply.x
     local combinedWadTorque = forwardWadTorque + lateralWadTorque
     local normalizedWadTorque = combinedWadTorque:GetNormalized()
-    finalWadTorque = normalizedWadTorque * moveSpeed / 3.5
+    finalWadTorque = normalizedWadTorque * moveSpeed / 4
   end
 
   -- TODO: Use this part to simulate increased mass proprtional to WAD Size
@@ -130,6 +133,7 @@ function handleGrabberOverlap (trigger, object)
     local item = object:GetCustomProperty("Pickup"):WaitForObject()
     local itemVisible = item:IsVisibleInHierarchy()
     local itemSize = item:GetCustomProperty("Size")
+    item.clientUserData["Size"] = itemSize
 
     -- all grabbable props MUST have a Size property
     if not itemSize or not itemVisible then return end
@@ -158,6 +162,7 @@ function handleGrabberOverlap (trigger, object)
 
       -- The big important part:
       clientItem.parent = WAD
+      UI_MANAGER.context.displayItem(item)
 
       local itemColor = item.clientUserData["Color"]
 

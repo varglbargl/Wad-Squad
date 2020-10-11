@@ -7,16 +7,16 @@
       RootId: 5159779983559511387
       Objects {
         Id: 5159779983559511387
-        Name: "Green Candy Bit"
+        Name: "Item - Candy Bit"
         Transform {
           Scale {
-            X: 0.6
+            X: 0.3
             Y: 0.6
-            Z: 0.3
+            Z: 0.6
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 16525085836523770929
+        ChildIds: 621673916434848243
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -59,42 +59,42 @@
         }
       }
       Objects {
-        Id: 16525085836523770929
-        Name: "StaticContext"
+        Id: 621673916434848243
+        Name: "ClientContext"
         Transform {
           Location {
           }
           Rotation {
           }
           Scale {
-            X: 1
+            X: 2
             Y: 1
-            Z: 1
+            Z: 0.5
           }
         }
         ParentId: 5159779983559511387
-        ChildIds: 6365645272746432699
+        ChildIds: 16109130884075686763
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         NetworkContext {
-          Type: RuntimeStatic
         }
       }
       Objects {
-        Id: 6365645272746432699
+        Id: 16109130884075686763
         Name: "Decal Letters 01"
         Transform {
           Location {
-            Z: 47.7372742
+            X: -25
+            Y: -2.02250147
           }
           Rotation {
-            Pitch: -1.80389404
-            Yaw: -140.81723
-            Roll: -3.34344482
+            Pitch: 22.4999199
+            Yaw: 90.000267
+            Roll: 90.0002594
           }
           Scale {
             X: 0.15
@@ -102,7 +102,7 @@
             Z: 0.15
           }
         }
-        ParentId: 16525085836523770929
+        ParentId: 621673916434848243
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"

@@ -80,6 +80,15 @@ Assets {
   }
 }
 Assets {
+  Id: 15630407453958386561
+  Name: "Plane Hexagon - One Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_hexagon_001"
+  }
+}
+Assets {
   Id: 14811576902580597152
   Name: "Craftsman Chair 01"
   PlatformAssetType: 1
@@ -134,6 +143,24 @@ Assets {
   }
 }
 Assets {
+  Id: 12827530473249900764
+  Name: "Opaque Emissive"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_opaque_emissive"
+  }
+}
+Assets {
+  Id: 12555474849595239543
+  Name: "Plane Triangle - One Sided Right"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_triangle_002"
+  }
+}
+Assets {
   Id: 12357331784553472978
   Name: "Road Cone 01"
   PlatformAssetType: 1
@@ -158,6 +185,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cube_002"
+  }
+}
+Assets {
+  Id: 11515840070784317904
+  Name: "Skylight"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_Skylight"
   }
 }
 Assets {
@@ -197,6 +233,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9434161903014384267
+  Name: "Hill 05"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hill_005"
+  }
+}
+Assets {
   Id: 9393909216525391833
   Name: "Simple Crate 150cm"
   PlatformAssetType: 1
@@ -221,6 +266,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "fxsm_candleflame"
+  }
+}
+Assets {
+  Id: 7887238662729938253
+  Name: "Sky Dome"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_Sky"
   }
 }
 Assets {
@@ -251,6 +305,15 @@ Assets {
   }
 }
 Assets {
+  Id: 6569324299572531638
+  Name: "Plane Triangle - One Sided Isosceles"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_triangle_001"
+  }
+}
+Assets {
   Id: 5889849021351536779
   Name: "Cylinder - Chamfered"
   PlatformAssetType: 1
@@ -266,6 +329,24 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_grass_generic_001"
+  }
+}
+Assets {
+  Id: 5555060723648672915
+  Name: "Plane Trapezoid - One Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_trapezoid_001"
+  }
+}
+Assets {
+  Id: 5478309032208899374
+  Name: "Plane Circle - One Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_circle_001"
   }
 }
 Assets {
@@ -356,6 +437,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bullet_001"
+  }
+}
+Assets {
+  Id: 402634557595986507
+  Name: "\"Cute Town\" Music Construction Kit (Sections) 01"
+  PlatformAssetType: 10
+  PrimaryAsset {
+    AssetType: "AudioBlueprintAssetRef"
+    AssetId: "abp_cute_town_sections_kit_ref"
   }
 }
 Assets {

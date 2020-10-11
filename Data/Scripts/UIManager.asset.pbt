@@ -1,6 +1,6 @@
 ﻿Assets {
-  Id: 16369335654324649891
-  Name: "WadControl"
+  Id: 12136213402650003031
+  Name: "UIManager"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {
@@ -8,12 +8,6 @@
         Name: "cs:Utils"
         AssetReference {
           Id: 18302965560194460405
-        }
-      }
-      Overrides {
-        Name: "cs:UIManager"
-        ObjectReference {
-          SelfId: 16230482950761357726
         }
       }
     }

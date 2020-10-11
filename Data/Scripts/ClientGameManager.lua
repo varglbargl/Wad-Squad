@@ -1,6 +1,7 @@
 ﻿local WAD = script:GetCustomProperty("Wad")
 local WAD_CAMERA_FOLLOW = script:GetCustomProperty("WadFollowCamera"):WaitForObject()
 local ITEMS = script:GetCustomProperty("Items"):WaitForObject()
+local UI_MANAGER = script:GetCustomProperty("UIManager")
 local UTILS = require(script:GetCustomProperty("Utils"))
 
 local clientPlayer = Game.GetLocalPlayer()

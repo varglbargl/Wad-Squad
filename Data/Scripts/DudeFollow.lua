@@ -16,11 +16,14 @@ function dudeFollowButOnTheGround()
   wadSize = WAD.clientUserData["Size"] or 1
   local myDudePosition = myDude:GetWorldPosition()
   local justAboveMyDude = myDudePosition + Vector3.UP * 100
-  local wayBelowMyDude = myDudePosition + Vector3.UP * -1000
+  local wayBelowMyDude = myDudePosition + Vector3.UP * -500 * wadSize
   local raycastBelowMyDude = World.Raycast(justAboveMyDude, wayBelowMyDude)
-  local groundHeightBelowMyDude = raycastBelowMyDude:GetImpactPosition()
 
-  myDude:SetWorldPosition(Vector3.New(myDudePosition.x, myDudePosition.y, groundHeightBelowMyDude.z))
+  if raycastBelowMyDude then
+    local groundHeightBelowMyDude = raycastBelowMyDude:GetImpactPosition()
+    myDude:SetWorldPosition(Vector3.New(myDudePosition.x, myDudePosition.y, groundHeightBelowMyDude.z))
+  end
+
   myDude:Follow(WAD, dudeSpeed, 120 * wadSize)
 
   Task.Wait()

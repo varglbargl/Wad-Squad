@@ -20,7 +20,7 @@
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
-            Float: 0.8
+            Float: 0.9
           }
           Overrides {
             Name: "cs:PickupSound"
@@ -50,7 +50,7 @@
             Id: 12095835209017042614
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
