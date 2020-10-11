@@ -68,13 +68,8 @@ function handleKeyRelease(player, keyCode)
 end
 
 function rollThatWad()
-  if impulseToApply.x == 0 and impulseToApply.y == 0 then
-    Task.Wait(delay)
-    Task.Spawn(function() rollThatWad() end)
-    return
-  end
-
-  -- local wadSize = WAD:GetCustomProperty("Size")
+  local wadSize = WAD.clientUserData["Size"]
+  local simulatedMass = Vector3.New(0, 0, wadSize * -1500  * delay)
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -87,17 +82,25 @@ function rollThatWad()
   cameraForward = Vector3.New(cameraForward.x, cameraForward.y, 0):GetNormalized()
   cameraRight = Vector3.New(cameraRight.x, cameraRight.y, 0):GetNormalized()
 
-  local forwardWadImpulse = cameraForward * impulseToApply.x
-  local lateralWadImpulse = cameraRight * impulseToApply.y
-  local combinedWadImpulse = forwardWadImpulse + lateralWadImpulse
-  local normalizedWadImpulse = combinedWadImpulse:GetNormalized()
-  local finalWadImpulse = normalizedWadImpulse * moveSpeed
+  local finalWadImpulse = nil
+  local finalWadTorque = nil
 
-  local forwardWadTorque = cameraRight * torqueToApply.y
-  local lateralWadTorque = cameraForward * torqueToApply.x
-  local combinedWadTorque = forwardWadTorque + lateralWadTorque
-  local normalizedWadTorque = combinedWadTorque:GetNormalized()
-  local finalWadTorque = normalizedWadTorque * moveSpeed / 3
+  if impulseToApply.x == 0 and impulseToApply.y == 0 then
+    finalWadImpulse = simulatedMass
+    finalWadTorque = Vector3.ZERO
+  else
+    local forwardWadImpulse = cameraForward * impulseToApply.x
+    local lateralWadImpulse = cameraRight * impulseToApply.y
+    local combinedWadImpulse = forwardWadImpulse + lateralWadImpulse
+    local normalizedWadImpulse = combinedWadImpulse:GetNormalized()
+    finalWadImpulse = normalizedWadImpulse * moveSpeed * (wadSize / 2) + simulatedMass
+
+    local forwardWadTorque = cameraRight * torqueToApply.y
+    local lateralWadTorque = cameraForward * torqueToApply.x
+    local combinedWadTorque = forwardWadTorque + lateralWadTorque
+    local normalizedWadTorque = combinedWadTorque:GetNormalized()
+    finalWadTorque = normalizedWadTorque * moveSpeed / 3
+  end
 
   -- TODO: Use this part to simulate increased mass proprtional to WAD Size
   WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, delay))
@@ -116,7 +119,7 @@ function issueWad(player)
   player.bindingPressedEvent:Connect(handleKeyPress)
   player.bindingReleasedEvent:Connect(handleKeyRelease)
 
-  rollThatWad()
+  Task.Spawn(rollThatWad)
 end
 
 function handleGrabberOverlap (trigger, object)
@@ -143,7 +146,7 @@ function handleGrabberOverlap (trigger, object)
       WAD:SetVelocity(WAD:GetVelocity() * -1)
       WAD:SetAngularVelocity(WAD:GetAngularVelocity() * -1)
       print(item.name .. " is too B I G H")
-      UTILS.playSoundEffect(BOUNCE_OFF_SOUND, WAD:GetWorldPosition())
+      UTILS.playSoundEffect(BOUNCE_OFF_SOUND)
     end
 
     if tooSmol then print(item.name .. " is too smol uwu") end
@@ -180,9 +183,9 @@ function handleGrabberOverlap (trigger, object)
       local pickupSound = clientItem:GetCustomProperty("PickupSound")
 
       if pickupSound then
-        UTILS.playSoundEffect(pickupSound, object:GetWorldPosition())
+        UTILS.playSoundEffect(pickupSound)
       else
-        UTILS.playSoundEffect(DEFAULT_PICKUP_SOUND, object:GetWorldPosition())
+        UTILS.playSoundEffect(DEFAULT_PICKUP_SOUND)
       end
     end
   end
