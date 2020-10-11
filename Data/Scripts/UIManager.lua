@@ -35,3 +35,22 @@ function displayItem(item)
   currentItem:SetRotation(Rotation.New(0, 10, 10))
   currentItem:RotateContinuous(Vector3.New(0, 0, -0.3))
 end
+
+local eyesClosed = UI3D:FindDescendantByName("Eyes Closed")
+local eyesOpen = UI3D:FindDescendantByName("Eyes Open")
+
+function sunBlink()
+  Task.Wait(6)
+
+  eyesOpen.visibility = Visibility.FORCE_OFF
+  eyesClosed.visibility = Visibility.INHERIT
+
+  Task.Wait(0.07)
+
+  eyesOpen.visibility = Visibility.INHERIT
+  eyesClosed.visibility = Visibility.FORCE_OFF
+
+  sunBlink()
+end
+
+Task.Spawn(sunBlink)

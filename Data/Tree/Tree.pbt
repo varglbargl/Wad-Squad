@@ -11162,6 +11162,7 @@ Objects {
   ChildIds: 16230482950761357726
   ChildIds: 3952633671825917702
   ChildIds: 3742113089321018776
+  ChildIds: 176403562823354935
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -11169,6 +11170,49 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   NetworkContext {
+  }
+}
+Objects {
+  Id: 176403562823354935
+  Name: "UI Container"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15969670120281364747
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Control {
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    Canvas {
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+    }
   }
 }
 Objects {
@@ -11716,8 +11760,8 @@ Objects {
   }
   ParentId: 13527862153672056912
   ChildIds: 12899167460670659459
-  ChildIds: 17011107233242186313
-  ChildIds: 3588212611858496787
+  ChildIds: 7224947113937714825
+  ChildIds: 10187634171046574578
   ChildIds: 16012961558552254470
   ChildIds: 12575967628793336173
   Collidable_v2 {
@@ -11768,7 +11812,7 @@ Objects {
     }
   }
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -11823,7 +11867,7 @@ Objects {
     }
   }
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -11841,13 +11885,40 @@ Objects {
   }
 }
 Objects {
-  Id: 3588212611858496787
-  Name: "Eye"
+  Id: 10187634171046574578
+  Name: "Eyes Closed"
+  Transform {
+    Location {
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4032468771767010962
+  ChildIds: 6126192051288560620
+  ChildIds: 18138240674199370710
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 18138240674199370710
+  Name: "Eye Closed"
   Transform {
     Location {
       X: -0.100097656
-      Y: 40
-      Z: 20
+      Y: -40
     }
     Rotation {
       Yaw: 89.9999695
@@ -11855,11 +11926,11 @@ Objects {
     }
     Scale {
       X: 0.3
-      Y: 0.3
-      Z: 0.3
+      Y: -0.3
+      Z: 0.01
     }
   }
-  ParentId: 4032468771767010962
+  ParentId: 10187634171046574578
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11878,7 +11949,143 @@ Objects {
     }
   }
   Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16971722803005799468
+    }
+    Teams {
+    }
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6126192051288560620
+  Name: "Eye Closed"
+  Transform {
+    Location {
+      X: -0.100097656
+      Y: 40
+    }
+    Rotation {
+      Yaw: 89.9999695
+      Roll: 89.9999542
+    }
+    Scale {
+      X: 0.3
+      Y: -0.3
+      Z: 0.01
+    }
+  }
+  ParentId: 10187634171046574578
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.9
+        G: 0.374802
+        B: 0.0278999619
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16971722803005799468
+    }
+    Teams {
+    }
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7224947113937714825
+  Name: "Eyes Open"
+  Transform {
+    Location {
+      Z: 20
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4032468771767010962
+  ChildIds: 17011107233242186313
+  ChildIds: 3588212611858496787
+  Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3588212611858496787
+  Name: "Eye Open"
+  Transform {
+    Location {
+      X: -0.100097656
+      Y: 40
+    }
+    Rotation {
+      Yaw: 89.9999695
+      Roll: 89.9999542
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 7224947113937714825
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.9
+        G: 0.374802
+        B: 0.0278999619
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -11897,12 +12104,11 @@ Objects {
 }
 Objects {
   Id: 17011107233242186313
-  Name: "Eye"
+  Name: "Eye Open"
   Transform {
     Location {
       X: -0.100097656
       Y: -40
-      Z: 20
     }
     Rotation {
       Yaw: 89.9999695
@@ -11914,7 +12120,7 @@ Objects {
       Z: 0.3
     }
   }
-  ParentId: 4032468771767010962
+  ParentId: 7224947113937714825
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11933,7 +12139,7 @@ Objects {
     }
   }
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -11986,7 +12192,7 @@ Objects {
     }
   }
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -12010,7 +12216,7 @@ Objects {
     Location {
       X: 10
       Y: -280
-      Z: 130
+      Z: 128
     }
     Rotation {
     }
@@ -12365,7 +12571,7 @@ Objects {
   ParentId: 15969670120281364747
   UnregisteredParameters {
     Overrides {
-      Name: "cs:UI"
+      Name: "cs:UI3D"
       ObjectReference {
         SelfId: 3742113089321018776
       }
@@ -12380,6 +12586,12 @@ Objects {
       Name: "cs:ItemDisplay"
       ObjectReference {
         SelfId: 3784316265355751940
+      }
+    }
+    Overrides {
+      Name: "cs:UI"
+      ObjectReference {
+        SelfId: 176403562823354935
       }
     }
   }
