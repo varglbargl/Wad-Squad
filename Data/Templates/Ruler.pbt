@@ -56,7 +56,7 @@
           Scale {
             X: 12
             Y: 1
-            Z: 0.2
+            Z: 0.15
           }
         }
         ParentId: 15580305852735903610
@@ -109,14 +109,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: -630
-            Z: 10
+            X: -630.054077
+            Y: 0.336675048
+            Z: 8.05468559
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -154,14 +155,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: -530
-            Z: 10
+            X: -530.05365
+            Y: 0.336806297
+            Z: 8.05465317
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -199,14 +201,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: -430
-            Z: 10
+            X: -430.055176
+            Y: 0.336727381
+            Z: 8.05458069
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -244,14 +247,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: -330
-            Z: 10
+            X: -330.054779
+            Y: 0.33683753
+            Z: 8.05467
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -289,14 +293,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: -230
-            Z: 10
+            X: -230.054337
+            Y: 0.336717725
+            Z: 8.05466
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -334,14 +339,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: -130
-            Z: 10
+            X: -130.053909
+            Y: 0.336838245
+            Z: 8.05468941
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -379,14 +385,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: -30
-            Z: 10
+            X: -30.053484
+            Y: 0.336718351
+            Z: 8.05467796
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -424,14 +431,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: 70
-            Z: 10
+            X: 69.9449921
+            Y: 0.336890817
+            Z: 8.05458641
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -469,14 +477,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: 170
-            Z: 10
+            X: 169.945419
+            Y: 0.336749852
+            Z: 8.05469418
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -514,14 +523,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: 250
-            Z: 10
+            X: 249.945755
+            Y: 0.336850107
+            Z: 8.05469513
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -559,14 +569,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: 270
-            Z: 10
+            X: 269.945831
+            Y: 0.336880922
+            Z: 8.05466461
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -604,14 +615,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: 350
-            Z: 10
+            X: 349.946198
+            Y: 0.336730361
+            Z: 8.05468273
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -649,14 +661,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: 370
-            Z: 10
+            X: 369.946259
+            Y: 0.336761236
+            Z: 8.05465317
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -694,14 +707,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: 450
-            Z: 10
+            X: 449.944641
+            Y: 0.336891
+            Z: 8.05465126
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }
@@ -739,14 +753,15 @@
         Name: "Decal Numbers and Symbols 01"
         Transform {
           Location {
-            X: 470
-            Z: 10
+            X: 469.944733
+            Y: 0.336682796
+            Z: 8.05457878
           }
           Rotation {
           }
           Scale {
-            X: 0.1
-            Y: 0.1
+            X: 0.08
+            Y: 0.08
             Z: 0.01
           }
         }

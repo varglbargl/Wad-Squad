@@ -158,6 +158,7 @@ function handleGrabberOverlap (trigger, object)
 
     if not tooBigh and not tooSmol then
       item.visibility = Visibility.FORCE_OFF
+      local realObjectPosition = item:GetWorldPosition()
       local clientItem = World.SpawnAsset(item.sourceTemplateId, {position = item:GetWorldPosition(), rotation = item:GetWorldRotation(), scale = item:GetWorldScale()})
 
       -- The big important part:
@@ -176,12 +177,13 @@ function handleGrabberOverlap (trigger, object)
       wadSize = wadSize + itemSize / 25
 
       -- old way of scaling the wad up
-      GRABBER:SetWorldScale(Vector3.ONE * wadSize)
+      GRABBER:SetWorldScale(Vector3.ONE * wadSize * 1.2)
       MESH:SetWorldScale(Vector3.ONE * wadSize)
 
       -- a thing i just wish wasn't broken
-      -- object:MoveTo(Vector3.Lerp(object:GetPosition(), WAD:GetPosition(), 0.1), 1, true)
-      -- object:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.25), 1)
+      -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)
+      -- clientItem:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.1))
+      UTILS.slideTowardsCenter(clientItem, WAD, 0.3, 40, 1)
 
       WAD.clientUserData["Size"] = wadSize
 

@@ -19,6 +19,7 @@
         ChildIds: 18434294550786052464
         ChildIds: 1491064629675841512
         ChildIds: 6180192702779927990
+        ChildIds: 2923576045290845656
         ChildIds: 13830460851608690043
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -55,7 +56,7 @@
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
+          Value: "mc:evisibilitysetting:forceon"
         }
         Folder {
           IsGroup: true
@@ -341,8 +342,8 @@
         Transform {
           Location {
             X: 10
-            Y: -278
-            Z: 118
+            Y: -235
+            Z: -105
           }
           Rotation {
           }
@@ -361,6 +362,58 @@
         }
         Folder {
           IsGroup: true
+        }
+      }
+      Objects {
+        Id: 2923576045290845656
+        Name: "Item Background"
+        Transform {
+          Location {
+            X: 50
+            Y: -265
+            Z: -125
+          }
+          Rotation {
+            Yaw: 89.9999695
+            Roll: 89.9999542
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3781350784924868256
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 11251994733772007315
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              A: 0.478000015
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 5478309032208899374
+          }
+          Teams {
+          }
+          StaticMesh {
+            Physics {
+            }
+          }
         }
       }
       Objects {
@@ -1352,6 +1405,15 @@
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_plane_circle_001"
+      }
+    }
+    Assets {
+      Id: 11251994733772007315
+      Name: "Invisible"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_invisible_001"
       }
     }
     Assets {

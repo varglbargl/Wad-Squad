@@ -32,4 +32,29 @@ function UTILS.playSoundEffect(sound, sfxPosition)
   sfx:Play()
 end
 
+function UTILS.slideTowardsCenter(object, targetObject, lerp, steps, time)
+
+  -- defaults
+  steps = steps or 10
+  time = time or 0.5
+  lerp = lerp or 0.2
+
+  lerp = lerp / steps
+  time = time / steps
+
+  local stepNumber = 0
+
+  function step()
+    object:SetWorldPosition(Vector3.Lerp(object:GetWorldPosition(), targetObject:GetWorldPosition(), lerp))
+    stepNumber = stepNumber + 1
+
+    if stepNumber < steps then
+      Task.Wait(time)
+      step()
+    end
+  end
+
+  Task.Spawn(step)
+end
+
 return UTILS
