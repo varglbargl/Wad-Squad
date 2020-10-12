@@ -377,6 +377,10 @@ Objects {
   ChildIds: 18083480664750714158
   ChildIds: 16827801930762892049
   ChildIds: 7694959343984885562
+  ChildIds: 6809647742806169782
+  ChildIds: 17324271807519836623
+  ChildIds: 1579764252028645994
+  ChildIds: 11086410401306048209
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -385,6 +389,308 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 11086410401306048209
+  Name: "Sand Castle"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13253915032246250060
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5876972781541718442
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Sand Castle"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 240
+            Y: 1395
+            Z: 635
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 30.0000267
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17436914956528204940
+    }
+  }
+}
+Objects {
+  Id: 1579764252028645994
+  Name: "Item - Water Gun"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13253915032246250060
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 11946753133872246056
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item - Water Gun"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2418.02344
+            Y: -2553.30957
+            Z: 862.29834
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -6.89868212
+            Yaw: 24.6830139
+            Roll: -83.4215317
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 16.7565956
+            Y: 3.9982245
+            Z: 5.48291874
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7107464797509613492
+    }
+  }
+}
+Objects {
+  Id: 17324271807519836623
+  Name: "Candy Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13253915032246250060
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8824066908579342221
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Candy Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3297.81836
+            Y: -562.426514
+            Z: 706.762085
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 1.91621625
+            Yaw: 0.899997354
+            Roll: 4.48057222
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 12484080340378440203
+    }
+  }
+}
+Objects {
+  Id: 6809647742806169782
+  Name: "Checker Board"
+  Transform {
+    Location {
+      X: 1490
+      Y: 1407.82544
+      Z: 630.383118
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13253915032246250060
+  ChildIds: 465195754231903081
+  ChildIds: 8627370482482858518
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8627370482482858518
+  Name: "Container - Square Thin 01"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 8.5
+      Y: 8.5
+      Z: 0.120177358
+    }
+  }
+  ParentId: 6809647742806169782
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4050437425243511619
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.384
+        G: 0.1551411
+        B: 0.057983987
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5141308867330199470
+    }
+    Teams {
+      TeamInt: 2
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 465195754231903081
+  Name: "Cube"
+  Transform {
+    Location {
+      Z: 6.75341797
+    }
+    Rotation {
+    }
+    Scale {
+      X: 8
+      Y: 8
+      Z: 0.1
+    }
+  }
+  ParentId: 6809647742806169782
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 2971947114929493625
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.8
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.8
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.53
+        G: 0.0315894186
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      TeamInt: 2
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
   }
 }
 Objects {
@@ -399,6 +705,32 @@ Objects {
   }
   ParentId: 13253915032246250060
   TemplateInstance {
+    ParameterOverrideMap {
+      key: 2795074267416020048
+      value {
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+        Overrides {
+          Name: "TeamsUseTeamColor"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.508
+            G: 0.0238759667
+            B: 0.0238759667
+            A: 1
+          }
+        }
+      }
+    }
     ParameterOverrideMap {
       key: 15580305852735903610
       value {
@@ -2707,6 +3039,8 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableCastShadows: true
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -4403,26 +4737,14 @@ Objects {
   }
   ParentId: 5889750697227244870
   ChildIds: 7918873598400975079
-  ChildIds: 2134820763970167618
-  ChildIds: 9706462141593596129
-  ChildIds: 11013239341579802618
-  ChildIds: 17084656995758458842
-  ChildIds: 5176167228366275666
+  ChildIds: 15181117703393781608
   ChildIds: 1462763862631299047
   ChildIds: 18378500637296493349
   ChildIds: 3642746188604673888
   ChildIds: 4230289196277075066
   ChildIds: 15270268861375473225
-  ChildIds: 16976569440815677428
-  ChildIds: 482779801380962266
-  ChildIds: 5384303840513652213
-  ChildIds: 18353124290864569511
-  ChildIds: 6768306411017677508
-  ChildIds: 14216905190256217800
-  ChildIds: 14328070562580784649
-  ChildIds: 2858699615823389039
-  ChildIds: 9502489241467524123
-  ChildIds: 9123221214710350186
+  ChildIds: 18100891060822925486
+  ChildIds: 6306463691027649471
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -4433,18 +4755,15 @@ Objects {
   }
 }
 Objects {
-  Id: 9123221214710350186
-  Name: "Thumb Tack"
+  Id: 6306463691027649471
+  Name: "Checkers"
   Transform {
     Location {
-      X: -19497.709
-      Y: -283.620728
-      Z: 662.296814
+      X: -14577.4375
+      Y: -2850.83838
+      Z: 581.948181
     }
     Rotation {
-      Pitch: 4.97271204
-      Yaw: 23.9676685
-      Roll: -49.0953064
     }
     Scale {
       X: 1
@@ -4453,9 +4772,30 @@ Objects {
     }
   }
   ParentId: 7085708660934895409
-  ChildIds: 332517873518404386
-  ChildIds: 13062689981773941500
-  ChildIds: 15893681134725926773
+  ChildIds: 14787363371496824111
+  ChildIds: 18140429171176365296
+  ChildIds: 13074817342399015474
+  ChildIds: 5554188825313550148
+  ChildIds: 4873680105507597416
+  ChildIds: 7820480403661404991
+  ChildIds: 15044371314260992666
+  ChildIds: 16609344438422854763
+  ChildIds: 4804601083027992061
+  ChildIds: 13573637017934936369
+  ChildIds: 14399209225298515612
+  ChildIds: 16948187162897690664
+  ChildIds: 18165674481544559514
+  ChildIds: 5263326517618297710
+  ChildIds: 14254016735784194623
+  ChildIds: 14177011067947676637
+  ChildIds: 13604736854598349182
+  ChildIds: 17849048406670950210
+  ChildIds: 6124941993545219361
+  ChildIds: 11936281545770653473
+  ChildIds: 15935084198616887457
+  ChildIds: 18348744731583820530
+  ChildIds: 5937374682629845462
+  ChildIds: 17737877517899211840
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4467,12 +4807,18 @@ Objects {
   }
 }
 Objects {
-  Id: 15893681134725926773
-  Name: "Item Mod - Random Color"
+  Id: 17737877517899211840
+  Name: "Checker"
   Transform {
     Location {
+      X: -98.1748047
+      Y: -475.275391
+      Z: 20.6525269
     }
     Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: 22.8531055
+      Roll: 47.6812248
     }
     Scale {
       X: 1
@@ -4480,145 +4826,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9123221214710350186
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 13062689981773941500
-  Name: "Item Sphere"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9123221214710350186
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.6
-            Y: 0.6
-            Z: 0.6
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 15137723699923080363
-            SubObjectId: 6240753930489299861
-            InstanceId: 332517873518404386
-            TemplateId: 5891855999558624785
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 332517873518404386
-  Name: "Thumb Tack"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9123221214710350186
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6240753930489299861
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Thumb Tack"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 5891855999558624785
-    }
-  }
-}
-Objects {
-  Id: 9502489241467524123
-  Name: "Thumb Tack"
-  Transform {
-    Location {
-      X: -19249.0527
-      Y: -283.620728
-      Z: 630.004211
-    }
-    Rotation {
-      Pitch: 68.9352112
-      Yaw: 158.131119
-      Roll: 57.218853
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7085708660934895409
-  ChildIds: 618009024096129470
-  ChildIds: 16960959894604578778
-  ChildIds: 17757921938815786870
+  ParentId: 6306463691027649471
+  ChildIds: 4294772872131651682
+  ChildIds: 5098858323289048028
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4630,35 +4840,8 @@ Objects {
   }
 }
 Objects {
-  Id: 17757921938815786870
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9502489241467524123
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 16960959894604578778
-  Name: "Item Sphere"
+  Id: 5098858323289048028
+  Name: "Item Box"
   Transform {
     Scale {
       X: 1
@@ -4666,47 +4849,42 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9502489241467524123
+  ParentId: 17737877517899211840
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Item Box"
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.6
-            Y: 0.6
-            Z: 0.6
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
           }
         }
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 10063237414905944187
-            SubObjectId: 6240753930489299861
-            InstanceId: 618009024096129470
-            TemplateId: 5891855999558624785
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
+            SelfId: 3061655553672339644
+            SubObjectId: 7045546202626448
+            InstanceId: 4294772872131651682
+            TemplateId: 17626820752394688301
           }
         }
       }
     }
     TemplateAsset {
-      Id: 4673312574059639203
+      Id: 16607685206915228970
     }
   }
 }
 Objects {
-  Id: 618009024096129470
-  Name: "Thumb Tack"
+  Id: 4294772872131651682
+  Name: "Black Checker"
   Transform {
     Scale {
       X: 1
@@ -4714,20 +4892,20 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9502489241467524123
+  ParentId: 17737877517899211840
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 7045546202626448
       value {
         Overrides {
           Name: "Name"
-          String: "Thumb Tack"
+          String: "Black Checker"
         }
         Overrides {
           Name: "Position"
@@ -4737,40 +4915,26 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
     }
     TemplateAsset {
-      Id: 5891855999558624785
+      Id: 17626820752394688301
     }
   }
 }
 Objects {
-  Id: 2858699615823389039
-  Name: "Thumb Tack"
+  Id: 5937374682629845462
+  Name: "Checker"
   Transform {
     Location {
-      X: -19090.1
-      Y: -283.620728
-      Z: 630.004211
+      X: -361.339844
+      Y: -569.012817
+      Z: 29.4785156
     }
     Rotation {
-      Pitch: 4.9722476
-      Yaw: 23.9694729
-      Roll: -90.5242615
+      Roll: 8.3150959
     }
     Scale {
       X: 1
@@ -4778,10 +4942,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7085708660934895409
-  ChildIds: 5538606866892909801
-  ChildIds: 12639516911837174626
-  ChildIds: 9955965756826133450
+  ParentId: 6306463691027649471
+  ChildIds: 6140891668277631507
+  ChildIds: 2291203230795168676
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4793,35 +4956,8 @@ Objects {
   }
 }
 Objects {
-  Id: 9955965756826133450
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2858699615823389039
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 12639516911837174626
-  Name: "Item Sphere"
+  Id: 2291203230795168676
+  Name: "Item Box"
   Transform {
     Scale {
       X: 1
@@ -4829,47 +4965,42 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2858699615823389039
+  ParentId: 5937374682629845462
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Item Box"
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.6
-            Y: 0.6
-            Z: 0.6
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
           }
         }
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 10748808406458242572
-            SubObjectId: 6240753930489299861
-            InstanceId: 5538606866892909801
-            TemplateId: 5891855999558624785
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
+            SelfId: 13529127673764195839
+            SubObjectId: 7045546202626448
+            InstanceId: 6140891668277631507
+            TemplateId: 17626820752394688301
           }
         }
       }
     }
     TemplateAsset {
-      Id: 4673312574059639203
+      Id: 16607685206915228970
     }
   }
 }
 Objects {
-  Id: 5538606866892909801
-  Name: "Thumb Tack"
+  Id: 6140891668277631507
+  Name: "Black Checker"
   Transform {
     Scale {
       X: 1
@@ -4877,7 +5008,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2858699615823389039
+  ParentId: 5937374682629845462
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4886,11 +5017,11 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 7045546202626448
       value {
         Overrides {
           Name: "Name"
-          String: "Thumb Tack"
+          String: "Black Checker"
         }
         Overrides {
           Name: "Position"
@@ -4900,40 +5031,28 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
     }
     TemplateAsset {
-      Id: 5891855999558624785
+      Id: 17626820752394688301
     }
   }
 }
 Objects {
-  Id: 14328070562580784649
-  Name: "Thumb Tack"
+  Id: 18348744731583820530
+  Name: "Checker"
   Transform {
     Location {
-      X: -18825
-      Y: -283.620728
-      Z: 630.004211
+      X: -375.532227
+      Y: -298.007324
+      Z: 13.4567871
     }
     Rotation {
-      Pitch: 4.88366032
-      Yaw: 42.39431
-      Roll: -88.9275818
+      Pitch: 45.3764915
+      Yaw: -1.21543098e-06
+      Roll: -28.5429058
     }
     Scale {
       X: 1
@@ -4941,10 +5060,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7085708660934895409
-  ChildIds: 50865193819261977
-  ChildIds: 6002765413937792540
-  ChildIds: 6005639126123751991
+  ParentId: 6306463691027649471
+  ChildIds: 569075358413488151
+  ChildIds: 6901669467215791561
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4956,35 +5074,8 @@ Objects {
   }
 }
 Objects {
-  Id: 6005639126123751991
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14328070562580784649
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 6002765413937792540
-  Name: "Item Sphere"
+  Id: 6901669467215791561
+  Name: "Item Box"
   Transform {
     Scale {
       X: 1
@@ -4992,47 +5083,42 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14328070562580784649
+  ParentId: 18348744731583820530
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Item Box"
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.6
-            Y: 0.6
-            Z: 0.6
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
           }
         }
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 9771914795308856842
-            SubObjectId: 6240753930489299861
-            InstanceId: 50865193819261977
-            TemplateId: 5891855999558624785
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
+            SelfId: 18208906463097797269
+            SubObjectId: 7045546202626448
+            InstanceId: 569075358413488151
+            TemplateId: 17626820752394688301
           }
         }
       }
     }
     TemplateAsset {
-      Id: 4673312574059639203
+      Id: 16607685206915228970
     }
   }
 }
 Objects {
-  Id: 50865193819261977
-  Name: "Thumb Tack"
+  Id: 569075358413488151
+  Name: "Black Checker"
   Transform {
     Scale {
       X: 1
@@ -5040,20 +5126,20 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14328070562580784649
+  ParentId: 18348744731583820530
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 7045546202626448
       value {
         Overrides {
           Name: "Name"
-          String: "Thumb Tack"
+          String: "Black Checker"
         }
         Overrides {
           Name: "Position"
@@ -5063,40 +5149,25 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
     }
     TemplateAsset {
-      Id: 5891855999558624785
+      Id: 17626820752394688301
     }
   }
 }
 Objects {
-  Id: 14216905190256217800
-  Name: "Thumb Tack"
+  Id: 15935084198616887457
+  Name: "Checker"
   Transform {
     Location {
-      X: -18825
-      Y: -3530.90796
-      Z: 603.588623
+      X: -249.469727
+      Y: -110.831543
+      Z: 11.0720215
     }
     Rotation {
-      Pitch: 0.00011611321
-      Yaw: -59.9996948
-      Roll: -94.9999695
     }
     Scale {
       X: 1
@@ -5104,10 +5175,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7085708660934895409
-  ChildIds: 8251467307146508706
-  ChildIds: 5610134962746949681
-  ChildIds: 7006124298274841614
+  ParentId: 6306463691027649471
+  ChildIds: 16927100937097964640
+  ChildIds: 5154987301155668025
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5119,35 +5189,8 @@ Objects {
   }
 }
 Objects {
-  Id: 7006124298274841614
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14216905190256217800
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 5610134962746949681
-  Name: "Item Sphere"
+  Id: 5154987301155668025
+  Name: "Item Box"
   Transform {
     Scale {
       X: 1
@@ -5155,47 +5198,42 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14216905190256217800
+  ParentId: 15935084198616887457
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Item Box"
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.6
-            Y: 0.6
-            Z: 0.6
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
           }
         }
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 6966194515957979737
-            SubObjectId: 6240753930489299861
-            InstanceId: 8251467307146508706
-            TemplateId: 5891855999558624785
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
+            SelfId: 6989282623429205262
+            SubObjectId: 7045546202626448
+            InstanceId: 16927100937097964640
+            TemplateId: 17626820752394688301
           }
         }
       }
     }
     TemplateAsset {
-      Id: 4673312574059639203
+      Id: 16607685206915228970
     }
   }
 }
 Objects {
-  Id: 8251467307146508706
-  Name: "Thumb Tack"
+  Id: 16927100937097964640
+  Name: "Black Checker"
   Transform {
     Scale {
       X: 1
@@ -5203,7 +5241,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14216905190256217800
+  ParentId: 15935084198616887457
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5212,11 +5250,11 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 7045546202626448
       value {
         Overrides {
           Name: "Name"
-          String: "Thumb Tack"
+          String: "Black Checker"
         }
         Overrides {
           Name: "Position"
@@ -5226,38 +5264,25 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
     }
     TemplateAsset {
-      Id: 5891855999558624785
+      Id: 17626820752394688301
     }
   }
 }
 Objects {
-  Id: 6768306411017677508
-  Name: "Thumb Tack"
+  Id: 11936281545770653473
+  Name: "Checker"
   Transform {
     Location {
-      X: -18015
-      Y: -3705.90796
-      Z: 654.501953
+      X: -150.933594
+      Y: -228.775146
+      Z: 11.0720215
     }
     Rotation {
-      Yaw: -125.000305
     }
     Scale {
       X: 1
@@ -5265,10 +5290,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7085708660934895409
-  ChildIds: 12814606447283026228
-  ChildIds: 7222475977270837441
-  ChildIds: 5122352850379224808
+  ParentId: 6306463691027649471
+  ChildIds: 15566548720065968540
+  ChildIds: 9939216190321895951
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5280,35 +5304,8 @@ Objects {
   }
 }
 Objects {
-  Id: 5122352850379224808
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6768306411017677508
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 7222475977270837441
-  Name: "Item Sphere"
+  Id: 9939216190321895951
+  Name: "Item Box"
   Transform {
     Scale {
       X: 1
@@ -5316,47 +5313,42 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6768306411017677508
+  ParentId: 11936281545770653473
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Item Box"
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.6
-            Y: 0.6
-            Z: 0.6
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
           }
         }
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 2028772221700711230
-            SubObjectId: 6240753930489299861
-            InstanceId: 12814606447283026228
-            TemplateId: 5891855999558624785
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
+            SelfId: 17748403006528848901
+            SubObjectId: 7045546202626448
+            InstanceId: 15566548720065968540
+            TemplateId: 17626820752394688301
           }
         }
       }
     }
     TemplateAsset {
-      Id: 4673312574059639203
+      Id: 16607685206915228970
     }
   }
 }
 Objects {
-  Id: 12814606447283026228
-  Name: "Thumb Tack"
+  Id: 15566548720065968540
+  Name: "Black Checker"
   Transform {
     Scale {
       X: 1
@@ -5364,7 +5356,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6768306411017677508
+  ParentId: 11936281545770653473
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5373,11 +5365,11 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 7045546202626448
       value {
         Overrides {
           Name: "Name"
-          String: "Thumb Tack"
+          String: "Black Checker"
         }
         Overrides {
           Name: "Position"
@@ -5387,35 +5379,23 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
     }
     TemplateAsset {
-      Id: 5891855999558624785
+      Id: 17626820752394688301
     }
   }
 }
 Objects {
-  Id: 18353124290864569511
-  Name: "Thumb Tack"
+  Id: 6124941993545219361
+  Name: "Checker"
   Transform {
     Location {
-      X: -18305
-      Y: -3705.90796
-      Z: 654.501953
+      X: -80.3564453
+      Y: -83.5426
+      Z: 11.0720215
     }
     Rotation {
     }
@@ -5425,10 +5405,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7085708660934895409
-  ChildIds: 18282268940217629516
-  ChildIds: 546857536648195942
-  ChildIds: 5773453279013378243
+  ParentId: 6306463691027649471
+  ChildIds: 1988269229186708028
+  ChildIds: 824531777464600313
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5440,35 +5419,8 @@ Objects {
   }
 }
 Objects {
-  Id: 5773453279013378243
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 18353124290864569511
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 546857536648195942
-  Name: "Item Sphere"
+  Id: 824531777464600313
+  Name: "Item Box"
   Transform {
     Scale {
       X: 1
@@ -5476,47 +5428,42 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18353124290864569511
+  ParentId: 6124941993545219361
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Item Box"
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.6
-            Y: 0.6
-            Z: 0.6
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
           }
         }
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 11191348241709377833
-            SubObjectId: 6240753930489299861
-            InstanceId: 18282268940217629516
-            TemplateId: 5891855999558624785
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
+            SelfId: 7177178557161945540
+            SubObjectId: 7045546202626448
+            InstanceId: 1988269229186708028
+            TemplateId: 17626820752394688301
           }
         }
       }
     }
     TemplateAsset {
-      Id: 4673312574059639203
+      Id: 16607685206915228970
     }
   }
 }
 Objects {
-  Id: 18282268940217629516
-  Name: "Thumb Tack"
+  Id: 1988269229186708028
+  Name: "Black Checker"
   Transform {
     Scale {
       X: 1
@@ -5524,7 +5471,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18353124290864569511
+  ParentId: 6124941993545219361
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5533,11 +5480,11 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 7045546202626448
       value {
         Overrides {
           Name: "Name"
-          String: "Thumb Tack"
+          String: "Black Checker"
         }
         Overrides {
           Name: "Position"
@@ -5547,38 +5494,25 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
     }
     TemplateAsset {
-      Id: 5891855999558624785
+      Id: 17626820752394688301
     }
   }
 }
 Objects {
-  Id: 5384303840513652213
-  Name: "Thumb Tack"
+  Id: 17849048406670950210
+  Name: "Checker"
   Transform {
     Location {
-      X: -18660
-      Y: -3705.90796
-      Z: 659.501953
+      X: 36.0585938
+      Y: -263.509277
+      Z: 11.0720215
     }
     Rotation {
-      Yaw: -74.9998169
     }
     Scale {
       X: 1
@@ -5586,10 +5520,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7085708660934895409
-  ChildIds: 583881775359383948
-  ChildIds: 11913216746304212665
-  ChildIds: 8165475181939672073
+  ParentId: 6306463691027649471
+  ChildIds: 11526189503027774031
+  ChildIds: 15013637582442235579
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5601,35 +5534,8 @@ Objects {
   }
 }
 Objects {
-  Id: 8165475181939672073
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5384303840513652213
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 11913216746304212665
-  Name: "Item Sphere"
+  Id: 15013637582442235579
+  Name: "Item Box"
   Transform {
     Scale {
       X: 1
@@ -5637,47 +5543,42 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5384303840513652213
+  ParentId: 17849048406670950210
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Item Box"
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.6
-            Y: 0.6
-            Z: 0.6
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
           }
         }
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 14232858263617691380
-            SubObjectId: 6240753930489299861
-            InstanceId: 583881775359383948
-            TemplateId: 5891855999558624785
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
+            SelfId: 15985392378593851864
+            SubObjectId: 7045546202626448
+            InstanceId: 11526189503027774031
+            TemplateId: 17626820752394688301
           }
         }
       }
     }
     TemplateAsset {
-      Id: 4673312574059639203
+      Id: 16607685206915228970
     }
   }
 }
 Objects {
-  Id: 583881775359383948
-  Name: "Thumb Tack"
+  Id: 11526189503027774031
+  Name: "Black Checker"
   Transform {
     Scale {
       X: 1
@@ -5685,7 +5586,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5384303840513652213
+  ParentId: 17849048406670950210
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5694,11 +5595,11 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 7045546202626448
       value {
         Overrides {
           Name: "Name"
-          String: "Thumb Tack"
+          String: "Black Checker"
         }
         Overrides {
           Name: "Position"
@@ -5708,35 +5609,23 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
     }
     TemplateAsset {
-      Id: 5891855999558624785
+      Id: 17626820752394688301
     }
   }
 }
 Objects {
-  Id: 482779801380962266
-  Name: "Thumb Tack"
+  Id: 13604736854598349182
+  Name: "Checker"
   Transform {
     Location {
-      X: -19095
-      Y: -3705.90796
-      Z: 649.501953
+      X: 134.794922
+      Y: -359.442505
+      Z: 11.0720215
     }
     Rotation {
     }
@@ -5746,10 +5635,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7085708660934895409
-  ChildIds: 7198724904911920811
-  ChildIds: 14225703790340820832
-  ChildIds: 5042330904587976820
+  ParentId: 6306463691027649471
+  ChildIds: 18187802734383439407
+  ChildIds: 14406437371846918249
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5761,35 +5649,8 @@ Objects {
   }
 }
 Objects {
-  Id: 5042330904587976820
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 482779801380962266
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 14225703790340820832
-  Name: "Item Sphere"
+  Id: 14406437371846918249
+  Name: "Item Box"
   Transform {
     Scale {
       X: 1
@@ -5797,47 +5658,42 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 482779801380962266
+  ParentId: 13604736854598349182
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Item Box"
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.6
-            Y: 0.6
-            Z: 0.6
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
           }
         }
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 5734140098351923644
-            SubObjectId: 6240753930489299861
-            InstanceId: 7198724904911920811
-            TemplateId: 5891855999558624785
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
+            SelfId: 5464161353433348009
+            SubObjectId: 7045546202626448
+            InstanceId: 18187802734383439407
+            TemplateId: 17626820752394688301
           }
         }
       }
     }
     TemplateAsset {
-      Id: 4673312574059639203
+      Id: 16607685206915228970
     }
   }
 }
 Objects {
-  Id: 7198724904911920811
-  Name: "Thumb Tack"
+  Id: 18187802734383439407
+  Name: "Black Checker"
   Transform {
     Scale {
       X: 1
@@ -5845,7 +5701,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 482779801380962266
+  ParentId: 13604736854598349182
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5854,11 +5710,11 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 7045546202626448
       value {
         Overrides {
           Name: "Name"
-          String: "Thumb Tack"
+          String: "Black Checker"
         }
         Overrides {
           Name: "Position"
@@ -5868,37 +5724,25 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
     }
     TemplateAsset {
-      Id: 5891855999558624785
+      Id: 17626820752394688301
     }
   }
 }
 Objects {
-  Id: 16976569440815677428
-  Name: "Thumb Tack"
+  Id: 14177011067947676637
+  Name: "Checker"
   Transform {
     Location {
-      X: -18895
-      Y: -3705.90796
-      Z: 654.501953
+      X: 331.980469
+      Y: -399.150024
     }
     Rotation {
+      Roll: -38.8758354
     }
     Scale {
       X: 1
@@ -5906,10 +5750,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7085708660934895409
-  ChildIds: 12068917767359433711
-  ChildIds: 502130845835851584
-  ChildIds: 10339860803836225994
+  ParentId: 6306463691027649471
+  ChildIds: 13048283731440310369
+  ChildIds: 99360839341452800
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5921,35 +5764,8 @@ Objects {
   }
 }
 Objects {
-  Id: 10339860803836225994
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16976569440815677428
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 502130845835851584
-  Name: "Item Sphere"
+  Id: 99360839341452800
+  Name: "Item Box"
   Transform {
     Scale {
       X: 1
@@ -5957,47 +5773,42 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16976569440815677428
+  ParentId: 14177011067947676637
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Item Box"
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.6
-            Y: 0.6
-            Z: 0.6
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
           }
         }
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 12414057255409642326
-            SubObjectId: 6240753930489299861
-            InstanceId: 12068917767359433711
-            TemplateId: 5891855999558624785
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
+            SelfId: 14202980496198281595
+            SubObjectId: 7045546202626448
+            InstanceId: 13048283731440310369
+            TemplateId: 17626820752394688301
           }
         }
       }
     }
     TemplateAsset {
-      Id: 4673312574059639203
+      Id: 16607685206915228970
     }
   }
 }
 Objects {
-  Id: 12068917767359433711
-  Name: "Thumb Tack"
+  Id: 13048283731440310369
+  Name: "Black Checker"
   Transform {
     Scale {
       X: 1
@@ -6005,20 +5816,20 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16976569440815677428
+  ParentId: 14177011067947676637
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 7045546202626448
       value {
         Overrides {
           Name: "Name"
-          String: "Thumb Tack"
+          String: "Black Checker"
         }
         Overrides {
           Name: "Position"
@@ -6028,25 +5839,1870 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
     }
     TemplateAsset {
-      Id: 5891855999558624785
+      Id: 17626820752394688301
     }
+  }
+}
+Objects {
+  Id: 14254016735784194623
+  Name: "Checker"
+  Transform {
+    Location {
+      X: 298.152344
+      Y: -206.970215
+      Z: 11.0720215
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 14530447411011993944
+  ChildIds: 15196134540714680588
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15196134540714680588
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14254016735784194623
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 5243393638477692287
+            SubObjectId: 7045546202626448
+            InstanceId: 14530447411011993944
+            TemplateId: 17626820752394688301
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 14530447411011993944
+  Name: "Black Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14254016735784194623
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Black Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17626820752394688301
+    }
+  }
+}
+Objects {
+  Id: 5263326517618297710
+  Name: "Checker"
+  Transform {
+    Location {
+      X: 191.116211
+      Y: -145.494873
+      Z: 11.0720215
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 8862113934504392259
+  ChildIds: 17741303819053520138
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17741303819053520138
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5263326517618297710
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 9310472738619225147
+            SubObjectId: 7045546202626448
+            InstanceId: 8862113934504392259
+            TemplateId: 17626820752394688301
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 8862113934504392259
+  Name: "Black Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5263326517618297710
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Black Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17626820752394688301
+    }
+  }
+}
+Objects {
+  Id: 18165674481544559514
+  Name: "Checker"
+  Transform {
+    Location {
+      X: 438.473633
+      Y: -67.6981201
+      Z: 11.0720215
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 9998267463958743099
+  ChildIds: 13006335359163767824
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 13006335359163767824
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18165674481544559514
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 1045485854856250073
+            SubObjectId: 7045546202626448
+            InstanceId: 9998267463958743099
+            TemplateId: 17626820752394688301
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 9998267463958743099
+  Name: "Black Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18165674481544559514
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Black Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: -10.4416504
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -14.7900696
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17626820752394688301
+    }
+  }
+}
+Objects {
+  Id: 16948187162897690664
+  Name: "Checker"
+  Transform {
+    Location {
+      X: 264.101563
+      Y: 388.95105
+      Z: 11.0719604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 13002740166296254434
+  ChildIds: 12973124180498788055
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 12973124180498788055
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16948187162897690664
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 3374234067306609370
+            SubObjectId: 7045546202626448
+            InstanceId: 13002740166296254434
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 13002740166296254434
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16948187162897690664
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 14399209225298515612
+  Name: "Checker"
+  Transform {
+    Location {
+      X: 60.1513672
+      Y: 484.468323
+      Z: 4.63635254
+    }
+    Rotation {
+      Roll: 17.2917824
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 556623962532613429
+  ChildIds: 6156151241144146825
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 6156151241144146825
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14399209225298515612
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 8656774823128497947
+            SubObjectId: 7045546202626448
+            InstanceId: 556623962532613429
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 556623962532613429
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14399209225298515612
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 13573637017934936369
+  Name: "Checker"
+  Transform {
+    Location {
+      X: -113.25
+      Y: 413.546082
+      Z: 11.0719604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 2436724042500201728
+  ChildIds: 2909206730022320879
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2909206730022320879
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13573637017934936369
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 4105553204613677579
+            SubObjectId: 7045546202626448
+            InstanceId: 2436724042500201728
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 2436724042500201728
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13573637017934936369
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 4804601083027992061
+  Name: "Checker"
+  Transform {
+    Location {
+      X: -360.613281
+      Y: 395.375671
+      Z: 11.0719604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 14971507774333845164
+  ChildIds: 8591956117198795765
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8591956117198795765
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4804601083027992061
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 10462980480253985647
+            SubObjectId: 7045546202626448
+            InstanceId: 14971507774333845164
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 14971507774333845164
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4804601083027992061
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 16609344438422854763
+  Name: "Checker"
+  Transform {
+    Location {
+      X: -338.708984
+      Y: 178.581177
+      Z: 11.0719604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 9599828353084834055
+  ChildIds: 16490090056850819850
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16490090056850819850
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16609344438422854763
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 7656478788915464342
+            SubObjectId: 7045546202626448
+            InstanceId: 9599828353084834055
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 9599828353084834055
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16609344438422854763
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 15044371314260992666
+  Name: "Checker"
+  Transform {
+    Location {
+      X: -41.0927734
+      Y: 92.8143311
+      Z: 11.0719604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 12083596757915750305
+  ChildIds: 2404011781048786116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2404011781048786116
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15044371314260992666
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 14751620030593922730
+            SubObjectId: 7045546202626448
+            InstanceId: 12083596757915750305
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 12083596757915750305
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15044371314260992666
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 7820480403661404991
+  Name: "Checker"
+  Transform {
+    Location {
+      X: 53.0214844
+      Y: -10.7193604
+      Z: 11.0719604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 11575239012446724575
+  ChildIds: 4233965432972917399
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 4233965432972917399
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7820480403661404991
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 13202414718440209181
+            SubObjectId: 7045546202626448
+            InstanceId: 11575239012446724575
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 11575239012446724575
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7820480403661404991
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 4873680105507597416
+  Name: "Checker"
+  Transform {
+    Location {
+      X: 248.839844
+      Y: 198.966675
+      Z: 11.0719604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 12609478862854495607
+  ChildIds: 16597451430284463724
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16597451430284463724
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4873680105507597416
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 14349623538356987815
+            SubObjectId: 7045546202626448
+            InstanceId: 12609478862854495607
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 12609478862854495607
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4873680105507597416
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 5554188825313550148
+  Name: "Checker"
+  Transform {
+    Location {
+      X: 352.882813
+      Y: 279.409424
+      Z: 11.0719604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 11741697334426172089
+  ChildIds: 7166957086433633095
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 7166957086433633095
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5554188825313550148
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 17764023608601287187
+            SubObjectId: 7045546202626448
+            InstanceId: 11741697334426172089
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 11741697334426172089
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5554188825313550148
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 13074817342399015474
+  Name: "Checker"
+  Transform {
+    Location {
+      X: 55.0439453
+      Y: 194.641479
+      Z: 11.0719604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 13154858115157015484
+  ChildIds: 87501587674768897
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 87501587674768897
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13074817342399015474
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 2341938188041881682
+            SubObjectId: 7045546202626448
+            InstanceId: 13154858115157015484
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 13154858115157015484
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13074817342399015474
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 18140429171176365296
+  Name: "Checker"
+  Transform {
+    Location {
+      X: -247.5625
+      Y: 295.838257
+      Z: 11.0719604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 6119188707244453060
+  ChildIds: 9075307598876145448
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 9075307598876145448
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18140429171176365296
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 6411484467533987877
+            SubObjectId: 7045546202626448
+            InstanceId: 6119188707244453060
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 6119188707244453060
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18140429171176365296
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 14787363371496824111
+  Name: "Checker"
+  Transform {
+    Location {
+      X: -47.5625
+      Y: 295.838257
+      Z: 11.0719604
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6306463691027649471
+  ChildIds: 16552575201608767012
+  ChildIds: 13021412339339379786
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 13021412339339379786
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14787363371496824111
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 5894527775126157026
+            SubObjectId: 7045546202626448
+            InstanceId: 16552575201608767012
+            TemplateId: 16124975530223691095
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 16552575201608767012
+  Name: "Red Checker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14787363371496824111
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7045546202626448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Red Checker"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "TeamsTeam"
+          Int: 2
+        }
+        Overrides {
+          Name: "TeamsEnableTeamCollision"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16124975530223691095
+    }
+  }
+}
+Objects {
+  Id: 18100891060822925486
+  Name: "Tacks"
+  Transform {
+    Location {
+      X: -18840
+      Y: -2445
+      Z: 605
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7085708660934895409
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Tacks"
   }
 }
 Objects {
@@ -6331,12 +7987,12 @@ Objects {
   }
 }
 Objects {
-  Id: 5176167228366275666
-  Name: "Spinning Gem"
+  Id: 15181117703393781608
+  Name: "Gems"
   Transform {
     Location {
-      X: -17000
-      Y: -4550
+      X: -16570
+      Y: -4035
       Z: 635
     }
     Rotation {
@@ -6348,10 +8004,6 @@ Objects {
     }
   }
   ParentId: 7085708660934895409
-  ChildIds: 10225962928581513651
-  ChildIds: 319244210917520040
-  ChildIds: 11404809717897282936
-  ChildIds: 10605759545798921722
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6359,968 +8011,8 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 10605759545798921722
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5176167228366275666
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Item"
-      ObjectReference {
-        SelfId: 12173797406086811337
-        SubObjectId: 907499025761674707
-        InstanceId: 10225962928581513651
-        TemplateId: 7689985846127649439
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 11404809717897282936
-  Name: "Item Mod - Rotate"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5176167228366275666
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 1810430461882432351
-    }
-  }
-}
-Objects {
-  Id: 319244210917520040
-  Name: "Item"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5176167228366275666
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Sphere"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: -5
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 12173797406086811337
-            SubObjectId: 907499025761674707
-            InstanceId: 10225962928581513651
-            TemplateId: 7689985846127649439
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 10225962928581513651
-  Name: "Precious Gem"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5176167228366275666
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 907499025761674707
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Precious Gem"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7689985846127649439
-    }
-  }
-}
-Objects {
-  Id: 17084656995758458842
-  Name: "Spinning Gem"
-  Transform {
-    Location {
-      X: -17000
-      Y: -4775
-      Z: 635
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7085708660934895409
-  ChildIds: 13785289304550100301
-  ChildIds: 17304982931863736046
-  ChildIds: 15335829968752855962
-  ChildIds: 1756597273774077365
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 1756597273774077365
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17084656995758458842
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Item"
-      ObjectReference {
-        SelfId: 13198740731638221382
-        SubObjectId: 907499025761674707
-        InstanceId: 13785289304550100301
-        TemplateId: 7689985846127649439
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 15335829968752855962
-  Name: "Item Mod - Rotate"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17084656995758458842
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 1810430461882432351
-    }
-  }
-}
-Objects {
-  Id: 17304982931863736046
-  Name: "Item"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17084656995758458842
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Sphere"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: -5
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 13198740731638221382
-            SubObjectId: 907499025761674707
-            InstanceId: 13785289304550100301
-            TemplateId: 7689985846127649439
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 13785289304550100301
-  Name: "Diamond"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17084656995758458842
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 907499025761674707
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Precious Gem"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7689985846127649439
-    }
-  }
-}
-Objects {
-  Id: 11013239341579802618
-  Name: "Spinning Gem"
-  Transform {
-    Location {
-      X: -17000
-      Y: -5000
-      Z: 635
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7085708660934895409
-  ChildIds: 13578883107843846683
-  ChildIds: 8656953546347751761
-  ChildIds: 11343949226405244551
-  ChildIds: 448914677617348889
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 448914677617348889
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11013239341579802618
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Item"
-      ObjectReference {
-        SelfId: 1517052911995602925
-        SubObjectId: 907499025761674707
-        InstanceId: 13578883107843846683
-        TemplateId: 7689985846127649439
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 11343949226405244551
-  Name: "Item Mod - Rotate"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11013239341579802618
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 1810430461882432351
-    }
-  }
-}
-Objects {
-  Id: 8656953546347751761
-  Name: "Item"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11013239341579802618
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Sphere"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: -5
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 1517052911995602925
-            SubObjectId: 907499025761674707
-            InstanceId: 13578883107843846683
-            TemplateId: 7689985846127649439
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 13578883107843846683
-  Name: "Diamond"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11013239341579802618
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 907499025761674707
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Precious Gem"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7689985846127649439
-    }
-  }
-}
-Objects {
-  Id: 9706462141593596129
-  Name: "Spinning Gem"
-  Transform {
-    Location {
-      X: -17000
-      Y: -5250
-      Z: 635
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7085708660934895409
-  ChildIds: 16058377235891550416
-  ChildIds: 6646041898791419533
-  ChildIds: 17827351913296464938
-  ChildIds: 1523222311078623692
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 1523222311078623692
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9706462141593596129
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Item"
-      ObjectReference {
-        SelfId: 15136859338096997584
-        SubObjectId: 907499025761674707
-        InstanceId: 16058377235891550416
-        TemplateId: 7689985846127649439
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 17827351913296464938
-  Name: "Item Mod - Rotate"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9706462141593596129
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 1810430461882432351
-    }
-  }
-}
-Objects {
-  Id: 6646041898791419533
-  Name: "Item"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9706462141593596129
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Sphere"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: -5
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 15136859338096997584
-            SubObjectId: 907499025761674707
-            InstanceId: 16058377235891550416
-            TemplateId: 7689985846127649439
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 16058377235891550416
-  Name: "Diamond"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9706462141593596129
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 907499025761674707
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Precious Gem"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7689985846127649439
-    }
-  }
-}
-Objects {
-  Id: 2134820763970167618
-  Name: "Spinning Gem"
-  Transform {
-    Location {
-      X: -17000
-      Y: -5500
-      Z: 635
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7085708660934895409
-  ChildIds: 62891076359961030
-  ChildIds: 7726069375689001832
-  ChildIds: 11412590719668229161
-  ChildIds: 8737256497837879861
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 8737256497837879861
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2134820763970167618
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Item"
-      ObjectReference {
-        SelfId: 14222979262152362698
-        SubObjectId: 907499025761674707
-        InstanceId: 62891076359961030
-        TemplateId: 7689985846127649439
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 11412590719668229161
-  Name: "Item Mod - Rotate"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2134820763970167618
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 1810430461882432351
-    }
-  }
-}
-Objects {
-  Id: 7726069375689001832
-  Name: "Item"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2134820763970167618
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Sphere"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: -5
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 14222979262152362698
-            SubObjectId: 907499025761674707
-            InstanceId: 62891076359961030
-            TemplateId: 7689985846127649439
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 62891076359961030
-  Name: "Diamond"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2134820763970167618
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 907499025761674707
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Precious Gem"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7689985846127649439
-    }
+    IsFilePartition: true
+    FilePartitionName: "Gems"
   }
 }
 Objects {
@@ -7544,7 +8236,6 @@ Objects {
     TeamSettings {
     }
     AudioBP {
-      AutoPlay: true
       Repeat: true
       Pitch: 400
       Volume: 1
@@ -7695,10 +8386,10 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Control {
-    Width: 250
-    Height: 80
-    UIX: 25
-    UIY: 105.629639
+    Width: 296
+    Height: 122
+    UIX: 13.773592
+    UIY: 64.4527588
     RenderTransformPivot {
       Anchor {
         Value: "mc:euianchor:middlecenter"
@@ -7742,7 +8433,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Control {
-    Width: 200
+    Width: 209
     Height: 341
     RenderTransformPivot {
       Anchor {

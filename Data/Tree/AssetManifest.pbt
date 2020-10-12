@@ -296,6 +296,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5141308867330199470
+  Name: "Container - Square Thin 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_container_square_thin_ref"
+  }
+}
+Assets {
   Id: 4691692031683937777
   Name: "Pipe - Half Thin"
   PlatformAssetType: 1
@@ -338,6 +347,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prism_hexagon_001"
+  }
+}
+Assets {
+  Id: 2971947114929493625
+  Name: "Ceramic Tiles Square 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_ceramic_tile_square_001"
   }
 }
 Assets {

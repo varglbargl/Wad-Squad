@@ -17,8 +17,8 @@ local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 -- local ORB = script:GetCustomProperty("Orb")
 
 local delay = 0.1
-local moveSpeed = 15000 * delay
-local gravityForce = -1800
+local moveSpeed = 10000 * delay
+local gravityForce = 3000
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
@@ -72,8 +72,8 @@ function handleKeyRelease(player, keyCode)
 end
 
 function rollThatWad()
-  local wadSize = WAD.clientUserData["Size"]
-  local simulatedMass = Vector3.New(0, 0, (wadSize - 1) * gravityForce * delay)
+  local wadSize = WAD.clientUserData["Size"] or 1
+  local simulatedMass = Vector3.New(0, 0, (wadSize - 1) * -gravityForce * delay)
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -97,18 +97,19 @@ function rollThatWad()
     local lateralWadImpulse = cameraRight * impulseToApply.y
     local combinedWadImpulse = forwardWadImpulse + lateralWadImpulse
     local normalizedWadImpulse = combinedWadImpulse:GetNormalized()
-    finalWadImpulse = normalizedWadImpulse * moveSpeed * (wadSize / 2) + simulatedMass
+    local sizeAdjustment = normalizedWadImpulse * wadSize
+    finalWadImpulse = normalizedWadImpulse * moveSpeed + sizeAdjustment + simulatedMass
 
     local forwardWadTorque = cameraRight * torqueToApply.y
     local lateralWadTorque = cameraForward * torqueToApply.x
     local combinedWadTorque = forwardWadTorque + lateralWadTorque
     local normalizedWadTorque = combinedWadTorque:GetNormalized()
-    finalWadTorque = normalizedWadTorque * moveSpeed / 4 / (((wadSize - 1 ) / 2) + 1)
+    finalWadTorque = normalizedWadTorque * moveSpeed / 3.5
   end
 
   -- TODO: Use this part to simulate increased mass proprtional to WAD Size
   WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, delay))
-  WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, delay * 3))
+  WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, delay * 5))
 
   Task.Wait(delay)
 
@@ -160,6 +161,7 @@ function handleGrabberOverlap (trigger, object)
       item.visibility = Visibility.FORCE_OFF
       local realObjectPosition = item:GetWorldPosition()
       local clientItem = World.SpawnAsset(item.sourceTemplateId, {position = item:GetWorldPosition(), rotation = item:GetWorldRotation(), scale = item:GetWorldScale()})
+      clientItem.collision = item.collision
 
       -- The big important part:
       clientItem.parent = WAD
@@ -177,13 +179,13 @@ function handleGrabberOverlap (trigger, object)
       wadSize = wadSize + itemSize / 25
 
       -- old way of scaling the wad up
-      GRABBER:SetWorldScale(Vector3.ONE * wadSize * 1.2)
+      GRABBER:SetWorldScale(Vector3.ONE * wadSize * 1.25)
       MESH:SetWorldScale(Vector3.ONE * wadSize)
 
       -- a thing i just wish wasn't broken
       -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)
       -- clientItem:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.1))
-      UTILS.lerpNSlurp(clientItem, WAD, 0.3, 40, 1)
+      UTILS.lerpNSlurp(clientItem, WAD, 0.35, 40, 0.7)
 
       WAD.clientUserData["Size"] = wadSize
 
