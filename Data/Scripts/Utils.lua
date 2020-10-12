@@ -32,7 +32,7 @@ function UTILS.playSoundEffect(sound, sfxPosition)
   sfx:Play()
 end
 
-function UTILS.slideTowardsCenter(object, targetObject, lerp, steps, time)
+function UTILS.lerpNSlurp(object, targetObject, lerp, steps, time)
 
   -- defaults
   steps = steps or 10

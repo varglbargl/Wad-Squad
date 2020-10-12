@@ -7696,9 +7696,9 @@ Objects {
   }
   Control {
     Width: 250
-    Height: 65
+    Height: 80
     UIX: 25
-    UIY: 220
+    UIY: 105.629639
     RenderTransformPivot {
       Anchor {
         Value: "mc:euianchor:middlecenter"
@@ -7743,8 +7743,7 @@ Objects {
   }
   Control {
     Width: 200
-    Height: 60
-    UIY: 15
+    Height: 341
     RenderTransformPivot {
       Anchor {
         Value: "mc:euianchor:middlecenter"
@@ -7760,7 +7759,7 @@ Objects {
         B: 1
         A: 1
       }
-      Size: 30
+      Size: 40
       Justification {
         Value: "mc:etextjustify:center"
       }

@@ -18,7 +18,7 @@ local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 
 local delay = 0.1
 local moveSpeed = 15000 * delay
-local gravityForce = -1600
+local gravityForce = -1800
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
@@ -103,7 +103,7 @@ function rollThatWad()
     local lateralWadTorque = cameraForward * torqueToApply.x
     local combinedWadTorque = forwardWadTorque + lateralWadTorque
     local normalizedWadTorque = combinedWadTorque:GetNormalized()
-    finalWadTorque = normalizedWadTorque * moveSpeed / 5
+    finalWadTorque = normalizedWadTorque * moveSpeed / 4 / (((wadSize - 1 ) / 2) + 1)
   end
 
   -- TODO: Use this part to simulate increased mass proprtional to WAD Size
@@ -183,7 +183,7 @@ function handleGrabberOverlap (trigger, object)
       -- a thing i just wish wasn't broken
       -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)
       -- clientItem:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.1))
-      UTILS.slideTowardsCenter(clientItem, WAD, 0.3, 40, 1)
+      UTILS.lerpNSlurp(clientItem, WAD, 0.3, 40, 1)
 
       WAD.clientUserData["Size"] = wadSize
 
