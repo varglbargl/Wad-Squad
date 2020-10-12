@@ -17,7 +17,7 @@ local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 -- local ORB = script:GetCustomProperty("Orb")
 
 local delay = 0.1
-local moveSpeed = 12500 * delay
+local moveSpeed = 15000 * delay
 local gravityForce = -1600
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
@@ -103,7 +103,7 @@ function rollThatWad()
     local lateralWadTorque = cameraForward * torqueToApply.x
     local combinedWadTorque = forwardWadTorque + lateralWadTorque
     local normalizedWadTorque = combinedWadTorque:GetNormalized()
-    finalWadTorque = normalizedWadTorque * moveSpeed / 4
+    finalWadTorque = normalizedWadTorque * moveSpeed / 5
   end
 
   -- TODO: Use this part to simulate increased mass proprtional to WAD Size
@@ -162,7 +162,6 @@ function handleGrabberOverlap (trigger, object)
 
       -- The big important part:
       clientItem.parent = WAD
-      UI_MANAGER.context.displayItem(item)
 
       local itemColor = item.clientUserData["Color"]
 
@@ -185,6 +184,9 @@ function handleGrabberOverlap (trigger, object)
       -- object:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.25), 1)
 
       WAD.clientUserData["Size"] = wadSize
+
+      -- Update the UI with new item and size
+      UI_MANAGER.context.pickedUpItem(item, WAD)
 
       local pickupSound = clientItem:GetCustomProperty("PickupSound")
 

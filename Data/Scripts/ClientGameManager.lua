@@ -25,7 +25,7 @@ function handleJoined(player)
 
   Task.Spawn(function() tellServerAboutWad() end)
 
-  regenerateAllItems()
+  -- regenerateAllItems()
 end
 
 function handleLeft(player)

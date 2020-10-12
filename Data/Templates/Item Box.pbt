@@ -20,10 +20,6 @@
           Overrides {
             Name: "cs:Pickup"
             ObjectReference {
-              SelfId: 13766252478728269949
-              SubObjectId: 2927526047626853448
-              InstanceId: 12209272014118790364
-              TemplateId: 11050752117790028570
             }
           }
           Overrides {

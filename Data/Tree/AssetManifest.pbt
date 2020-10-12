@@ -80,15 +80,6 @@ Assets {
   }
 }
 Assets {
-  Id: 15630407453958386561
-  Name: "Plane Hexagon - One Sided"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_plane_hexagon_001"
-  }
-}
-Assets {
   Id: 14811576902580597152
   Name: "Craftsman Chair 01"
   PlatformAssetType: 1
@@ -140,24 +131,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_002"
-  }
-}
-Assets {
-  Id: 12827530473249900764
-  Name: "Opaque Emissive"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxma_opaque_emissive"
-  }
-}
-Assets {
-  Id: 12555474849595239543
-  Name: "Plane Triangle - One Sided Right"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_plane_triangle_002"
   }
 }
 Assets {
@@ -305,15 +278,6 @@ Assets {
   }
 }
 Assets {
-  Id: 6569324299572531638
-  Name: "Plane Triangle - One Sided Isosceles"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_plane_triangle_001"
-  }
-}
-Assets {
   Id: 5889849021351536779
   Name: "Cylinder - Chamfered"
   PlatformAssetType: 1
@@ -329,24 +293,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_grass_generic_001"
-  }
-}
-Assets {
-  Id: 5555060723648672915
-  Name: "Plane Trapezoid - One Sided"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_plane_trapezoid_001"
-  }
-}
-Assets {
-  Id: 5478309032208899374
-  Name: "Plane Circle - One Sided"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_plane_circle_001"
   }
 }
 Assets {
