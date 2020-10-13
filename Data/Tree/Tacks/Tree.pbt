@@ -1,6 +1,821 @@
 ﻿Name: "Tacks"
 RootId: 18100891060822925486
 Objects {
+  Id: 9223766017462995056
+  Name: "Thumb Tack"
+  Transform {
+    Location {
+      X: 6203.87402
+      Y: -3976.62793
+      Z: 226.735718
+    }
+    Rotation {
+      Pitch: -4.37005615
+      Yaw: -65.648407
+      Roll: -44.8425293
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18100891060822925486
+  ChildIds: 12993494355809409241
+  ChildIds: 16703027408588284076
+  ChildIds: 12306326071188970240
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 12306326071188970240
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9223766017462995056
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 16703027408588284076
+  Name: "Item Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9223766017462995056
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.6
+            Y: 0.6
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 8902354753068083667
+            SubObjectId: 6240753930489299861
+            InstanceId: 12993494355809409241
+            TemplateId: 5891855999558624785
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 12993494355809409241
+  Name: "Thumb Tack"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9223766017462995056
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6240753930489299861
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Thumb Tack"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.0000448
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16131182554730958300
+      value {
+        Overrides {
+          Name: "Collidable"
+          Enum {
+            Value: "mc:ecollisionsetting:forceoff"
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 5891855999558624785
+    }
+  }
+}
+Objects {
+  Id: 11290696364960950990
+  Name: "Thumb Tack"
+  Transform {
+    Location {
+      X: 6761.66504
+      Y: -3901.96191
+      Z: 564.278687
+    }
+    Rotation {
+      Pitch: -4.37005615
+      Yaw: -65.6483765
+      Roll: -44.8425903
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18100891060822925486
+  ChildIds: 18005295202730647358
+  ChildIds: 94694706402835464
+  ChildIds: 10769929890908116340
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10769929890908116340
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11290696364960950990
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 94694706402835464
+  Name: "Item Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11290696364960950990
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.6
+            Y: 0.6
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 7806290237246647042
+            SubObjectId: 6240753930489299861
+            InstanceId: 18005295202730647358
+            TemplateId: 5891855999558624785
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 18005295202730647358
+  Name: "Thumb Tack"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11290696364960950990
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6240753930489299861
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Thumb Tack"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.0000448
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16131182554730958300
+      value {
+        Overrides {
+          Name: "Collidable"
+          Enum {
+            Value: "mc:ecollisionsetting:forceoff"
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 5891855999558624785
+    }
+  }
+}
+Objects {
+  Id: 11171061363190138267
+  Name: "Thumb Tack"
+  Transform {
+    Location {
+      X: 6810.45605
+      Y: -3976.62793
+      Z: 604.683105
+    }
+    Rotation {
+      Pitch: 7.41650581
+      Yaw: -76.9223633
+      Roll: -29.0638428
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18100891060822925486
+  ChildIds: 17745254654784153505
+  ChildIds: 115497926541965964
+  ChildIds: 13193989280701332437
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 13193989280701332437
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11171061363190138267
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 115497926541965964
+  Name: "Item Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11171061363190138267
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.6
+            Y: 0.6
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 5033400419543665794
+            SubObjectId: 6240753930489299861
+            InstanceId: 17745254654784153505
+            TemplateId: 5891855999558624785
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 17745254654784153505
+  Name: "Thumb Tack"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11171061363190138267
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6240753930489299861
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Thumb Tack"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.0000448
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16131182554730958300
+      value {
+        Overrides {
+          Name: "Collidable"
+          Enum {
+            Value: "mc:ecollisionsetting:forceoff"
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 5891855999558624785
+    }
+  }
+}
+Objects {
+  Id: 6020950849981415785
+  Name: "Thumb Tack"
+  Transform {
+    Location {
+      X: 6438.39648
+      Y: -3948.30127
+      Z: 379.072388
+    }
+    Rotation {
+      Pitch: 29.9149284
+      Yaw: 6.75077245e-05
+      Roll: 2.77558174e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18100891060822925486
+  ChildIds: 14234244584725623013
+  ChildIds: 13508421225645381434
+  ChildIds: 14685656363136303547
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14685656363136303547
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6020950849981415785
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 13508421225645381434
+  Name: "Item Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6020950849981415785
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.6
+            Y: 0.6
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 13835810427268379037
+            SubObjectId: 6240753930489299861
+            InstanceId: 14234244584725623013
+            TemplateId: 5891855999558624785
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 14234244584725623013
+  Name: "Thumb Tack"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6020950849981415785
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6240753930489299861
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Thumb Tack"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.0000448
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16131182554730958300
+      value {
+        Overrides {
+          Name: "Collidable"
+          Enum {
+            Value: "mc:ecollisionsetting:forceoff"
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 5891855999558624785
+    }
+  }
+}
+Objects {
+  Id: 15749402788635728838
+  Name: "Thumb Tack"
+  Transform {
+    Location {
+      X: 6609.26
+      Y: -3976.62793
+      Z: 483.150391
+    }
+    Rotation {
+      Pitch: 29.9149284
+      Yaw: 6.75077245e-05
+      Roll: 2.77558174e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18100891060822925486
+  ChildIds: 2978769734416662548
+  ChildIds: 5052902124761558210
+  ChildIds: 621006099872964642
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 621006099872964642
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15749402788635728838
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 5052902124761558210
+  Name: "Item Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15749402788635728838
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.6
+            Y: 0.6
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 15640047914337088735
+            SubObjectId: 6240753930489299861
+            InstanceId: 2978769734416662548
+            TemplateId: 5891855999558624785
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 2978769734416662548
+  Name: "Thumb Tack"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15749402788635728838
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6240753930489299861
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Thumb Tack"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.0000448
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16131182554730958300
+      value {
+        Overrides {
+          Name: "Collidable"
+          Enum {
+            Value: "mc:ecollisionsetting:forceoff"
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 5891855999558624785
+    }
+  }
+}
+Objects {
   Id: 3875560278289352812
   Name: "Thumb Tack"
   Transform {
@@ -1144,17 +1959,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }

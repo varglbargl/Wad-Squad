@@ -7,9 +7,10 @@ Objects {
     Location {
       X: -291.666016
       Y: -513.333252
-      Z: -40
+      Z: -37.454895
     }
     Rotation {
+      Roll: -0.874908447
     }
     Scale {
       X: 1

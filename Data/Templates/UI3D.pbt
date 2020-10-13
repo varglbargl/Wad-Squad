@@ -17,7 +17,6 @@
         }
         ParentId: 15969670120281364747
         ChildIds: 18434294550786052464
-        ChildIds: 1491064629675841512
         ChildIds: 6180192702779927990
         ChildIds: 2923576045290845656
         ChildIds: 13830460851608690043
@@ -36,8 +35,6 @@
         Name: "Guides"
         Transform {
           Location {
-            X: 0.1
-            Z: -160
           }
           Rotation {
           }
@@ -67,8 +64,9 @@
         Name: "Plane Triangle - One Sided Right"
         Transform {
           Location {
+            X: 0.1
             Y: 315
-            Z: 330
+            Z: 170
           }
           Rotation {
             Pitch: 90
@@ -120,8 +118,9 @@
         Name: "Plane Triangle - One Sided Right"
         Transform {
           Location {
+            X: 0.1
             Y: 315
-            Z: -10
+            Z: -170
           }
           Rotation {
             Pitch: -3.05175781e-05
@@ -175,8 +174,9 @@
         Name: "Plane Triangle - One Sided Right"
         Transform {
           Location {
+            X: 0.1
             Y: -315
-            Z: 330
+            Z: 170
           }
           Rotation {
             Pitch: 2.73207552e-05
@@ -230,13 +230,14 @@
         Name: "Plane Triangle - One Sided Right"
         Transform {
           Location {
+            X: 0.1
             Y: -315
-            Z: -10
+            Z: -170
           }
           Rotation {
             Pitch: -90
-            Yaw: -5.05105591
-            Roll: -174.949051
+            Yaw: -2.53045654
+            Roll: -177.469666
           }
           Scale {
             X: 0.4
@@ -281,13 +282,13 @@
         }
       }
       Objects {
-        Id: 1491064629675841512
-        Name: "Spotlight (client)"
+        Id: 6180192702779927990
+        Name: "Item Display"
         Transform {
           Location {
-            X: -100
-            Y: -310
-            Z: 130
+            X: 10
+            Y: -166.813858
+            Z: 102.741821
           }
           Rotation {
           }
@@ -298,6 +299,35 @@
           }
         }
         ParentId: 3781350784924868256
+        ChildIds: 1491064629675841512
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 1491064629675841512
+        Name: "Spotlight (client)"
+        Transform {
+          Location {
+            X: -56.2409
+            Y: 3.24191284
+          }
+          Rotation {
+            Yaw: -2.00698328
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6180192702779927990
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -337,45 +367,18 @@
         }
       }
       Objects {
-        Id: 6180192702779927990
-        Name: "Item Display"
-        Transform {
-          Location {
-            X: 10
-            Y: -235
-            Z: -105
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 3781350784924868256
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 2923576045290845656
         Name: "Item Background"
         Transform {
           Location {
-            X: 50
-            Y: -265
-            Z: -125
+            X: 49.7
+            Y: -185.315811
+            Z: 113.504
           }
           Rotation {
-            Yaw: 89.9999695
-            Roll: 89.9999542
+            Pitch: 76.286026
+            Yaw: 89.9980392
+            Roll: 89.9977646
           }
           Scale {
             X: 1
@@ -384,6 +387,7 @@
           }
         }
         ParentId: 3781350784924868256
+        ChildIds: 6371253168536327705
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -394,7 +398,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              A: 0.478000015
+              A: 0.7
             }
           }
         }
@@ -402,11 +406,62 @@
           Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
+          Value: "mc:evisibilitysetting:forceon"
         }
         CoreMesh {
           MeshAsset {
             Id: 5478309032208899374
+          }
+          Teams {
+          }
+          StaticMesh {
+            Physics {
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 6371253168536327705
+        Name: "Item Background"
+        Transform {
+          Location {
+            X: -21.9258118
+            Y: -52.8048706
+            Z: 5.34057617e-05
+          }
+          Rotation {
+            Yaw: -22.49
+          }
+          Scale {
+            X: 0.131906882
+            Y: 0.263813764
+            Z: 0.263813764
+          }
+        }
+        ParentId: 2923576045290845656
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 11251994733772007315
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              A: 0.7
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceon"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 6569324299572531638
           }
           Teams {
           }
@@ -1417,6 +1472,15 @@
       }
     }
     Assets {
+      Id: 6569324299572531638
+      Name: "Plane Triangle - One Sided Isosceles"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_plane_triangle_001"
+      }
+    }
+    Assets {
       Id: 15630407453958386561
       Name: "Plane Hexagon - One Sided"
       PlatformAssetType: 1
@@ -1441,15 +1505,6 @@
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_plane_trapezoid_001"
-      }
-    }
-    Assets {
-      Id: 6569324299572531638
-      Name: "Plane Triangle - One Sided Isosceles"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_plane_triangle_001"
       }
     }
     PrimaryAssetId {

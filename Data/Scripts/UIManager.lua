@@ -1,6 +1,6 @@
 ﻿local UTILS = require(script:GetCustomProperty("Utils"))
 local UI3D = script:GetCustomProperty("UI3D"):WaitForObject()
-local UI = script:GetCustomProperty("UI"):WaitForObject()
+local UI2D = script:GetCustomProperty("UI"):WaitForObject()
 local SUN_RAYS = script:GetCustomProperty("SunRays"):WaitForObject()
 local ITEM_DISPLAY = script:GetCustomProperty("ItemDisplay"):WaitForObject()
 
@@ -10,9 +10,11 @@ UI3D:SetScale(Vector3.ONE * 0.035)
 SUN_RAYS:RotateContinuous(Vector3.New(-0.25, 0, 0))
 
 local currentItem = nil
-local itemNameBox = UI:FindDescendantByName("Item Name")
+local itemNameBox = UI2D:FindDescendantByName("Item Name")
+local itemBackground = UI3D:FindDescendantByName("Item Background")
 
 itemNameBox.text = ""
+itemBackground.visibility = Visibility.FORCE_OFF
 
 function pickedUpItem(item, wad)
   displayItem(item)
@@ -23,6 +25,7 @@ function displayItem(item)
   if currentItem then currentItem:Destroy() end
 
   itemNameBox.text = item.name
+  itemBackground.visibility = Visibility.INHERIT
 
   local itemSize = item:GetWorldScale() / item.clientUserData["Size"] * 0.008
   -- local itemSize = item:GetWorldScale() * 0.03
@@ -43,17 +46,37 @@ function displayItem(item)
   currentItem.parent = ITEM_DISPLAY
   currentItem:SetPosition(Vector3.ZERO)
   currentItem:SetRotation(Rotation.New(0, 10, 10))
-  currentItem:RotateContinuous(Vector3.New(0, 0, -0.3))
+  currentItem:RotateContinuous(Vector3.New(0, 0, -0.5))
+
+  Task.Spawn(function() stopDisplayItemTimer(currentItem) end)
 end
 
-local wadSizeBox = UI:FindDescendantByName("Wad Size")
-wadSizeBox.text = "Wad: 2cm"
+function stopDisplayItemTimer(item)
+  Task.Wait(2.5)
+  if currentItem == item then
+    currentItem:Destroy()
+    currentItem = nil
+    itemNameBox.text = ""
+    itemBackground.visibility = Visibility.FORCE_OFF
+  end
+end
+
+
+local wadSizeBox = UI2D:FindDescendantByName("Wad Size")
+wadSizeBox.text = "2cm"
 
 function updateScore(size)
 
+  local metricUnit = "cm"
+
+  if size >= 100 then
+    size = size / 100
+    metricUnit = "m"
+  end
+
   local formattedSize = string.format("%.2f", size * 2)
 
-  wadSizeBox.text = "Wad: " .. formattedSize .. "cm"
+  wadSizeBox.text = formattedSize .. metricUnit
 end
 
 local eyesClosed = UI3D:FindDescendantByName("Eyes Closed")

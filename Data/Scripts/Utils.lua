@@ -28,7 +28,7 @@ function UTILS.playSoundEffect(sound, sfxPosition)
   end
 
   sfx.isTransient = true
-  sfx.pitch = math.random(-200, 200)
+  sfx.pitch = math.random(0, 5) * 100
   sfx:Play()
 end
 

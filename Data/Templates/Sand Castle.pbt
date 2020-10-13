@@ -306,15 +306,15 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 65
-            Y: -270
+            X: 65.0002136
+            Y: -271.080322
             Z: 150
           }
           Rotation {
           }
           Scale {
-            X: 9.5
-            Y: 1.4
+            X: 9.45712948
+            Y: 1.4218452
             Z: 4
           }
         }
@@ -353,15 +353,15 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 65
-            Y: 440
+            X: 64.9988098
+            Y: 441.151398
             Z: 150
           }
           Rotation {
           }
           Scale {
-            X: 9.5
-            Y: 1.4
+            X: 9.45712948
+            Y: 1.4218452
             Z: 4
           }
         }
@@ -592,16 +592,16 @@
         Name: "Group"
         Transform {
           Location {
-            X: 65
-            Y: 85
+            X: 65.000351
+            Y: 84.9998093
             Z: 775
           }
           Rotation {
           }
           Scale {
-            X: 1.4
-            Y: 1.4
-            Z: 1.4
+            X: 1.31563985
+            Y: 1.31563985
+            Z: 1.31563985
           }
         }
         ParentId: 5876972781541718442

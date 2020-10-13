@@ -2,7 +2,7 @@
 local WAD = script.parent
 
 local delay = 0.1
-local dudeSpeed = 3000
+local myDudeSpeed = 3000
 local wadSize = 1
 
 local myDude = World.SpawnAsset(DUDE, {
@@ -10,12 +10,22 @@ local myDude = World.SpawnAsset(DUDE, {
   scale = Vector3.ONE * 0.3
 })
 
-myDude:LookAtContinuous(WAD, true, dudeSpeed)
+myDude:LookAtContinuous(WAD, true, myDudeSpeed)
 
 function dudeFollowButOnTheGround()
   wadSize = WAD.clientUserData["Size"] or 1
   local myDudePosition = myDude:GetWorldPosition()
-  local justAboveMyDude = myDudePosition + Vector3.UP * 100
+  local wadPosition = WAD:GetWorldPosition()
+  local myDudeDistance = wadPosition.z - myDudePosition.z
+  local justAboveMyDude = nil
+
+  -- if my dude falls into a crack or off a ledge, bring him back
+  if myDudeDistance > 150 * wadSize then
+    justAboveMyDude = myDudePosition + Vector3.UP * 10000
+  else
+    justAboveMyDude = myDudePosition + Vector3.UP * 100
+  end
+
   local wayBelowMyDude = myDudePosition + Vector3.UP * -500 * wadSize
   local raycastBelowMyDude = World.Raycast(justAboveMyDude, wayBelowMyDude)
 
@@ -24,7 +34,7 @@ function dudeFollowButOnTheGround()
     myDude:SetWorldPosition(Vector3.New(myDudePosition.x, myDudePosition.y, groundHeightBelowMyDude.z))
   end
 
-  myDude:Follow(WAD, dudeSpeed, 120 * wadSize)
+  myDude:Follow(WAD, myDudeSpeed, 70 * wadSize + 50)
 
   Task.Wait()
 

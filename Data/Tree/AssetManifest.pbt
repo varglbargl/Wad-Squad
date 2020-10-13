@@ -62,12 +62,30 @@ Assets {
   }
 }
 Assets {
+  Id: 17177425172148499381
+  Name: "Metal Steel Brushed"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_stainless-steel_001_uv"
+  }
+}
+Assets {
   Id: 16971722803005799468
   Name: "Pipe - Half Thick"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_half-pipe_003"
+  }
+}
+Assets {
+  Id: 16910278292812118833
+  Name: "Sun Light"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_SunLight"
   }
 }
 Assets {
@@ -116,30 +134,12 @@ Assets {
   }
 }
 Assets {
-  Id: 13462049096682644055
-  Name: "Terrain - Grass"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_terrain_rock-grass-001_wa"
-  }
-}
-Assets {
   Id: 13282259600726273799
   Name: "Cylinder"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_002"
-  }
-}
-Assets {
-  Id: 12357331784553472978
-  Name: "Road Cone 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_traffic_cone_001"
   }
 }
 Assets {
@@ -188,21 +188,30 @@ Assets {
   }
 }
 Assets {
+  Id: 10988486045141043269
+  Name: "Sun Halo"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_SunHalo"
+  }
+}
+Assets {
+  Id: 10857055917345919521
+  Name: "Cone - Concave"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cone_convex_001"
+  }
+}
+Assets {
   Id: 10184847056121543272
   Name: "Basic Material"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_basic_pbr_material_001"
-  }
-}
-Assets {
-  Id: 9456333376053029087
-  Name: "Craftsman Couch"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_urb_couch_001"
   }
 }
 Assets {
@@ -215,30 +224,12 @@ Assets {
   }
 }
 Assets {
-  Id: 9393909216525391833
-  Name: "Simple Crate 150cm"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_crate_simple_150cm_001"
-  }
-}
-Assets {
   Id: 9256376963641243765
   Name: "Wedge"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_wedge_001"
-  }
-}
-Assets {
-  Id: 9199751096616988864
-  Name: "Candle Flame VFX"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "fxsm_candleflame"
   }
 }
 Assets {
@@ -257,6 +248,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_half_octagon_001"
+  }
+}
+Assets {
+  Id: 7369632945904869019
+  Name: "Bone Human Skull 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_skull_01_ref"
   }
 }
 Assets {
@@ -305,21 +305,21 @@ Assets {
   }
 }
 Assets {
+  Id: 5117326109845707677
+  Name: "Plane"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_4m_001"
+  }
+}
+Assets {
   Id: 4691692031683937777
   Name: "Pipe - Half Thin"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_half-pipe_002"
-  }
-}
-Assets {
-  Id: 4241954836035827010
-  Name: "Candle Holder 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_candle_holder_table_002"
   }
 }
 Assets {
@@ -347,6 +347,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prism_hexagon_001"
+  }
+}
+Assets {
+  Id: 3207860671241336451
+  Name: "Curtains Straight"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_curtain_02"
   }
 }
 Assets {
@@ -392,6 +401,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_food_generic_apple_001_uv"
+  }
+}
+Assets {
+  Id: 1479234746801052129
+  Name: "Grass Clumps"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_grass_002_uv"
   }
 }
 Assets {

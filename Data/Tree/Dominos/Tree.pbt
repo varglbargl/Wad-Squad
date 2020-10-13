@@ -1,15 +1,1772 @@
 ﻿Name: "Dominos"
 RootId: 3642746188604673888
 Objects {
+  Id: 4623086203894289961
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 381.690155
+      Y: 1571.38745
+      Z: 248.347656
+    }
+    Rotation {
+      Pitch: 2.71798491
+      Yaw: 89.9992828
+      Roll: -2.71378412e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 13510087970667440881
+  ChildIds: 4774056744201461967
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 4774056744201461967
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4623086203894289961
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 3407399300210951462
+            SubObjectId: 2927526047626853448
+            InstanceId: 13510087970667440881
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 13510087970667440881
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4623086203894289961
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 18234772617283615885
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 381.690277
+      Y: 1423.33374
+      Z: 224.355103
+    }
+    Rotation {
+      Pitch: 2.71798491
+      Yaw: 89.9992828
+      Roll: -2.71378412e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 6039213518735989437
+  ChildIds: 17571545243337499443
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17571545243337499443
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18234772617283615885
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 10546994717362480378
+            SubObjectId: 2927526047626853448
+            InstanceId: 6039213518735989437
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 6039213518735989437
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18234772617283615885
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 6968968491535236926
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 381.690369
+      Y: 1275.26343
+      Z: 200.361084
+    }
+    Rotation {
+      Pitch: 2.71798491
+      Yaw: 89.9992828
+      Roll: -2.71378412e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 13425629068083951588
+  ChildIds: 4144446465894833168
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 4144446465894833168
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6968968491535236926
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 5327158615345272521
+            SubObjectId: 2927526047626853448
+            InstanceId: 13425629068083951588
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 13425629068083951588
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6968968491535236926
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 605059354241002828
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 381.690491
+      Y: 1127.20032
+      Z: 176.368408
+    }
+    Rotation {
+      Pitch: 2.71798491
+      Yaw: 89.9992828
+      Roll: -2.71378412e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 13329364627060549776
+  ChildIds: 15974066284119845696
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15974066284119845696
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 605059354241002828
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 13058541150552135369
+            SubObjectId: 2927526047626853448
+            InstanceId: 13329364627060549776
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 13329364627060549776
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 605059354241002828
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 3584564518434417169
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 381.690582
+      Y: 979.142456
+      Z: 152.375732
+    }
+    Rotation {
+      Pitch: 2.71798491
+      Yaw: 89.9992828
+      Roll: -2.71378412e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 11939740222623622548
+  ChildIds: 4127375593844777279
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 4127375593844777279
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3584564518434417169
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 4561034787786196529
+            SubObjectId: 2927526047626853448
+            InstanceId: 11939740222623622548
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 11939740222623622548
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3584564518434417169
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 455989192847069657
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 381.690704
+      Y: 831.077637
+      Z: 128.382568
+    }
+    Rotation {
+      Pitch: 2.71798491
+      Yaw: 89.9992828
+      Roll: -2.71378412e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 6884565287441155648
+  ChildIds: 4549102961011841149
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 4549102961011841149
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 455989192847069657
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 1029898444112306159
+            SubObjectId: 2927526047626853448
+            InstanceId: 6884565287441155648
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 6884565287441155648
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 455989192847069657
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 8543676604688028161
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 381.690765
+      Y: 707.691956
+      Z: 108.387695
+    }
+    Rotation {
+      Pitch: 2.71798491
+      Yaw: 89.9992828
+      Roll: -2.71378412e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 13806953586501481212
+  ChildIds: 5459405454906164758
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 5459405454906164758
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8543676604688028161
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 6420263423264447338
+            SubObjectId: 2927526047626853448
+            InstanceId: 13806953586501481212
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 13806953586501481212
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8543676604688028161
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 9801160189549587337
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 381.690857
+      Y: 584.305664
+      Z: 88.3934326
+    }
+    Rotation {
+      Pitch: 2.71798491
+      Yaw: 89.9992828
+      Roll: -2.71378412e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 7553844096292725220
+  ChildIds: 14454103464469979348
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14454103464469979348
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9801160189549587337
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 2924252920022358375
+            SubObjectId: 2927526047626853448
+            InstanceId: 7553844096292725220
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 7553844096292725220
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9801160189549587337
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 13509696019632050395
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 381.690948
+      Y: 460.919952
+      Z: 68.399292
+    }
+    Rotation {
+      Pitch: 2.71798491
+      Yaw: 89.9992828
+      Roll: -2.71378412e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 18320970740656893060
+  ChildIds: 14475592105102465923
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14475592105102465923
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13509696019632050395
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 13946880488162547097
+            SubObjectId: 2927526047626853448
+            InstanceId: 18320970740656893060
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 18320970740656893060
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13509696019632050395
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 9387091439594036680
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 381.69104
+      Y: 337.532379
+      Z: 48.4053955
+    }
+    Rotation {
+      Pitch: 2.71798491
+      Yaw: 89.9992828
+      Roll: -2.71378412e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 1209271196265702286
+  ChildIds: 10977877152251234636
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10977877152251234636
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9387091439594036680
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 15143295352310353398
+            SubObjectId: 2927526047626853448
+            InstanceId: 1209271196265702286
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 1209271196265702286
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9387091439594036680
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 1221896275210287722
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 223.545868
+      Y: -49.9998245
+      Z: 10
+    }
+    Rotation {
+      Yaw: 22.4998722
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 4346984096482484414
+  ChildIds: 17557137281497388192
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17557137281497388192
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1221896275210287722
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 845772741466647369
+            SubObjectId: 2927526047626853448
+            InstanceId: 4346984096482484414
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 4346984096482484414
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1221896275210287722
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 2175070646928840977
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 373.545715
+      Y: 100.000237
+      Z: 10
+    }
+    Rotation {
+      Yaw: 67.4999313
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 6293464712870202071
+  ChildIds: 149100329672342835
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 149100329672342835
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2175070646928840977
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 13958101904775355527
+            SubObjectId: 2927526047626853448
+            InstanceId: 6293464712870202071
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 6293464712870202071
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2175070646928840977
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 3729500291451192880
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 323.545776
+      Y: 0.000231418031
+      Z: 10
+    }
+    Rotation {
+      Yaw: 44.9998894
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 13043897163622466715
+  ChildIds: 1938869512554257280
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 1938869512554257280
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3729500291451192880
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 8417770820667262740
+            SubObjectId: 2927526047626853448
+            InstanceId: 13043897163622466715
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 13043897163622466715
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3729500291451192880
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
+  Id: 18075308399304218528
+  Name: "Domino"
+  Transform {
+    Location {
+      X: 381.130585
+      Y: 213.612396
+      Z: 10
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 11774654597731437579
+  ChildIds: 3368490247492860013
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3368490247492860013
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18075308399304218528
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 16290475767381853616
+            SubObjectId: 2927526047626853448
+            InstanceId: 11774654597731437579
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 11774654597731437579
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18075308399304218528
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2927526047626853448
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
   Id: 2460109391321563927
   Name: "Domino"
   Transform {
     Location {
-      X: -1250
+      X: -2019.99854
+      Y: -0.000590323703
       Z: 10
     }
     Rotation {
-      Yaw: 22.4998379
+      Yaw: 22.4998
     }
     Scale {
       X: 1
@@ -128,12 +1885,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -1150
-      Y: 50
+      X: -1869.99854
+      Y: 49.9995
       Z: 10
     }
     Rotation {
-      Yaw: 11.2502031
+      Yaw: 11.2502337
     }
     Scale {
       X: 1
@@ -252,8 +2009,8 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -1050
-      Y: 75
+      X: -1720.00928
+      Y: 74.9994736
       Z: 10
     }
     Rotation {
@@ -375,12 +2132,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -950
-      Y: 50
+      X: -1570.00244
+      Y: 49.9994736
       Z: 10
     }
     Rotation {
-      Yaw: -11.2501688
+      Yaw: -11.2502136
     }
     Scale {
       X: 1
@@ -519,11 +2276,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -850
+      X: -1420.01514
+      Y: -0.000405322877
       Z: 10
     }
     Rotation {
-      Yaw: -22.4998016
+      Yaw: -22.4997559
     }
     Scale {
       X: 1
@@ -642,8 +2400,8 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -1450
-      Y: -75
+      X: -2319.99512
+      Y: -75.0004044
       Z: 10
     }
     Rotation {
@@ -765,12 +2523,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -1550
-      Y: -50
+      X: -2469.99316
+      Y: -50.0006523
       Z: 10
     }
     Rotation {
-      Yaw: -11.2502308
+      Yaw: -11.2502747
     }
     Scale {
       X: 1
@@ -889,12 +2647,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -1350
-      Y: -50
+      X: -2169.98535
+      Y: -50.0005608
       Z: 10
     }
     Rotation {
-      Yaw: 11.2502031
+      Yaw: 11.2502337
     }
     Scale {
       X: 1
@@ -1013,12 +2771,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -550
-      Y: -50
+      X: -920.027039
+      Y: -50.0002785
       Z: 10
     }
     Rotation {
-      Yaw: 11.2501688
+      Yaw: 11.2502022
     }
     Scale {
       X: 1
@@ -1137,11 +2895,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -450
+      X: -770.025146
+      Y: -0.000184554199
       Z: 10
     }
     Rotation {
-      Yaw: 22.4998703
+      Yaw: 22.4998302
     }
     Scale {
       X: 1
@@ -1260,12 +3019,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -350
-      Y: 50
+      X: -620.023254
+      Y: 49.9997864
       Z: 10
     }
     Rotation {
-      Yaw: 11.2501688
+      Yaw: 11.2502022
     }
     Scale {
       X: 1
@@ -1384,8 +3143,8 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -250
-      Y: 75
+      X: -495.009705
+      Y: 74.9996185
       Z: 10
     }
     Rotation {
@@ -1507,12 +3266,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -150
-      Y: 50
+      X: -345.015533
+      Y: 49.9998589
       Z: 10
     }
     Rotation {
-      Yaw: -11.2501392
+      Yaw: -11.2501831
     }
     Scale {
       X: 1
@@ -1651,11 +3410,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -50
+      X: -195.011658
+      Y: -0.000139483236
       Z: 10
     }
     Rotation {
-      Yaw: -22.4998302
+      Yaw: -22.4998169
     }
     Scale {
       X: 1
@@ -1774,8 +3534,8 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -650
-      Y: -75
+      X: -1070.02588
+      Y: -75.0002441
       Z: 10
     }
     Rotation {
@@ -1897,12 +3657,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -750
-      Y: -50
+      X: -1245.01807
+      Y: -50.0002632
       Z: 10
     }
     Rotation {
-      Yaw: -11.2502012
+      Yaw: -11.2502441
     }
     Scale {
       X: 1
@@ -2021,12 +3781,12 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: 50
-      Y: -50
+      X: -45.0048332
+      Y: -50.0000153
       Z: 10
     }
     Rotation {
-      Yaw: -11.2501688
+      Yaw: -11.2502136
     }
     Scale {
       X: 1
@@ -2141,773 +3901,12 @@ Objects {
   }
 }
 Objects {
-  Id: 7536785345963336145
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 250
-      Y: -50
-      Z: 10
-    }
-    Rotation {
-      Yaw: 11.2501354
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 13922694585614131606
-  ChildIds: 5603937442992650184
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 5603937442992650184
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7536785345963336145
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 16962888240350045373
-            SubObjectId: 2927526047626853448
-            InstanceId: 13922694585614131606
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 13922694585614131606
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7536785345963336145
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 5095548574863431002
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 350
-      Z: 10
-    }
-    Rotation {
-      Yaw: 22.4999046
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 3302312984563037120
-  ChildIds: 8948576696584795000
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 8948576696584795000
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5095548574863431002
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 10856659923145871457
-            SubObjectId: 2927526047626853448
-            InstanceId: 3302312984563037120
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 3302312984563037120
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5095548574863431002
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 12241099135963195117
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 450
-      Y: 50
-      Z: 10
-    }
-    Rotation {
-      Yaw: 11.2501354
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 7827708050813528175
-  ChildIds: 9362165053206994989
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 9362165053206994989
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 12241099135963195117
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 16614906035913746103
-            SubObjectId: 2927526047626853448
-            InstanceId: 7827708050813528175
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 7827708050813528175
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 12241099135963195117
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 10918290582623527428
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 550
-      Y: 75
-      Z: 10
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 3015115098926890727
-  ChildIds: 9178351731999187246
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 9178351731999187246
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10918290582623527428
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 348069693704612733
-            SubObjectId: 2927526047626853448
-            InstanceId: 3015115098926890727
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 3015115098926890727
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10918290582623527428
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 15043686837938167275
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 650
-      Y: 50
-      Z: 10
-    }
-    Rotation {
-      Yaw: -11.2501097
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 5380330986651376534
-  ChildIds: 7846278779497033313
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 7846278779497033313
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15043686837938167275
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 11079262983642856142
-            SubObjectId: 2927526047626853448
-            InstanceId: 5380330986651376534
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 5380330986651376534
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15043686837938167275
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5046055954160735598
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -38.376564
-            Y: -0.718139648
-            Z: 24.2283478
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: 90
-            Roll: 6.83018425e-06
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 13027832441716087895
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 750
-      Z: 10
-    }
-    Rotation {
-      Yaw: -22.4998589
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 6152254815887945056
-  ChildIds: 12587455733714594411
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 12587455733714594411
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13027832441716087895
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 11245281620126682976
-            SubObjectId: 2927526047626853448
-            InstanceId: 6152254815887945056
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 6152254815887945056
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13027832441716087895
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
   Id: 12846366802568968478
   Name: "Domino"
   Transform {
     Location {
-      X: 150
-      Y: -75
+      X: 104.996117
+      Y: -74.9998932
       Z: 10
     }
     Rotation {
@@ -2991,1014 +3990,6 @@ Objects {
     }
   }
   ParentId: 12846366802568968478
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 16433690363378509234
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 955
-      Y: -75
-      Z: 10
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 15230800579278478255
-  ChildIds: 12587215449629778299
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 12587215449629778299
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16433690363378509234
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 1447259402248572966
-            SubObjectId: 2927526047626853448
-            InstanceId: 15230800579278478255
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 15230800579278478255
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16433690363378509234
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 8105919861194593650
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 1055
-      Y: -50
-      Z: 10
-    }
-    Rotation {
-      Yaw: 11.2501011
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 15089368567193905112
-  ChildIds: 16932250991650160538
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 16932250991650160538
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8105919861194593650
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 18170070342874712203
-            SubObjectId: 2927526047626853448
-            InstanceId: 15089368567193905112
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 15089368567193905112
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8105919861194593650
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 6020452263488406109
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 1155
-      Z: 10
-    }
-    Rotation {
-      Yaw: 22.4999371
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 16938305812230288117
-  ChildIds: 14883720635139456302
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 14883720635139456302
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6020452263488406109
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 9388628188110819116
-            SubObjectId: 2927526047626853448
-            InstanceId: 16938305812230288117
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 16938305812230288117
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6020452263488406109
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 1649590500078509504
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 1255
-      Y: 50
-      Z: 10
-    }
-    Rotation {
-      Yaw: 11.2501011
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 16703149658178985514
-  ChildIds: 6739591810082141195
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 6739591810082141195
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1649590500078509504
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 15948010746517782101
-            SubObjectId: 2927526047626853448
-            InstanceId: 16703149658178985514
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 16703149658178985514
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1649590500078509504
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 15129522901919760157
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 1355
-      Y: 75
-      Z: 10
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 7472875109719932256
-  ChildIds: 10014457574868251918
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 10014457574868251918
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15129522901919760157
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 10742866378570891289
-            SubObjectId: 2927526047626853448
-            InstanceId: 7472875109719932256
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 7472875109719932256
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15129522901919760157
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 8439176646902120241
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 1455
-      Y: 50
-      Z: 10
-    }
-    Rotation {
-      Yaw: -11.2500782
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 15359872168364753640
-  ChildIds: 9567038010750060193
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 9567038010750060193
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8439176646902120241
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 5650587639735731731
-            SubObjectId: 2927526047626853448
-            InstanceId: 15359872168364753640
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 15359872168364753640
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8439176646902120241
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5046055954160735598
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -38.376564
-            Y: -0.718139648
-            Z: 24.2283478
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: 90
-            Roll: 6.83018425e-06
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 10165682200498387108
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 1555
-      Z: 10
-    }
-    Rotation {
-      Yaw: -22.4998913
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 12209272014118790364
-  ChildIds: 11895297100288073308
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 11895297100288073308
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10165682200498387108
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 13766252478728269949
-            SubObjectId: 2927526047626853448
-            InstanceId: 12209272014118790364
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 12209272014118790364
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10165682200498387108
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2927526047626853448
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Domino"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11050752117790028570
-    }
-  }
-}
-Objects {
-  Id: 7993350754460002395
-  Name: "Domino"
-  Transform {
-    Location {
-      X: 855
-      Y: -50
-      Z: 10
-    }
-    Rotation {
-      Yaw: -11.2501392
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3642746188604673888
-  ChildIds: 14026302808014152986
-  ChildIds: 2989064605546926980
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 2989064605546926980
-  Name: "Item Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7993350754460002395
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 45
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 1.9
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 17807176264078265438
-            SubObjectId: 2927526047626853448
-            InstanceId: 14026302808014152986
-            TemplateId: 11050752117790028570
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 14026302808014152986
-  Name: "Domino"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7993350754460002395
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

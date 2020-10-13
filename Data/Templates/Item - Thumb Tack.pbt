@@ -50,7 +50,7 @@
             Id: 12095835209017042614
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
@@ -341,7 +341,7 @@
         ChildIds: 4543941754816383987
         ChildIds: 12574779869045286500
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"

@@ -1,13 +1,5 @@
 ﻿local UTILS = require(script:GetCustomProperty("Utils"))
-local WAD_OVERRIDE = script:GetCustomProperty("WadOverride")
-local WAD = nil
-
-if WAD_OVERRIDE then
-  WAD = WAD_OVERRIDE:WaitForObject()
-else
-  WAD = script.parent
-end
-
+local WAD = script.parent
 local BOUNCE_OFF_SOUND = script:GetCustomProperty("BounceOffSound")
 local DEFAULT_PICKUP_SOUND = script:GetCustomProperty("DefaultPickupSound")
 local GRABBER = script:GetCustomProperty("Grabber"):WaitForObject()
@@ -16,15 +8,17 @@ local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 -- local CAMERA_CONTAINER = script:GetCustomProperty("CameraContainer"):WaitForObject()
 -- local ORB = script:GetCustomProperty("Orb")
 
-local delay = 0.1
-local moveSpeed = 10000 * delay
-local gravityForce = 3000
+local delay = 0.05
+local moveSpeed = 1000
+local gravityForce = 14000
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
+local grabbedItems = {}
+local itemGrabIndex = 0
+local maxGrabbed = 100
 
-
--- TODO: You're really just gonna have to fix this eventually
+-- TODO: You're really just gonna have to replace this eventually
 function handleKeyPress(player, keyCode)
   -- W
   if keyCode == "ability_extra_21" then
@@ -71,9 +65,9 @@ function handleKeyRelease(player, keyCode)
   end
 end
 
-function rollThatWad()
+function rollThatWad(deltaTime)
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.New(0, 0, (wadSize - 1) * -gravityForce * delay)
+  local simulatedMass = Vector3.New(0, 0, (wadSize - 1) * -gravityForce * deltaTime)
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -97,8 +91,7 @@ function rollThatWad()
     local lateralWadImpulse = cameraRight * impulseToApply.y
     local combinedWadImpulse = forwardWadImpulse + lateralWadImpulse
     local normalizedWadImpulse = combinedWadImpulse:GetNormalized()
-    local sizeAdjustment = normalizedWadImpulse * wadSize
-    finalWadImpulse = normalizedWadImpulse * moveSpeed + sizeAdjustment + simulatedMass
+    finalWadImpulse = normalizedWadImpulse * moveSpeed * wadSize + simulatedMass
 
     local forwardWadTorque = cameraRight * torqueToApply.y
     local lateralWadTorque = cameraForward * torqueToApply.x
@@ -107,13 +100,12 @@ function rollThatWad()
     finalWadTorque = normalizedWadTorque * moveSpeed / 3.5
   end
 
-  -- TODO: Use this part to simulate increased mass proprtional to WAD Size
-  WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, delay))
-  WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, delay * 5))
+  WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, deltaTime))
+  WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, deltaTime * 5))
 
-  Task.Wait(delay)
+  deltaTime = Task.Wait(delay)
 
-  rollThatWad()
+  rollThatWad(deltaTime)
 end
 
 function issueWad(player)
@@ -124,7 +116,7 @@ function issueWad(player)
   player.bindingPressedEvent:Connect(handleKeyPress)
   player.bindingReleasedEvent:Connect(handleKeyRelease)
 
-  Task.Spawn(rollThatWad)
+  Task.Spawn(function() rollThatWad(delay) end)
 end
 
 function handleGrabberOverlap (trigger, object)
@@ -175,6 +167,14 @@ function handleGrabberOverlap (trigger, object)
           end
         end)
       end
+
+      -- limit grabbed items to help with lag
+      if grabbedItems[itemGrabIndex] then
+        grabbedItems[itemGrabIndex]:Destroy()
+      end
+
+      grabbedItems[itemGrabIndex] = clientItem
+      itemGrabIndex = (itemGrabIndex + 1) % maxGrabbed
 
       wadSize = wadSize + itemSize / 25
 

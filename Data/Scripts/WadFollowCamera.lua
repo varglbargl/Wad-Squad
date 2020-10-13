@@ -21,7 +21,7 @@ function wadCameraFollow()
   CAMERA:SetRotationOffset(playerRotation)
 
   if myWad.clientUserData["Size"] then
-    CAMERA:MoveTo(Vector3.New(-500, 0, 200) * myWad.clientUserData["Size"], 1, true)
+    CAMERA:MoveTo(Vector3.New(-500, 0, 150) * myWad.clientUserData["Size"], 1, true)
   end
 
   Task.Wait()
