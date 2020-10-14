@@ -1,6 +1,6 @@
 ﻿Assets {
   Id: 3383705750043431077
-  Name: "Item - Candy Bit"
+  Name: "Item - Rainbow Candy"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {

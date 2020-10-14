@@ -15,12 +15,12 @@
             Z: 1.70000017
           }
         }
-        ParentId: 9472738016385806500
+        ParentId: 2855313206157644136
         ChildIds: 9322700811100641035
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
-            Float: 0.4
+            Float: 0.6
           }
           Overrides {
             Name: "cs:PickupSound"
@@ -85,7 +85,6 @@
         ParentId: 15439994944323740757
         ChildIds: 943987974728934370
         ChildIds: 10071112672393890950
-        ChildIds: 6160750724903219708
         ChildIds: 15180130570443861138
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
@@ -172,7 +171,6 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 0.960000038
               A: 1
             }
           }
@@ -198,72 +196,6 @@
         CoreMesh {
           MeshAsset {
             Id: 17249507371477058726
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 6160750724903219708
-        Name: "Sphere"
-        Transform {
-          Location {
-            Z: 51.053791
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.95414674
-            Y: 1.95414674
-            Z: 0.1149498
-          }
-        }
-        ParentId: 9322700811100641035
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 15377637131691563244
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 1
-              B: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 1
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 1
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 4252142943320954518
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -357,15 +289,6 @@
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "mi_fan_terracotta_pots_001_uv"
-      }
-    }
-    Assets {
-      Id: 4252142943320954518
-      Name: "Sphere"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_sphere_002"
       }
     }
     Assets {

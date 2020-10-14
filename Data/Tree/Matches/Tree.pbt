@@ -1,6 +1,1787 @@
 ﻿Name: "Matches"
 RootId: 18280386327441766706
 Objects {
+  Id: 4373256050883692610
+  Name: "Mach"
+  Transform {
+    Location {
+      X: 1413.5957
+      Y: -1237.39551
+      Z: 59.5956421
+    }
+    Rotation {
+      Pitch: -2.78530884
+      Yaw: 32.6051292
+      Roll: -20.6498413
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 7865226810826310261
+  ChildIds: 3275512159097064699
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3275512159097064699
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4373256050883692610
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 3242882354765164826
+            SubObjectId: 17595363790206932742
+            InstanceId: 7865226810826310261
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 7865226810826310261
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4373256050883692610
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 9990141447533787205
+  Name: "Mach"
+  Transform {
+    Location {
+      X: 1680.28711
+      Y: -1016.82813
+      Z: 28.3150635
+    }
+    Rotation {
+      Pitch: 4.58378744
+      Yaw: -117.383514
+      Roll: -27.3656
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 5545285103813181809
+  ChildIds: 4219579145855360157
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 4219579145855360157
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9990141447533787205
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 226177607077124205
+            SubObjectId: 17595363790206932742
+            InstanceId: 5545285103813181809
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 5545285103813181809
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9990141447533787205
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 16539541157959509276
+  Name: "Mach"
+  Transform {
+    Location {
+      X: 1146.99219
+      Y: -1565.92676
+      Z: 58.6138306
+    }
+    Rotation {
+      Pitch: -3.01080322
+      Yaw: 144.370377
+      Roll: -29.187561
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 2544852158717374561
+  ChildIds: 14294507298222758905
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14294507298222758905
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16539541157959509276
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 16866959469330773640
+            SubObjectId: 17595363790206932742
+            InstanceId: 2544852158717374561
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 2544852158717374561
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16539541157959509276
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 1409342763774630962
+  Name: "Mach"
+  Transform {
+    Location {
+      X: -1088.09766
+      Y: 4310.00293
+      Z: 50.000061
+    }
+    Rotation {
+      Pitch: 3.4150944e-05
+      Yaw: 95.8889542
+      Roll: -24.9973755
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 2019450262797226395
+  ChildIds: 2373541500225652542
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2373541500225652542
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1409342763774630962
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 8626183014403575894
+            SubObjectId: 17595363790206932742
+            InstanceId: 2019450262797226395
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 2019450262797226395
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1409342763774630962
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 4235576802446682743
+  Name: "Mach"
+  Transform {
+    Location {
+      X: -323.025391
+      Y: 4276.48047
+      Z: 69.2019653
+    }
+    Rotation {
+      Pitch: 1.36603776e-05
+      Yaw: -165.660843
+      Roll: -24.996521
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 15639465444146505217
+  ChildIds: 8760759275722056508
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8760759275722056508
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4235576802446682743
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 3996430257837350387
+            SubObjectId: 17595363790206932742
+            InstanceId: 15639465444146505217
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 15639465444146505217
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4235576802446682743
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 12492663936664339278
+  Name: "Mach"
+  Transform {
+    Location {
+      X: -666.488281
+      Y: 4328.02441
+      Z: 80.5211792
+    }
+    Rotation {
+      Pitch: 4.09811328e-05
+      Yaw: -15.6609802
+      Roll: -24.995697
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 3600735437760906937
+  ChildIds: 5849296438834793356
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 5849296438834793356
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12492663936664339278
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 7910868091737110219
+            SubObjectId: 17595363790206932742
+            InstanceId: 3600735437760906937
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 3600735437760906937
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12492663936664339278
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 11216252287255116253
+  Name: "Mach"
+  Transform {
+    Location {
+      X: -603.476563
+      Y: 4566.0459
+      Z: 65.2370605
+    }
+    Rotation {
+      Pitch: 4.09811328e-05
+      Yaw: -100.660645
+      Roll: -24.9960327
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 9468927692523607741
+  ChildIds: 10417665145565665735
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10417665145565665735
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11216252287255116253
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 12147858120032810135
+            SubObjectId: 17595363790206932742
+            InstanceId: 9468927692523607741
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 9468927692523607741
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11216252287255116253
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 10907978963648289062
+  Name: "Mach"
+  Transform {
+    Location {
+      X: -3134.19531
+      Y: 3689.35034
+      Z: 42.7540894
+    }
+    Rotation {
+      Yaw: 65.0004196
+      Roll: -24.9986572
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 1451686355315582283
+  ChildIds: 14861369977982951478
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14861369977982951478
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10907978963648289062
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 9940200221204773386
+            SubObjectId: 17595363790206932742
+            InstanceId: 1451686355315582283
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 1451686355315582283
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10907978963648289062
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 10045726351102960213
+  Name: "Mach"
+  Transform {
+    Location {
+      X: -3014.19531
+      Y: 3904.35083
+      Z: 58.038147
+    }
+    Rotation {
+      Pitch: 1.36603776e-05
+      Yaw: 149.999802
+      Roll: -24.9984131
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 12430212163582375253
+  ChildIds: 14414122369188826255
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14414122369188826255
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10045726351102960213
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 4124874432924543772
+            SubObjectId: 17595363790206932742
+            InstanceId: 12430212163582375253
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 12430212163582375253
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10045726351102960213
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 18117916526264427718
+  Name: "Mach"
+  Transform {
+    Location {
+      X: -3334.19531
+      Y: 4039.35132
+      Z: 46.7189331
+    }
+    Rotation {
+      Roll: -24.9992065
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 1841024701462530233
+  ChildIds: 3278712779984070379
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3278712779984070379
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18117916526264427718
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 14793061014006052144
+            SubObjectId: 17595363790206932742
+            InstanceId: 1841024701462530233
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 1841024701462530233
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18117916526264427718
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 14913883428191978784
+  Name: "Match Box"
+  Transform {
+    Location {
+      X: -2710.19922
+      Y: -635
+      Z: 88.0161743
+    }
+    Rotation {
+      Pitch: -4.6479187
+      Yaw: 80.827652
+      Roll: 0.0206875186
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 11254109887477305101
+  ChildIds: 2414796291835923559
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2414796291835923559
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14913883428191978784
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.80000007
+            Y: 3.7
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 10363660750545517443
+            SubObjectId: 6167910066172386003
+            InstanceId: 11254109887477305101
+            TemplateId: 9396911301117235627
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 11254109887477305101
+  Name: "Item - Matchbox"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14913883428191978784
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6167910066172386003
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -3.05175781e-05
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.80000007
+            Y: 3.6000011
+            Z: 0.7
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9396911301117235627
+    }
+  }
+}
+Objects {
+  Id: 9568437986827821842
+  Name: "Mach"
+  Transform {
+    Location {
+      X: -2565.19922
+      Y: -285
+      Z: 105
+    }
+    Rotation {
+      Yaw: 65.0002518
+      Roll: -24.9989014
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 7970124603774909830
+  ChildIds: 8800631414743088641
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8800631414743088641
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9568437986827821842
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 10067224821367145759
+            SubObjectId: 17595363790206932742
+            InstanceId: 7970124603774909830
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 7970124603774909830
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9568437986827821842
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 8233147427220528744
+  Name: "Mach"
+  Transform {
+    Location {
+      X: -2445.19922
+      Y: -70
+      Z: 110
+    }
+    Rotation {
+      Pitch: 1.36603776e-05
+      Yaw: 149.999832
+      Roll: -24.9986267
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 8154016067162190793
+  ChildIds: 3316682480646127767
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3316682480646127767
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8233147427220528744
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 13558361478396310895
+            SubObjectId: 17595363790206932742
+            InstanceId: 8154016067162190793
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 8154016067162190793
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8233147427220528744
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 16814125177761261735
+  Name: "Mach"
+  Transform {
+    Location {
+      X: -2765.19922
+      Y: 65
+      Z: 130
+    }
+    Rotation {
+      Roll: -24.9994202
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 18109566311582581181
+  ChildIds: 14590705029037534024
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14590705029037534024
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16814125177761261735
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 7668939231378279834
+            SubObjectId: 17595363790206932742
+            InstanceId: 18109566311582581181
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 18109566311582581181
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16814125177761261735
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
+  Id: 1212337998108539515
+  Name: "Mach"
+  Transform {
+    Location {
+      X: -2940.19922
+      Y: -185
+      Z: 125
+    }
+    Rotation {
+      Yaw: -50.000061
+      Roll: -24.999115
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18280386327441766706
+  ChildIds: 12277569815810828355
+  ChildIds: 16803295327207410895
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16803295327207410895
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1212337998108539515
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.1
+            Z: 1.19999981
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 5501466246449506228
+            SubObjectId: 17595363790206932742
+            InstanceId: 12277569815810828355
+            TemplateId: 1547873072103151062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 12277569815810828355
+  Name: "Item - Match"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1212337998108539515
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17595363790206932742
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Match"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.100000009
+            Y: 0.100000009
+            Z: 1.70000017
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 0.6
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1547873072103151062
+    }
+  }
+}
+Objects {
   Id: 11610572795804620756
   Name: "Lit Mach"
   Transform {
@@ -2829,7 +4610,7 @@ Objects {
 }
 Objects {
   Id: 11237134811868656311
-  Name: "Item - Lit Match"
+  Name: "Lit Match"
   Transform {
     Scale {
       X: 1
@@ -2838,6 +4619,12 @@ Objects {
     }
   }
   ParentId: 2855313206157644136
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
       key: 15439994944323740757
@@ -2847,21 +4634,14 @@ Objects {
           String: "Lit Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -2993,14 +4773,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -875.200195
-      Y: 3940
-      Z: 50
+      X: -576.486328
+      Y: 3887.59985
+      Z: 50.000061
     }
     Rotation {
       Pitch: 1.36603776e-05
       Yaw: 149.999832
-      Roll: -24.9988
+      Roll: -24.9987793
     }
     Scale {
       X: 1
