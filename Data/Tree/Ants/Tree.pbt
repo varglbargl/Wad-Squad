@@ -2777,6 +2777,10 @@ Objects {
             Roll: -5.83487272
           }
         }
+        Overrides {
+          Name: "cs:Size"
+          Float: 2
+        }
       }
     }
     TemplateAsset {

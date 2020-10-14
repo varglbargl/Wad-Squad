@@ -29,7 +29,7 @@ function displayItem(item)
   itemNameBox.text = item.name
   itemBackground.visibility = Visibility.INHERIT
 
-  local itemSize = item:GetWorldScale() / item.clientUserData["Size"] * 0.008
+  local itemSize = item:GetWorldScale() / item.clientUserData["Size"] * 0.03
   -- local itemSize = item:GetWorldScale() * 0.03
   currentItem = World.SpawnAsset(item.sourceTemplateId, {scale = itemSize})
 

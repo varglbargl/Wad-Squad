@@ -9,9 +9,9 @@ local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 -- local CAMERA_CONTAINER = script:GetCustomProperty("CameraContainer"):WaitForObject()
 -- local ORB = script:GetCustomProperty("Orb")
 
-local delay = 0.05
-local moveSpeed = 1000
-local gravityForce = 150
+local delay = 0.01
+local moveSpeed = 650
+local gravityForce = 200
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
@@ -69,7 +69,7 @@ end
 function rollThatWad(deltaTime)
   deltaTime = deltaTime or delay
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.New(0, 0, (wadSize - 1) * -gravityForce * deltaTime * 100)
+  local simulatedMass = Vector3.New(0, 0, (wadSize - 3.5) * -gravityForce * deltaTime * 100)
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -99,11 +99,16 @@ function rollThatWad(deltaTime)
     local lateralWadTorque = cameraForward * torqueToApply.x
     local combinedWadTorque = forwardWadTorque + lateralWadTorque
     local normalizedWadTorque = combinedWadTorque:GetNormalized()
-    finalWadTorque = normalizedWadTorque * moveSpeed / 3.5
+    finalWadTorque = normalizedWadTorque * moveSpeed / 2.5
   end
 
-  WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, deltaTime))
-  WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, deltaTime * 5))
+  print(finalWadImpulse.size)
+
+  WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, deltaTime / 2))
+  WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, deltaTime * 15))
+
+  print(WAD:GetVelocity().size)
+  print("\n\n")
 
   deltaTime = Task.Wait(delay)
 
@@ -181,8 +186,8 @@ function handleGrabberOverlap (trigger, object)
       wadSize = wadSize + itemSize / 50
 
       -- old way of scaling the wad up
-      GRABBER:SetWorldScale(Vector3.ONE * wadSize * 1.3)
-      MESH:SetWorldScale(Vector3.ONE * wadSize)
+      GRABBER:SetWorldScale(Vector3.ONE * wadSize * 0.375)
+      MESH:SetWorldScale(Vector3.ONE * wadSize * 0.3)
 
       -- a thing i just wish wasn't broken
       -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)

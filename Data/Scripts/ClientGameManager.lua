@@ -1,12 +1,12 @@
 ﻿local WAD = script:GetCustomProperty("Wad")
-local WAD_CAMERA_FOLLOW = script:GetCustomProperty("WadFollowCamera"):WaitForObject()
+local CAMERA_FOLLOW = script:GetCustomProperty("CameraFollow"):WaitForObject()
 local ITEMS = script:GetCustomProperty("Items"):WaitForObject()
 local UI_MANAGER = script:GetCustomProperty("UIManager")
 local UTILS = require(script:GetCustomProperty("Utils"))
 
 local clientPlayer = Game.GetLocalPlayer()
 local clientWad = nil
-local spawnHeight = 1600
+local spawnHeight = 600
 
 function handleJoined(player)
   if player.id ~= clientPlayer.id then return end
@@ -19,7 +19,7 @@ function handleJoined(player)
   local wadControl = clientWad:GetCustomProperty("WadControl"):WaitForObject()
 
   -- lol thank you Task.Spawn
-  Task.Spawn(function() WAD_CAMERA_FOLLOW.context.handleWadExists(clientWad.id) end)
+  Task.Spawn(function() CAMERA_FOLLOW.context.handleWadExists(clientWad.id) end)
 
   Task.Spawn(function() wadControl.context.issueWad(player) end)
 
@@ -43,7 +43,7 @@ function regenerateAllItems()
   Task.Wait(30)
 
   UTILS.traverseHierarchy(ITEMS, function (item)
-    if item:IsA("CoreMesh") and item.visibility == Visibility.FORCE_OFF then
+    if item:GetCustomProperty("Size") and item.visibility == Visibility.FORCE_OFF then
       item.visibility = Visibility.INHERIT
     end
   end)

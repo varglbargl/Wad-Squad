@@ -4392,21 +4392,14 @@ Objects {
           String: "Lit Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }

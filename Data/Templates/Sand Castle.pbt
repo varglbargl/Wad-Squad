@@ -70,6 +70,14 @@
               Id: 15835672292391321145
             }
           }
+          Overrides {
+            Name: "ma:Building_WallOuter:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:vtile"
+            Float: 0.5
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -122,6 +130,22 @@
             AssetReference {
               Id: 15835672292391321145
             }
+          }
+          Overrides {
+            Name: "ma:Shared_Trim:utile"
+            Float: 1
+          }
+          Overrides {
+            Name: "ma:Shared_Trim:vtile"
+            Float: 1
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:vtile"
+            Float: 0.5
           }
         }
         Collidable_v2 {
@@ -176,6 +200,14 @@
               Id: 15835672292391321145
             }
           }
+          Overrides {
+            Name: "ma:Building_WallOuter:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:vtile"
+            Float: 0.5
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -229,6 +261,14 @@
               Id: 15835672292391321145
             }
           }
+          Overrides {
+            Name: "ma:Building_WallOuter:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:vtile"
+            Float: 0.5
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -279,6 +319,18 @@
               Id: 15835672292391321145
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.5
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -326,6 +378,18 @@
               Id: 15835672292391321145
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.5
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -372,6 +436,18 @@
             AssetReference {
               Id: 15835672292391321145
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.5
           }
         }
         Collidable_v2 {
@@ -650,6 +726,22 @@
               Id: 15835672292391321145
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:vtile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:vtile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:utile"
+            Float: 0.5
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -702,6 +794,22 @@
             AssetReference {
               Id: 15835672292391321145
             }
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:vtile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:vtile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:utile"
+            Float: 0.5
           }
         }
         Collidable_v2 {
@@ -756,6 +864,22 @@
               Id: 15835672292391321145
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:vtile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:vtile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:utile"
+            Float: 0.5
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -809,6 +933,22 @@
               Id: 15835672292391321145
             }
           }
+          Overrides {
+            Name: "ma:Building_WallInner:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallInner:vtile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:vtile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Building_WallOuter:utile"
+            Float: 0.5
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -856,6 +996,18 @@
               Id: 15835672292391321145
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.5
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -902,6 +1054,18 @@
             AssetReference {
               Id: 15835672292391321145
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.5
           }
         }
         Collidable_v2 {

@@ -24,11 +24,6 @@ Objects {
   ChildIds: 15471502460057071864
   ChildIds: 7085708660934895409
   ChildIds: 13253915032246250060
-  ChildIds: 630047146617909250
-  ChildIds: 11487429659696817522
-  ChildIds: 6604031934418992079
-  ChildIds: 15022642990886739890
-  ChildIds: 14192607672325540053
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -41,15 +36,150 @@ Objects {
   }
 }
 Objects {
+  Id: 13253915032246250060
+  Name: "Level"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 10176613551094026796
+  ChildIds: 1894176368964430996
+  ChildIds: 13281013145643894029
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 13281013145643894029
+  Name: "House"
+  Transform {
+    Location {
+      X: 1340.00012
+      Y: -1845
+      Z: 440
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13253915032246250060
+  ChildIds: 11644041400775637754
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 11644041400775637754
+  Name: "Craftsman House 01"
+  Transform {
+    Location {
+      X: 78485
+      Y: -2855
+      Z: 1880
+    }
+    Rotation {
+      Yaw: -90.0000229
+    }
+    Scale {
+      X: 12.5999985
+      Y: 12.5999985
+      Z: 12.5999985
+    }
+  }
+  ParentId: 13281013145643894029
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Craftsman House 01"
+  }
+  InstanceHistory {
+    SelfId: 11644041400775637754
+    SubobjectId: 6777927257701341868
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 1894176368964430996
+  Name: "Yard"
+  Transform {
+    Location {
+      X: -5712.5
+      Y: 8790.00098
+      Z: -260.000092
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13253915032246250060
+  ChildIds: 2106668132454366082
+  ChildIds: 4522653632451730043
+  ChildIds: 1580012088877614752
+  ChildIds: 5889750697227244870
+  ChildIds: 18208122035096665581
+  ChildIds: 630047146617909250
+  ChildIds: 11487429659696817522
+  ChildIds: 6604031934418992079
+  ChildIds: 15022642990886739890
+  ChildIds: 14192607672325540053
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
   Id: 14192607672325540053
   Name: "Bush 02"
   Transform {
     Location {
-      X: -44450
-      Y: -11748.8848
+      X: -21882.5
+      Y: -19768.8848
+      Z: 700
     }
     Rotation {
-      Yaw: 18.4525299
+      Yaw: 18.4525375
     }
     Scale {
       X: 30.0000038
@@ -57,7 +187,7 @@ Objects {
       Z: 30.0000038
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 1894176368964430996
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -84,8 +214,9 @@ Objects {
   Name: "Bush 02"
   Transform {
     Location {
-      X: -44450
-      Y: 275
+      X: -21882.5
+      Y: -7745
+      Z: 700
     }
     Rotation {
       Yaw: 45.0000114
@@ -96,7 +227,7 @@ Objects {
       Z: 30.0000038
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 1894176368964430996
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -123,11 +254,12 @@ Objects {
   Name: "Craftsman Chair 01"
   Transform {
     Location {
-      X: -24300
-      Y: 9300
+      X: -1732.5
+      Y: 1280
+      Z: 700
     }
     Rotation {
-      Yaw: -90
+      Yaw: -89.9999924
     }
     Scale {
       X: 26
@@ -135,7 +267,7 @@ Objects {
       Z: 30
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 1894176368964430996
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Cushion:id"
@@ -215,7 +347,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 1894176368964430996
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -233,14 +365,22 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -24450
-            Y: 4325
-            Z: 50
+            X: -1882.5
+            Y: -3695
+            Z: 750
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 29.9999981
+            Y: 29.9999981
+            Z: 29.9999981
           }
         }
       }
@@ -255,9 +395,9 @@ Objects {
   Name: "Fantasy Human Gal 1"
   Transform {
     Location {
-      X: -21200
-      Y: 9250
-      Z: 3300
+      X: 1367.5
+      Y: 1230
+      Z: 4000
     }
     Rotation {
     }
@@ -267,7 +407,7 @@ Objects {
       Z: 32
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 1894176368964430996
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -293,134 +433,6 @@ Objects {
         ShouldLoop: true
       }
     }
-  }
-}
-Objects {
-  Id: 13253915032246250060
-  Name: "Level"
-  Transform {
-    Location {
-      X: -15515
-      Y: -2615
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 10176613551094026796
-  ChildIds: 1894176368964430996
-  ChildIds: 13281013145643894029
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 13281013145643894029
-  Name: "House"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13253915032246250060
-  ChildIds: 11644041400775637754
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 11644041400775637754
-  Name: "Craftsman House 01"
-  Transform {
-    Location {
-      X: 78485
-      Y: -2855
-      Z: 1880
-    }
-    Rotation {
-      Yaw: -90.0000229
-    }
-    Scale {
-      X: 12.5999985
-      Y: 12.5999985
-      Z: 12.5999985
-    }
-  }
-  ParentId: 13281013145643894029
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Craftsman House 01"
-  }
-  InstanceHistory {
-    SelfId: 11644041400775637754
-    SubobjectId: 6777927257701341868
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-    WasRoot: true
-  }
-}
-Objects {
-  Id: 1894176368964430996
-  Name: "Yard"
-  Transform {
-    Location {
-      X: -7052.5
-      Y: 10635
-      Z: -700
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13253915032246250060
-  ChildIds: 2106668132454366082
-  ChildIds: 4522653632451730043
-  ChildIds: 1580012088877614752
-  ChildIds: 5889750697227244870
-  ChildIds: 18208122035096665581
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
   }
 }
 Objects {
@@ -4003,14 +4015,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Yaw: 30.0000324
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
           }
         }
       }
@@ -8581,9 +8585,9 @@ Objects {
   Name: "Ground"
   Transform {
     Location {
-      X: 15515
-      Y: 2615
-      Z: -50
+      X: 16855
+      Y: 770.000366
+      Z: 390
     }
     Rotation {
     }
@@ -8640,16 +8644,13 @@ Objects {
   Name: "Items"
   Transform {
     Location {
-      X: 550
-      Y: 1600
-      Z: 55
     }
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4781671109827199097
@@ -8669,6 +8670,9 @@ Objects {
   Name: "House"
   Transform {
     Location {
+      X: 17405
+      Y: 2370
+      Z: 495
     }
     Rotation {
     }
@@ -8694,6 +8698,9 @@ Objects {
   Name: "Yard"
   Transform {
     Location {
+      X: 17405
+      Y: 2370
+      Z: 495
     }
     Rotation {
     }
@@ -16101,8 +16108,8 @@ Objects {
   Name: "Wad Cam (client)"
   Transform {
     Location {
-      X: -500
-      Z: 150
+      X: -150
+      Z: 50
     }
     Rotation {
     }
@@ -16121,7 +16128,7 @@ Objects {
   }
   Camera {
     UseAsDefault: true
-    InitialDistance: 400
+    InitialDistance: 100
     MinDistance: 300
     MaxDistance: 600
     PositionOffset {
@@ -16232,7 +16239,7 @@ Objects {
       }
     }
     Overrides {
-      Name: "cs:WadFollowCamera"
+      Name: "cs:CameraFollow"
       ObjectReference {
         SelfId: 14416052637792585961
       }
@@ -16264,7 +16271,7 @@ Objects {
 }
 Objects {
   Id: 14416052637792585961
-  Name: "WadFollowCamera"
+  Name: "CameraFollow"
   Transform {
     Location {
     }
@@ -16858,16 +16865,15 @@ Objects {
   Name: "Spawn Zone"
   Transform {
     Location {
-      X: -35600
-      Y: -1295
-      Z: -440
+      X: -5623.5
+      Y: -157.5
     }
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4781671109827199097

@@ -20,7 +20,7 @@
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
-            Float: 0.6
+            Float: 1.8
           }
           Overrides {
             Name: "cs:PickupSound"
@@ -125,7 +125,7 @@
           Light {
             Temperature: 6500
             LocalLight {
-              AttenuationRadius: 600
+              AttenuationRadius: 200
               PointLight {
                 SourceRadius: 20
                 SoftSourceRadius: 20

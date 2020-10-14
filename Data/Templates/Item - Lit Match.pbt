@@ -118,7 +118,7 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         Light {
-          Intensity: 20
+          Intensity: 10
           Color {
             R: 1
             G: 0.419068098
@@ -131,7 +131,7 @@
           Light {
             Temperature: 6500
             LocalLight {
-              AttenuationRadius: 400
+              AttenuationRadius: 200
               PointLight {
                 SourceRadius: 20
                 SoftSourceRadius: 20
