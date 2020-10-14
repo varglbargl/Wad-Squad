@@ -1,6 +1,6 @@
 ﻿Assets {
   Id: 16607685206915228970
-  Name: "Item Box"
+  Name: "Pickup Box"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {

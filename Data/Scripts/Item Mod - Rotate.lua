@@ -1,3 +1,4 @@
-﻿local item = script.parent:FindChildByType("CoreMesh")
+﻿local SPEED = script:GetCustomProperty("Speed")
+local item = script.parent:FindChildByType("CoreMesh")
 
-item:RotateContinuous(Vector3.New(0, 0, 2))
+item:RotateContinuous(SPEED)

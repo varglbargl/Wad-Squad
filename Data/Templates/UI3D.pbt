@@ -18,7 +18,7 @@
         ParentId: 15969670120281364747
         ChildIds: 18434294550786052464
         ChildIds: 6180192702779927990
-        ChildIds: 2923576045290845656
+        ChildIds: 15570060388663960721
         ChildIds: 13830460851608690043
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -53,7 +53,7 @@
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
+          Value: "mc:evisibilitysetting:inheritfromparent"
         }
         Folder {
           IsGroup: true
@@ -367,11 +367,11 @@
         }
       }
       Objects {
-        Id: 2923576045290845656
+        Id: 15570060388663960721
         Name: "Item Background"
         Transform {
           Location {
-            X: 49.7
+            X: 49.5
             Y: -185.315811
             Z: 113.504
           }
@@ -387,7 +387,7 @@
           }
         }
         ParentId: 3781350784924868256
-        ChildIds: 6371253168536327705
+        ChildIds: 3117422004781343146
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -421,8 +421,8 @@
         }
       }
       Objects {
-        Id: 6371253168536327705
-        Name: "Item Background"
+        Id: 3117422004781343146
+        Name: "Speech Bubble"
         Transform {
           Location {
             X: -21.9258118
@@ -438,7 +438,7 @@
             Z: 0.263813764
           }
         }
-        ParentId: 2923576045290845656
+        ParentId: 15570060388663960721
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -457,7 +457,7 @@
           Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
-          Value: "mc:evisibilitysetting:forceon"
+          Value: "mc:evisibilitysetting:inheritfromparent"
         }
         CoreMesh {
           MeshAsset {
@@ -477,15 +477,15 @@
         Transform {
           Location {
             X: 50
-            Y: -310
-            Z: 100
+            Y: -305
+            Z: 106.781281
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 1.30000007
+            Y: 1.30000007
+            Z: 1.30000007
           }
         }
         ParentId: 3781350784924868256

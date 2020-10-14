@@ -193,6 +193,10 @@ Objects {
   ChildIds: 1579764252028645994
   ChildIds: 11086410401306048209
   ChildIds: 17438912622870677311
+  ChildIds: 4424687461639986595
+  ChildIds: 1436175071900775296
+  ChildIds: 5008411848582469400
+  ChildIds: 7519198889842815352
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -201,6 +205,711 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 7519198889842815352
+  Name: "Claw Hammer"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5889750697227244870
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 11161468861786088888
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Claw Hammer"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4943.60645
+            Y: -13.381897
+            Z: 789.705566
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.88851774
+            Y: 1.88851774
+            Z: 1.88851774
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -86.049324
+            Yaw: -1.46519506
+            Roll: 37.4691582
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2166862301265764358
+    }
+  }
+}
+Objects {
+  Id: 5008411848582469400
+  Name: "Ant Hill"
+  Transform {
+    Location {
+      X: -11909.7324
+      Y: -4300.60938
+      Z: 636.873
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5889750697227244870
+  ChildIds: 13520691051650694309
+  ChildIds: 2393030460859209429
+  ChildIds: 11607301933963370205
+  ChildIds: 15167205617681518677
+  ChildIds: 18030768213460674576
+  ChildIds: 8290086714911352096
+  ChildIds: 6758037086993503890
+  ChildIds: 3632576062727837695
+  ChildIds: 5203992452951192255
+  ChildIds: 4448320082065517352
+  ChildIds: 11125405441304346942
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 11125405441304346942
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: -41.8183594
+      Y: -38.4238281
+      Z: 225.802979
+    }
+    Rotation {
+      Yaw: 120.611465
+    }
+    Scale {
+      X: 0.103317946
+      Y: 0.103317946
+      Z: 0.103317946
+    }
+  }
+  ParentId: 5008411848582469400
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15835672292391321145
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2493602085652605152
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4448320082065517352
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: 11.0878906
+      Y: -62.3398438
+      Z: 234.658813
+    }
+    Rotation {
+      Yaw: 120.611465
+    }
+    Scale {
+      X: 0.125150368
+      Y: 0.125150368
+      Z: 0.125150368
+    }
+  }
+  ParentId: 5008411848582469400
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15835672292391321145
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2493602085652605152
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5203992452951192255
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: -34.578125
+      Y: 34.6816406
+      Z: 229.003845
+    }
+    Rotation {
+      Yaw: 29.321106
+    }
+    Scale {
+      X: 0.0905529112
+      Y: 0.0905529112
+      Z: 0.0905529112
+    }
+  }
+  ParentId: 5008411848582469400
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15835672292391321145
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2493602085652605152
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3632576062727837695
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: -1.32226563
+      Y: -10.4951172
+      Z: 237.41394
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.862507463
+      Y: 0.862507463
+      Z: 0.135163724
+    }
+  }
+  ParentId: 5008411848582469400
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6758037086993503890
+  Name: "Rock Pile 001"
+  Transform {
+    Location {
+      X: -2.08007813
+      Y: 4.90087891
+      Z: 231.988831
+    }
+    Rotation {
+      Yaw: -123.525192
+    }
+    Scale {
+      X: 0.765318573
+      Y: 0.765318573
+      Z: 0.765318573
+    }
+  }
+  ParentId: 5008411848582469400
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15835672292391321145
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9754950629206105799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8290086714911352096
+  Name: "Rock 01"
+  Transform {
+    Location {
+      X: 43.9765625
+      Y: -23.7436523
+      Z: 227.980225
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.0979556814
+      Y: 0.0979556814
+      Z: 0.0979556814
+    }
+  }
+  ParentId: 5008411848582469400
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15835672292391321145
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8350145896913383097
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 18030768213460674576
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: 12.9882813
+      Y: 39.8964844
+      Z: 224.102905
+    }
+    Rotation {
+      Yaw: 120.611465
+    }
+    Scale {
+      X: 0.125150368
+      Y: 0.125150368
+      Z: 0.125150368
+    }
+  }
+  ParentId: 5008411848582469400
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15835672292391321145
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2493602085652605152
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15167205617681518677
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: 39.5722656
+      Y: 24.0698242
+      Z: 214.306152
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.220528334
+      Y: 0.220528334
+      Z: 0.220528334
+    }
+  }
+  ParentId: 5008411848582469400
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15835672292391321145
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2493602085652605152
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11607301933963370205
+  Name: "Rock 01"
+  Transform {
+    Location {
+      X: -52.5253906
+      Y: 21.140625
+      Z: 225.448181
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.141979605
+      Y: 0.141979605
+      Z: 0.141979605
+    }
+  }
+  ParentId: 5008411848582469400
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15835672292391321145
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8350145896913383097
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2393030460859209429
+  Name: "Ring - Thick"
+  Transform {
+    Location {
+      X: -2.0234375
+      Y: -11.0214844
+      Z: 230.368652
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1.76762605
+    }
+  }
+  ParentId: 5008411848582469400
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15835672292391321145
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1691350013116986910
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13520691051650694309
+  Name: "Hill 05"
+  Transform {
+    Location {
+      X: 26.7382813
+      Y: 21.3388672
+      Z: -6.10351563e-05
+    }
+    Rotation {
+      Yaw: -24.791481
+    }
+    Scale {
+      X: 1
+      Y: 0.633559585
+      Z: 2.41104174
+    }
+  }
+  ParentId: 5008411848582469400
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15835672292391321145
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9434161903014384267
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1436175071900775296
+  Name: "Spell Book"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5889750697227244870
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1678512071951637095
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Spell Book"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -9875
+            Y: -4425
+            Z: 810
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -67.8645248
+            Yaw: 117.000427
+            Roll: -92.5605774
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15059910869382292734
+    }
+  }
+}
+Objects {
+  Id: 4424687461639986595
+  Name: "Magic Swirl Element Volume"
+  Transform {
+    Location {
+      X: -8820
+      Y: -5170
+      Z: 805
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.70000029
+      Y: 4.50000143
+      Z: 3
+    }
+  }
+  ParentId: 5889750697227244870
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 16.2052784
+    }
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 2
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 6035976214873079857
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
   }
 }
 Objects {
@@ -465,7 +1174,7 @@ Objects {
   Name: "Checker Board"
   Transform {
     Location {
-      X: -6540
+      X: -6415
       Y: -697.174561
       Z: 630.383118
     }
@@ -714,23 +1423,23 @@ Objects {
           Vector {
             X: -8440
             Y: -2640
-            Z: 935
+            Z: 525
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: -62.3679161
-            Yaw: -160.316437
-            Roll: 158.01207
+            Pitch: -11.0993347
+            Yaw: -9.16067505
+            Roll: -2.62518311
           }
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1.4142859
-            Y: 1.4142859
-            Z: 1.4142859
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
           }
         }
       }
@@ -763,7 +1472,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -8965
-            Y: -3090
+            Y: -3715
             Z: 825
           }
         }
@@ -771,91 +1480,17 @@ Objects {
           Name: "Rotation"
           Rotator {
             Pitch: 6.83018879e-06
-            Yaw: 179.999954
-            Roll: 99.9999847
+            Yaw: -3.05175781e-05
+            Roll: 84.9999237
           }
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1.80000007
-            Y: 1.80000007
-            Z: 1.80000007
+            X: 1.80000019
+            Y: 1.80000019
+            Z: 1.80000019
           }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 6874894004912845534
-      value {
-        Overrides {
-          Name: "EnableCameraCollision"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10437075825040822741
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Y: -4.99999952
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Roll: 0.466766179
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 13268204437557737595
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1.94882268e-05
-            Y: -7.96269274
-            Z: 26.8022518
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: 4.09811328e-05
-            Yaw: 1.39911992e-06
-            Roll: 54.4150314
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 13279660049794496503
-      value {
-        Overrides {
-          Name: "EnableCameraCollision"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15035923191988327335
-      value {
-        Overrides {
-          Name: "EnableCameraCollision"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15289506591397059754
-      value {
-        Overrides {
-          Name: "EnableCameraCollision"
-          Bool: true
         }
       }
     }
@@ -2821,6 +3456,7 @@ Objects {
   }
   ParentId: 5889750697227244870
   ChildIds: 2641993394007601048
+  ChildIds: 8064573163790005108
   ChildIds: 6409897985625080503
   ChildIds: 4360418364855033081
   ChildIds: 15236228665991152916
@@ -2972,11 +3608,74 @@ Objects {
       IsEnemyCollisionEnabled: true
     }
     DisableCastShadows: true
-    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
       }
+    }
+  }
+}
+Objects {
+  Id: 8064573163790005108
+  Name: "Decal Fantasy Carved 01"
+  Transform {
+    Location {
+      X: -583.333374
+      Y: -2060
+      Z: 483.332825
+    }
+    Rotation {
+      Pitch: -4.0199585
+      Yaw: 4.99376583
+      Roll: 1.7204144
+    }
+    Scale {
+      X: 3
+      Y: 3
+      Z: 0.3
+    }
+  }
+  ParentId: 9333736845516856555
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 1
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 4.0162015
+    }
+    Overrides {
+      Name: "bp:Color Emissive"
+      Color {
+        R: 1
+        G: 0.0600000024
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.76000005
+        G: 0.34602651
+        B: 0.0949999616
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2266962469300946437
+    }
+    TeamSettings {
+    }
+    DecalBP {
     }
   }
 }
@@ -5294,6 +5993,9 @@ Objects {
   ChildIds: 18100891060822925486
   ChildIds: 6306463691027649471
   ChildIds: 2558750583955192813
+  ChildIds: 17937304508656776442
+  ChildIds: 18280386327441766706
+  ChildIds: 9770451611120769674
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5302,6 +6004,3324 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 9770451611120769674
+  Name: "Ants"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11077266522972784798
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Ants"
+  }
+}
+Objects {
+  Id: 18280386327441766706
+  Name: "Matches"
+  Transform {
+    Location {
+      X: -490.101746
+      Y: -1795.43201
+      Z: 650
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11077266522972784798
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Matches"
+  }
+}
+Objects {
+  Id: 17937304508656776442
+  Name: "Bolts"
+  Transform {
+    Location {
+      X: 2347.9707
+      Y: -1532.07837
+      Z: 624.389099
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11077266522972784798
+  ChildIds: 416289918673193258
+  ChildIds: 17284130169768548594
+  ChildIds: 2848150815614668706
+  ChildIds: 7250956646792040235
+  ChildIds: 13036637676953805806
+  ChildIds: 16512009969322423839
+  ChildIds: 14354137157280271345
+  ChildIds: 13423809104370157191
+  ChildIds: 8099142440502076787
+  ChildIds: 2657624540884003580
+  ChildIds: 7310240334662045468
+  ChildIds: 514267084946250067
+  ChildIds: 1548702261557225281
+  ChildIds: 9978082634014942687
+  ChildIds: 4699266714540020942
+  ChildIds: 7037415243915305476
+  ChildIds: 13046500388463630879
+  ChildIds: 17233004223664943856
+  ChildIds: 2251435079161978098
+  ChildIds: 11755917311050225662
+  ChildIds: 15121791309738345120
+  ChildIds: 13823332308649692460
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 13823332308649692460
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 1981.72754
+      Y: 566.646484
+      Z: 265.610901
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 10812162920792365079
+  ChildIds: 6224334310635711123
+  ChildIds: 507886111849190988
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 507886111849190988
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13823332308649692460
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 15699627950450716661
+            SubObjectId: 18057974797809494801
+            InstanceId: 10812162920792365079
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 6224334310635711123
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13823332308649692460
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        X: 2
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 10812162920792365079
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13823332308649692460
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 15121791309738345120
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 1981.72754
+      Y: 362.532959
+      Z: 205.610901
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 5054214460592344682
+  ChildIds: 16126506669285715807
+  ChildIds: 8636487929220549641
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8636487929220549641
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15121791309738345120
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 18204990109969811031
+            SubObjectId: 18057974797809494801
+            InstanceId: 5054214460592344682
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 16126506669285715807
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15121791309738345120
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        X: -2
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 5054214460592344682
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15121791309738345120
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 11755917311050225662
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 1981.72754
+      Y: 986.646484
+      Z: 265.610901
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 6955526861660686590
+  ChildIds: 9144621138345493998
+  ChildIds: 5294079242757059955
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 5294079242757059955
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11755917311050225662
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 15880774863265387973
+            SubObjectId: 18057974797809494801
+            InstanceId: 6955526861660686590
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 9144621138345493998
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11755917311050225662
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        X: 2
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 6955526861660686590
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11755917311050225662
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 2251435079161978098
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 1981.72754
+      Y: 782.532959
+      Z: 205.610901
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 12029876172037612963
+  ChildIds: 6106044277124338812
+  ChildIds: 10882726323452349775
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10882726323452349775
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2251435079161978098
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 14746533149636206517
+            SubObjectId: 18057974797809494801
+            InstanceId: 12029876172037612963
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 6106044277124338812
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2251435079161978098
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        X: -2
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 12029876172037612963
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2251435079161978098
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 17233004223664943856
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 1981.72754
+      Y: 1396.64648
+      Z: 265.610901
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 8127622239259261852
+  ChildIds: 16133583627031950156
+  ChildIds: 1816500039230862492
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 1816500039230862492
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17233004223664943856
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 12467700976308926028
+            SubObjectId: 18057974797809494801
+            InstanceId: 8127622239259261852
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 16133583627031950156
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17233004223664943856
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        X: 2
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 8127622239259261852
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17233004223664943856
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 13046500388463630879
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 1981.72754
+      Y: 1192.53296
+      Z: 205.610901
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 9457915952447886004
+  ChildIds: 13294090914981239628
+  ChildIds: 3404959283801213199
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3404959283801213199
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13046500388463630879
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 3437023680371453795
+            SubObjectId: 18057974797809494801
+            InstanceId: 9457915952447886004
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 13294090914981239628
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13046500388463630879
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        X: -2
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 9457915952447886004
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13046500388463630879
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 7037415243915305476
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 1981.72754
+      Y: 1586.64648
+      Z: 205.610901
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 17988796895505002000
+  ChildIds: 15261407549777767179
+  ChildIds: 6036333591318439084
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 6036333591318439084
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7037415243915305476
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 5162108650612924518
+            SubObjectId: 18057974797809494801
+            InstanceId: 17988796895505002000
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 15261407549777767179
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7037415243915305476
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        X: 2
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 17988796895505002000
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7037415243915305476
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 4699266714540020942
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 1981.72754
+      Y: 1790.76
+      Z: 265.610901
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 382996052591938925
+  ChildIds: 6985612857310447371
+  ChildIds: 10366872386869050590
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10366872386869050590
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4699266714540020942
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 10053262566923470832
+            SubObjectId: 18057974797809494801
+            InstanceId: 382996052591938925
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 6985612857310447371
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4699266714540020942
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        X: -2
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 382996052591938925
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4699266714540020942
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 9978082634014942687
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: -1002.44238
+      Y: 3308.34424
+      Z: 0.000122070313
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 2414855425111929977
+  ChildIds: 15180948344948548972
+  ChildIds: 14951655179408090820
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14951655179408090820
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9978082634014942687
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 1090544141464985895
+            SubObjectId: 18057974797809494801
+            InstanceId: 2414855425111929977
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 15180948344948548972
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9978082634014942687
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 2414855425111929977
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9978082634014942687
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 1548702261557225281
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 184.174805
+      Y: 1443.15234
+      Z: 0.000122070313
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 18415394306953573225
+  ChildIds: 4577889464088552143
+  ChildIds: 2242545482157679546
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2242545482157679546
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1548702261557225281
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 6497888383588938908
+            SubObjectId: 18057974797809494801
+            InstanceId: 18415394306953573225
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 4577889464088552143
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1548702261557225281
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 18415394306953573225
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1548702261557225281
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 514267084946250067
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: -275.294922
+      Y: 2493.44263
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 977971136320707215
+  ChildIds: 11725862761529281558
+  ChildIds: 7340832884087426709
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 7340832884087426709
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 514267084946250067
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 16024312048283703424
+            SubObjectId: 18057974797809494801
+            InstanceId: 977971136320707215
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 11725862761529281558
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 514267084946250067
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 977971136320707215
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 514267084946250067
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 7310240334662045468
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: -423.724609
+      Y: 2989.10352
+      Z: -0.000122070313
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 10254090999530070581
+  ChildIds: 11895085756656119561
+  ChildIds: 968677955268789272
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 968677955268789272
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7310240334662045468
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 8872076228369707646
+            SubObjectId: 18057974797809494801
+            InstanceId: 10254090999530070581
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 11895085756656119561
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7310240334662045468
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 10254090999530070581
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7310240334662045468
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 2657624540884003580
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: -148.342773
+      Y: 2827.05029
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 8037805243571713583
+  ChildIds: 13426138491308978550
+  ChildIds: 6091404024708554645
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 6091404024708554645
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2657624540884003580
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 10828877026717871705
+            SubObjectId: 18057974797809494801
+            InstanceId: 8037805243571713583
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 13426138491308978550
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2657624540884003580
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 8037805243571713583
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2657624540884003580
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 8099142440502076787
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: -20.1035156
+      Y: -605.751
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 12104103002032837449
+  ChildIds: 17562792413649162817
+  ChildIds: 7189861357994216350
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 7189861357994216350
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8099142440502076787
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 3058721703126254237
+            SubObjectId: 18057974797809494801
+            InstanceId: 12104103002032837449
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 17562792413649162817
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8099142440502076787
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 12104103002032837449
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8099142440502076787
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 13423809104370157191
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 839.060547
+      Y: 1196.17188
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 3792344743669739551
+  ChildIds: 5424136927099592585
+  ChildIds: 15216866065185437264
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15216866065185437264
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13423809104370157191
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 6547073291306481250
+            SubObjectId: 18057974797809494801
+            InstanceId: 3792344743669739551
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 5424136927099592585
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13423809104370157191
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 3792344743669739551
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13423809104370157191
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 14354137157280271345
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: -163.401367
+      Y: 2106.3833
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 10921949936719732386
+  ChildIds: 2736653393304075187
+  ChildIds: 2069607479839252149
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2069607479839252149
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14354137157280271345
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 4782064990942569608
+            SubObjectId: 18057974797809494801
+            InstanceId: 10921949936719732386
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 2736653393304075187
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14354137157280271345
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 10921949936719732386
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14354137157280271345
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 16512009969322423839
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 724.810547
+      Y: 1790.76
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 1937384183194588075
+  ChildIds: 3375441820827886474
+  ChildIds: 14591830459787299676
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14591830459787299676
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16512009969322423839
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 11122980462124258231
+            SubObjectId: 18057974797809494801
+            InstanceId: 1937384183194588075
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 3375441820827886474
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16512009969322423839
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 1937384183194588075
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16512009969322423839
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 13036637676953805806
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 724.810547
+      Y: 252.174316
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 1167751848797987987
+  ChildIds: 9838188396974841261
+  ChildIds: 8328521351967368314
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8328521351967368314
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13036637676953805806
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 8066568106531658511
+            SubObjectId: 18057974797809494801
+            InstanceId: 1167751848797987987
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 9838188396974841261
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13036637676953805806
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 1167751848797987987
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13036637676953805806
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 7250956646792040235
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 520.913086
+      Y: 707.425293
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 14645497700125310049
+  ChildIds: 12370402804690178247
+  ChildIds: 8034280305729794650
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8034280305729794650
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7250956646792040235
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 15879177742740842881
+            SubObjectId: 18057974797809494801
+            InstanceId: 14645497700125310049
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 12370402804690178247
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7250956646792040235
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 14645497700125310049
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7250956646792040235
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 2848150815614668706
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 82.6738281
+      Y: 467.615723
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 7524341282003784069
+  ChildIds: 66954393087881497
+  ChildIds: 7063454818818307230
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 7063454818818307230
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2848150815614668706
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 4052749154304130966
+            SubObjectId: 18057974797809494801
+            InstanceId: 7524341282003784069
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 66954393087881497
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2848150815614668706
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 7524341282003784069
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2848150815614668706
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.469034225
+            Y: 0.469034225
+            Z: 0.875616968
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 17284130169768548594
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+      X: 182.420898
+      Y: 204.603271
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 13006607433067344446
+  ChildIds: 9294891113925620482
+  ChildIds: 6479952107303431816
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 6479952107303431816
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17284130169768548594
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 11418281306289925021
+            SubObjectId: 18057974797809494801
+            InstanceId: 13006607433067344446
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 9294891113925620482
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17284130169768548594
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 13006607433067344446
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17284130169768548594
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
+  }
+}
+Objects {
+  Id: 416289918673193258
+  Name: "Hex Bolt"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17937304508656776442
+  ChildIds: 14622516191839710741
+  ChildIds: 1719941213519376593
+  ChildIds: 16519561823012166742
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16519561823012166742
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 416289918673193258
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.595366657
+            Y: 0.595366657
+            Z: 0.926418066
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 3718353103985686033
+            SubObjectId: 18057974797809494801
+            InstanceId: 14622516191839710741
+            TemplateId: 17092464573292465934
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 1719941213519376593
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 416289918673193258
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 14622516191839710741
+  Name: "Hex Bolt"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 416289918673193258
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18057974797809494801
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hex Bolt"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17092464573292465934
+    }
   }
 }
 Objects {
@@ -5338,7 +9358,7 @@ Objects {
   Name: "Checkers"
   Transform {
     Location {
-      X: 1232.26074
+      X: 1359.69824
       Y: 893.729736
       Z: 586.948181
     }
@@ -8630,8 +12650,9 @@ Objects {
     TeamSettings {
     }
     AudioBP {
+      AutoPlay: true
       Repeat: true
-      Pitch: 400
+      Pitch: 500
       Volume: 1
       Falloff: 3600
       Radius: 400
@@ -8782,8 +12803,7 @@ Objects {
   Control {
     Width: 296
     Height: 80
-    UIX: 13.773592
-    UIY: 127.60759
+    UIY: 50
     RenderTransformPivot {
       Anchor {
         Value: "mc:euianchor:middlecenter"
@@ -8889,8 +12909,8 @@ Objects {
   Control {
     Width: 250
     Height: 65
-    UIX: -550.37616
-    UIY: -230.438019
+    UIX: 625
+    UIY: -210
     RenderTransformPivot {
       Anchor {
         Value: "mc:euianchor:middlecenter"
@@ -8901,12 +12921,12 @@ Objects {
     AnchorLayout {
       SelfAnchor {
         Anchor {
-          Value: "mc:euianchor:middlecenter"
+          Value: "mc:euianchor:bottomright"
         }
       }
       TargetAnchor {
         Anchor {
-          Value: "mc:euianchor:middlecenter"
+          Value: "mc:euianchor:middleleft"
         }
       }
     }
@@ -9010,17 +13030,39 @@ Objects {
       }
     }
     ParameterOverrideMap {
-      key: 6371253168536327705
+      key: 13830460851608690043
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 50
+            Y: -315
+            Z: 116.781281
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15570060388663960721
+      value {
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 68
+            Yaw: 89.9996185
+            Roll: 90.0000153
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18434294550786052464
       value {
         Overrides {
           Name: "Visible"
           Enum {
-            Value: "mc:evisibilitysetting:inheritfromparent"
+            Value: "mc:evisibilitysetting:forceoff"
           }
-        }
-        Overrides {
-          Name: "Name"
-          String: "Speech Bubble"
         }
       }
     }
@@ -9114,15 +13156,6 @@ Objects {
   ParentId: 15969670120281364747
   UnregisteredParameters {
     Overrides {
-      Name: "cs:UI3D"
-      ObjectReference {
-        SelfId: 9947779107542957199
-        SubObjectId: 3781350784924868256
-        InstanceId: 12371707239817777893
-        TemplateId: 6907004693932793936
-      }
-    }
-    Overrides {
       Name: "cs:SunRays"
       ObjectReference {
         SelfId: 17407178973581945540
@@ -9144,6 +13177,12 @@ Objects {
       Name: "cs:UI"
       ObjectReference {
         SelfId: 176403562823354935
+      }
+    }
+    Overrides {
+      Name: "cs:UI3D"
+      ObjectReference {
+        SelfId: 9947779107542957199
       }
     }
   }

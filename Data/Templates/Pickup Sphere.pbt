@@ -1,6 +1,6 @@
 ﻿Assets {
   Id: 4673312574059639203
-  Name: "Item Sphere"
+  Name: "Pickup Sphere"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {

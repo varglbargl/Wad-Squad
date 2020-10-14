@@ -1,4 +1,5 @@
-﻿local UTILS = require(script:GetCustomProperty("Utils"))
+﻿local Utils = require(script:GetCustomProperty("Utils"))
+
 local WAD = script.parent
 local BOUNCE_OFF_SOUND = script:GetCustomProperty("BounceOffSound")
 local DEFAULT_PICKUP_SOUND = script:GetCustomProperty("DefaultPickupSound")
@@ -10,7 +11,7 @@ local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 
 local delay = 0.05
 local moveSpeed = 1000
-local gravityForce = 14000
+local gravityForce = 150
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
@@ -66,8 +67,9 @@ function handleKeyRelease(player, keyCode)
 end
 
 function rollThatWad(deltaTime)
+  deltaTime = deltaTime or delay
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.New(0, 0, (wadSize - 1) * -gravityForce * deltaTime)
+  local simulatedMass = Vector3.New(0, 0, (wadSize - 1) * -gravityForce * deltaTime * 100)
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -134,7 +136,7 @@ function handleGrabberOverlap (trigger, object)
     local wadSize = WAD.clientUserData["Size"]
     -- print(wadSize)
     local tooBigh = itemSize > wadSize / 2
-    local tooSmol = itemSize <= wadSize / 10
+    local tooSmol = itemSize <= wadSize / 20
 
     if tooBigh then
       -- TODO: Bounce off at the the angle at which you collided mirrored along
@@ -144,7 +146,7 @@ function handleGrabberOverlap (trigger, object)
       WAD:SetVelocity(WAD:GetVelocity() * -1)
       WAD:SetAngularVelocity(WAD:GetAngularVelocity() * -1)
       print(item.name .. " is too B I G H")
-      UTILS.playSoundEffect(BOUNCE_OFF_SOUND)
+      Utils.playSoundEffect(BOUNCE_OFF_SOUND)
     end
 
     if tooSmol then print(item.name .. " is too smol uwu") end
@@ -161,7 +163,7 @@ function handleGrabberOverlap (trigger, object)
       local itemColor = item.clientUserData["Color"]
 
       if (itemColor) then
-        UTILS.traverseHierarchy(clientItem, function(node)
+        Utils.traverseHierarchy(clientItem, function(node)
           if not node:GetCustomProperty("SkipMod") and node:IsA("CoreMesh") or node:IsA("Light") then
             node:SetColor(itemColor)
           end
@@ -176,16 +178,16 @@ function handleGrabberOverlap (trigger, object)
       grabbedItems[itemGrabIndex] = clientItem
       itemGrabIndex = (itemGrabIndex + 1) % maxGrabbed
 
-      wadSize = wadSize + itemSize / 25
+      wadSize = wadSize + itemSize / 50
 
       -- old way of scaling the wad up
-      GRABBER:SetWorldScale(Vector3.ONE * wadSize * 1.25)
+      GRABBER:SetWorldScale(Vector3.ONE * wadSize * 1.3)
       MESH:SetWorldScale(Vector3.ONE * wadSize)
 
       -- a thing i just wish wasn't broken
       -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)
       -- clientItem:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.1))
-      UTILS.lerpNSlurp(clientItem, WAD, 0.35, 40, 0.7)
+      Utils.lerpNSlurp(clientItem, WAD, 0.45, 50, 0.75)
 
       WAD.clientUserData["Size"] = wadSize
 
@@ -195,9 +197,9 @@ function handleGrabberOverlap (trigger, object)
       local pickupSound = clientItem:GetCustomProperty("PickupSound")
 
       if pickupSound then
-        UTILS.playSoundEffect(pickupSound)
+        Utils.playSoundEffect(pickupSound)
       else
-        UTILS.playSoundEffect(DEFAULT_PICKUP_SOUND)
+        Utils.playSoundEffect(DEFAULT_PICKUP_SOUND)
       end
     end
   end

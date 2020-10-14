@@ -1,4 +1,5 @@
-﻿local UTILS = require(script:GetCustomProperty("Utils"))
+﻿local Utils = require(script:GetCustomProperty("Utils"))
+
 local PRIMARY_ONLY = script:GetCustomProperty("PrimaryOnly")
 
 local item = script.parent:FindChildByType("CoreMesh")
@@ -25,7 +26,7 @@ end
 local randomColor = colors[math.random(1, #colors)]
 item.clientUserData["Color"] = randomColor
 
-UTILS.traverseHierarchy(item, function(node)
+Utils.traverseHierarchy(item, function(node)
   if not node:GetCustomProperty("SkipMod") and node:IsA("CoreMesh") or node:IsA("Light") then
     node:SetColor(randomColor)
   end

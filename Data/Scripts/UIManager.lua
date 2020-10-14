@@ -1,8 +1,10 @@
-﻿local UTILS = require(script:GetCustomProperty("Utils"))
+﻿local Utils = require(script:GetCustomProperty("Utils"))
+
 local UI3D = script:GetCustomProperty("UI3D"):WaitForObject()
 local UI2D = script:GetCustomProperty("UI"):WaitForObject()
 local SUN_RAYS = script:GetCustomProperty("SunRays"):WaitForObject()
 local ITEM_DISPLAY = script:GetCustomProperty("ItemDisplay"):WaitForObject()
+
 
 UI3D:AttachToLocalView()
 UI3D:SetPosition(Vector3.New(11, 0, 0))
@@ -34,14 +36,19 @@ function displayItem(item)
   local itemColor = item.clientUserData["Color"]
 
   if (itemColor) then
-    UTILS.traverseHierarchy(currentItem, function(node)
+    Utils.traverseHierarchy(currentItem, function(node)
       if not node:GetCustomProperty("SkipMod") and node:IsA("CoreMesh") or node:IsA("Light") then
         node:SetColor(itemColor)
       end
     end)
   end
 
-  currentItem.isCameraCollisionEnabled = false
+  Utils.traverseHierarchy(currentItem, function(node)
+    if node:IsA("CoreMesh") then
+      node.isCameraCollisionEnabled = false
+    end
+  end)
+
   currentItem:AttachToLocalView()
   currentItem.parent = ITEM_DISPLAY
   currentItem:SetPosition(Vector3.ZERO)

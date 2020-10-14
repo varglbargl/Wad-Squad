@@ -143,6 +143,15 @@ Assets {
   }
 }
 Assets {
+  Id: 12827530473249900764
+  Name: "Opaque Emissive"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_opaque_emissive"
+  }
+}
+Assets {
   Id: 12280615558756174367
   Name: "Generic Water"
   PlatformAssetType: 2
@@ -215,6 +224,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9754950629206105799
+  Name: "Rock Pile 001"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rocks_small_001"
+  }
+}
+Assets {
   Id: 9434161903014384267
   Name: "Hill 05"
   PlatformAssetType: 1
@@ -230,6 +248,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_wedge_001"
+  }
+}
+Assets {
+  Id: 8350145896913383097
+  Name: "Rock 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rock_generic_001"
   }
 }
 Assets {
@@ -275,6 +302,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_moss_001_uv"
+  }
+}
+Assets {
+  Id: 6035976214873079857
+  Name: "Magic Swirl Element Volume"
+  PlatformAssetType: 8
+  PrimaryAsset {
+    AssetType: "VfxBlueprintAssetRef"
+    AssetId: "fxbp_magic_swirl_element_volume_vfx"
   }
 }
 Assets {
@@ -377,6 +413,24 @@ Assets {
   }
 }
 Assets {
+  Id: 2493602085652605152
+  Name: "Rock 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rock_generic_003"
+  }
+}
+Assets {
+  Id: 2266962469300946437
+  Name: "Decal Fantasy Carved 01"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_fantasy_carved_001"
+  }
+}
+Assets {
   Id: 2193443187905391329
   Name: "Large Wood Board 8m"
   PlatformAssetType: 1
@@ -401,6 +455,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_food_generic_apple_001_uv"
+  }
+}
+Assets {
+  Id: 1691350013116986910
+  Name: "Ring - Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_torus_005"
   }
 }
 Assets {

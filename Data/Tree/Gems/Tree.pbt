@@ -1,6 +1,1026 @@
 ﻿Name: "Gems"
 RootId: 15181117703393781608
 Objects {
+  Id: 2200930317758501173
+  Name: "Big Diamond"
+  Transform {
+    Location {
+      X: 785
+      Y: 1325
+      Z: 1455
+    }
+    Rotation {
+      Yaw: 179.999817
+    }
+    Scale {
+      X: 1.9
+      Y: 1.9
+      Z: 1.9
+    }
+  }
+  ParentId: 15181117703393781608
+  ChildIds: 15778452436297818229
+  ChildIds: 4050321329266369071
+  ChildIds: 7645515243728351644
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 7645515243728351644
+  Name: "Item Mod - Rotate Around Point"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: -119.999817
+    }
+    Scale {
+      X: 0.526315808
+      Y: 0.526315808
+      Z: 0.526315808
+    }
+  }
+  ParentId: 2200930317758501173
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1455796903912206889
+    }
+  }
+}
+Objects {
+  Id: 4050321329266369071
+  Name: "Item"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2200930317758501173
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+            Z: -5
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 10841771770062698295
+            SubObjectId: 907499025761674707
+            InstanceId: 15778452436297818229
+            TemplateId: 7689985846127649439
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.7
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 15778452436297818229
+  Name: "Precious Gem"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2200930317758501173
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 907499025761674707
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Big Diamond"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 2
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7689985846127649439
+    }
+  }
+}
+Objects {
+  Id: 10874296939495639039
+  Name: "Big Diamond"
+  Transform {
+    Location {
+      X: 785
+      Y: 1325
+      Z: 1455
+    }
+    Rotation {
+      Yaw: -120.000183
+    }
+    Scale {
+      X: 1.9
+      Y: 1.9
+      Z: 1.9
+    }
+  }
+  ParentId: 15181117703393781608
+  ChildIds: 1885630455793645116
+  ChildIds: 10198108986298426317
+  ChildIds: 8943275065440070097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8943275065440070097
+  Name: "Item Mod - Rotate Around Point"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: -119.999817
+    }
+    Scale {
+      X: 0.526315808
+      Y: 0.526315808
+      Z: 0.526315808
+    }
+  }
+  ParentId: 10874296939495639039
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1455796903912206889
+    }
+  }
+}
+Objects {
+  Id: 10198108986298426317
+  Name: "Item"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10874296939495639039
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+            Z: -5
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 13521182336303152955
+            SubObjectId: 907499025761674707
+            InstanceId: 1885630455793645116
+            TemplateId: 7689985846127649439
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.7
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 1885630455793645116
+  Name: "Precious Gem"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10874296939495639039
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 907499025761674707
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Big Diamond"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 2
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7689985846127649439
+    }
+  }
+}
+Objects {
+  Id: 14907498034640645738
+  Name: "Big Diamond"
+  Transform {
+    Location {
+      X: 785
+      Y: 1325
+      Z: 1455
+    }
+    Rotation {
+      Yaw: -60.0001831
+    }
+    Scale {
+      X: 1.9
+      Y: 1.9
+      Z: 1.9
+    }
+  }
+  ParentId: 15181117703393781608
+  ChildIds: 5091318218100567231
+  ChildIds: 5739133051137527462
+  ChildIds: 6184699896286284229
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 6184699896286284229
+  Name: "Item Mod - Rotate Around Point"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: -119.999817
+    }
+    Scale {
+      X: 0.526315808
+      Y: 0.526315808
+      Z: 0.526315808
+    }
+  }
+  ParentId: 14907498034640645738
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1455796903912206889
+    }
+  }
+}
+Objects {
+  Id: 5739133051137527462
+  Name: "Item"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14907498034640645738
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+            Z: -5
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 14466680417130797858
+            SubObjectId: 907499025761674707
+            InstanceId: 5091318218100567231
+            TemplateId: 7689985846127649439
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.7
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 5091318218100567231
+  Name: "Precious Gem"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14907498034640645738
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 907499025761674707
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Big Diamond"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 2
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7689985846127649439
+    }
+  }
+}
+Objects {
+  Id: 13231667848393308269
+  Name: "Big Diamond"
+  Transform {
+    Location {
+      X: 785
+      Y: 1325
+      Z: 1455
+    }
+    Rotation {
+      Yaw: -0.000213623047
+    }
+    Scale {
+      X: 1.9
+      Y: 1.9
+      Z: 1.9
+    }
+  }
+  ParentId: 15181117703393781608
+  ChildIds: 4111740228066288896
+  ChildIds: 1278406733364581914
+  ChildIds: 14152280623238378960
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14152280623238378960
+  Name: "Item Mod - Rotate Around Point"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: -119.999817
+    }
+    Scale {
+      X: 0.526315808
+      Y: 0.526315808
+      Z: 0.526315808
+    }
+  }
+  ParentId: 13231667848393308269
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1455796903912206889
+    }
+  }
+}
+Objects {
+  Id: 1278406733364581914
+  Name: "Item"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13231667848393308269
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+            Z: -5
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 15711705113360232480
+            SubObjectId: 907499025761674707
+            InstanceId: 4111740228066288896
+            TemplateId: 7689985846127649439
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.7
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 4111740228066288896
+  Name: "Precious Gem"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13231667848393308269
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 907499025761674707
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Big Diamond"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 2
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7689985846127649439
+    }
+  }
+}
+Objects {
+  Id: 7585246867573152219
+  Name: "Big Diamond"
+  Transform {
+    Location {
+      X: 785
+      Y: 1325
+      Z: 1455
+    }
+    Rotation {
+      Yaw: 59.9997673
+    }
+    Scale {
+      X: 1.9
+      Y: 1.9
+      Z: 1.9
+    }
+  }
+  ParentId: 15181117703393781608
+  ChildIds: 10278101697700602752
+  ChildIds: 7793067720076956378
+  ChildIds: 18225023376207916659
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 18225023376207916659
+  Name: "Item Mod - Rotate Around Point"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: -119.999817
+    }
+    Scale {
+      X: 0.526315808
+      Y: 0.526315808
+      Z: 0.526315808
+    }
+  }
+  ParentId: 7585246867573152219
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1455796903912206889
+    }
+  }
+}
+Objects {
+  Id: 7793067720076956378
+  Name: "Item"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7585246867573152219
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+            Z: -5
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 15875388861051470554
+            SubObjectId: 907499025761674707
+            InstanceId: 10278101697700602752
+            TemplateId: 7689985846127649439
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.7
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 10278101697700602752
+  Name: "Precious Gem"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7585246867573152219
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 907499025761674707
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Big Diamond"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 2
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7689985846127649439
+    }
+  }
+}
+Objects {
+  Id: 11112258329130847522
+  Name: "Big Diamond"
+  Transform {
+    Location {
+      X: 785
+      Y: 1325
+      Z: 1455
+    }
+    Rotation {
+      Yaw: 119.999809
+    }
+    Scale {
+      X: 1.9
+      Y: 1.9
+      Z: 1.9
+    }
+  }
+  ParentId: 15181117703393781608
+  ChildIds: 14726924023263133437
+  ChildIds: 17366611406453084547
+  ChildIds: 8146824453765366337
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8146824453765366337
+  Name: "Item Mod - Rotate Around Point"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: -119.999817
+    }
+    Scale {
+      X: 0.526315808
+      Y: 0.526315808
+      Z: 0.526315808
+    }
+  }
+  ParentId: 11112258329130847522
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1455796903912206889
+    }
+  }
+}
+Objects {
+  Id: 17366611406453084547
+  Name: "Item"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11112258329130847522
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+            Z: -5
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 7808093260360527500
+            SubObjectId: 907499025761674707
+            InstanceId: 14726924023263133437
+            TemplateId: 7689985846127649439
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.7
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 14726924023263133437
+  Name: "Precious Gem"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11112258329130847522
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 907499025761674707
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Big Diamond"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -68.4206543
+            Y: -118.508965
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 2
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7689985846127649439
+    }
+  }
+}
+Objects {
   Id: 3615823317939815647
   Name: "Spinning Gem"
   Transform {
@@ -21,8 +1041,8 @@ Objects {
   ParentId: 15181117703393781608
   ChildIds: 11983923831789632945
   ChildIds: 13859114557457422306
-  ChildIds: 18137505624476873408
   ChildIds: 4972507149270122060
+  ChildIds: 18137505624476873408
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -31,44 +1051,6 @@ Objects {
   }
   Folder {
     IsGroup: true
-  }
-}
-Objects {
-  Id: 4972507149270122060
-  Name: "Item Mod - Random Color"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3615823317939815647
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Item"
-      ObjectReference {
-        SelfId: 5598159329363941096
-        SubObjectId: 907499025761674707
-        InstanceId: 11983923831789632945
-        TemplateId: 7689985846127649439
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
   }
 }
 Objects {
@@ -97,6 +1079,35 @@ Objects {
   Script {
     ScriptAsset {
       Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 4972507149270122060
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3615823317939815647
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
     }
   }
 }
