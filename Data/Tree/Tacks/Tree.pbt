@@ -962,17 +962,6 @@ Objects {
         }
       }
     }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
-          }
-        }
-      }
-    }
     TemplateAsset {
       Id: 5891855999558624785
     }
@@ -1792,12 +1781,17 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+            X: -2.48352671e-06
+            Y: -1.23358953
+            Z: 0.107924439
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -10.0000448
+            Pitch: 0.821412146
+            Yaw: -4.98065186
+            Roll: -1.2789917
           }
         }
       }

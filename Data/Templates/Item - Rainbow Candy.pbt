@@ -7,7 +7,7 @@
       RootId: 5159779983559511387
       Objects {
         Id: 5159779983559511387
-        Name: "Item - Candy Bit"
+        Name: "Rainbow Candy"
         Transform {
           Scale {
             X: 0.3
@@ -54,6 +54,7 @@
           EnableCameraCollision: true
           StaticMesh {
             Physics {
+              Mass: 10
             }
           }
         }

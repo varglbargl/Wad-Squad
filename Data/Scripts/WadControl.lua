@@ -11,7 +11,7 @@ local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 
 local delay = 0.01
 local moveSpeed = 650
-local gravityForce = 200
+local gravityForce = 320
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
@@ -69,7 +69,7 @@ end
 function rollThatWad(deltaTime)
   deltaTime = deltaTime or delay
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.New(0, 0, (wadSize - 3.5) * -gravityForce * deltaTime * 100)
+  local simulatedMass = Vector3.New(0, 0, (wadSize - 1.9) * -gravityForce * deltaTime * 100)
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -93,7 +93,7 @@ function rollThatWad(deltaTime)
     local lateralWadImpulse = cameraRight * impulseToApply.y
     local combinedWadImpulse = forwardWadImpulse + lateralWadImpulse
     local normalizedWadImpulse = combinedWadImpulse:GetNormalized()
-    finalWadImpulse = normalizedWadImpulse * moveSpeed * wadSize + simulatedMass
+    finalWadImpulse = normalizedWadImpulse * moveSpeed * ((wadSize - 1) / 1.5 + 1) + simulatedMass
 
     local forwardWadTorque = cameraRight * torqueToApply.y
     local lateralWadTorque = cameraForward * torqueToApply.x
@@ -102,13 +102,8 @@ function rollThatWad(deltaTime)
     finalWadTorque = normalizedWadTorque * moveSpeed / 2.5
   end
 
-  print(finalWadImpulse.size)
-
-  WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, deltaTime / 2))
+  WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, deltaTime))
   WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, deltaTime * 15))
-
-  print(WAD:GetVelocity().size)
-  print("\n\n")
 
   deltaTime = Task.Wait(delay)
 

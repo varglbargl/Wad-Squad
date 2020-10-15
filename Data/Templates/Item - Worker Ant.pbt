@@ -46,6 +46,7 @@
           EnableCameraCollision: true
           StaticMesh {
             Physics {
+              Mass: 10
             }
           }
         }

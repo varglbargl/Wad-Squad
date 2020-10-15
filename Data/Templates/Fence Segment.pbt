@@ -15,7 +15,7 @@
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 11599186281012057085
         ChildIds: 7197063310235168880
         ChildIds: 14756622271461148612
         ChildIds: 7283601717618779792
@@ -28,6 +28,7 @@
         ChildIds: 14561978466635431002
         ChildIds: 5799722841787625309
         ChildIds: 570800446094956697
+        ChildIds: 2751484651212769588
         ChildIds: 12795759914581086277
         ChildIds: 5927378599449901762
         Collidable_v2 {
@@ -1531,6 +1532,40 @@
           StaticMesh {
             Physics {
             }
+          }
+        }
+      }
+      Objects {
+        Id: 2751484651212769588
+        Name: "Decal Wood Ends Variations"
+        Transform {
+          Location {
+            X: 7.3128252
+            Y: 3429.98926
+            Z: 5980.33838
+          }
+          Rotation {
+          }
+          Scale {
+            X: 8.99999809
+            Y: 8.99999809
+            Z: 0.313507766
+          }
+        }
+        ParentId: 2613302385022587225
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 14463303659751748326
+          }
+          TeamSettings {
+          }
+          DecalBP {
           }
         }
       }
@@ -3045,6 +3080,15 @@
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_cube_002"
+      }
+    }
+    Assets {
+      Id: 14463303659751748326
+      Name: "Decal Wood Ends Variations"
+      PlatformAssetType: 14
+      PrimaryAsset {
+        AssetType: "DecalBlueprintAssetRef"
+        AssetId: "bp_wood_rings_001"
       }
     }
     Assets {

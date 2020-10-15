@@ -80,15 +80,6 @@ Assets {
   }
 }
 Assets {
-  Id: 16910278292812118833
-  Name: "Sun Light"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_SunLight"
-  }
-}
-Assets {
   Id: 15835672292391321145
   Name: "Sand 01"
   PlatformAssetType: 2
@@ -179,15 +170,6 @@ Assets {
   }
 }
 Assets {
-  Id: 11515840070784317904
-  Name: "Skylight"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_Skylight"
-  }
-}
-Assets {
   Id: 11488686579340352419
   Name: "Hill 02"
   PlatformAssetType: 1
@@ -203,15 +185,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ellipsoid_hollow_001"
-  }
-}
-Assets {
-  Id: 10988486045141043269
-  Name: "Sun Halo"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_SunHalo"
   }
 }
 Assets {
@@ -275,15 +248,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_rock_generic_001"
-  }
-}
-Assets {
-  Id: 7887238662729938253
-  Name: "Sky Dome"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_Sky"
   }
 }
 Assets {
@@ -359,15 +323,6 @@ Assets {
   }
 }
 Assets {
-  Id: 5117326109845707677
-  Name: "Plane"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_plane_4m_001"
-  }
-}
-Assets {
   Id: 4691692031683937777
   Name: "Pipe - Half Thin"
   PlatformAssetType: 1
@@ -401,6 +356,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prism_hexagon_001"
+  }
+}
+Assets {
+  Id: 3284940111534433168
+  Name: "Cube - Bottom-Aligned"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_001"
   }
 }
 Assets {
@@ -509,15 +473,6 @@ Assets {
   PrimaryAsset {
     AssetType: "AudioBlueprintAssetRef"
     AssetId: "abp_cute_town_sections_kit_ref"
-  }
-}
-Assets {
-  Id: 121291649896979657
-  Name: "Bush 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bush_generic_002"
   }
 }
 Assets {

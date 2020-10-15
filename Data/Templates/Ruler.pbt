@@ -32,6 +32,7 @@
         ChildIds: 17651177004402532544
         ChildIds: 894810142642620778
         ChildIds: 5653049198308237945
+        ChildIds: 17750302824540459163
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -794,6 +795,57 @@
           }
         }
       }
+      Objects {
+        Id: 17750302824540459163
+        Name: "Cube"
+        Transform {
+          Location {
+            X: -115
+            Y: 23.5009766
+          }
+          Rotation {
+            Yaw: 179.999954
+          }
+          Scale {
+            X: 11.95
+            Y: 0.1
+            Z: 0.01
+          }
+        }
+        ParentId: 15580305852735903610
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 13735964988824407627
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 12095835209017042614
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
+          }
+        }
+      }
     }
     Assets {
       Id: 12095835209017042614
@@ -811,6 +863,15 @@
       PrimaryAsset {
         AssetType: "DecalBlueprintAssetRef"
         AssetId: "bp_decal_numbers_002"
+      }
+    }
+    Assets {
+      Id: 13735964988824407627
+      Name: "Metal Basic 01"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_metal_basic_001"
       }
     }
     PrimaryAssetId {

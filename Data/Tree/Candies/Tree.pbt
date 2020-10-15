@@ -8406,6 +8406,11 @@ Objects {
           Vector {
           }
         }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
       }
     }
     TemplateAsset {

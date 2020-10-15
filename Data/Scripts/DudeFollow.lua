@@ -2,7 +2,7 @@
 local WAD = script.parent
 
 local delay = 0.1
-local myDudeSpeed = 1000
+local dudeSpeed = 400
 local wadSize = 1
 
 local myDude = World.SpawnAsset(DUDE, {
@@ -10,7 +10,7 @@ local myDude = World.SpawnAsset(DUDE, {
   scale = Vector3.ONE * 0.1
 })
 
-myDude:LookAtContinuous(WAD, true, myDudeSpeed)
+myDude:LookAtContinuous(WAD, true, dudeSpeed)
 
 function dudeFollowButOnTheGround()
   wadSize = WAD.clientUserData["Size"] or 1
@@ -26,7 +26,7 @@ function dudeFollowButOnTheGround()
     justAboveMyDude = myDudePosition + Vector3.UP * 30
   end
 
-  local wayBelowMyDude = myDudePosition + Vector3.UP * -200 * wadSize
+  local wayBelowMyDude = myDudePosition + Vector3.UP * -150 * wadSize
   local raycastBelowMyDude = World.Raycast(justAboveMyDude, wayBelowMyDude)
 
   if raycastBelowMyDude then
@@ -34,7 +34,7 @@ function dudeFollowButOnTheGround()
     myDude:SetWorldPosition(Vector3.New(myDudePosition.x, myDudePosition.y, groundHeightBelowMyDude.z))
   end
 
-  myDude:Follow(WAD, myDudeSpeed, 25 * wadSize + 15)
+  myDude:Follow(WAD, dudeSpeed * wadSize, 25 * wadSize + 10)
 
   Task.Wait()
 
@@ -46,7 +46,7 @@ local step = Rotation.New(8, 0, 0)
 
 function dudeWalkingAnimation()
   local wadSpeed = WAD:GetVelocity().size
-  local animationDelay = CoreMath.Clamp(50 / wadSpeed, 0.02, 1.5)
+  local animationDelay = CoreMath.Clamp(20 / wadSpeed, 0.02, 1.5)
   step = step * -1
 
   if wadSpeed <= 20 * wadSize then

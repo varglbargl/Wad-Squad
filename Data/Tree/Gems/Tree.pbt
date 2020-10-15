@@ -159,6 +159,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Size"
+          Float: 1.8
+        }
       }
     }
     TemplateAsset {
@@ -324,6 +328,10 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 1.8
         }
       }
     }
@@ -491,6 +499,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Size"
+          Float: 1.8
+        }
       }
     }
     TemplateAsset {
@@ -656,6 +668,10 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 1.8
         }
       }
     }
@@ -823,6 +839,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Size"
+          Float: 1.8
+        }
       }
     }
     TemplateAsset {
@@ -988,6 +1008,10 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
+        }
+        Overrides {
+          Name: "cs:Size"
+          Float: 1.8
         }
       }
     }
