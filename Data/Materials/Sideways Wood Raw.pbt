@@ -12,7 +12,7 @@
       }
       Overrides {
         Name: "material_scale"
-        Float: 6
+        Float: 7
       }
       Overrides {
         Name: "v_tiles"

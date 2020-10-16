@@ -1,6 +1,200 @@
 ﻿Name: "Porch Foundation"
 RootId: 6160406176841482076
 Objects {
+  Id: 12314758379325362534
+  Name: "Craftsman Porch 01 End Block"
+  Transform {
+    Location {
+      X: 750.007
+      Y: -2149.99854
+    }
+    Rotation {
+      Pitch: -0.978210449
+      Yaw: -175.097839
+      Roll: 7.15473197e-06
+    }
+    Scale {
+      X: 0.600000083
+      Y: 1
+      Z: 0.8
+    }
+  }
+  ParentId: 6160406176841482076
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16934863468136325121
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 18059675438552730237
+    SubobjectId: 371303120717605419
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 11945752217523761144
+  Name: "Craftsman Porch 01 End Block"
+  Transform {
+    Location {
+      X: 749.980042
+      Y: -2024.99683
+    }
+    Rotation {
+      Yaw: -91.8607483
+      Roll: 1.49587917
+    }
+    Scale {
+      X: 1.20000017
+      Y: 0.700000048
+      Z: 1.1
+    }
+  }
+  ParentId: 6160406176841482076
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16934863468136325121
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 2085777536000041433
+    SubobjectId: 16390237892495016335
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 14845460609179095136
+  Name: "Craftsman Porch 01 End Block"
+  Transform {
+    Location {
+      X: 1244.30457
+      Y: -2149.99731
+    }
+    Rotation {
+      Pitch: 0.150291473
+      Yaw: -3.97335815
+      Roll: 3.05158409e-07
+    }
+    Scale {
+      X: 0.600000083
+      Y: 1
+      Z: 0.8
+    }
+  }
+  ParentId: 6160406176841482076
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16934863468136325121
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 6722138723677039017
+    SubobjectId: 11731363101503605247
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 1797657557431088632
+  Name: "Craftsman Porch 01 End Block"
+  Transform {
+    Location {
+      X: 1250.00781
+      Y: -2024.99976
+    }
+    Rotation {
+      Yaw: 90.0000153
+      Roll: 2.05153823
+    }
+    Scale {
+      X: 1.20000017
+      Y: 0.700000048
+      Z: 1.1
+    }
+  }
+  ParentId: 6160406176841482076
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16934863468136325121
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 10327774088481227601
+    SubobjectId: 8130236239040078599
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
   Id: 4129675572780528132
   Name: "Craftsman Porch 01 End Block"
   Transform {
@@ -899,53 +1093,6 @@ Objects {
   InstanceHistory {
     SelfId: 13576739279555883123
     SubobjectId: 4894776629522386981
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 9695390106607185764
-  Name: "Craftsman Porch 01 End Block"
-  Transform {
-    Location {
-      X: 742.577759
-      Y: -1895.03101
-    }
-    Rotation {
-      Yaw: 173.376099
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6160406176841482076
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 16934863468136325121
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 9695390106607185764
-    SubobjectId: 8722074959758610226
     InstanceId: 2275901482220386584
     TemplateId: 7889523534815795225
   }

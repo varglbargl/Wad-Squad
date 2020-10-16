@@ -4387,8 +4387,6 @@ Objects {
     Overrides {
       Name: "cs:Speed"
       Vector {
-        X: 1
-        Y: 0.75
         Z: 0.5
       }
     }

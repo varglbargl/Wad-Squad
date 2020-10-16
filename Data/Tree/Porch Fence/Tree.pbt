@@ -49,67 +49,19 @@ Objects {
   }
 }
 Objects {
-  Id: 4687197789793740998
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -375
-      Y: -2400
-      Z: 25
-    }
-    Rotation {
-      Yaw: 6.4886779e-05
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8134618401458579895
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4687197789793740998
-    SubobjectId: 13730275242661857424
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
   Id: 11147302489688727635
   Name: "Craftsman Porch Fence Railing 01"
   Transform {
     Location {
-      X: 425
-      Y: -2399.99976
-      Z: 25
+      X: 446.668549
+      Y: -2399.9978
+      Z: 25.0000057
     }
     Rotation {
       Yaw: -179.999954
     }
     Scale {
-      X: 1
+      X: 0.829822659
       Y: 1
       Z: 1
     }
@@ -149,8 +101,8 @@ Objects {
   Name: "Craftsman Porch Fence Post 01"
   Transform {
     Location {
-      X: 25
-      Y: -2400
+      X: 120.835312
+      Y: -2400.00024
     }
     Rotation {
       Yaw: 90.0000153

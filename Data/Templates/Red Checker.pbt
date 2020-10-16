@@ -19,7 +19,7 @@
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
-            Float: 0.8
+            Float: 0.7
           }
           Overrides {
             Name: "cs:PickupSound"

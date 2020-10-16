@@ -1,6 +1,54 @@
 ﻿Name: "Porch Stairs"
 RootId: 11357932416347733773
 Objects {
+  Id: 14799846795552998642
+  Name: "Craftsman Stairs 01 150cm"
+  Transform {
+    Location {
+      X: 2074.97729
+      Y: -3454.99951
+      Z: -175.000015
+    }
+    Rotation {
+      Yaw: 179.999939
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11357932416347733773
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3804561942186383868
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 2621750060391085867
+    SubobjectId: 15845258683176818557
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
   Id: 349961715449597133
   Name: "Craftsman Stairs 01 150cm"
   Transform {

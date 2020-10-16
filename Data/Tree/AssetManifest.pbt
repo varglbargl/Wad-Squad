@@ -44,6 +44,15 @@ Assets {
   }
 }
 Assets {
+  Id: 17614084999736129964
+  Name: "Wood Raw White"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wood_raw_white_001_uv"
+  }
+}
+Assets {
   Id: 17512052449164844187
   Name: "Hill 01"
   PlatformAssetType: 1
@@ -59,6 +68,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_tree_oak_001"
+  }
+}
+Assets {
+  Id: 17476594959587675695
+  Name: "Sphere"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_sphere_002"
   }
 }
 Assets {
@@ -80,12 +98,30 @@ Assets {
   }
 }
 Assets {
+  Id: 16503278745794574747
+  Name: "Tree Redwood Medium"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_redwood_002"
+  }
+}
+Assets {
   Id: 15835672292391321145
   Name: "Sand 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_sand_001_uv"
+  }
+}
+Assets {
+  Id: 14964967653464214432
+  Name: "Decal Dirt Patch"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_dirt_patch_001"
   }
 }
 Assets {
@@ -116,6 +152,15 @@ Assets {
   }
 }
 Assets {
+  Id: 14463303659751748326
+  Name: "Decal Wood Ends Variations"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_wood_rings_001"
+  }
+}
+Assets {
   Id: 14295650898991336118
   Name: "Food Cheese 01"
   PlatformAssetType: 2
@@ -134,6 +179,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13840443032411406179
+  Name: "Large Wood Beam 8m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_large_beam_6m"
+  }
+}
+Assets {
   Id: 13282259600726273799
   Name: "Cylinder"
   PlatformAssetType: 1
@@ -143,12 +197,12 @@ Assets {
   }
 }
 Assets {
-  Id: 12910340964604682426
-  Name: "Door, Rounded Top"
+  Id: 13127178988828444324
+  Name: "Helix - 1.0"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_door_rounded_2m_001"
+    AssetId: "sm_helix_005"
   }
 }
 Assets {
@@ -170,12 +224,30 @@ Assets {
   }
 }
 Assets {
+  Id: 11613036252021123664
+  Name: "Wood Floor Herringbone Light"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wood_floor_herringbone_light_001_uv"
+  }
+}
+Assets {
   Id: 11488686579340352419
   Name: "Hill 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_hill_002"
+  }
+}
+Assets {
+  Id: 11390981272720591546
+  Name: "Craftsman Porch Fence Railing 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_sub_craftsman_porch_001_rail"
   }
 }
 Assets {
@@ -206,12 +278,30 @@ Assets {
   }
 }
 Assets {
+  Id: 9906491685923217027
+  Name: "Whitebox Stairs 01 Straight 150cm"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_gen_whitebox_stairs_001_150cm"
+  }
+}
+Assets {
   Id: 9754950629206105799
   Name: "Rock Pile 001"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_rocks_small_001"
+  }
+}
+Assets {
+  Id: 9434609535791461420
+  Name: "Wood Planks Beveled Painted 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wood_bevel_planks_white_001_uv"
   }
 }
 Assets {
@@ -224,12 +314,39 @@ Assets {
   }
 }
 Assets {
+  Id: 9258812049024871290
+  Name: "Cone - Truncated Hollow Wide Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cone_truncated_hollow_006"
+  }
+}
+Assets {
   Id: 9256376963641243765
   Name: "Wedge"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_wedge_001"
+  }
+}
+Assets {
+  Id: 8799570625505673842
+  Name: "Cube - Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_hq_test_001"
+  }
+}
+Assets {
+  Id: 8699268061173968020
+  Name: "Tree Redwood Big"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_redwood_001"
   }
 }
 Assets {
@@ -278,6 +395,15 @@ Assets {
   }
 }
 Assets {
+  Id: 6843509397960255973
+  Name: "Text 04: )"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F7_Text_046"
+  }
+}
+Assets {
   Id: 6581084023841296860
   Name: "Moss 01"
   PlatformAssetType: 2
@@ -314,6 +440,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5316478896368128728
+  Name: "Prism - 3-Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prism_001"
+  }
+}
+Assets {
   Id: 5141308867330199470
   Name: "Container - Square Thin 01"
   PlatformAssetType: 1
@@ -332,6 +467,24 @@ Assets {
   }
 }
 Assets {
+  Id: 4291393536411848060
+  Name: "Wood 2x4 4m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_two-by-four_3m"
+  }
+}
+Assets {
+  Id: 4247430867898109902
+  Name: "Stucco Tintable"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_stucco_tint_001_uv"
+  }
+}
+Assets {
   Id: 4050437425243511619
   Name: "Wood Raw"
   PlatformAssetType: 2
@@ -347,6 +500,15 @@ Assets {
   PrimaryAsset {
     AssetType: "DecalBlueprintAssetRef"
     AssetId: "bp_decal_bullet_wood_001"
+  }
+}
+Assets {
+  Id: 3537542414747023371
+  Name: "Text 03: |"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F5_Text_055"
   }
 }
 Assets {
@@ -449,12 +611,30 @@ Assets {
   }
 }
 Assets {
+  Id: 1538208180143166038
+  Name: "Wispy Fog Volume VFX"
+  PlatformAssetType: 8
+  PrimaryAsset {
+    AssetType: "VfxBlueprintAssetRef"
+    AssetId: "fxbp_fog_volume_vfx"
+  }
+}
+Assets {
   Id: 1479234746801052129
   Name: "Grass Clumps"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_grass_002_uv"
+  }
+}
+Assets {
+  Id: 461796175785413307
+  Name: "Craftsman Porch Fence Post 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_sub_craftsman_porch_001_post"
   }
 }
 Assets {
