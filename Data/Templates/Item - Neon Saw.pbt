@@ -4,27 +4,23 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 17854176661418375274
+      RootId: 3904724142486713440
       Objects {
-        Id: 17854176661418375274
+        Id: 3904724142486713440
         Name: "Neon Saw"
         Transform {
           Scale {
-            X: 0.500012457
-            Y: 0.199996978
-            Z: 1.31651306
+            X: 0.400000036
+            Y: 0.400000036
+            Z: 0.400000095
           }
         }
         ParentId: 11415736884949448372
-        ChildIds: 16353677181578227551
+        ChildIds: 13600415411855316817
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
-            Float: 0.5
-          }
-          Overrides {
-            Name: "cs:SkipMod"
-            Bool: true
+            Float: 0.6
           }
           Overrides {
             Name: "cs:PickupSound"
@@ -32,81 +28,7 @@
               Id: 11763366870123048561
             }
           }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 11251994733772007315
-            }
-          }
         }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 12095835209017042614
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 16353677181578227551
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17854176661418375274
-        ChildIds: 3904724142486713440
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 3904724142486713440
-        Name: "Neon Saw"
-        Transform {
-          Location {
-            X: -28.5003204
-            Y: -280.575378
-            Z: -20.1145859
-          }
-          Rotation {
-            Pitch: 40.7894058
-            Yaw: -30.3612576
-            Roll: 69.058815
-          }
-          Scale {
-            X: 0.799980104
-            Y: 2.00003028
-            Z: 0.303832948
-          }
-        }
-        ParentId: 16353677181578227551
-        ChildIds: 13600415411855316817
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -163,14 +85,14 @@
         Name: "Pipe - Thick"
         Transform {
           Location {
-            X: 115.234375
-            Y: -112.634888
-            Z: 143.221741
+            X: -7.99121046
+            Y: -49.5601654
+            Z: 184.201813
           }
           Rotation {
-            Pitch: 15.6998377
-            Yaw: 47.2657547
-            Roll: 16.3249454
+            Pitch: -0.783874512
+            Yaw: -9.0017395
+            Roll: 89.9974899
           }
           Scale {
             X: 1
@@ -221,14 +143,14 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 15.7929688
-            Y: -27.7811279
-            Z: 161.56427
+            X: -1.0111649
+            Y: 5.02020502
+            Z: 64.2126236
           }
           Rotation {
-            Pitch: 15.6998377
-            Yaw: 47.2657
-            Roll: -73.6750183
+            Pitch: -0.783630371
+            Yaw: -9.00180054
+            Roll: -6.10351563e-05
           }
           Scale {
             X: 0.3
@@ -279,17 +201,17 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 54.9902344
-            Y: -13.6400146
-            Z: 177.799683
+            X: 38.7647209
+            Y: -1.28171444
+            Z: 83.6620255
           }
           Rotation {
-            Pitch: 15.6998377
-            Yaw: 47.2657
-            Roll: -73.6750183
+            Pitch: -0.783630371
+            Yaw: -9.00180054
+            Roll: -6.10351563e-05
           }
           Scale {
-            X: 0.2
+            X: 0.199999988
             Y: 0.6
             Z: 2
           }
@@ -337,17 +259,17 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 2.7265625
-            Y: -70.2087402
-            Z: 156.151733
+            X: -40.242981
+            Y: 11.2341757
+            Z: 84.760643
           }
           Rotation {
-            Pitch: 15.6998377
-            Yaw: 47.2657
-            Roll: -73.6750183
+            Pitch: -0.783630371
+            Yaw: -9.00180054
+            Roll: -6.10351563e-05
           }
           Scale {
-            X: 0.2
+            X: 0.199999988
             Y: 0.6
             Z: 2
           }
@@ -395,14 +317,14 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 38.6582031
-            Y: -52.5308838
-            Z: 171.035522
+            X: -0.537749112
+            Y: 4.9436965
+            Z: 99.2112274
           }
           Rotation {
-            Pitch: 15.6998377
-            Yaw: 47.2657
-            Roll: -73.6750183
+            Pitch: -0.783630371
+            Yaw: -9.00180054
+            Roll: -6.10351563e-05
           }
           Scale {
             X: 0.900000036
@@ -453,19 +375,19 @@
         Name: "Prism - 3-Sided Polished"
         Transform {
           Location {
-            X: -35.6757813
-            Y: -63.1378174
-            Z: 156.480469
+            X: -58.0563087
+            Y: 29.236721
+            Z: 55.038929
           }
           Rotation {
-            Pitch: 15.6998243
-            Yaw: -47.2657471
-            Roll: 163.675156
+            Pitch: 89.1537247
+            Yaw: -9.07415771
+            Roll: -90.0180054
           }
           Scale {
             X: 0.6
             Y: 0.5
-            Z: 0.3
+            Z: 0.300000042
           }
         }
         ParentId: 13600415411855316817
@@ -511,19 +433,19 @@
         Name: "Prism - 3-Sided Polished"
         Transform {
           Location {
-            X: -3.01171875
-            Y: -98.4932861
-            Z: 170.010315
+            X: -57.3799782
+            Y: 29.1330376
+            Z: 105.034729
           }
           Rotation {
-            Pitch: 15.6998243
-            Yaw: -47.2657471
-            Roll: 163.675156
+            Pitch: 89.1537247
+            Yaw: -9.07415771
+            Roll: -90.0180054
           }
           Scale {
             X: 0.6
             Y: 0.5
-            Z: 0.3
+            Z: 0.300000042
           }
         }
         ParentId: 13600415411855316817
@@ -569,19 +491,19 @@
         Name: "Prism - 3-Sided Polished"
         Transform {
           Location {
-            X: 29.6523438
-            Y: -133.846924
-            Z: 183.540039
+            X: -56.7005043
+            Y: 29.0266495
+            Z: 155.028503
           }
           Rotation {
-            Pitch: 15.6998243
-            Yaw: -47.2657471
-            Roll: 163.675156
+            Pitch: 89.1537247
+            Yaw: -9.07415771
+            Roll: -90.0180054
           }
           Scale {
             X: 0.6
             Y: 0.5
-            Z: 0.3
+            Z: 0.300000042
           }
         }
         ParentId: 13600415411855316817
@@ -627,19 +549,19 @@
         Name: "Prism - 3-Sided Polished"
         Transform {
           Location {
-            X: 124.375
-            Y: -151.525513
-            Z: 222.77655
+            X: 3.70422983
+            Y: 19.4670029
+            Z: 239.200745
           }
           Rotation {
-            Pitch: 15.69979
-            Yaw: 47.2657051
-            Roll: -163.674911
+            Pitch: -0.783447266
+            Yaw: -9.00180054
+            Roll: -89.9983826
           }
           Scale {
             X: 0.6
             Y: 0.5
-            Z: 0.3
+            Z: 0.300000042
           }
         }
         ParentId: 13600415411855316817
@@ -685,19 +607,19 @@
         Name: "Prism - 3-Sided Polished"
         Transform {
           Location {
-            X: 75.3789063
-            Y: -162.132202
-            Z: 202.481567
+            X: -41.146244
+            Y: 26.5671558
+            Z: 209.818176
           }
           Rotation {
-            Pitch: 22.044714
-            Yaw: -12.1502686
-            Roll: 175.380112
+            Pitch: 55.4613571
+            Yaw: -8.99847412
+            Roll: -89.9968872
           }
           Scale {
             X: 0.6
             Y: 0.5
-            Z: 0.3
+            Z: 0.300000042
           }
         }
         ParentId: 13600415411855316817
@@ -743,19 +665,19 @@
         Name: "Prism - 3-Sided Polished"
         Transform {
           Location {
-            X: 57.4648438
-            Y: 25.2504883
-            Z: 162.589233
+            X: 60.7035484
+            Y: -19.942482
+            Z: 53.3235245
           }
           Rotation {
-            Pitch: 15.699831
-            Yaw: -47.2657471
-            Roll: -16.3248291
+            Pitch: 89.1077957
+            Yaw: -9.06170654
+            Roll: 89.8218155
           }
           Scale {
             X: 0.6
             Y: 0.5
-            Z: 0.3
+            Z: 0.300000042
           }
         }
         ParentId: 13600415411855316817
@@ -801,19 +723,19 @@
         Name: "Prism - 3-Sided Polished"
         Transform {
           Location {
-            X: 90.1289063
-            Y: -10.1035156
-            Z: 176.119019
+            X: 61.3802376
+            Y: -20.0493164
+            Z: 103.317505
           }
           Rotation {
-            Pitch: 15.699831
-            Yaw: -47.2657471
-            Roll: -16.3248291
+            Pitch: 89.1077957
+            Yaw: -9.06170654
+            Roll: 89.8218155
           }
           Scale {
             X: 0.6
             Y: 0.5
-            Z: 0.3
+            Z: 0.300000042
           }
         }
         ParentId: 13600415411855316817
@@ -859,19 +781,19 @@
         Name: "Prism - 3-Sided Polished"
         Transform {
           Location {
-            X: 122.792969
-            Y: -45.4588623
-            Z: 189.648743
+            X: 62.058136
+            Y: -20.1575108
+            Z: 153.313049
           }
           Rotation {
-            Pitch: 15.699831
-            Yaw: -47.2657471
-            Roll: -16.3248291
+            Pitch: 89.1077957
+            Yaw: -9.06170654
+            Roll: 89.8218155
           }
           Scale {
             X: 0.6
             Y: 0.5
-            Z: 0.3
+            Z: 0.300000042
           }
         }
         ParentId: 13600415411855316817
@@ -917,19 +839,19 @@
         Name: "Prism - 3-Sided Polished"
         Transform {
           Location {
-            X: 148.923828
-            Y: -94.9571533
-            Z: 200.472534
+            X: 47.9864655
+            Y: -17.9267082
+            Z: 208.515289
           }
           Rotation {
-            Pitch: 4.2813468
-            Yaw: -79.5871
-            Roll: -22.1096191
+            Pitch: 57.0347252
+            Yaw: 171.008072
+            Roll: -89.9970093
           }
           Scale {
             X: 0.6
             Y: 0.5
-            Z: 0.3
+            Z: 0.300000042
           }
         }
         ParentId: 13600415411855316817
@@ -975,19 +897,19 @@
         Name: "Cylinder - Chamfered Small Polished"
         Transform {
           Location {
-            X: -75.6660156
-            Y: 71.2130127
-            Z: 123.680908
+            X: -2.90384674
+            Y: 5.31927729
+            Z: -75.7731247
           }
           Rotation {
-            Pitch: 15.6998377
-            Yaw: 47.2657
-            Roll: -73.6750183
+            Pitch: -0.783630371
+            Yaw: -9.00180054
+            Roll: -6.10351563e-05
           }
           Scale {
             X: 0.6
             Y: 0.6
-            Z: 1.30000007
+            Z: 1.30000031
           }
         }
         ParentId: 13600415411855316817
@@ -1033,19 +955,19 @@
         Name: "Prism - 3-Sided Polished"
         Transform {
           Location {
-            X: 15
-            Y: 49.9995117
-            Z: 145
+            X: 45.2076492
+            Y: -17.4908466
+            Z: 3.53390241
           }
           Rotation {
-            Pitch: 20.7047482
-            Yaw: -24.1483154
-            Roll: -9.00692749
+            Pitch: 66.7109146
+            Yaw: -8.99609375
+            Roll: 90.0017929
           }
           Scale {
             X: 0.5
             Y: 0.5
-            Z: 0.3
+            Z: 0.300000042
           }
         }
         ParentId: 13600415411855316817
@@ -1091,19 +1013,19 @@
         Name: "Prism - 3-Sided Polished"
         Transform {
           Location {
-            X: -61.8085938
-            Y: -20.7108765
-            Z: 145.65625
+            X: -48.8576279
+            Y: 27.7816544
+            Z: 4.90414858
           }
           Rotation {
-            Pitch: 8.42092609
-            Yaw: -69.0592041
-            Roll: 159.05867
+            Pitch: 68.2844467
+            Yaw: 171.008881
+            Roll: 90.0052414
           }
           Scale {
             X: 0.5
             Y: 0.5
-            Z: 0.3
+            Z: 0.300000042
           }
         }
         ParentId: 13600415411855316817
@@ -1146,30 +1068,12 @@
       }
     }
     Assets {
-      Id: 12095835209017042614
-      Name: "Cube"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cube_002"
-      }
-    }
-    Assets {
       Id: 11763366870123048561
       Name: "Button Click 01 SFX"
       PlatformAssetType: 7
       PrimaryAsset {
         AssetType: "AudioAssetRef"
         AssetId: "sfxui_click_01_Cue"
-      }
-    }
-    Assets {
-      Id: 11251994733772007315
-      Name: "Invisible"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_invisible_001"
       }
     }
     Assets {
@@ -1188,6 +1092,15 @@
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "plastic_shiny_001"
+      }
+    }
+    Assets {
+      Id: 12095835209017042614
+      Name: "Cube"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_cube_002"
       }
     }
     Assets {

@@ -15,6 +15,7 @@ function handleJoined(player)
 
   clientWad = World.SpawnAsset(WAD, {position = player:GetWorldPosition() + Vector3.New(0, 0, spawnHeight)})
   clientWad.clientUserData["Size"] = 1
+  player.clientUserData["Wad"] = clientWad
 
   local wadControl = clientWad:GetCustomProperty("WadControl"):WaitForObject()
 

@@ -4,9 +4,9 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 1859664769832843278
+      RootId: 3876682450171662789
       Objects {
-        Id: 1859664769832843278
+        Id: 3876682450171662789
         Name: "Worker Ant"
         Transform {
           Scale {
@@ -15,18 +15,12 @@
             Z: 0.17864275
           }
         }
-        ParentId: 6451372190973718947
+        ParentId: 1056624421220325115
         ChildIds: 513977053858360846
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
             Float: 0.3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 11251994733772007315
-            }
           }
         }
         Collidable_v2 {
@@ -35,25 +29,13 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        CoreMesh {
-          MeshAsset {
-            Id: 12095835209017042614
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-              Mass: 10
-            }
-          }
+        Folder {
+          IsGroup: true
         }
       }
       Objects {
         Id: 513977053858360846
-        Name: "ClientContext"
+        Name: "Geo"
         Transform {
           Location {
           }
@@ -61,11 +43,11 @@
           }
           Scale {
             X: 1
-            Y: 1
+            Y: 0.99999994
             Z: 1
           }
         }
-        ParentId: 1859664769832843278
+        ParentId: 3876682450171662789
         ChildIds: 7981040815250096387
         ChildIds: 2868967381438230538
         ChildIds: 7985063884699707944
@@ -2325,24 +2307,6 @@
             }
           }
         }
-      }
-    }
-    Assets {
-      Id: 12095835209017042614
-      Name: "Cube"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cube_002"
-      }
-    }
-    Assets {
-      Id: 11251994733772007315
-      Name: "Invisible"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_invisible_001"
       }
     }
     Assets {

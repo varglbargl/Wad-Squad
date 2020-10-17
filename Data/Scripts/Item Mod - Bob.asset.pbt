@@ -1,6 +1,6 @@
 ﻿Assets {
-  Id: 1810430461882432351
-  Name: "Item Mod - Rotate"
+  Id: 5779258749086545758
+  Name: "Item Mod - Bob"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {
@@ -11,10 +11,12 @@
         }
       }
       Overrides {
-        Name: "cs:Speed"
-        Vector {
-          Z: 2
-        }
+        Name: "cs:Frequency"
+        Int: 5
+      }
+      Overrides {
+        Name: "cs:Wavelength"
+        Int: 20
       }
     }
   }

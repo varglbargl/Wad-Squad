@@ -7,7 +7,7 @@
       RootId: 1516960025473174507
       Objects {
         Id: 1516960025473174507
-        Name: "Item"
+        Name: "Pickup Sphere"
         Transform {
           Scale {
             X: 1
@@ -15,17 +15,8 @@
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 16549252654816810221
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:Pickup"
-            ObjectReference {
-            }
-          }
-          Overrides {
-            Name: "cs:Pickup:tooltip"
-            String: "The item that will be picked up when this trigger is hit"
-          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceon"

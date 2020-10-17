@@ -47,7 +47,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
@@ -162,7 +162,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
@@ -277,7 +277,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
@@ -392,7 +392,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
@@ -507,7 +507,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
@@ -622,7 +622,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
@@ -727,7 +727,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
@@ -835,7 +835,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
@@ -941,7 +941,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
@@ -1047,7 +1047,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
@@ -1153,7 +1153,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
@@ -1261,7 +1261,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"

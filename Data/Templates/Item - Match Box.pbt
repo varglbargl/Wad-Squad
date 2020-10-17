@@ -4,41 +4,23 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 6167910066172386003
+      RootId: 844378046564209126
       Objects {
-        Id: 6167910066172386003
+        Id: 844378046564209126
         Name: "Match Box"
         Transform {
           Scale {
             X: 1.80000007
-            Y: 3.6000011
+            Y: 3.60000134
             Z: 0.7
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 6301140141534488437
         ChildIds: 4488265639343516973
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
             Float: 1.5
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 11251994733772007315
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.1
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.2
           }
         }
         Collidable_v2 {
@@ -47,24 +29,13 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        CoreMesh {
-          MeshAsset {
-            Id: 12095835209017042614
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
+        Folder {
+          IsGroup: true
         }
       }
       Objects {
         Id: 4488265639343516973
-        Name: "ClientContext"
+        Name: "Geo"
         Transform {
           Location {
           }
@@ -72,11 +43,11 @@
           }
           Scale {
             X: 1
-            Y: 1
-            Z: 1
+            Y: 0.99999994
+            Z: 0.99999994
           }
         }
-        ParentId: 6167910066172386003
+        ParentId: 844378046564209126
         ChildIds: 4764201412702906065
         ChildIds: 7240727550719406141
         ChildIds: 13532101461065415184
@@ -1515,15 +1486,6 @@
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_cube_002"
-      }
-    }
-    Assets {
-      Id: 11251994733772007315
-      Name: "Invisible"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_invisible_001"
       }
     }
     Assets {

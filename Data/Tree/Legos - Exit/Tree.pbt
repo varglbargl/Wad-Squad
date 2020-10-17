@@ -83,7 +83,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -133,16 +133,15 @@ Objects {
   ParentId: 13669281475920116426
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -235,7 +234,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -274,7 +273,7 @@ Objects {
 }
 Objects {
   Id: 2751226709724497550
-  Name: "Item - Lego Brick"
+  Name: "Lego Brick"
   Transform {
     Scale {
       X: 1
@@ -283,18 +282,23 @@ Objects {
     }
   }
   ParentId: 12084705839328914698
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -387,7 +391,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -437,16 +441,15 @@ Objects {
   ParentId: 850942402228069284
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -538,7 +541,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -588,16 +591,15 @@ Objects {
   ParentId: 11052272254866806805
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -690,7 +692,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -740,16 +742,15 @@ Objects {
   ParentId: 15269101393872247430
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -842,7 +843,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -892,16 +893,15 @@ Objects {
   ParentId: 11949722978498389386
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -993,7 +993,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1043,16 +1043,15 @@ Objects {
   ParentId: 16398397478796122273
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1145,7 +1144,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1195,16 +1194,15 @@ Objects {
   ParentId: 8220453082706731032
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1296,7 +1294,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1346,16 +1344,15 @@ Objects {
   ParentId: 10387669662567840273
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1447,7 +1444,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1497,16 +1494,15 @@ Objects {
   ParentId: 5313027761244515542
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1599,7 +1595,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1649,16 +1645,15 @@ Objects {
   ParentId: 17844445280739929941
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1751,7 +1746,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1801,16 +1796,15 @@ Objects {
   ParentId: 2404939252858442904
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1903,7 +1897,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1953,28 +1947,15 @@ Objects {
   ParentId: 1015017407381532184
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1291045645021251562
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Y: -45
-            Z: 34.999939
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2067,7 +2048,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -2117,16 +2098,15 @@ Objects {
   ParentId: 7750259638201300022
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2219,7 +2199,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -2269,16 +2249,15 @@ Objects {
   ParentId: 12406642847911941722
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2371,7 +2350,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -2421,16 +2400,15 @@ Objects {
   ParentId: 3845046813987885870
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2522,7 +2500,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -2572,16 +2550,15 @@ Objects {
   ParentId: 9092472373032480098
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2673,7 +2650,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -2723,16 +2700,15 @@ Objects {
   ParentId: 10232146604804863990
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2824,7 +2800,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -2874,16 +2850,15 @@ Objects {
   ParentId: 17069801675625122614
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2975,7 +2950,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -3025,28 +3000,15 @@ Objects {
   ParentId: 11029549799841477217
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1291045645021251562
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Y: -45
-            Z: 34.999939
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -3138,7 +3100,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -3188,16 +3150,15 @@ Objects {
   ParentId: 11779259211681579119
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -3289,7 +3250,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -3339,16 +3300,15 @@ Objects {
   ParentId: 4820049079741358013
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }

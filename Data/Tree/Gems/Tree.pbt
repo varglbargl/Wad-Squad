@@ -83,14 +83,14 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -68.4206543
-            Y: -118.508965
-            Z: -5
+            X: -68.4204941
+            Y: -118.509056
+            Z: -8.42938328
           }
         }
         Overrides {
@@ -110,9 +110,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.798978269
+            Y: 0.798978269
+            Z: 0.798978269
           }
         }
       }
@@ -141,7 +141,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -158,10 +158,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 1.8
         }
       }
     }
@@ -253,14 +249,14 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -68.4206543
-            Y: -118.508965
-            Z: -5
+            X: -68.4207611
+            Y: -118.509
+            Z: -8.42938328
           }
         }
         Overrides {
@@ -280,9 +276,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.798978269
+            Y: 0.798978269
+            Z: 0.798978269
           }
         }
       }
@@ -311,7 +307,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -328,10 +324,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 1.8
         }
       }
     }
@@ -423,14 +415,14 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -68.4206543
-            Y: -118.508965
-            Z: -5
+            X: -68.4203796
+            Y: -118.508453
+            Z: -8.42938328
           }
         }
         Overrides {
@@ -450,9 +442,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.798978269
+            Y: 0.798978269
+            Z: 0.798978269
           }
         }
       }
@@ -481,7 +473,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -498,10 +490,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 1.8
         }
       }
     }
@@ -593,14 +581,14 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -68.4206543
-            Y: -118.508965
-            Z: -5
+            X: -68.4206085
+            Y: -118.509094
+            Z: -8.42938328
           }
         }
         Overrides {
@@ -620,9 +608,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.798978269
+            Y: 0.798978269
+            Z: 0.798978269
           }
         }
       }
@@ -651,7 +639,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -668,10 +656,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 1.8
         }
       }
     }
@@ -763,14 +747,14 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -68.4206543
+            X: -68.4207382
             Y: -118.508965
-            Z: -5
+            Z: -8.42938328
           }
         }
         Overrides {
@@ -790,9 +774,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.798978269
+            Y: 0.798978269
+            Z: 0.798978269
           }
         }
       }
@@ -821,7 +805,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -838,10 +822,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 1.8
         }
       }
     }
@@ -933,14 +913,14 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -68.4206543
+            X: -68.4206467
             Y: -118.508965
-            Z: -5
+            Z: -8.42938328
           }
         }
         Overrides {
@@ -960,9 +940,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.798978269
+            Y: 0.798978269
+            Z: 0.798978269
           }
         }
       }
@@ -991,7 +971,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -1008,10 +988,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 1.8
         }
       }
     }
@@ -1134,12 +1110,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -1159,9 +1135,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -1190,7 +1166,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -1336,12 +1312,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -1361,9 +1337,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -1392,7 +1368,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -1538,12 +1514,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -1563,9 +1539,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -1594,7 +1570,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -1740,12 +1716,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -1765,9 +1741,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -1779,7 +1755,7 @@ Objects {
 }
 Objects {
   Id: 2559536422178492109
-  Name: "Diamond"
+  Name: "Precious Gem"
   Transform {
     Scale {
       X: 1
@@ -1788,9 +1764,15 @@ Objects {
     }
   }
   ParentId: 16714510042032799626
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -1805,10 +1787,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -1940,12 +1918,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -1965,9 +1943,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -1996,7 +1974,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -2140,12 +2118,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -2165,9 +2143,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -2196,7 +2174,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -2340,12 +2318,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -2365,9 +2343,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -2396,7 +2374,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -2540,12 +2518,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -2565,9 +2543,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -2596,7 +2574,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -2740,12 +2718,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -2765,9 +2743,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -2796,7 +2774,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -2940,12 +2918,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -2965,9 +2943,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -2990,7 +2968,7 @@ Objects {
   ParentId: 17084656995758458842
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -3005,10 +2983,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -3138,12 +3112,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -3163,9 +3137,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -3188,7 +3162,7 @@ Objects {
   ParentId: 11013239341579802618
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -3203,10 +3177,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -3336,12 +3306,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -3361,9 +3331,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -3386,7 +3356,7 @@ Objects {
   ParentId: 9706462141593596129
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -3530,12 +3500,12 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: -5
+            Z: -6.6116333
           }
         }
         Overrides {
@@ -3555,9 +3525,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.7
-            Y: 0.7
-            Z: 0.7
+            X: 0.849631071
+            Y: 0.849631071
+            Z: 0.849631071
           }
         }
       }
@@ -3580,7 +3550,7 @@ Objects {
   ParentId: 2134820763970167618
   TemplateInstance {
     ParameterOverrideMap {
-      key: 907499025761674707
+      key: 14756763129742726229
       value {
         Overrides {
           Name: "Name"
@@ -3595,10 +3565,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }

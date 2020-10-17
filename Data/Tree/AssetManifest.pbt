@@ -422,6 +422,15 @@ Assets {
   }
 }
 Assets {
+  Id: 12610149741243116648
+  Name: "Urban Pipe Coupling 05"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_pipes_acc_coupling_005_ref"
+  }
+}
+Assets {
   Id: 12095835209017042614
   Name: "Cube"
   PlatformAssetType: 1
@@ -482,6 +491,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_urb_sub_craftsman_porch_001_rail"
+  }
+}
+Assets {
+  Id: 11251994733772007315
+  Name: "Invisible"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_invisible_001"
   }
 }
 Assets {
@@ -809,6 +827,15 @@ Assets {
   }
 }
 Assets {
+  Id: 6491134024218534628
+  Name: "Birch Leaves 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_leaves_birch_001"
+  }
+}
+Assets {
   Id: 6035976214873079857
   Name: "Magic Swirl Element Volume"
   PlatformAssetType: 8
@@ -944,6 +971,15 @@ Assets {
   }
 }
 Assets {
+  Id: 4397603772387366697
+  Name: "Pipe - Spiral"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_spiral_001"
+  }
+}
+Assets {
   Id: 4338592646651934955
   Name: "Food Watermelon 01"
   PlatformAssetType: 2
@@ -1013,6 +1049,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_coral_table_01"
+  }
+}
+Assets {
+  Id: 3729200827906376498
+  Name: "Bush Leafy Tall 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_leafy_bush_001"
   }
 }
 Assets {
@@ -1130,15 +1175,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_rock_generic_003"
-  }
-}
-Assets {
-  Id: 2407829855670955504
-  Name: "Bone Human Humerus 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_humerus_01_ref"
   }
 }
 Assets {

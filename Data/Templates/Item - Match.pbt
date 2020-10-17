@@ -4,9 +4,9 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 17595363790206932742
+      RootId: 7068053548285721726
       Objects {
-        Id: 17595363790206932742
+        Id: 7068053548285721726
         Name: "Match"
         Transform {
           Scale {
@@ -15,36 +15,18 @@
             Z: 1.70000017
           }
         }
-        ParentId: 1120760385207313980
+        ParentId: 6804453283621140777
         ChildIds: 17154208738664469311
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
-            Float: 0.5
+            Float: 0.6
           }
           Overrides {
             Name: "cs:PickupSound"
             AssetReference {
               Id: 7081630242852973798
             }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 4050437425243511619
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.1
           }
         }
         Collidable_v2 {
@@ -53,38 +35,28 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        CoreMesh {
-          MeshAsset {
-            Id: 12095835209017042614
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
+        Folder {
+          IsGroup: true
         }
       }
       Objects {
         Id: 17154208738664469311
-        Name: "ClientContext"
+        Name: "Geo"
         Transform {
           Location {
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
+            X: 1.00000012
+            Y: 1.00000012
             Z: 1
           }
         }
-        ParentId: 17595363790206932742
+        ParentId: 7068053548285721726
         ChildIds: 15998860237426343035
         ChildIds: 15618136824386109907
+        ChildIds: 17595363790206932742
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
         }
@@ -225,14 +197,61 @@
           }
         }
       }
-    }
-    Assets {
-      Id: 12095835209017042614
-      Name: "Cube"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cube_002"
+      Objects {
+        Id: 17595363790206932742
+        Name: "Stick"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.999999821
+            Y: 0.999999821
+            Z: 1
+          }
+        }
+        ParentId: 17154208738664469311
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 4050437425243511619
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.1
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 12095835209017042614
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
+          }
+        }
       }
     }
     Assets {
@@ -242,15 +261,6 @@
       PrimaryAsset {
         AssetType: "AudioAssetRef"
         AssetId: "sfx_wood_object_tap_01a_Cue_ref"
-      }
-    }
-    Assets {
-      Id: 4050437425243511619
-      Name: "Wood Raw"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_wood_raw_001_uv"
       }
     }
     Assets {
@@ -278,6 +288,24 @@
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_truncated_teardrop_001"
+      }
+    }
+    Assets {
+      Id: 12095835209017042614
+      Name: "Cube"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_cube_002"
+      }
+    }
+    Assets {
+      Id: 4050437425243511619
+      Name: "Wood Raw"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_wood_raw_001_uv"
       }
     }
     PrimaryAssetId {

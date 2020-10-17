@@ -1,6 +1,6 @@
 ﻿Assets {
-  Id: 748012494602405974
-  Name: "Sprinkler Head"
+  Id: 7329050911160183410
+  Name: "Item - Sprinkler Head"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {

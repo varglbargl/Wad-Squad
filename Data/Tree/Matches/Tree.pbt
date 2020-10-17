@@ -6,12 +6,12 @@ Objects {
   Transform {
     Location {
       X: 1413.5957
-      Y: -1237.39551
-      Z: 59.5956421
+      Y: -1237.39575
+      Z: 49.1929092
     }
     Rotation {
       Pitch: -2.78530884
-      Yaw: 32.6051292
+      Yaw: 32.6051941
       Roll: -20.6498413
     }
     Scale {
@@ -89,28 +89,21 @@ Objects {
   ParentId: 4373256050883692610
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -124,13 +117,13 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 1680.28711
-      Y: -1016.82813
-      Z: 28.3150635
+      X: 1680.27905
+      Y: -1016.82776
+      Z: 39.6346
     }
     Rotation {
       Pitch: 4.58378744
-      Yaw: -117.383514
+      Yaw: -117.383408
       Roll: -27.3656
     }
     Scale {
@@ -208,28 +201,21 @@ Objects {
   ParentId: 9990141447533787205
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -243,9 +229,9 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 1146.99219
-      Y: -1565.92676
-      Z: 58.6138306
+      X: 1146.96021
+      Y: -1565.9259
+      Z: 65.328064
     }
     Rotation {
       Pitch: -3.01080322
@@ -327,28 +313,21 @@ Objects {
   ParentId: 16539541157959509276
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -364,12 +343,12 @@ Objects {
     Location {
       X: -1088.09766
       Y: 4310.00293
-      Z: 50.000061
+      Z: 52.2467041
     }
     Rotation {
       Pitch: 3.4150944e-05
       Yaw: 95.8889542
-      Roll: -24.9973755
+      Roll: -24.9972534
     }
     Scale {
       X: 1
@@ -446,28 +425,21 @@ Objects {
   ParentId: 1409342763774630962
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -481,14 +453,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -323.025391
-      Y: 4276.48047
-      Z: 69.2019653
+      X: -323.024902
+      Y: 4276.47754
+      Z: 58.7992325
     }
     Rotation {
       Pitch: 1.36603776e-05
-      Yaw: -165.660843
-      Roll: -24.996521
+      Yaw: -165.660782
+      Roll: -24.9964294
     }
     Scale {
       X: 1
@@ -565,28 +537,21 @@ Objects {
   ParentId: 4235576802446682743
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -600,14 +565,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -666.488281
-      Y: 4328.02441
-      Z: 80.5211792
+      X: -666.488403
+      Y: 4328.02051
+      Z: 70.1184082
     }
     Rotation {
       Pitch: 4.09811328e-05
-      Yaw: -15.6609802
-      Roll: -24.995697
+      Yaw: -15.6610413
+      Roll: -24.9956055
     }
     Scale {
       X: 1
@@ -684,28 +649,21 @@ Objects {
   ParentId: 12492663936664339278
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -719,14 +677,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -603.476563
-      Y: 4566.0459
-      Z: 65.2370605
+      X: -603.476135
+      Y: 4566.04297
+      Z: 54.8342896
     }
     Rotation {
       Pitch: 4.09811328e-05
       Yaw: -100.660645
-      Roll: -24.9960327
+      Roll: -24.9959412
     }
     Scale {
       X: 1
@@ -803,28 +761,21 @@ Objects {
   ParentId: 11216252287255116253
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -838,13 +789,13 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -3134.19531
-      Y: 3689.35034
-      Z: 42.7540894
+      X: -3134.16089
+      Y: 3689.30981
+      Z: 32.3513794
     }
     Rotation {
-      Yaw: 65.0004196
-      Roll: -24.9986572
+      Yaw: 65.0004654
+      Roll: -24.9985657
     }
     Scale {
       X: 1
@@ -921,28 +872,21 @@ Objects {
   ParentId: 10907978963648289062
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -956,14 +900,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -3014.19531
-      Y: 3904.35083
-      Z: 58.038147
+      X: -3014.19092
+      Y: 3904.34399
+      Z: 47.6353951
     }
     Rotation {
       Pitch: 1.36603776e-05
       Yaw: 149.999802
-      Roll: -24.9984131
+      Roll: -24.9983215
     }
     Scale {
       X: 1
@@ -1040,28 +984,21 @@ Objects {
   ParentId: 10045726351102960213
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -1075,12 +1012,12 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -3334.19531
-      Y: 4039.35132
-      Z: 46.7189331
+      X: -3334.18115
+      Y: 4039.33423
+      Z: 36.3162231
     }
     Rotation {
-      Roll: -24.9992065
+      Roll: -24.999115
     }
     Scale {
       X: 1
@@ -1157,28 +1094,21 @@ Objects {
   ParentId: 18117916526264427718
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -1282,24 +1212,21 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6167910066172386003
+      key: 844378046564209126
       value {
         Overrides {
           Name: "Name"
           String: "Match Box"
         }
         Overrides {
-          Name: "Rotation"
-          Rotator {
-            Roll: -3.05175781e-05
+          Name: "Position"
+          Vector {
           }
         }
         Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.80000007
-            Y: 3.6000011
-            Z: 0.7
+          Name: "Rotation"
+          Rotator {
+            Roll: -3.05175781e-05
           }
         }
       }
@@ -1314,13 +1241,13 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -2565.19922
+      X: -2565.19189
       Y: -285
-      Z: 105
+      Z: 94.5972672
     }
     Rotation {
-      Yaw: 65.0002518
-      Roll: -24.9989014
+      Yaw: 65.0003128
+      Roll: -24.9988098
     }
     Scale {
       X: 1
@@ -1397,28 +1324,21 @@ Objects {
   ParentId: 9568437986827821842
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -1432,14 +1352,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -2445.19922
+      X: -2445.18945
       Y: -70
-      Z: 110
+      Z: 99.5972672
     }
     Rotation {
       Pitch: 1.36603776e-05
       Yaw: 149.999832
-      Roll: -24.9986267
+      Roll: -24.9985352
     }
     Scale {
       X: 1
@@ -1516,28 +1436,21 @@ Objects {
   ParentId: 8233147427220528744
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -1551,12 +1464,12 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -2765.19922
+      X: -2765.18774
       Y: 65
-      Z: 130
+      Z: 119.597267
     }
     Rotation {
-      Roll: -24.9994202
+      Roll: -24.9993286
     }
     Scale {
       X: 1
@@ -1633,28 +1546,21 @@ Objects {
   ParentId: 16814125177761261735
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -1668,13 +1574,13 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -2940.19922
+      X: -2940.18701
       Y: -185
-      Z: 125
+      Z: 114.597267
     }
     Rotation {
       Yaw: -50.000061
-      Roll: -24.999115
+      Roll: -24.9990234
     }
     Scale {
       X: 1
@@ -1751,28 +1657,21 @@ Objects {
   ParentId: 1212337998108539515
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -1786,13 +1685,13 @@ Objects {
   Name: "Lit Mach"
   Transform {
     Location {
-      X: 3649.7998
-      Y: 2490
-      Z: 60
+      X: 3649.75122
+      Y: 2489.97363
+      Z: 49.5972672
     }
     Rotation {
-      Yaw: 54.9998627
-      Roll: -24.9985962
+      Yaw: 54.999836
+      Roll: -24.9985046
     }
     Scale {
       X: 1
@@ -1869,28 +1768,21 @@ Objects {
   ParentId: 11610572795804620756
   TemplateInstance {
     ParameterOverrideMap {
-      key: 15439994944323740757
+      key: 13374081192940078046
       value {
         Overrides {
           Name: "Name"
           String: "Lit Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -1904,14 +1796,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 3919.7998
-      Y: 2630
-      Z: 70
+      X: 3919.75171
+      Y: 2629.96484
+      Z: 59.5972672
     }
     Rotation {
       Pitch: 1.36603776e-05
-      Yaw: 59.9997864
-      Roll: -24.9980164
+      Yaw: 59.9997673
+      Roll: -24.9979248
     }
     Scale {
       X: 1
@@ -1988,28 +1880,21 @@ Objects {
   ParentId: 2579359408970964653
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -2023,14 +1908,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 3419.7998
-      Y: 2700
-      Z: 70
+      X: 3419.74365
+      Y: 2699.96533
+      Z: 70.0918579
     }
     Rotation {
       Pitch: 1.36603776e-05
       Yaw: -30.0001221
-      Roll: -24.9979858
+      Roll: -24.9978638
     }
     Scale {
       X: 1
@@ -2096,7 +1981,7 @@ Objects {
 }
 Objects {
   Id: 14418867369113607836
-  Name: "Item - Match"
+  Name: "Match"
   Transform {
     Scale {
       X: 1
@@ -2105,30 +1990,29 @@ Objects {
     }
   }
   ParentId: 6804453283621140777
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -2142,14 +2026,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 2779.7998
-      Y: 4390
-      Z: 90
+      X: 2779.76392
+      Y: 4389.94141
+      Z: 79.5972672
     }
     Rotation {
       Pitch: 1.36603776e-05
-      Yaw: 104.999878
-      Roll: -24.9982605
+      Yaw: 104.999916
+      Roll: -24.9981689
     }
     Scale {
       X: 1
@@ -2226,28 +2110,21 @@ Objects {
   ParentId: 1872760533192418311
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -2261,14 +2138,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 3599.7998
-      Y: 4010
-      Z: 90
+      X: 3599.78223
+      Y: 4009.98169
+      Z: 79.5972672
     }
     Rotation {
       Pitch: 1.36603776e-05
-      Yaw: -75.0001221
-      Roll: -24.9982
+      Yaw: -75.000061
+      Roll: -24.9981079
     }
     Scale {
       X: 1
@@ -2345,28 +2222,21 @@ Objects {
   ParentId: 18325958519014698202
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -2380,14 +2250,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 2149.7998
-      Y: 3660
-      Z: 30
+      X: 2149.76147
+      Y: 3659.94873
+      Z: 19.5972691
     }
     Rotation {
       Pitch: 1.36603776e-05
-      Yaw: 149.999832
-      Roll: -24.9985352
+      Yaw: 149.999802
+      Roll: -24.9984436
     }
     Scale {
       X: 1
@@ -2464,28 +2334,21 @@ Objects {
   ParentId: 12529277423041317445
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -2499,14 +2362,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 2279.7998
-      Y: 4250
-      Z: 70
+      X: 2279.76514
+      Y: 4249.95313
+      Z: 59.5972672
     }
     Rotation {
       Pitch: 1.36603776e-05
-      Yaw: -165.000092
-      Roll: -24.9985657
+      Yaw: -165.000031
+      Roll: -24.9984741
     }
     Scale {
       X: 1
@@ -2583,28 +2446,21 @@ Objects {
   ParentId: 16112190613311237410
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -2618,14 +2474,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 2149.7998
-      Y: 3940
-      Z: 60
+      X: 2149.7627
+      Y: 3939.94751
+      Z: 49.5972672
     }
     Rotation {
       Pitch: 1.36603776e-05
       Yaw: 104.999847
-      Roll: -24.9985962
+      Roll: -24.9985046
     }
     Scale {
       X: 1
@@ -2702,28 +2558,21 @@ Objects {
   ParentId: 15355528481201854020
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -2827,24 +2676,21 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6167910066172386003
+      key: 844378046564209126
       value {
         Overrides {
           Name: "Name"
           String: "Match Box"
         }
         Overrides {
-          Name: "Rotation"
-          Rotator {
-            Roll: -3.05175781e-05
+          Name: "Position"
+          Vector {
           }
         }
         Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.80000007
-            Y: 3.6000011
-            Z: 0.7
+          Name: "Rotation"
+          Rotator {
+            Roll: -3.05175781e-05
           }
         }
       }
@@ -2860,12 +2706,12 @@ Objects {
   Transform {
     Location {
       X: -180.200195
-      Y: -1975
-      Z: 85.0003662
+      Y: -1974.99976
+      Z: 74.5976715
     }
     Rotation {
-      Yaw: 54.9999046
-      Roll: -24.9987793
+      Yaw: 54.9998894
+      Roll: -24.9986877
     }
     Scale {
       X: 1
@@ -2942,28 +2788,21 @@ Objects {
   ParentId: 13894677305720116137
   TemplateInstance {
     ParameterOverrideMap {
-      key: 15439994944323740757
+      key: 13374081192940078046
       value {
         Overrides {
           Name: "Name"
           String: "Lit Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -2977,14 +2816,14 @@ Objects {
   Name: "Lit Mach"
   Transform {
     Location {
-      X: -260.200195
-      Y: -1475
-      Z: 79.9998779
+      X: -260.200287
+      Y: -1474.99976
+      Z: 69.597168
     }
     Rotation {
       Pitch: 6.83018879e-06
       Yaw: 129.999847
-      Roll: -24.9987183
+      Roll: -24.9986267
     }
     Scale {
       X: 1
@@ -3061,24 +2900,11 @@ Objects {
   ParentId: 12450863695603634218
   TemplateInstance {
     ParameterOverrideMap {
-      key: 15439994944323740757
+      key: 13374081192940078046
       value {
         Overrides {
           Name: "Name"
           String: "Lit Match"
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
         }
         Overrides {
           Name: "Position"
@@ -3086,8 +2912,9 @@ Objects {
           }
         }
         Overrides {
-          Name: "cs:Size"
-          Float: 0.6
+          Name: "Rotation"
+          Rotator {
+          }
         }
       }
     }
@@ -3101,14 +2928,14 @@ Objects {
   Name: "Lit Mach"
   Transform {
     Location {
-      X: -825.200195
-      Y: -1445
-      Z: 95
+      X: -825.180237
+      Y: -1444.99988
+      Z: 84.5972672
     }
     Rotation {
       Pitch: 2.04905664e-05
-      Yaw: -155.000168
-      Roll: -24.9980164
+      Yaw: -155.000214
+      Roll: -24.9979248
     }
     Scale {
       X: 1
@@ -3185,28 +3012,21 @@ Objects {
   ParentId: 3888497811613822047
   TemplateInstance {
     ParameterOverrideMap {
-      key: 15439994944323740757
+      key: 13374081192940078046
       value {
         Overrides {
           Name: "Name"
           String: "Lit Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -3220,14 +3040,14 @@ Objects {
   Name: "Lit Mach"
   Transform {
     Location {
-      X: -1075.2002
-      Y: -1940
-      Z: 114.999939
+      X: -1075.19849
+      Y: -1939.99976
+      Z: 104.597267
     }
     Rotation {
       Pitch: 6.83018879e-06
       Yaw: -84.999939
-      Roll: -24.9988403
+      Roll: -24.9987488
     }
     Scale {
       X: 1
@@ -3304,28 +3124,21 @@ Objects {
   ParentId: 5020259546805813893
   TemplateInstance {
     ParameterOverrideMap {
-      key: 15439994944323740757
+      key: 13374081192940078046
       value {
         Overrides {
           Name: "Name"
           String: "Lit Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -3339,12 +3152,12 @@ Objects {
   Name: "Lit Mach"
   Transform {
     Location {
-      X: -585.200195
-      Y: -2210
-      Z: 115
+      X: -585.183289
+      Y: -2209.99976
+      Z: 104.597267
     }
     Rotation {
-      Roll: -24.9996643
+      Roll: -24.9995728
     }
     Scale {
       X: 1
@@ -3410,7 +3223,7 @@ Objects {
 }
 Objects {
   Id: 11087891553168197545
-  Name: "Item - Lit Match"
+  Name: "Lit Match"
   Transform {
     Scale {
       X: 1
@@ -3419,30 +3232,29 @@ Objects {
     }
   }
   ParentId: 12347420487302035762
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 15439994944323740757
+      key: 13374081192940078046
       value {
         Overrides {
           Name: "Name"
           String: "Lit Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -3456,13 +3268,13 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 244.799805
-      Y: -1385
-      Z: 85
+      X: 244.799698
+      Y: -1384.99976
+      Z: 74.5972672
     }
     Rotation {
       Yaw: -134.999863
-      Roll: -24.9987907
+      Roll: -24.9986877
     }
     Scale {
       X: 1
@@ -3545,7 +3357,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
@@ -3561,10 +3373,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
-        }
       }
     }
     TemplateAsset {
@@ -3577,12 +3385,12 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 719.799805
+      X: 719.79895
       Y: -245
-      Z: 23.9169922
+      Z: 13.5143023
     }
     Rotation {
-      Roll: -24.9994202
+      Roll: -24.9993286
     }
     Scale {
       X: 1
@@ -3665,7 +3473,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
@@ -3681,10 +3489,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
-        }
       }
     }
     TemplateAsset {
@@ -3697,14 +3501,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 754.799805
-      Y: -705
-      Z: 56.0756836
+      X: 754.7995
+      Y: -705.000061
+      Z: 45.6729126
     }
     Rotation {
       Pitch: 1.36603776e-05
-      Yaw: -116.300323
-      Roll: -24.9967957
+      Yaw: -116.300278
+      Roll: -24.9967041
     }
     Scale {
       X: 1
@@ -3787,7 +3591,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
@@ -3803,10 +3607,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
-        }
       }
     }
     TemplateAsset {
@@ -3819,13 +3619,13 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 99.7998047
-      Y: -2390
-      Z: 65
+      X: 99.8
+      Y: -2389.99805
+      Z: 54.5972672
     }
     Rotation {
-      Yaw: -50.0000229
-      Roll: -24.9991913
+      Yaw: -50.0000305
+      Roll: -24.999115
     }
     Scale {
       X: 1
@@ -3908,7 +3708,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
@@ -3924,10 +3724,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
-        }
       }
     }
     TemplateAsset {
@@ -3940,12 +3736,12 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 469.799805
-      Y: -2620
-      Z: 80
+      X: 469.8
+      Y: -2619.99976
+      Z: 69.5972672
     }
     Rotation {
-      Roll: -24.9996204
+      Roll: -24.9995422
     }
     Scale {
       X: 1
@@ -4028,7 +3824,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
@@ -4044,10 +3840,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
-        }
       }
     }
     TemplateAsset {
@@ -4060,13 +3852,13 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 594.799805
-      Y: -1930
-      Z: 105.000061
+      X: 594.799866
+      Y: -1929.99976
+      Z: 94.5973663
     }
     Rotation {
       Yaw: 124.999802
-      Roll: -24.9986382
+      Roll: -24.9985352
     }
     Scale {
       X: 1
@@ -4149,7 +3941,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
@@ -4165,10 +3957,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
-        }
       }
     }
     TemplateAsset {
@@ -4182,13 +3970,13 @@ Objects {
   Transform {
     Location {
       X: 404.799805
-      Y: -1985
-      Z: 90
+      Y: -1984.99976
+      Z: 79.5972672
     }
     Rotation {
       Pitch: 6.83018879e-06
-      Yaw: -54.9999809
-      Roll: -24.9993744
+      Yaw: -54.999939
+      Roll: -24.9992981
     }
     Scale {
       X: 1
@@ -4271,7 +4059,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
@@ -4287,10 +4075,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
-        }
       }
     }
     TemplateAsset {
@@ -4303,12 +4087,12 @@ Objects {
   Name: "Lit Mach"
   Transform {
     Location {
-      X: -25.2001953
-      Y: 2810
-      Z: 20
+      X: -25.199585
+      Y: 2809.99658
+      Z: 9.59726906
     }
     Rotation {
-      Roll: -24.9991646
+      Roll: -24.9990845
     }
     Scale {
       X: 1
@@ -4385,7 +4169,7 @@ Objects {
   ParentId: 14907041132144644651
   TemplateInstance {
     ParameterOverrideMap {
-      key: 15439994944323740757
+      key: 13374081192940078046
       value {
         Overrides {
           Name: "Name"
@@ -4413,12 +4197,12 @@ Objects {
   Name: "Lit Mach"
   Transform {
     Location {
-      X: 644.799805
-      Y: 3205
-      Z: 20
+      X: 644.799377
+      Y: 3204.99976
+      Z: 9.59726906
     }
     Rotation {
-      Roll: -24.9993763
+      Roll: -24.9992981
     }
     Scale {
       X: 1
@@ -4495,28 +4279,21 @@ Objects {
   ParentId: 7912304725894047394
   TemplateInstance {
     ParameterOverrideMap {
-      key: 15439994944323740757
+      key: 13374081192940078046
       value {
         Overrides {
           Name: "Name"
           String: "Lit Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -4530,14 +4307,14 @@ Objects {
   Name: "Lit Mach"
   Transform {
     Location {
-      X: 464.799805
-      Y: 2610
-      Z: 30
+      X: 464.799591
+      Y: 2609.99902
+      Z: 19.5972691
     }
     Rotation {
       Pitch: 6.83018879e-06
       Yaw: 169.999908
-      Roll: -24.9986706
+      Roll: -24.9985657
     }
     Scale {
       X: 1
@@ -4620,7 +4397,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 15439994944323740757
+      key: 13374081192940078046
       value {
         Overrides {
           Name: "Name"
@@ -4648,13 +4425,13 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -995.200195
-      Y: 3725
-      Z: 45
+      X: -995.199768
+      Y: 3724.95239
+      Z: 34.5972672
     }
     Rotation {
-      Yaw: 65.0001144
-      Roll: -24.9990749
+      Yaw: 65.0001755
+      Roll: -24.9989929
     }
     Scale {
       X: 1
@@ -4731,28 +4508,21 @@ Objects {
   ParentId: 12771889573926855503
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -4766,14 +4536,14 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -576.486328
-      Y: 3887.59985
-      Z: 50.000061
+      X: -576.485596
+      Y: 3887.55151
+      Z: 39.5973701
     }
     Rotation {
       Pitch: 1.36603776e-05
       Yaw: 149.999832
-      Roll: -24.9987793
+      Roll: -24.9986877
     }
     Scale {
       X: 1
@@ -4850,28 +4620,21 @@ Objects {
   ParentId: 2236617742025585916
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -4885,12 +4648,12 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -1480.2002
-      Y: 4225
-      Z: 50
+      X: -1480.19897
+      Y: 4224.99805
+      Z: 39.5972672
     }
     Rotation {
-      Roll: -24.999651
+      Roll: -24.9995728
     }
     Scale {
       X: 1
@@ -4967,28 +4730,21 @@ Objects {
   ParentId: 3159095931321626004
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -5002,13 +4758,13 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -1800.2002
-      Y: 3825
-      Z: 40
+      X: -1800.17676
+      Y: 3824.9563
+      Z: 29.5972691
     }
     Rotation {
-      Yaw: -50.0000229
-      Roll: -24.9993763
+      Yaw: -50.0000305
+      Roll: -24.9992981
     }
     Scale {
       X: 1
@@ -5085,28 +4841,21 @@ Objects {
   ParentId: 2848073014724483377
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
           String: "Match"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.100000009
-            Y: 0.100000009
-            Z: 1.70000017
-          }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -5208,24 +4957,21 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6167910066172386003
+      key: 844378046564209126
       value {
         Overrides {
           Name: "Name"
           String: "Match Box"
         }
         Overrides {
-          Name: "Rotation"
-          Rotator {
-            Roll: -3.05175781e-05
+          Name: "Position"
+          Vector {
           }
         }
         Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.80000007
-            Y: 3.6000011
-            Z: 0.7
+          Name: "Rotation"
+          Rotator {
+            Roll: -3.05175781e-05
           }
         }
       }
@@ -5312,7 +5058,7 @@ Objects {
 }
 Objects {
   Id: 1576329076830533189
-  Name: "Item - Matchbox"
+  Name: "Match Box"
   Transform {
     Scale {
       X: 1
@@ -5329,24 +5075,21 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6167910066172386003
+      key: 844378046564209126
       value {
         Overrides {
           Name: "Name"
           String: "Match Box"
         }
         Overrides {
-          Name: "Rotation"
-          Rotator {
-            Roll: -3.05175781e-05
+          Name: "Position"
+          Vector {
           }
         }
         Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.80000007
-            Y: 3.6000011
-            Z: 0.7
+          Name: "Rotation"
+          Rotator {
+            Roll: -3.05757603e-05
           }
         }
       }
@@ -5457,24 +5200,21 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6167910066172386003
+      key: 844378046564209126
       value {
         Overrides {
           Name: "Name"
           String: "Match Box"
         }
         Overrides {
-          Name: "Rotation"
-          Rotator {
-            Roll: 4.21927691
+          Name: "Position"
+          Vector {
           }
         }
         Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.80000007
-            Y: 3.6000011
-            Z: 0.7
+          Name: "Rotation"
+          Rotator {
+            Roll: 4.21927691
           }
         }
       }
@@ -5489,12 +5229,12 @@ Objects {
   Name: "Lit Mach"
   Transform {
     Location {
-      X: 1234.7998
+      X: 1234.79883
       Y: -2280
-      Z: 121.118469
+      Z: 110.715736
     }
     Rotation {
-      Roll: -24.9998627
+      Roll: -24.9997864
     }
     Scale {
       X: 1
@@ -5577,7 +5317,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 15439994944323740757
+      key: 13374081192940078046
       value {
         Overrides {
           Name: "Name"
@@ -5593,10 +5333,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
-        }
       }
     }
     TemplateAsset {
@@ -5609,12 +5345,12 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: 949.799805
-      Y: -2280
-      Z: 115
+      X: 949.7995
+      Y: -2279.99976
+      Z: 104.597267
     }
     Rotation {
-      Roll: -24.9998322
+      Roll: -24.9997253
     }
     Scale {
       X: 1
@@ -5697,7 +5433,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17595363790206932742
+      key: 7068053548285721726
       value {
         Overrides {
           Name: "Name"
@@ -5712,10 +5448,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 0.6
         }
       }
     }
@@ -5819,7 +5551,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6167910066172386003
+      key: 844378046564209126
       value {
         Overrides {
           Name: "Name"

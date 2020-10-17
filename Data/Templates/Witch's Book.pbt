@@ -7,12 +7,12 @@
       RootId: 5751125532144064646
       Objects {
         Id: 5751125532144064646
-        Name: "Witche\'s Book"
+        Name: "Witch\'s Book"
         Transform {
           Scale {
-            X: 0.37243107
-            Y: 0.37243107
-            Z: 0.37243107
+            X: 0.442370772
+            Y: 0.442370772
+            Z: 0.442370772
           }
         }
         ParentId: 4781671109827199097
@@ -51,16 +51,11 @@
         ParentId: 5751125532144064646
         ChildIds: 8978218310101357214
         ChildIds: 15796591257550948908
-        ChildIds: 2116968799039857491
-        ChildIds: 15725755694506866225
-        ChildIds: 12270662087551423653
-        ChildIds: 10576990691164895876
-        ChildIds: 4825718978009342101
-        ChildIds: 5188624812161706063
-        ChildIds: 6032113291554574036
-        ChildIds: 15289821094350199293
-        ChildIds: 2528348888541735532
-        ChildIds: 7313256353287081989
+        ChildIds: 7531067858142081285
+        ChildIds: 35604776084343168
+        ChildIds: 5982532004887603154
+        ChildIds: 9593170202089389400
+        ChildIds: 1826996657934562001
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -135,9 +130,9 @@
         Name: "Tree Oak Bare 01"
         Transform {
           Location {
-            X: 0.0118329618
-            Y: 0.297253221
-            Z: 0.700683236
+            X: 0.0119074006
+            Y: 0.297171682
+            Z: 0.70081526
           }
           Rotation {
             Pitch: 6.83018879e-06
@@ -145,9 +140,9 @@
             Roll: 6.14332691e-07
           }
           Scale {
-            X: 0.131659791
-            Y: 0.00137910235
-            Z: 0.128861949
+            X: 0.131
+            Y: 0.00137911586
+            Z: 0.128865659
           }
         }
         ParentId: 13145543794133012487
@@ -190,58 +185,32 @@
         }
       }
       Objects {
-        Id: 2116968799039857491
-        Name: "2D Basic Shapes Decal"
+        Id: 7531067858142081285
+        Name: "Star - Faceted 5-Pointed"
         Transform {
           Location {
-            X: 79.2089462
-            Y: -77.4732666
-            Z: 291.990448
+            X: 74.957077
+            Y: -73.1803131
+            Z: 297.975189
           }
           Rotation {
-            Pitch: 56.8827515
-            Yaw: 134.998413
-            Roll: 89.9983673
+            Pitch: 21.6091938
+            Yaw: 135.000031
+            Roll: 89.9997
           }
           Scale {
-            X: 0.0997645184
-            Y: 0.0997645184
-            Z: 0.0997645184
+            X: 0.247594446
+            Y: 0.247594446
+            Z: 0.00126764213
           }
         }
         ParentId: 13145543794133012487
         UnregisteredParameters {
           Overrides {
-            Name: "bp:Stroke Width"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              R: 0.0074172169
-              G: 0.0200000014
-              A: 1
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 5124353486519681308
             }
-          }
-          Overrides {
-            Name: "bp:Sides"
-            Int: 5
-          }
-          Overrides {
-            Name: "bp:Indent"
-            Float: 0.548036575
-          }
-          Overrides {
-            Name: "bp:Sort Order"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:Blur"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Corner Rounding"
-            Float: 0.108787261
           }
         }
         Collidable_v2 {
@@ -250,69 +219,48 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        Blueprint {
-          BlueprintAsset {
-            Id: 2745113894603131219
+        CoreMesh {
+          MeshAsset {
+            Id: 10057572308622984668
           }
-          TeamSettings {
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
           }
-          DecalBP {
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
           }
         }
       }
       Objects {
-        Id: 15725755694506866225
-        Name: "2D Basic Shapes Decal"
+        Id: 35604776084343168
+        Name: "Star - Faceted 5-Pointed"
         Transform {
           Location {
-            X: 46.2915459
-            Y: -44.3987
-            Z: 345.690033
+            X: 42.4118195
+            Y: -40.6348686
+            Z: 351.437775
           }
           Rotation {
-            Pitch: 33.2501869
-            Yaw: 134.999588
-            Roll: 89.9995728
+            Pitch: -2.57821178
+            Yaw: 135.000153
+            Roll: 89.9997253
           }
           Scale {
-            X: 0.0997645184
-            Y: 0.0997645184
-            Z: 0.0997645184
+            X: 0.247594446
+            Y: 0.247594446
+            Z: 0.00126764213
           }
         }
         ParentId: 13145543794133012487
         UnregisteredParameters {
           Overrides {
-            Name: "bp:Stroke Width"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              R: 0.0074172169
-              G: 0.0200000014
-              A: 1
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 5124353486519681308
             }
-          }
-          Overrides {
-            Name: "bp:Sides"
-            Int: 5
-          }
-          Overrides {
-            Name: "bp:Indent"
-            Float: 0.548036575
-          }
-          Overrides {
-            Name: "bp:Sort Order"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:Blur"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Corner Rounding"
-            Float: 0.108787261
           }
         }
         Collidable_v2 {
@@ -321,69 +269,48 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        Blueprint {
-          BlueprintAsset {
-            Id: 2745113894603131219
+        CoreMesh {
+          MeshAsset {
+            Id: 10057572308622984668
           }
-          TeamSettings {
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
           }
-          DecalBP {
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
           }
         }
       }
       Objects {
-        Id: 12270662087551423653
-        Name: "2D Basic Shapes Decal"
+        Id: 5982532004887603154
+        Name: "Star - Faceted 5-Pointed"
         Transform {
           Location {
-            X: -4.52498102
-            Y: 5.76380396
-            Z: 369.846924
+            X: -6.1866765
+            Y: 7.96348238
+            Z: 368.658875
           }
           Rotation {
-            Pitch: 72.5442
-            Yaw: 134.997467
-            Roll: 89.9972153
+            Pitch: 75.8209152
+            Yaw: -44.998745
+            Roll: -89.9988556
           }
           Scale {
-            X: 0.0997645184
-            Y: 0.0997645184
-            Z: 0.0997645184
+            X: 0.247594446
+            Y: 0.247594446
+            Z: 0.00126764213
           }
         }
         ParentId: 13145543794133012487
         UnregisteredParameters {
           Overrides {
-            Name: "bp:Stroke Width"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              R: 0.0074172169
-              G: 0.0200000014
-              A: 1
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 5124353486519681308
             }
-          }
-          Overrides {
-            Name: "bp:Sides"
-            Int: 5
-          }
-          Overrides {
-            Name: "bp:Indent"
-            Float: 0.548036575
-          }
-          Overrides {
-            Name: "bp:Sort Order"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:Blur"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Corner Rounding"
-            Float: 0.108787261
           }
         }
         Collidable_v2 {
@@ -392,69 +319,48 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        Blueprint {
-          BlueprintAsset {
-            Id: 2745113894603131219
+        CoreMesh {
+          MeshAsset {
+            Id: 10057572308622984668
           }
-          TeamSettings {
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
           }
-          DecalBP {
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
           }
         }
       }
       Objects {
-        Id: 10576990691164895876
-        Name: "2D Basic Shapes Decal"
+        Id: 9593170202089389400
+        Name: "Star - Faceted 5-Pointed"
         Transform {
           Location {
-            X: -53.979454
-            Y: 55.7047768
-            Z: 348.523682
+            X: -52.4893036
+            Y: 54.2657547
+            Z: 350.19751
           }
           Rotation {
-            Pitch: 42.5368271
-            Yaw: 134.999603
-            Roll: 89.9996796
+            Pitch: -2.57821178
+            Yaw: 135.000153
+            Roll: 89.9997253
           }
           Scale {
-            X: 0.0997644886
-            Y: 0.0997644886
-            Z: 0.0997644886
+            X: 0.247594446
+            Y: 0.247594446
+            Z: 0.00126764213
           }
         }
         ParentId: 13145543794133012487
         UnregisteredParameters {
           Overrides {
-            Name: "bp:Stroke Width"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              R: 0.0074172169
-              G: 0.0200000014
-              A: 1
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 5124353486519681308
             }
-          }
-          Overrides {
-            Name: "bp:Sides"
-            Int: 5
-          }
-          Overrides {
-            Name: "bp:Indent"
-            Float: 0.548036575
-          }
-          Overrides {
-            Name: "bp:Sort Order"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:Blur"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Corner Rounding"
-            Float: 0.108787261
           }
         }
         Collidable_v2 {
@@ -463,69 +369,48 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        Blueprint {
-          BlueprintAsset {
-            Id: 2745113894603131219
+        CoreMesh {
+          MeshAsset {
+            Id: 10057572308622984668
           }
-          TeamSettings {
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
           }
-          DecalBP {
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
           }
         }
       }
       Objects {
-        Id: 4825718978009342101
-        Name: "2D Basic Shapes Decal"
+        Id: 1826996657934562001
+        Name: "Star - Faceted 5-Pointed"
         Transform {
           Location {
-            X: -84.1059875
-            Y: 85.8250427
-            Z: 293.128174
+            X: -81.9222794
+            Y: 83.6982422
+            Z: 303.779144
           }
           Rotation {
-            Pitch: 88.8996048
-            Yaw: 134.903793
-            Roll: 89.8957901
+            Pitch: -25.1531677
+            Yaw: 135.000275
+            Roll: 89.9997
           }
           Scale {
-            X: 0.0997645184
-            Y: 0.0997645184
-            Z: 0.0997645184
+            X: 0.247594446
+            Y: 0.247594446
+            Z: 0.00126764213
           }
         }
         ParentId: 13145543794133012487
         UnregisteredParameters {
           Overrides {
-            Name: "bp:Stroke Width"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              R: 0.0074172169
-              G: 0.0200000014
-              A: 1
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 5124353486519681308
             }
-          }
-          Overrides {
-            Name: "bp:Sides"
-            Int: 5
-          }
-          Overrides {
-            Name: "bp:Indent"
-            Float: 0.548036575
-          }
-          Overrides {
-            Name: "bp:Sort Order"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:Blur"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Corner Rounding"
-            Float: 0.108787261
           }
         }
         Collidable_v2 {
@@ -534,368 +419,18 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        Blueprint {
-          BlueprintAsset {
-            Id: 2745113894603131219
+        CoreMesh {
+          MeshAsset {
+            Id: 10057572308622984668
           }
-          TeamSettings {
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
           }
-          DecalBP {
-          }
-        }
-      }
-      Objects {
-        Id: 5188624812161706063
-        Name: "2D Basic Shapes Decal"
-        Transform {
-          Location {
-            X: -83.6552658
-            Y: 86.0628738
-            Z: 293.939575
-          }
-          Rotation {
-            Pitch: 88.9008484
-            Yaw: 134.905457
-            Roll: 89.8971176
-          }
-          Scale {
-            X: 0.0856888592
-            Y: 0.0856888592
-            Z: 0.0856888592
-          }
-        }
-        ParentId: 13145543794133012487
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Stroke Width"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              R: 0.255000025
-              G: 0.116523147
-              A: 1
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
             }
-          }
-          Overrides {
-            Name: "bp:Sides"
-            Int: 5
-          }
-          Overrides {
-            Name: "bp:Indent"
-            Float: 0.548036575
-          }
-          Overrides {
-            Name: "bp:Sort Order"
-            Int: 2
-          }
-          Overrides {
-            Name: "bp:Blur"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Corner Rounding"
-            Float: 0
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 2745113894603131219
-          }
-          TeamSettings {
-          }
-          DecalBP {
-          }
-        }
-      }
-      Objects {
-        Id: 6032113291554574036
-        Name: "2D Basic Shapes Decal"
-        Transform {
-          Location {
-            X: 46.2210693
-            Y: -44.4795227
-            Z: 346.644592
-          }
-          Rotation {
-            Pitch: 33.2501945
-            Yaw: 134.999588
-            Roll: 89.999588
-          }
-          Scale {
-            X: 0.0856888592
-            Y: 0.0856888592
-            Z: 0.0856888592
-          }
-        }
-        ParentId: 13145543794133012487
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Stroke Width"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              R: 0.255000025
-              G: 0.116523147
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Sides"
-            Int: 5
-          }
-          Overrides {
-            Name: "bp:Indent"
-            Float: 0.548036575
-          }
-          Overrides {
-            Name: "bp:Sort Order"
-            Int: 2
-          }
-          Overrides {
-            Name: "bp:Blur"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Corner Rounding"
-            Float: 0
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 2745113894603131219
-          }
-          TeamSettings {
-          }
-          DecalBP {
-          }
-        }
-      }
-      Objects {
-        Id: 15289821094350199293
-        Name: "2D Basic Shapes Decal"
-        Transform {
-          Location {
-            X: -4.23722553
-            Y: 5.96064234
-            Z: 370.744507
-          }
-          Rotation {
-            Pitch: 72.5437088
-            Yaw: 134.996796
-            Roll: 89.9963074
-          }
-          Scale {
-            X: 0.0856888592
-            Y: 0.0856888592
-            Z: 0.0856888592
-          }
-        }
-        ParentId: 13145543794133012487
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Stroke Width"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              R: 0.255000025
-              G: 0.116523147
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Sides"
-            Int: 5
-          }
-          Overrides {
-            Name: "bp:Indent"
-            Float: 0.548036575
-          }
-          Overrides {
-            Name: "bp:Sort Order"
-            Int: 2
-          }
-          Overrides {
-            Name: "bp:Blur"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Corner Rounding"
-            Float: 0
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 2745113894603131219
-          }
-          TeamSettings {
-          }
-          DecalBP {
-          }
-        }
-      }
-      Objects {
-        Id: 2528348888541735532
-        Name: "2D Basic Shapes Decal"
-        Transform {
-          Location {
-            X: -53.976757
-            Y: 55.7074738
-            Z: 349.485626
-          }
-          Rotation {
-            Pitch: 42.5368271
-            Yaw: 134.999603
-            Roll: 89.9996796
-          }
-          Scale {
-            X: 0.0856888592
-            Y: 0.0856888592
-            Z: 0.0856888592
-          }
-        }
-        ParentId: 13145543794133012487
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Stroke Width"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              R: 0.255000025
-              G: 0.116523147
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Sides"
-            Int: 5
-          }
-          Overrides {
-            Name: "bp:Indent"
-            Float: 0.548036575
-          }
-          Overrides {
-            Name: "bp:Sort Order"
-            Int: 2
-          }
-          Overrides {
-            Name: "bp:Blur"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Corner Rounding"
-            Float: 0
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 2745113894603131219
-          }
-          TeamSettings {
-          }
-          DecalBP {
-          }
-        }
-      }
-      Objects {
-        Id: 7313256353287081989
-        Name: "2D Basic Shapes Decal"
-        Transform {
-          Location {
-            X: 79.3403778
-            Y: -77.3625946
-            Z: 292.937775
-          }
-          Rotation {
-            Pitch: 56.8828201
-            Yaw: 134.998535
-            Roll: 89.9985123
-          }
-          Scale {
-            X: 0.0856888592
-            Y: 0.0856888592
-            Z: 0.0856888592
-          }
-        }
-        ParentId: 13145543794133012487
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Stroke Width"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              R: 0.255000025
-              G: 0.116523147
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Sides"
-            Int: 5
-          }
-          Overrides {
-            Name: "bp:Indent"
-            Float: 0.548036575
-          }
-          Overrides {
-            Name: "bp:Sort Order"
-            Int: 2
-          }
-          Overrides {
-            Name: "bp:Blur"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Corner Rounding"
-            Float: 0
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 2745113894603131219
-          }
-          TeamSettings {
-          }
-          DecalBP {
           }
         }
       }
@@ -1938,12 +1473,12 @@
       }
     }
     Assets {
-      Id: 2745113894603131219
-      Name: "2D Basic Shapes Decal"
-      PlatformAssetType: 14
+      Id: 10057572308622984668
+      Name: "Star - Faceted 5-Pointed"
+      PlatformAssetType: 1
       PrimaryAsset {
-        AssetType: "DecalBlueprintAssetRef"
-        AssetId: "dcl_basicShapes"
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_star_faceted_5pointed_001"
       }
     }
     Assets {

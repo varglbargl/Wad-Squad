@@ -4,9 +4,9 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 5599834820715658215
+      RootId: 17578914561765576173
       Objects {
-        Id: 5599834820715658215
+        Id: 17578914561765576173
         Name: "Fire Ant"
         Transform {
           Scale {
@@ -28,12 +28,6 @@
               Id: 14216906593532027898
             }
           }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 11251994733772007315
-            }
-          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -41,24 +35,13 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        CoreMesh {
-          MeshAsset {
-            Id: 12095835209017042614
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
+        Folder {
+          IsGroup: true
         }
       }
       Objects {
         Id: 11861843756055122712
-        Name: "ClientContext"
+        Name: "Geo"
         Transform {
           Location {
           }
@@ -67,10 +50,10 @@
           Scale {
             X: 1
             Y: 1
-            Z: 1
+            Z: 1.00000012
           }
         }
-        ParentId: 5599834820715658215
+        ParentId: 17578914561765576173
         ChildIds: 11643511529319182470
         ChildIds: 5336800325612908054
         ChildIds: 716996088003313695
@@ -2384,30 +2367,12 @@
       }
     }
     Assets {
-      Id: 12095835209017042614
-      Name: "Cube"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cube_002"
-      }
-    }
-    Assets {
       Id: 14216906593532027898
       Name: "Creature Beast Roar 04 SFX"
       PlatformAssetType: 7
       PrimaryAsset {
         AssetType: "AudioAssetRef"
         AssetId: "sfx_creature_beast_roar_04_Cue_ref"
-      }
-    }
-    Assets {
-      Id: 11251994733772007315
-      Name: "Invisible"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_invisible_001"
       }
     }
     Assets {

@@ -12,6 +12,16 @@ function UTILS.traverseHierarchy(node, callback)
   end
 end
 
+function UTILS.findItem(container)
+  local siblings = container:GetChildren()
+
+  for _, child in ipairs(siblings) do
+    if child:GetCustomProperty("Size") then
+      return child
+    end
+  end
+end
+
 -- TODO: Google "music note pitch percentage" and finish this so SFX sound better
 local notes = {}
 
@@ -42,19 +52,16 @@ function UTILS.lerpNSlurp(object, targetObject, lerp, steps, time)
   lerp = lerp / steps
   time = time / steps
 
-  local stepNumber = 0
+  function step(stepObject, stepTargetObject, stepLerp, stepTotal, stepTime, stepNumber)
+    stepObject:SetWorldPosition(Vector3.Lerp(stepObject:GetWorldPosition(), stepTargetObject:GetWorldPosition(), stepLerp))
 
-  function step()
-    object:SetWorldPosition(Vector3.Lerp(object:GetWorldPosition(), targetObject:GetWorldPosition(), lerp))
-    stepNumber = stepNumber + 1
-
-    if stepNumber < steps then
-      Task.Wait(time)
-      step()
+    if stepNumber < stepTotal then
+      Task.Wait(stepTime)
+      step(stepObject, stepTargetObject, stepLerp, stepTotal, stepTime, stepNumber + 1)
     end
   end
 
-  Task.Spawn(step)
+  Task.Spawn(function() step(object, targetObject, lerp, steps, time, 0) end)
 end
 
 return UTILS

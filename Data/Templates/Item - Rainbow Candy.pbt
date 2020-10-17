@@ -4,19 +4,76 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 5159779983559511387
+      RootId: 9826035003663494799
       Objects {
-        Id: 5159779983559511387
+        Id: 9826035003663494799
         Name: "Rainbow Candy"
         Transform {
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15038114883517970452
+        ChildIds: 621673916434848243
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Size"
+            Float: 0.4
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 621673916434848243
+        Name: "Geo"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9826035003663494799
+        ChildIds: 5159779983559511387
+        ChildIds: 16109130884075686763
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 5159779983559511387
+        Name: "Sphere"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
           Scale {
             X: 0.3
             Y: 0.6
             Z: 0.6
           }
         }
-        ParentId: 4781671109827199097
-        ChildIds: 621673916434848243
+        ParentId: 621673916434848243
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -60,47 +117,22 @@
         }
       }
       Objects {
-        Id: 621673916434848243
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 5159779983559511387
-        ChildIds: 16109130884075686763
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
         Id: 16109130884075686763
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: -15
+            Y: -1.21484375
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: 22.4999046
+            Yaw: 90.0002136
+            Roll: 90.000206
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
         ParentId: 621673916434848243

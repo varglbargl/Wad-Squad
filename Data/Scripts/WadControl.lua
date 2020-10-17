@@ -5,6 +5,8 @@ local BOUNCE_OFF_SOUND = script:GetCustomProperty("BounceOffSound")
 local DEFAULT_PICKUP_SOUND = script:GetCustomProperty("DefaultPickupSound")
 local GRABBER = WAD:FindChildByName("Grabber")
 local UNDERGRAB = WAD:FindChildByName("Undergrab")
+local HITBOX_SPHERE = script:GetCustomProperty("HitboxSphere")
+local HITBOX_CUBE = script:GetCustomProperty("HitboxCube")
 local MESH = script:GetCustomProperty("Mesh"):WaitForObject()
 local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 -- local CAMERA_CONTAINER = script:GetCustomProperty("CameraContainer"):WaitForObject()
@@ -16,9 +18,14 @@ local gravityForce = 320
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
+
 local grabbedItems = {}
 local itemGrabIndex = 0
 local maxGrabbed = 100
+
+local grabbedHitboxes = {}
+local hitboxGrabIndex = 0
+local maxHitboxes = 20
 
 -- TODO: You're really just gonna have to replace this eventually
 function handleKeyPress(player, keyCode)
@@ -124,11 +131,11 @@ function issueWad(player)
   Task.Spawn(function() rollThatWad(delay) end)
 end
 
-function handleGrabberOverlap (trigger, object)
-  if object.parent == WAD then return end
+function handleGrabberOverlap (grabber, trigger)
+  if trigger.parent == WAD then return end
 
-  if object:IsA("Trigger") and object:GetCustomProperty("Pickup") then
-    local item = object:GetCustomProperty("Pickup"):WaitForObject()
+  if trigger:IsA("Trigger") and trigger.name == "Pickup Sphere" or trigger.name == "Pickup Box" then
+    local item = Utils.findItem(trigger.parent)
     local itemVisible = item:IsVisibleInHierarchy()
     local itemSize = item:GetCustomProperty("Size")
     item.clientUserData["Size"] = itemSize
@@ -143,9 +150,9 @@ function handleGrabberOverlap (trigger, object)
 
     if tooBigh then
       -- TODO: Bounce off at the the angle at which you collided mirrored along
-      -- the axis perpendicular to vector between wad and object
+      -- the axis perpendicular to vector between wad and trigger
       -- OMG THAT SOUNDS LIKE SUCH A MATH NIGHTMARE
-      -- ALSO TODO: Fix the part where they can clip through objects.
+      -- ALSO TODO: Fix the part where they can clip through triggers.
       WAD:SetVelocity(WAD:GetVelocity() * -1)
       WAD:SetAngularVelocity(WAD:GetAngularVelocity() * -1)
       print(item.name .. " is too B I G H")
@@ -158,7 +165,23 @@ function handleGrabberOverlap (trigger, object)
       item.visibility = Visibility.FORCE_OFF
       local realObjectPosition = item:GetWorldPosition()
       local clientItem = World.SpawnAsset(item.sourceTemplateId, {position = item:GetWorldPosition(), rotation = item:GetWorldRotation(), scale = item:GetWorldScale()})
-      clientItem.collision = item.collision
+      local hitbox = nil
+
+      if clientItem:IsA("CoreMesh") then
+        clientItem.collision = item.collision
+      -- elseif not item.collision == Collision.FORCE_OFF then
+      else
+        local hitboxShape = nil
+
+        if trigger.name == "Pickup Sphere" then
+          hitboxShape = HITBOX_SPHERE
+        elseif trigger.name == "Pickup Box" then
+          hitboxShape = HITBOX_CUBE
+        end
+
+        hitbox = World.SpawnAsset(hitboxShape, {position = trigger:GetWorldPosition(), rotation = trigger:GetWorldRotation(), scale = trigger:GetWorldScale()})
+        hitbox.parent = WAD
+      end
 
       -- The big important part:
       clientItem.parent = WAD
@@ -181,24 +204,30 @@ function handleGrabberOverlap (trigger, object)
       grabbedItems[itemGrabIndex] = clientItem
       itemGrabIndex = (itemGrabIndex + 1) % maxGrabbed
 
-      wadSize = wadSize + itemSize / 50
+      -- and severely limit hitboxes
+      if (hitbox) then
+        if grabbedHitboxes[hitboxGrabIndex] then
+          grabbedHitboxes[hitboxGrabIndex]:Destroy()
+        end
 
-      -- old way of scaling the wad up
-      GRABBER:SetWorldScale(Vector3.ONE * wadSize * 0.375)
-      UNDERGRAB:SetWorldScale(Vector3.ONE * wadSize * 0.2)
-      MESH:SetWorldScale(Vector3.ONE * wadSize * 0.3)
+        grabbedHitboxes[hitboxGrabIndex] = hitbox
+        hitboxGrabIndex = (hitboxGrabIndex + 1) % maxHitboxes
+      end
 
       -- a thing i just wish wasn't broken
       -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)
       -- clientItem:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.1))
-      if trigger.name == "Undergrab" then
-        print("Undergrabbed!")
-        Utils.lerpNSlurp(clientItem, WAD, 0.65, 40, 0.5)
+      if grabber.name == "Undergrab" then
+        Utils.lerpNSlurp(clientItem, WAD, 0.55, 40, 0.5)
+        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.55, 40, 0.5) end
       else
-        Utils.lerpNSlurp(clientItem, WAD, 0.45, 50, 0.75)
+        Utils.lerpNSlurp(clientItem, WAD, 0.4, 50, 0.75)
+        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.4, 40, 0.5) end
       end
 
-      WAD.clientUserData["Size"] = wadSize
+      wadSize = wadSize + itemSize / 50
+
+      updateWadSize(wadSize)
 
       -- Update the UI with new item and size
       UI_MANAGER.context.pickedUpItem(item, WAD)
@@ -212,6 +241,14 @@ function handleGrabberOverlap (trigger, object)
       end
     end
   end
+end
+
+function updateWadSize(wadSize)
+  GRABBER:SetWorldScale(Vector3.ONE * wadSize * 0.375)
+  UNDERGRAB:SetWorldScale(Vector3.ONE * wadSize * 0.2)
+  MESH:SetWorldScale(Vector3.ONE * wadSize * 0.3)
+
+  WAD.clientUserData["Size"] = wadSize
 end
 
 -- handler params: Trigger_, Object_

@@ -5,9 +5,9 @@ Objects {
   Name: "Neon Saw"
   Transform {
     Location {
-      X: -291.666016
-      Y: -513.333252
-      Z: -37.454895
+      X: -291.664917
+      Y: -513.255127
+      Z: -42.5972481
     }
     Rotation {
       Roll: -0.874908447
@@ -48,30 +48,30 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1.45229292
-            Y: 0.687197685
-            Z: 0.544690788
+            X: 1.4522953
+            Y: 0.619576216
+            Z: 0.179865837
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 36.2480469
-            Y: -15.4238281
-            Z: 57.5891113
+            X: 34.6712151
+            Y: -14.1762447
+            Z: 67.166832
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: 5.51569843
-            Yaw: -41.7127075
-            Roll: -6.99801636
+            Pitch: 5.1675024
+            Yaw: -44.5082397
+            Roll: -7.25842285
           }
         }
         Overrides {
@@ -109,7 +109,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 17854176661418375274
+      key: 3904724142486713440
       value {
         Overrides {
           Name: "Name"
@@ -118,17 +118,17 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 29.7890625
-            Y: -8.64819336
-            Z: 60.6549683
+            X: 20.5375118
+            Y: 5.68720484
+            Z: 60.5244637
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: 7.92916632
-            Yaw: 45.555851
-            Roll: -81.9935913
+            Pitch: 17.1174717
+            Yaw: 48.3365593
+            Roll: -84.394043
           }
         }
       }
@@ -221,7 +221,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -237,19 +237,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 6927057689123046610
             SubObjectId: 10866936507393779145
             InstanceId: 17095489483256547177
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -272,17 +271,15 @@ Objects {
   ParentId: 304738270029228968
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -375,7 +372,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -391,19 +388,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 5828299052945236210
             SubObjectId: 10866936507393779145
             InstanceId: 7522635613110884918
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -426,17 +422,15 @@ Objects {
   ParentId: 16585569091184106356
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -529,7 +523,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -545,19 +539,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 3980170723172927939
             SubObjectId: 10866936507393779145
             InstanceId: 15839137944896238850
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -580,18 +573,11 @@ Objects {
   ParentId: 13726836177395911327
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
-          }
         }
         Overrides {
           Name: "Rotation"
@@ -688,7 +674,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -704,19 +690,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 499816028714223104
             SubObjectId: 10866936507393779145
             InstanceId: 2549287843937691946
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -739,17 +724,15 @@ Objects {
   ParentId: 11210262580440439105
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -842,7 +825,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -858,19 +841,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 14391401625487557187
             SubObjectId: 10866936507393779145
             InstanceId: 343513315356940970
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -893,17 +875,15 @@ Objects {
   ParentId: 17951965069599637454
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -996,7 +976,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1012,19 +992,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 11484808858397714463
             SubObjectId: 10866936507393779145
             InstanceId: 3593887715578159587
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -1047,17 +1026,15 @@ Objects {
   ParentId: 3754440955180886539
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1150,7 +1127,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1166,19 +1143,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 6531869758984785996
             SubObjectId: 10866936507393779145
             InstanceId: 12720898208749502941
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -1201,17 +1177,15 @@ Objects {
   ParentId: 5326939290536395034
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1304,7 +1278,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1320,19 +1294,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 13509925098759535301
             SubObjectId: 10866936507393779145
             InstanceId: 18040328344506202209
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -1355,17 +1328,15 @@ Objects {
   ParentId: 15453923875264550400
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            Y: 12.4882803
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1457,7 +1428,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1473,19 +1444,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 12.4882813
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 4228965376140434783
             SubObjectId: 10866936507393779145
             InstanceId: 840194656527405239
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -1508,17 +1478,15 @@ Objects {
   ParentId: 6182402500147180249
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 12.4882813
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1610,7 +1578,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1626,19 +1594,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 12.4882813
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 9826053693074183040
             SubObjectId: 10866936507393779145
             InstanceId: 6950239812612930280
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -1661,17 +1628,15 @@ Objects {
   ParentId: 4216977858208043413
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 12.4882813
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1763,7 +1728,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1779,20 +1744,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 8.58306885e-06
-            Y: -12.4882822
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 15056339146396346694
             SubObjectId: 10866936507393779145
             InstanceId: 661198529791639939
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -1815,18 +1778,15 @@ Objects {
   ParentId: 12684355748169355325
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 8.58306885e-06
-            Y: -12.4882822
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1918,7 +1878,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -1934,20 +1894,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 8.58306885e-06
-            Y: -12.4882822
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 14519291076632971463
             SubObjectId: 10866936507393779145
             InstanceId: 5393954518464593763
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -1970,18 +1928,15 @@ Objects {
   ParentId: 6075970928795518152
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 8.58306885e-06
-            Y: -12.4882822
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2073,7 +2028,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -2089,20 +2044,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 8.58306885e-06
-            Y: -12.4882822
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 17819183078721918027
             SubObjectId: 10866936507393779145
             InstanceId: 1527056184706951604
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -2125,18 +2078,15 @@ Objects {
   ParentId: 4388173967158183964
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 8.58306885e-06
-            Y: -12.4882822
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2228,7 +2178,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -2244,20 +2194,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 8.58306885e-06
-            Y: -12.4882822
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 9552897463908865838
             SubObjectId: 10866936507393779145
             InstanceId: 14405523063613270156
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -2280,18 +2228,15 @@ Objects {
   ParentId: 6626976577502361067
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 8.58306885e-06
-            Y: -12.4882822
-            Z: 35
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2383,7 +2328,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Rotation"
@@ -2399,20 +2344,18 @@ Objects {
           }
         }
         Overrides {
-          Name: "Position"
-          Vector {
-            X: 8.58306885e-06
-            Y: -12.4882822
-            Z: 35
-          }
-        }
-        Overrides {
           Name: "cs:Pickup"
           ObjectReference {
             SelfId: 13541257949511099350
             SubObjectId: 10866936507393779145
             InstanceId: 14656127293318179697
             TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
           }
         }
       }
@@ -2435,19 +2378,11 @@ Objects {
   ParentId: 12369859827094797545
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10866936507393779145
+      key: 15626392067336189312
       value {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 8.58306885e-06
-            Y: -12.4882822
-            Z: 35
-          }
         }
         Overrides {
           Name: "Rotation"

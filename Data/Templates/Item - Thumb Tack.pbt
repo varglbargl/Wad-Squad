@@ -4,9 +4,9 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 6240753930489299861
+      RootId: 3579972217106009145
       Objects {
-        Id: 6240753930489299861
+        Id: 3579972217106009145
         Name: "Thumb Tack"
         Transform {
           Scale {
@@ -15,7 +15,7 @@
             Z: 0.8
           }
         }
-        ParentId: 16976569440815677428
+        ParentId: 482779801380962266
         ChildIds: 8955102339039240256
         UnregisteredParameters {
           Overrides {
@@ -28,81 +28,7 @@
               Id: 10844845472490108363
             }
           }
-          Overrides {
-            Name: "cs:SkipMod"
-            Bool: true
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 11251994733772007315
-            }
-          }
         }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 12095835209017042614
-          }
-          Teams {
-            TeamInt: 2
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-              Mass: 10
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 8955102339039240256
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6240753930489299861
-        ChildIds: 8655174013032887892
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 8655174013032887892
-        Name: "Thumb Tack"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8955102339039240256
-        ChildIds: 10168168956911178943
-        ChildIds: 16131182554730958300
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -114,11 +40,41 @@
         }
       }
       Objects {
+        Id: 8955102339039240256
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 4.13472086e-14
+            Roll: 1.1099055e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 3579972217106009145
+        ChildIds: 10168168956911178943
+        ChildIds: 16131182554730958300
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
         Id: 10168168956911178943
         Name: "Head"
         Transform {
           Location {
-            Z: -17.8571396
+            X: 9.93410708e-07
+            Y: -0.00115831685
+            Z: -17.8571224
           }
           Rotation {
           }
@@ -128,7 +84,7 @@
             Z: 0.714285672
           }
         }
-        ParentId: 8655174013032887892
+        ParentId: 8955102339039240256
         ChildIds: 16750254887193460747
         ChildIds: 9744410228107614862
         ChildIds: 3088654964383907296
@@ -331,8 +287,9 @@
         Name: "Pin"
         Transform {
           Location {
-            X: -12.5
-            Z: -49.9999962
+            X: -12.4999933
+            Y: -0.000764926255
+            Z: -49.9999504
           }
           Rotation {
           }
@@ -342,7 +299,7 @@
             Z: 0.714285672
           }
         }
-        ParentId: 8655174013032887892
+        ParentId: 8955102339039240256
         ChildIds: 4543941754816383987
         ChildIds: 12574779869045286500
         Collidable_v2 {
@@ -459,30 +416,12 @@
       }
     }
     Assets {
-      Id: 12095835209017042614
-      Name: "Cube"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cube_002"
-      }
-    }
-    Assets {
       Id: 10844845472490108363
       Name: "Sword Swipe Schwing SFX"
       PlatformAssetType: 7
       PrimaryAsset {
         AssetType: "AudioAssetRef"
         AssetId: "sfx_sword_swipe_schwing"
-      }
-    }
-    Assets {
-      Id: 11251994733772007315
-      Name: "Invisible"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_invisible_001"
       }
     }
     Assets {

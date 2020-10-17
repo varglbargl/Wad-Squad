@@ -5,13 +5,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -432.699829
-      Y: -102.930496
+      X: -432.699127
+      Y: -102.93045
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 7.12502289
-      Roll: -16.7840576
+      Yaw: -90
+      Roll: 80.3408661
     }
     Scale {
       X: 1
@@ -75,7 +76,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -120,7 +121,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -129,6 +130,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -303,7 +309,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -348,7 +354,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -357,6 +363,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -442,7 +453,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -487,7 +498,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -496,6 +507,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -581,7 +597,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -626,7 +642,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -635,6 +651,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -720,7 +741,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -765,7 +786,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -774,6 +795,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -859,7 +885,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -904,7 +930,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -913,6 +939,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -998,7 +1029,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1043,7 +1074,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -1052,6 +1083,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1137,7 +1173,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1182,7 +1218,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -1191,6 +1227,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1275,7 +1316,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1320,7 +1361,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -1329,6 +1370,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1413,7 +1459,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1458,7 +1504,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -1467,6 +1513,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1551,7 +1602,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1596,7 +1647,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -1605,6 +1656,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1690,7 +1746,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1735,7 +1791,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -1744,6 +1800,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1828,7 +1889,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1873,7 +1934,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -1882,6 +1943,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -1967,7 +2033,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2012,7 +2078,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -2021,6 +2087,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2106,7 +2177,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2151,7 +2222,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -2160,6 +2231,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2245,7 +2321,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2290,7 +2366,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -2299,6 +2375,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2384,7 +2465,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2429,7 +2510,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -2438,6 +2519,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2523,7 +2609,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2568,7 +2654,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -2577,6 +2663,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2662,7 +2753,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2707,7 +2798,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -2716,6 +2807,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2801,7 +2897,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2846,7 +2942,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -2855,6 +2951,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -2939,7 +3040,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2984,7 +3085,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -2993,6 +3094,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -3078,7 +3184,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3123,7 +3229,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -3132,6 +3238,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -3217,7 +3328,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3262,7 +3373,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -3271,6 +3382,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -3355,7 +3471,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3400,7 +3516,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -3409,6 +3525,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -3423,14 +3544,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 2385.37402
-      Y: -1467.64746
-      Z: 0.000183105469
+      X: 2385.37134
+      Y: -1467.64648
+      Z: 9.59574318
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -3494,7 +3614,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3539,7 +3659,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -3548,6 +3668,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -3562,14 +3687,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 2297.74121
+      X: 2297.74072
       Y: -1555.22949
-      Z: 6.10351563e-05
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -3633,7 +3757,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3678,7 +3802,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -3687,6 +3811,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -3701,14 +3830,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 980.777344
-      Y: -2308.06885
-      Z: 6.10351563e-05
+      X: 980.776062
+      Y: -2308.06787
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -3772,7 +3900,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3817,7 +3945,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -3826,6 +3954,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -3840,14 +3973,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1027.83203
-      Y: -2154.62378
-      Z: 6.10351563e-05
+      X: 1027.82922
+      Y: -2154.62354
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -3911,7 +4043,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3956,7 +4088,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -3965,6 +4097,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -3980,13 +4117,12 @@ Objects {
   Transform {
     Location {
       X: 1219.60156
-      Y: -2206.24585
-      Z: 6.10351563e-05
+      Y: -2206.24463
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -4050,7 +4186,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4095,7 +4231,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -4104,6 +4240,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -4118,14 +4259,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 901.591797
-      Y: -1806.94116
-      Z: 6.10351563e-05
+      X: 901.590637
+      Y: -1806.94153
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -4189,7 +4329,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4234,7 +4374,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -4243,6 +4383,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -4257,14 +4402,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1878.79102
-      Y: 604.641907
-      Z: 6.10351563e-05
+      X: 1878.78796
+      Y: 604.641785
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -4328,7 +4472,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4373,7 +4517,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -4382,6 +4526,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -4396,14 +4545,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1960.25098
+      X: 1960.24792
       Y: 688.228943
-      Z: 6.10351563e-05
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -4467,7 +4615,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4512,7 +4660,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -4521,6 +4669,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -4535,13 +4688,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 2456.42383
-      Y: -708.431641
-      Z: 0.000122070313
+      X: 2456.4187
+      Y: -708.430969
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Roll: -9.65856934
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -4605,7 +4758,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4655,7 +4808,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -4664,6 +4817,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -4678,14 +4836,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 3581.42383
-      Y: 706.568359
-      Z: 6.10351563e-05
+      X: 3581.41846
+      Y: 706.567383
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -4749,7 +4906,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4799,7 +4956,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -4808,6 +4965,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -4893,7 +5055,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4938,7 +5100,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -4947,6 +5109,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -5032,7 +5199,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -5077,7 +5244,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -5086,6 +5253,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -5171,7 +5343,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -5216,7 +5388,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -5225,6 +5397,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -5239,14 +5416,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -432.273438
-      Y: -388.196777
-      Z: 6.10351563e-05
+      X: -432.272736
+      Y: -388.196594
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -5310,7 +5486,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -5355,7 +5531,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -5364,6 +5540,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -5378,14 +5559,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -1074.38086
+      X: -1074.38062
       Y: 2369.32935
-      Z: 6.10351563e-05
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -5449,7 +5629,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -5494,7 +5674,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -5503,6 +5683,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -5517,14 +5702,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -1337.41797
+      X: -1337.41772
       Y: 2245.99756
-      Z: 6.10351563e-05
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -5588,7 +5772,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -5633,7 +5817,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -5642,6 +5826,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -5656,14 +5845,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -1497.49219
-      Y: 1793.48657
-      Z: 6.10351563e-05
+      X: -1497.49048
+      Y: 1793.48608
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -5727,7 +5915,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -5772,7 +5960,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -5781,6 +5969,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -5795,14 +5988,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 516.011719
-      Y: 527.501831
-      Z: 6.10351563e-05
+      X: 516.010315
+      Y: 527.501587
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -5866,7 +6058,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -5911,7 +6103,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -5920,6 +6112,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -5934,14 +6131,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 454.871094
-      Y: 409.749634
-      Z: 6.10351563e-05
+      X: 454.869781
+      Y: 409.749298
+      Z: 9.59564209
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -6005,7 +6201,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -6018,8 +6214,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 15646093795861407477
-            SubObjectId: 5159779983559511387
+            SelfId: 1649506181449106721
+            SubObjectId: 9826035003663494799
             InstanceId: 9799669711912906727
             TemplateId: 3383705750043431077
           }
@@ -6050,7 +6246,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -6059,6 +6255,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -6073,12 +6274,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -345.229797
-      Y: 49.8380775
+      X: -345.22937
+      Y: 49.8380508
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: -90
+      Roll: 80.3414
     }
     Scale {
       X: 1
@@ -6142,7 +6345,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -6155,8 +6358,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 617536484185300005
-            SubObjectId: 5159779983559511387
+            SelfId: 14364161062845267953
+            SubObjectId: 9826035003663494799
             InstanceId: 13297178608977761959
             TemplateId: 3383705750043431077
           }
@@ -6187,7 +6390,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -6196,6 +6399,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -6212,6 +6420,7 @@ Objects {
     Location {
       X: -616.539673
       Y: 93.4651642
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
@@ -6280,7 +6489,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -6293,8 +6502,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 5130635201705183691
-            SubObjectId: 5159779983559511387
+            SelfId: 9868939021342108191
+            SubObjectId: 9826035003663494799
             InstanceId: 17509085574075028742
             TemplateId: 3383705750043431077
           }
@@ -6308,7 +6517,7 @@ Objects {
 }
 Objects {
   Id: 17509085574075028742
-  Name: "Green Candy Bit"
+  Name: "Rainbow Candy"
   Transform {
     Scale {
       X: 1
@@ -6325,7 +6534,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -6334,6 +6543,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -6348,13 +6562,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -506.091766
+      X: -506.091
       Y: 136.653641
+      Z: 9.59554
     }
     Rotation {
-      Pitch: -89.4556885
-      Yaw: -103.122955
-      Roll: 4.24323893
+      Pitch: -89.4482117
+      Yaw: -103.115814
+      Roll: 4.24329901
     }
     Scale {
       X: 1
@@ -6418,7 +6633,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -6431,8 +6646,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 2309577207970764494
-            SubObjectId: 5159779983559511387
+            SelfId: 17279021438543164698
+            SubObjectId: 9826035003663494799
             InstanceId: 5283808222570249397
             TemplateId: 3383705750043431077
           }
@@ -6463,7 +6678,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -6472,6 +6687,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -6488,12 +6708,12 @@ Objects {
     Location {
       X: -348.576111
       Y: 436.568146
-      Z: 4.18752
+      Z: 13.7830601
     }
     Rotation {
-      Pitch: -79.3129883
-      Yaw: 43.2686119
-      Roll: -95.8652344
+      Pitch: -79.3129
+      Yaw: 43.2685928
+      Roll: -95.8652039
     }
     Scale {
       X: 1
@@ -6557,7 +6777,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -6570,8 +6790,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 16996414448176450508
-            SubObjectId: 5159779983559511387
+            SelfId: 2601192358586951704
+            SubObjectId: 9826035003663494799
             InstanceId: 7630090179684097133
             TemplateId: 3383705750043431077
           }
@@ -6602,7 +6822,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -6611,6 +6831,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -6625,13 +6850,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -219.380859
-      Y: -419.499023
+      X: -219.380188
+      Y: -419.498627
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -6695,7 +6920,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -6708,8 +6933,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 835016535753336881
-            SubObjectId: 5159779983559511387
+            SelfId: 14146014605091097573
+            SubObjectId: 9826035003663494799
             InstanceId: 15284062005117168531
             TemplateId: 3383705750043431077
           }
@@ -6740,7 +6965,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -6749,6 +6974,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -6763,13 +6993,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1275.83789
-      Y: -974.344238
+      X: 1275.83691
+      Y: -974.344055
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -6833,7 +7063,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -6846,8 +7076,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 16364078392378664608
-            SubObjectId: 5159779983559511387
+            SelfId: 3233246777276024180
+            SubObjectId: 9826035003663494799
             InstanceId: 5286218791167187478
             TemplateId: 3383705750043431077
           }
@@ -6878,7 +7108,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -6887,6 +7117,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -6901,13 +7136,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1083.50977
-      Y: -1102.77344
+      X: 1083.50781
+      Y: -1102.77332
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -6971,7 +7206,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -6984,8 +7219,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 16501163330777209428
-            SubObjectId: 5159779983559511387
+            SelfId: 3114739246430927232
+            SubObjectId: 9826035003663494799
             InstanceId: 17911122548962414609
             TemplateId: 3383705750043431077
           }
@@ -7016,7 +7251,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -7025,6 +7260,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -7039,13 +7279,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1048.58789
-      Y: -141.436279
+      X: 1048.58643
+      Y: -141.436356
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -7109,7 +7349,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -7122,8 +7362,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 3145548552548719035
-            SubObjectId: 5159779983559511387
+            SelfId: 16456458663901526639
+            SubObjectId: 9826035003663494799
             InstanceId: 10184139455233524528
             TemplateId: 3383705750043431077
           }
@@ -7154,7 +7394,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -7163,6 +7403,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -7177,13 +7422,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 642.529297
-      Y: -338.065796
+      X: 642.528137
+      Y: -338.065643
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -7247,7 +7492,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -7260,8 +7505,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 11974761679464601639
-            SubObjectId: 5159779983559511387
+            SelfId: 7631569495443930099
+            SubObjectId: 9826035003663494799
             InstanceId: 13929305429842976451
             TemplateId: 3383705750043431077
           }
@@ -7292,7 +7537,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -7301,6 +7546,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -7315,13 +7565,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 4.61523438
-      Y: -103.431641
+      X: 4.61521769
+      Y: -103.431786
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -7385,7 +7635,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -7398,8 +7648,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 11183174110210178463
-            SubObjectId: 5159779983559511387
+            SelfId: 6121715512133738059
+            SubObjectId: 9826035003663494799
             InstanceId: 9462186807923418388
             TemplateId: 3383705750043431077
           }
@@ -7430,7 +7680,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -7439,6 +7689,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -7453,13 +7708,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 293.507813
-      Y: 97.3520508
+      X: 293.507294
+      Y: 97.3518448
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 36.8698845
-      Roll: 36.2025146
+      Yaw: -165.96373
+      Roll: -120.963974
     }
     Scale {
       X: 1
@@ -7523,7 +7779,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -7536,8 +7792,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 9197601144579850409
-            SubObjectId: 5159779983559511387
+            SelfId: 12709826420801430397
+            SubObjectId: 9826035003663494799
             InstanceId: 4563498762642606348
             TemplateId: 3383705750043431077
           }
@@ -7568,7 +7824,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -7577,6 +7833,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -7591,11 +7852,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -318.15625
-      Y: 194.299561
+      X: -318.156158
+      Y: 194.299316
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
+      Yaw: -169.975
+      Roll: 169.975
     }
     Scale {
       X: 1
@@ -7659,7 +7923,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -7672,8 +7936,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 3086126734832274385
-            SubObjectId: 5159779983559511387
+            SelfId: 16506310159498569733
+            SubObjectId: 9826035003663494799
             InstanceId: 13744922885599733604
             TemplateId: 3383705750043431077
           }
@@ -7704,7 +7968,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -7713,6 +7977,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -7727,13 +7996,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 136.187195
+      X: 136.187119
       Y: -8.80127
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -41.8813477
+      Yaw: 14.0362635
+      Roll: 34.0822716
     }
     Scale {
       X: 1
@@ -7797,7 +8067,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -7810,8 +8080,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 6565063734852641948
-            SubObjectId: 5159779983559511387
+            SelfId: 10726981571935864648
+            SubObjectId: 9826035003663494799
             InstanceId: 12433499343904895521
             TemplateId: 3383705750043431077
           }
@@ -7842,7 +8112,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -7851,6 +8121,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -7865,13 +8140,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -98.4335938
+      X: -98.4335785
       Y: 92.4438477
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 26.565033
-      Roll: -43.4923706
+      Yaw: 14.0362635
+      Roll: -30.9636536
     }
     Scale {
       X: 1
@@ -7935,7 +8211,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -7948,8 +8224,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 2383784677169224547
-            SubObjectId: 5159779983559511387
+            SelfId: 17209038954475960503
+            SubObjectId: 9826035003663494799
             InstanceId: 1768953922632802054
             TemplateId: 3383705750043431077
           }
@@ -7980,7 +8256,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -7989,6 +8265,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -8003,13 +8284,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -93.5742188
-      Y: 209.881836
+      X: -93.5739
+      Y: 209.881973
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -22.4997559
+      Yaw: -45
+      Roll: 112.500488
     }
     Scale {
       X: 1
@@ -8073,7 +8355,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -8086,8 +8368,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 5905439339849786551
-            SubObjectId: 5159779983559511387
+            SelfId: 11399309406556112739
+            SubObjectId: 9826035003663494799
             InstanceId: 2405320138702155076
             TemplateId: 3383705750043431077
           }
@@ -8118,7 +8400,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -8127,6 +8409,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -8141,13 +8428,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 148.853516
-      Y: 289.030029
+      X: 148.853455
+      Y: 289.029907
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: -14.0362635
-      Roll: 19.7140083
+      Roll: 5.67775631
     }
     Scale {
       X: 1
@@ -8211,7 +8498,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -8224,8 +8511,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 14042698230480005560
-            SubObjectId: 5159779983559511387
+            SelfId: 947869094966889068
+            SubObjectId: 9826035003663494799
             InstanceId: 934537482294957869
             TemplateId: 3383705750043431077
           }
@@ -8256,7 +8543,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -8284,8 +8571,9 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 131.732056
-      Y: 112.599258
+      X: 131.73204
+      Y: 112.599266
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
@@ -8354,7 +8642,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -8367,8 +8655,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 12721831223987111644
-            SubObjectId: 5159779983559511387
+            SelfId: 9172469392530695432
+            SubObjectId: 9826035003663494799
             InstanceId: 17943972075154062998
             TemplateId: 3383705750043431077
           }
@@ -8399,7 +8687,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -8408,6 +8696,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -8422,11 +8715,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 299.808594
-      Y: -14.2744141
+      X: 299.808533
+      Y: -14.2740879
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
+      Yaw: -169.975
+      Roll: 169.975
     }
     Scale {
       X: 1
@@ -8494,7 +8790,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -8507,8 +8803,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 17495693047894769305
-            SubObjectId: 5159779983559511387
+            SelfId: 4398642898919169357
+            SubObjectId: 9826035003663494799
             InstanceId: 3185649960281835695
             TemplateId: 3383705750043431077
           }
@@ -8539,7 +8835,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -8548,6 +8844,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -8562,12 +8863,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 252.238281
-      Y: -178.271729
+      X: 252.23793
+      Y: -178.271484
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Roll: -22.5003052
+      Roll: -22.5003357
     }
     Scale {
       X: 1
@@ -8635,7 +8937,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -8648,8 +8950,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 17521553092674364400
-            SubObjectId: 5159779983559511387
+            SelfId: 4390765531059601444
+            SubObjectId: 9826035003663494799
             InstanceId: 14788957697616262970
             TemplateId: 3383705750043431077
           }
@@ -8680,7 +8982,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -8689,6 +8991,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -8703,13 +9010,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 46.4238281
-      Y: -263.431641
+      X: 46.4238472
+      Y: -263.431763
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: 101.250061
+      Yaw: 3.57633519
+      Roll: -172.326187
     }
     Scale {
       X: 1
@@ -8773,7 +9081,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -8786,8 +9094,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 12258208836006738998
-            SubObjectId: 5159779983559511387
+            SelfId: 7339681799312416738
+            SubObjectId: 9826035003663494799
             InstanceId: 18122539248745111411
             TemplateId: 3383705750043431077
           }
@@ -8818,7 +9126,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -8827,6 +9135,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -8841,12 +9154,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -423.291046
-      Y: 293.507507
+      X: -423.290894
+      Y: 293.507477
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Roll: -146.249329
+      Yaw: -26.565033
+      Roll: -119.684082
     }
     Scale {
       X: 1
@@ -8910,7 +9225,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -8923,8 +9238,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 2024315654968008438
-            SubObjectId: 5159779983559511387
+            SelfId: 15263259975052934434
+            SubObjectId: 9826035003663494799
             InstanceId: 5232359977360615634
             TemplateId: 3383705750043431077
           }
@@ -8955,7 +9270,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -8964,6 +9279,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -8978,11 +9298,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -203.576172
-      Y: -173.431641
+      X: -203.576157
+      Y: -173.431778
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
+      Yaw: -169.975
+      Roll: 169.975
     }
     Scale {
       X: 1
@@ -9046,7 +9369,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -9091,7 +9414,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -9100,6 +9423,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -9114,13 +9442,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -353.576172
-      Y: -173.431641
+      X: -353.576141
+      Y: -173.431778
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: -7.12502289
-      Roll: 153.374603
+      Yaw: 165.96373
+      Roll: -19.7142029
     }
     Scale {
       X: 1
@@ -9184,7 +9513,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -9197,8 +9526,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 10496388255295110879
-            SubObjectId: 5159779983559511387
+            SelfId: 6803962435979222283
+            SubObjectId: 9826035003663494799
             InstanceId: 3048430643398676751
             TemplateId: 3383705750043431077
           }
@@ -9229,7 +9558,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -9238,6 +9567,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -9252,13 +9586,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -203.576172
-      Y: -23.4316406
+      X: -203.576141
+      Y: -23.4318027
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Yaw: -26.565033
-      Roll: 86.3902283
+      Yaw: -45
+      Roll: 104.825203
     }
     Scale {
       X: 1
@@ -9322,7 +9657,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -9335,8 +9670,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 17663881572330563090
-            SubObjectId: 5159779983559511387
+            SelfId: 4243684953524667846
+            SubObjectId: 9826035003663494799
             InstanceId: 5073493313252331069
             TemplateId: 3383705750043431077
           }
@@ -9367,7 +9702,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -9376,6 +9711,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -9390,12 +9730,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -3.57617188
-      Y: 26.5683594
+      X: -3.57615
+      Y: 26.5681934
+      Z: 9.59554
     }
     Rotation {
       Pitch: -90
-      Roll: 50.5727196
+      Roll: 50.57267
     }
     Scale {
       X: 1
@@ -9459,7 +9800,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -9472,8 +9813,8 @@ Objects {
         Overrides {
           Name: "cs:Pickup"
           ObjectReference {
-            SelfId: 18269720221360325534
-            SubObjectId: 5159779983559511387
+            SelfId: 3624619204380123210
+            SubObjectId: 9826035003663494799
             InstanceId: 3226915744148106544
             TemplateId: 3383705750043431077
           }
@@ -9504,7 +9845,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5159779983559511387
+      key: 9826035003663494799
       value {
         Overrides {
           Name: "Name"
@@ -9513,6 +9854,11 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }

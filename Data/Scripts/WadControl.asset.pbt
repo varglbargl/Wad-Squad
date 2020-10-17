@@ -16,6 +16,18 @@
           SelfId: 16230482950761357726
         }
       }
+      Overrides {
+        Name: "cs:HitboxSphere"
+        AssetReference {
+          Id: 5008650052304615048
+        }
+      }
+      Overrides {
+        Name: "cs:HitboxCube"
+        AssetReference {
+          Id: 15057098897697521991
+        }
+      }
     }
   }
   SerializationVersion: 65

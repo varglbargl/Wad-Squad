@@ -50,7 +50,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -101,7 +101,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -110,13 +110,23 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            Z: 45
+            X: 4.45048e-05
+            Y: -0.000888357521
+            Z: 44.9999809
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+            Roll: 1.60082504e-06
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -176,7 +186,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -227,7 +237,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -242,7 +252,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -300,7 +309,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -351,7 +360,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -366,7 +375,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -424,7 +440,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -475,7 +491,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -490,7 +506,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -548,7 +571,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -599,7 +622,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -614,7 +637,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -672,7 +694,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -723,7 +745,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -738,27 +760,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5046055954160735598
-      value {
         Overrides {
-          Name: "Position"
+          Name: "Scale"
           Vector {
-            X: -38.376564
-            Y: -0.718139648
-            Z: 24.2283478
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: 90
-            Roll: 6.83018425e-06
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -816,7 +825,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -867,7 +876,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -882,7 +891,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -942,7 +950,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -993,7 +1001,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -1008,7 +1016,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -1068,7 +1083,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -1119,7 +1134,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -1134,7 +1149,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -1194,7 +1216,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -1245,7 +1267,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -1260,7 +1282,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -1320,7 +1341,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -1371,7 +1392,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -1386,7 +1407,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -1446,7 +1474,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -1497,7 +1525,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -1512,7 +1540,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -1570,7 +1597,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -1621,7 +1648,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -1636,7 +1663,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -1694,7 +1720,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -1745,7 +1771,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -1760,7 +1786,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -1818,7 +1851,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -1869,7 +1902,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -1884,7 +1917,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -1942,7 +1982,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -1993,7 +2033,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -2008,7 +2048,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -2066,7 +2113,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -2117,7 +2164,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -2132,7 +2179,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -2190,7 +2236,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -2241,7 +2287,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -2256,7 +2302,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -2313,7 +2358,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -2364,7 +2409,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -2379,7 +2424,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -2437,7 +2489,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -2488,7 +2540,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -2503,27 +2555,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5046055954160735598
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -38.376564
-            Y: -0.718139648
-            Z: 24.2283478
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: 90
-            Roll: 6.83018425e-06
           }
         }
       }
@@ -2581,7 +2612,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -2632,7 +2663,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -2641,13 +2672,20 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            Z: 45
+            Z: 43.5219307
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -2704,7 +2742,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -2755,7 +2793,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -2770,7 +2808,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -2828,7 +2873,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -2879,7 +2924,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -2894,7 +2939,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -2952,7 +2996,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -3003,7 +3047,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -3018,7 +3062,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -3076,7 +3119,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -3127,7 +3170,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -3142,7 +3185,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -3200,7 +3250,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -3251,7 +3301,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -3266,7 +3316,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -3323,7 +3372,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -3374,7 +3423,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -3389,7 +3438,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -3447,7 +3495,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -3498,7 +3546,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -3513,27 +3561,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5046055954160735598
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -38.376564
-            Y: -0.718139648
-            Z: 24.2283478
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: 90
-            Roll: 6.83018425e-06
           }
         }
       }
@@ -3591,7 +3618,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -3642,7 +3669,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -3657,7 +3684,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -3714,7 +3748,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -3765,7 +3799,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -3780,7 +3814,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -3838,7 +3871,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -3889,7 +3922,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -3904,7 +3937,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
           }
         }
       }
@@ -3962,7 +3994,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -4013,7 +4045,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -4028,7 +4060,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }
@@ -4085,7 +4124,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Box"
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
@@ -4136,7 +4175,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2927526047626853448
+      key: 8900810354533633298
       value {
         Overrides {
           Name: "Name"
@@ -4151,7 +4190,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: -1
           }
         }
       }

@@ -93,7 +93,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -213,7 +213,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -331,7 +331,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -449,7 +449,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -569,7 +569,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -687,7 +687,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -895,7 +895,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -1020,7 +1020,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -1145,7 +1145,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -1270,7 +1270,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -1395,7 +1395,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -1520,7 +1520,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -1645,7 +1645,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -1770,7 +1770,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -1895,7 +1895,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -2020,7 +2020,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -2145,7 +2145,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -2269,7 +2269,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -2390,7 +2390,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -2510,7 +2510,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -2630,7 +2630,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -2676,8 +2676,8 @@ Objects {
     }
   }
   ParentId: 9770451611120769674
-  ChildIds: 13093817762897303712
-  ChildIds: 9503871881547863679
+  ChildIds: 17594080242032656606
+  ChildIds: 14840803666917175865
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2689,8 +2689,8 @@ Objects {
   }
 }
 Objects {
-  Id: 9503871881547863679
-  Name: "Pickup Sphere"
+  Id: 14840803666917175865
+  Name: "Pickup Box"
   Transform {
     Scale {
       X: 1
@@ -2699,48 +2699,45 @@ Objects {
     }
   }
   ParentId: 12992235084320586803
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
       value {
         Overrides {
           Name: "Name"
-          String: "Pickup Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.35001397
-            Y: 1.35001397
-            Z: 1.35001397
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 3096599191199036001
-            SubObjectId: 13098944015868929920
-            InstanceId: 13093817762897303712
-            TemplateId: 5392631947172121969
-          }
+          String: "Pickup Box"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 15.944931
-            Y: -65.5056839
-            Z: 31.9308167
+            X: -0.000375111878
+            Y: -17.2359943
+            Z: 26.1478729
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 4.09811328e-05
+            Yaw: 4.52650493e-05
+            Roll: -15.4208984
           }
         }
       }
     }
     TemplateAsset {
-      Id: 4673312574059639203
+      Id: 16607685206915228970
     }
   }
 }
 Objects {
-  Id: 13093817762897303712
+  Id: 17594080242032656606
   Name: "Queen Ant"
   Transform {
     Scale {
@@ -2758,7 +2755,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 13098944015868929920
+      key: 17525294391054039206
       value {
         Overrides {
           Name: "Name"
@@ -2767,19 +2764,17 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            Y: -5.46289063
-            Z: 13.3275146
+            X: -0.00255942345
+            Y: -5.46222973
+            Z: 13.3284445
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -5.83487272
+            Yaw: -8.69089476e-08
+            Roll: -5.83488607
           }
-        }
-        Overrides {
-          Name: "cs:Size"
-          Float: 2
         }
       }
     }
@@ -2883,11 +2878,16 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
           String: "Worker Ant"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
         }
         Overrides {
           Name: "Rotation"
@@ -2994,7 +2994,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -3112,7 +3112,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -3230,7 +3230,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -3348,7 +3348,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -3468,7 +3468,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -3588,7 +3588,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -3708,7 +3708,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -3828,7 +3828,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -3948,7 +3948,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -4068,7 +4068,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -4187,7 +4187,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -4307,7 +4307,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -4354,8 +4354,8 @@ Objects {
   }
   ParentId: 9770451611120769674
   ChildIds: 3463199439894224498
-  ChildIds: 12353282492510456920
   ChildIds: 4313310612967841743
+  ChildIds: 16563685759431044967
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4364,6 +4364,39 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 16563685759431044967
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 16549252654816810221
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 4.83386793e-05
+            Z: 28.9999886
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
   }
 }
 Objects {
@@ -4404,57 +4437,6 @@ Objects {
   }
 }
 Objects {
-  Id: 12353282492510456920
-  Name: "Pickup Sphere"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16549252654816810221
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.99999988
-            Y: 1.99999988
-            Z: 1.99999988
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -0.225193173
-            Y: -49.9649391
-            Z: -2.57399654
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 18198063592946891373
-            SubObjectId: 5599834820715658215
-            InstanceId: 3463199439894224498
-            TemplateId: 5128842395030095401
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
   Id: 3463199439894224498
   Name: "Fire Ant"
   Transform {
@@ -4473,7 +4455,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5599834820715658215
+      key: 17578914561765576173
       value {
         Overrides {
           Name: "Name"
@@ -4482,16 +4464,16 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 1.14561725
-            Y: -1.15000117
-            Z: 13.0944729
+            X: 1.14562416
+            Y: -1.1500082
+            Z: 13.0945539
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -1.33402107e-08
-            Roll: 5.13264649e-06
+            Yaw: 3.41509394e-06
+            Roll: 5.11732105e-06
           }
         }
       }
@@ -4596,7 +4578,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -4716,7 +4698,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -4836,7 +4818,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -4956,7 +4938,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -5076,7 +5058,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -5196,7 +5178,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -5316,7 +5298,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -5436,7 +5418,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -5556,7 +5538,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -5676,7 +5658,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -5796,7 +5778,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -6004,7 +5986,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -6129,7 +6111,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -6254,7 +6236,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -6379,7 +6361,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -6504,7 +6486,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -6629,7 +6611,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -6754,7 +6736,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -6879,7 +6861,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -7004,7 +6986,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -7129,7 +7111,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -7237,7 +7219,7 @@ Objects {
 }
 Objects {
   Id: 16819762622659553256
-  Name: "Ant"
+  Name: "Worker Ant"
   Transform {
     Scale {
       X: 1
@@ -7254,7 +7236,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -7263,9 +7245,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -415.301117
-            Y: -0.432178497
-            Z: -3.24249268e-05
+            X: -415.301392
+            Y: -0.431162506
+            Z: -8.58306885e-05
           }
         }
         Overrides {
@@ -7378,7 +7360,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"
@@ -7496,7 +7478,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1859664769832843278
+      key: 3876682450171662789
       value {
         Overrides {
           Name: "Name"

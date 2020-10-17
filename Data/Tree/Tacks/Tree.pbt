@@ -78,7 +78,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -131,7 +131,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -149,17 +149,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -247,7 +236,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -300,7 +289,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -406,7 +395,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -459,7 +448,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -477,17 +466,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -575,7 +553,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -628,7 +606,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -646,17 +624,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -744,7 +711,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -797,7 +764,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -815,17 +782,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -913,7 +869,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -966,7 +922,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -985,17 +941,6 @@ Objects {
           Rotator {
             Yaw: 2.97646608e-07
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -1083,7 +1028,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1136,7 +1081,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -1154,17 +1099,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -1252,7 +1186,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1305,7 +1239,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -1323,17 +1257,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -1421,7 +1344,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1474,7 +1397,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -1492,17 +1415,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -1590,7 +1502,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1643,7 +1555,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -1662,17 +1574,6 @@ Objects {
           Rotator {
             Yaw: 2.97646608e-07
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -1760,7 +1661,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1813,7 +1714,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -1831,17 +1732,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -1929,7 +1819,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -1982,7 +1872,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -2000,17 +1890,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -2098,7 +1977,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2148,7 +2027,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -2163,17 +2042,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -2261,7 +2129,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2311,7 +2179,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -2326,17 +2194,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -2424,7 +2281,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2474,7 +2331,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -2489,17 +2346,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -2587,7 +2433,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2637,7 +2483,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -2652,17 +2498,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -2750,7 +2585,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2800,7 +2635,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -2815,17 +2650,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -2913,7 +2737,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -2963,7 +2787,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -2978,17 +2802,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -3076,7 +2889,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3126,7 +2939,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -3141,17 +2954,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -3239,7 +3041,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3289,7 +3091,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -3304,17 +3106,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -3402,7 +3193,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3452,7 +3243,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -3467,17 +3258,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -3565,7 +3345,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3615,7 +3395,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -3630,17 +3410,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -3728,7 +3497,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3778,7 +3547,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -3793,17 +3562,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -3891,7 +3649,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -3941,7 +3699,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -4043,7 +3801,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4096,7 +3854,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -4114,17 +3872,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -4212,7 +3959,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4265,7 +4012,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -4284,17 +4031,6 @@ Objects {
           Rotator {
             Yaw: 2.97646608e-07
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -4382,7 +4118,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4435,7 +4171,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -4453,17 +4189,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -4551,7 +4276,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4604,7 +4329,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -4622,17 +4347,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.000061
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -4720,7 +4434,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4770,7 +4484,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -4790,17 +4504,6 @@ Objects {
             Pitch: 0.821412146
             Yaw: -4.98065186
             Roll: -1.2789917
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -4886,7 +4589,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -4936,7 +4639,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -5035,7 +4738,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -5085,7 +4788,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -5100,17 +4803,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -5196,7 +4888,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -5246,7 +4938,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -5261,17 +4953,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }
@@ -5356,7 +5037,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -5406,7 +5087,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -5420,19 +5101,18 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Roll: -10.0000448
+            Yaw: 3.72058402e-08
+            Roll: -10.0000668
           }
         }
       }
     }
     ParameterOverrideMap {
-      key: 16131182554730958300
+      key: 8955102339039240256
       value {
         Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
-          }
+          Name: "Name"
+          String: "Geo"
         }
       }
     }
@@ -5516,7 +5196,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item Sphere"
+          String: "Pickup Sphere"
         }
         Overrides {
           Name: "Scale"
@@ -5566,7 +5246,7 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6240753930489299861
+      key: 3579972217106009145
       value {
         Overrides {
           Name: "Name"
@@ -5581,17 +5261,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: -10.0000448
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16131182554730958300
-      value {
-        Overrides {
-          Name: "Collidable"
-          Enum {
-            Value: "mc:ecollisionsetting:forceoff"
           }
         }
       }

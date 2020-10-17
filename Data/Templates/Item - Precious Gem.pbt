@@ -4,9 +4,9 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 907499025761674707
+      RootId: 14756763129742726229
       Objects {
-        Id: 907499025761674707
+        Id: 14756763129742726229
         Name: "Precious Gem"
         Transform {
           Scale {
@@ -15,7 +15,7 @@
             Z: 1
           }
         }
-        ParentId: 5176167228366275666
+        ParentId: 16714510042032799626
         ChildIds: 8476888481569798599
         UnregisteredParameters {
           Overrides {
@@ -28,21 +28,6 @@
               Id: 11959917457289143983
             }
           }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 853323277775901910
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 0.470000029
-              G: 0.894701898
-              B: 1
-              A: 1
-            }
-          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -50,24 +35,13 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        CoreMesh {
-          MeshAsset {
-            Id: 18063086438225634970
-          }
-          Teams {
-            TeamInt: 2
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
+        Folder {
+          IsGroup: true
         }
       }
       Objects {
         Id: 8476888481569798599
-        Name: "ClientContext"
+        Name: "Geo"
         Transform {
           Location {
           }
@@ -79,8 +53,9 @@
             Z: 1
           }
         }
-        ParentId: 907499025761674707
+        ParentId: 14756763129742726229
         ChildIds: 17171644823503594019
+        ChildIds: 907499025761674707
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
         }
@@ -138,14 +113,58 @@
           }
         }
       }
-    }
-    Assets {
-      Id: 18063086438225634970
-      Name: "Gem - Diamond 6-Sided Polished"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_diamond_6_sided_polished_001"
+      Objects {
+        Id: 907499025761674707
+        Name: "Diamond"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8476888481569798599
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 853323277775901910
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.470000029
+              G: 0.894701898
+              B: 1
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 18063086438225634970
+          }
+          Teams {
+            TeamInt: 2
+            IsEnemyCollisionEnabled: true
+          }
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
+          }
+        }
       }
     }
     Assets {
@@ -155,6 +174,15 @@
       PrimaryAsset {
         AssetType: "AudioAssetRef"
         AssetId: "sfx_collect_coin_star_ping_01_Cue_ref"
+      }
+    }
+    Assets {
+      Id: 18063086438225634970
+      Name: "Gem - Diamond 6-Sided Polished"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_diamond_6_sided_polished_001"
       }
     }
     PrimaryAssetId {

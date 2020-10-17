@@ -2,7 +2,7 @@
 
 local PRIMARY_ONLY = script:GetCustomProperty("PrimaryOnly")
 
-local item = script.parent:FindChildByType("CoreMesh")
+local item = Utils.findItem(script.parent)
 
 local colors = nil
 
