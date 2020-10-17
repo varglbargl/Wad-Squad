@@ -19,6 +19,7 @@
         ChildIds: 9685685806032264942
         ChildIds: 4268290051436786599
         ChildIds: 10288336888600549638
+        ChildIds: 11840010107076143013
         ChildIds: 15714075669346606607
         UnregisteredParameters {
           Overrides {
@@ -146,6 +147,39 @@
             X: 0.375
             Y: 0.375
             Z: 0.375
+          }
+        }
+        ParentId: 6019812629017338264
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:sphere"
+          }
+        }
+      }
+      Objects {
+        Id: 11840010107076143013
+        Name: "Undergrab"
+        Transform {
+          Location {
+            Z: -16
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.2
+            Y: 0.2
+            Z: 0.2
           }
         }
         ParentId: 6019812629017338264

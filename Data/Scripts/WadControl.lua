@@ -3,7 +3,8 @@
 local WAD = script.parent
 local BOUNCE_OFF_SOUND = script:GetCustomProperty("BounceOffSound")
 local DEFAULT_PICKUP_SOUND = script:GetCustomProperty("DefaultPickupSound")
-local GRABBER = script:GetCustomProperty("Grabber"):WaitForObject()
+local GRABBER = WAD:FindChildByName("Grabber")
+local UNDERGRAB = WAD:FindChildByName("Undergrab")
 local MESH = script:GetCustomProperty("Mesh"):WaitForObject()
 local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 -- local CAMERA_CONTAINER = script:GetCustomProperty("CameraContainer"):WaitForObject()
@@ -187,7 +188,11 @@ function handleGrabberOverlap (trigger, object)
       -- a thing i just wish wasn't broken
       -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)
       -- clientItem:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.1))
-      Utils.lerpNSlurp(clientItem, WAD, 0.45, 50, 0.75)
+      if trigger.name == "Undergrab" then
+        Utils.lerpNSlurp(clientItem, WAD, 0.6, 50, 0.5)
+      else
+        Utils.lerpNSlurp(clientItem, WAD, 0.45, 50, 0.75)
+      end
 
       WAD.clientUserData["Size"] = wadSize
 
@@ -207,3 +212,4 @@ end
 
 -- handler params: Trigger_, Object_
 GRABBER.beginOverlapEvent:Connect(handleGrabberOverlap)
+UNDERGRAB.beginOverlapEvent:Connect(handleGrabberOverlap)

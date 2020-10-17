@@ -9,7 +9,7 @@ local ITEM_DISPLAY = script:GetCustomProperty("ItemDisplay"):WaitForObject()
 UI3D:AttachToLocalView()
 UI3D:SetPosition(Vector3.New(11, 0, 0))
 UI3D:SetScale(Vector3.ONE * 0.035)
-SUN_RAYS:RotateContinuous(Vector3.New(-0.25, 0, 0))
+SUN_RAYS:RotateContinuous(Vector3.New(-0.25, 0, 0), true)
 
 local currentItem = nil
 local itemNameBox = UI2D:FindDescendantByName("Item Name")

@@ -15,8 +15,8 @@
             Z: 2
           }
         }
-        ParentId: 4781671109827199097
-        ChildIds: 8164380670296994259
+        ParentId: 18075308399304218528
+        ChildIds: 5264422817723580876
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -57,12 +57,15 @@
         }
       }
       Objects {
-        Id: 8164380670296994259
-        Name: "StaticContext"
+        Id: 5264422817723580876
+        Name: "ClientContext"
         Transform {
           Location {
+            X: 2.06163192
+            Y: 6.63567164e-07
           }
           Rotation {
+            Yaw: 179.999847
           }
           Scale {
             X: 1
@@ -71,6 +74,7 @@
           }
         }
         ParentId: 2927526047626853448
+        ChildIds: 3496235060429154302
         ChildIds: 13347460254724184167
         ChildIds: 12760443258396558398
         ChildIds: 5046055954160735598
@@ -80,7 +84,6 @@
         ChildIds: 11349790994196758942
         ChildIds: 5830256532551272282
         ChildIds: 4691279180393976345
-        ChildIds: 3496235060429154302
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
         }
@@ -88,22 +91,21 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         NetworkContext {
-          Type: RuntimeStatic
         }
       }
       Objects {
-        Id: 13347460254724184167
+        Id: 3496235060429154302
         Name: "Prism - 5-Sided"
         Transform {
           Location {
-            X: -38.960247
-            Y: -25.8107929
-            Z: 36.050415
+            X: -38.9593239
+            Y: -24.629528
+            Z: -36.0776749
           }
           Rotation {
-            Pitch: 88.7463226
-            Yaw: -3.05175781e-05
-            Roll: -3.05175781e-05
+            Pitch: 88.7450714
+            Yaw: -6.10323841e-05
+            Roll: -6.10323841e-05
           }
           Scale {
             X: 0.601319432
@@ -111,7 +113,63 @@
             Z: 0.0500000156
           }
         }
-        ParentId: 8164380670296994259
+        ParentId: 5264422817723580876
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 10184847056121543272
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 762548734727853233
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 13347460254724184167
+        Name: "Prism - 5-Sided"
+        Transform {
+          Location {
+            X: -38.9593201
+            Y: -25.8107624
+            Z: 36.050415
+          }
+          Rotation {
+            Pitch: 88.743515
+            Yaw: -3.05160811e-05
+            Roll: -3.05160775e-05
+          }
+          Scale {
+            X: 0.601319432
+            Y: 0.160000011
+            Z: 0.0500000156
+          }
+        }
+        ParentId: 5264422817723580876
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -152,12 +210,14 @@
         Name: "Cube"
         Transform {
           Location {
-            X: -38.354229
-            Y: 6.54682517e-05
-            Z: 2.3215332
+            X: -38.3544922
+            Y: -1.30308e-05
+            Z: 2.32157373
           }
           Rotation {
-            Pitch: 90
+            Pitch: 89.9137573
+            Yaw: 2.14652e-06
+            Roll: 2.14651982e-06
           }
           Scale {
             X: 0.323102891
@@ -165,7 +225,7 @@
             Z: 0.0500000156
           }
         }
-        ParentId: 8164380670296994259
+        ParentId: 5264422817723580876
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -206,14 +266,14 @@
         Name: "Prism - 5-Sided"
         Transform {
           Location {
-            X: -38.9578667
-            Y: -3.0439527
-            Z: 24.2282715
+            X: -38.9566917
+            Y: -3.04404
+            Z: 24.2283115
           }
           Rotation {
-            Pitch: 88.7446
-            Yaw: -0.000122070313
-            Roll: -0.000122070313
+            Pitch: 88.7418
+            Yaw: -0.000122063961
+            Roll: -0.000122063961
           }
           Scale {
             X: 0.601319432
@@ -221,7 +281,7 @@
             Z: 0.0500000156
           }
         }
-        ParentId: 8164380670296994259
+        ParentId: 5264422817723580876
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -262,14 +322,14 @@
         Name: "Prism - 5-Sided"
         Transform {
           Location {
-            X: -38.9598389
-            Y: 19.0236492
-            Z: 11.8945923
+            X: -38.9594879
+            Y: 19.0236282
+            Z: 11.8946323
           }
           Rotation {
-            Pitch: 88.7477264
-            Yaw: -6.10351563e-05
-            Roll: -6.10351563e-05
+            Pitch: 88.7450714
+            Yaw: -6.10323841e-05
+            Roll: -6.10323841e-05
           }
           Scale {
             X: 0.601319432
@@ -277,7 +337,7 @@
             Z: 0.0500000156
           }
         }
-        ParentId: 8164380670296994259
+        ParentId: 5264422817723580876
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -318,14 +378,14 @@
         Name: "Prism - 5-Sided"
         Transform {
           Location {
-            X: -38.9579811
-            Y: 18.4101639
-            Z: -8.31591797
+            X: -38.9567719
+            Y: 18.4102249
+            Z: -8.315938
           }
           Rotation {
-            Pitch: 88.7446
-            Yaw: -0.000122070313
-            Roll: -0.000122070313
+            Pitch: 88.7418
+            Yaw: -0.000122063961
+            Roll: -0.000122063961
           }
           Scale {
             X: 0.601319432
@@ -333,7 +393,7 @@
             Z: 0.0500000156
           }
         }
-        ParentId: 8164380670296994259
+        ParentId: 5264422817723580876
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -374,14 +434,14 @@
         Name: "Prism - 5-Sided"
         Transform {
           Location {
-            X: -38.9579811
-            Y: 18.4101639
-            Z: -22.4890747
+            X: -38.9567719
+            Y: 18.4102249
+            Z: -22.4891148
           }
           Rotation {
-            Pitch: 88.7446
-            Yaw: -0.000122070313
-            Roll: -0.000122070313
+            Pitch: 88.7418
+            Yaw: -0.000122063961
+            Roll: -0.000122063961
           }
           Scale {
             X: 0.601319432
@@ -389,7 +449,7 @@
             Z: 0.0500000156
           }
         }
-        ParentId: 8164380670296994259
+        ParentId: 5264422817723580876
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -430,14 +490,14 @@
         Name: "Prism - 5-Sided"
         Transform {
           Location {
-            X: -38.9579811
-            Y: 18.4101639
-            Z: -36.0776978
+            X: -38.9567719
+            Y: 18.4102249
+            Z: -36.0776749
           }
           Rotation {
-            Pitch: 88.7446
-            Yaw: -0.000122070313
-            Roll: -0.000122070313
+            Pitch: 88.7418
+            Yaw: -0.000122063961
+            Roll: -0.000122063961
           }
           Scale {
             X: 0.601319432
@@ -445,7 +505,7 @@
             Z: 0.0500000156
           }
         }
-        ParentId: 8164380670296994259
+        ParentId: 5264422817723580876
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -486,14 +546,14 @@
         Name: "Prism - 5-Sided"
         Transform {
           Location {
-            X: -38.9602127
-            Y: -24.6295223
-            Z: -22.4890747
+            X: -38.9593239
+            Y: -24.629528
+            Z: -22.4891148
           }
           Rotation {
-            Pitch: 88.7477264
-            Yaw: -6.10351563e-05
-            Roll: -6.10351563e-05
+            Pitch: 88.7450714
+            Yaw: -6.10323841e-05
+            Roll: -6.10323841e-05
           }
           Scale {
             X: 0.601319432
@@ -501,7 +561,7 @@
             Z: 0.0500000156
           }
         }
-        ParentId: 8164380670296994259
+        ParentId: 5264422817723580876
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -542,14 +602,14 @@
         Name: "Prism - 5-Sided"
         Transform {
           Location {
-            X: -38.9602127
-            Y: -24.6295223
-            Z: -8.31591797
+            X: -38.9593239
+            Y: -24.629528
+            Z: -8.315938
           }
           Rotation {
-            Pitch: 88.7477264
-            Yaw: -6.10351563e-05
-            Roll: -6.10351563e-05
+            Pitch: 88.7450714
+            Yaw: -6.10323841e-05
+            Roll: -6.10323841e-05
           }
           Scale {
             X: 0.601319432
@@ -557,63 +617,7 @@
             Z: 0.0500000156
           }
         }
-        ParentId: 8164380670296994259
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10184847056121543272
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 762548734727853233
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 3496235060429154302
-        Name: "Prism - 5-Sided"
-        Transform {
-          Location {
-            X: -38.9602127
-            Y: -24.6295223
-            Z: -36.0776978
-          }
-          Rotation {
-            Pitch: 88.7477264
-            Yaw: -6.10351563e-05
-            Roll: -6.10351563e-05
-          }
-          Scale {
-            X: 0.601319432
-            Y: 0.160000011
-            Z: 0.0500000156
-          }
-        }
-        ParentId: 8164380670296994259
+        ParentId: 5264422817723580876
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"

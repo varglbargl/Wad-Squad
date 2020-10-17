@@ -1,6 +1,144 @@
 ﻿Name: "Candies"
 RootId: 1462763862631299047
 Objects {
+  Id: 7275476242923632760
+  Name: "Rainbow Candy"
+  Transform {
+    Location {
+      X: -432.699829
+      Y: -102.930496
+    }
+    Rotation {
+      Pitch: -90
+      Yaw: 7.12502289
+      Roll: -16.7840576
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1462763862631299047
+  ChildIds: 8272911070009993306
+  ChildIds: 11562973155935685791
+  ChildIds: 14971479033387691071
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14971479033387691071
+  Name: "Item Mod - Random Color"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7275476242923632760
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 11562973155935685791
+  Name: "Item"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7275476242923632760
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Item Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.4
+            Y: 0.4
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 1570789613976618386
+            SubObjectId: 5159779983559511387
+            InstanceId: 8272911070009993306
+            TemplateId: 3383705750043431077
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 8272911070009993306
+  Name: "Green Candy Bit"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7275476242923632760
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5159779983559511387
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Rainbow Candy"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 3383705750043431077
+    }
+  }
+}
+Objects {
   Id: 12603493480623164750
   Name: "Pentagrainbow"
   Transform {
@@ -5935,13 +6073,12 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -424.527344
-      Y: 23.8844
+      X: -345.229797
+      Y: 49.8380775
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Roll: -9.6586
     }
     Scale {
       X: 1
@@ -6073,13 +6210,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -542.587891
-      Y: -87.5443115
+      X: -616.539673
+      Y: 93.4651642
     }
     Rotation {
       Pitch: -90
       Yaw: 90
-      Roll: -99.6585693
+      Roll: -99.6589661
     }
     Scale {
       X: 1
@@ -6211,13 +6348,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -506.115234
-      Y: 136.653931
+      X: -506.091766
+      Y: 136.653641
     }
     Rotation {
-      Pitch: -90
-      Yaw: 90
-      Roll: -99.6585693
+      Pitch: -89.4556885
+      Yaw: -103.122955
+      Roll: 4.24323893
     }
     Scale {
       X: 1
@@ -6349,14 +6486,14 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -348.576172
-      Y: 436.568359
-      Z: 4.1875
+      X: -348.576111
+      Y: 436.568146
+      Z: 4.18752
     }
     Rotation {
-      Pitch: -79.3154297
-      Yaw: 43.3436317
-      Roll: -52.3921509
+      Pitch: -79.3129883
+      Yaw: 43.2686119
+      Roll: -95.8652344
     }
     Scale {
       X: 1
@@ -7590,13 +7727,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 92.2460938
-      Y: 85.0634766
+      X: 136.187195
+      Y: -8.80127
     }
     Rotation {
       Pitch: -90
-      Yaw: -18.4349556
-      Roll: 66.5547943
+      Yaw: 90
+      Roll: -41.8813477
     }
     Scale {
       X: 1
@@ -7862,144 +7999,6 @@ Objects {
   }
 }
 Objects {
-  Id: 1139688791058881807
-  Name: "Rainbow Candy"
-  Transform {
-    Location {
-      X: -233.958984
-      Y: 116.069336
-    }
-    Rotation {
-      Pitch: -90
-      Yaw: 165.96373
-      Roll: -19.7136841
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1462763862631299047
-  ChildIds: 14799953730291845454
-  ChildIds: 1631540418852131174
-  ChildIds: 2321834965312870412
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 2321834965312870412
-  Name: "Item Mod - Random Color"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1139688791058881807
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 1631540418852131174
-  Name: "Item"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1139688791058881807
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.4
-            Y: 0.4
-            Z: 0.4
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 6185819159291474650
-            SubObjectId: 5159779983559511387
-            InstanceId: 14799953730291845454
-            TemplateId: 3383705750043431077
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 14799953730291845454
-  Name: "Rainbow Candy"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1139688791058881807
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5159779983559511387
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Rainbow Candy"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 3383705750043431077
-    }
-  }
-}
-Objects {
   Id: 7698984310143193931
   Name: "Rainbow Candy"
   Transform {
@@ -8111,144 +8110,6 @@ Objects {
     }
   }
   ParentId: 7698984310143193931
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5159779983559511387
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Rainbow Candy"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 3383705750043431077
-    }
-  }
-}
-Objects {
-  Id: 8289778275364271809
-  Name: "Rainbow Candy"
-  Transform {
-    Location {
-      X: -2.98242188
-      Y: 162.037598
-    }
-    Rotation {
-      Pitch: -90
-      Yaw: -7.12502289
-      Roll: 153.374603
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1462763862631299047
-  ChildIds: 11675364520565161943
-  ChildIds: 15454168062390424079
-  ChildIds: 17031908249057839792
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 17031908249057839792
-  Name: "Item Mod - Random Color"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8289778275364271809
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 15454168062390424079
-  Name: "Item"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8289778275364271809
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.4
-            Y: 0.4
-            Z: 0.4
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 8135479330923575159
-            SubObjectId: 5159779983559511387
-            InstanceId: 11675364520565161943
-            TemplateId: 3383705750043431077
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 11675364520565161943
-  Name: "Green Candy Bit"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8289778275364271809
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8423,11 +8284,13 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 221.498047
-      Y: 182.87207
+      X: 131.732056
+      Y: 112.599258
     }
     Rotation {
       Pitch: -90
+      Yaw: -169.975
+      Roll: 169.975
     }
     Scale {
       X: 1
@@ -8978,12 +8841,12 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -329.035156
-      Y: 293.507202
+      X: -423.291046
+      Y: 293.507507
     }
     Rotation {
       Pitch: -90
-      Roll: -146.249466
+      Roll: -146.249329
     }
     Scale {
       X: 1
@@ -9385,143 +9248,6 @@ Objects {
   }
 }
 Objects {
-  Id: 17697439814188926950
-  Name: "Rainbow Candy"
-  Transform {
-    Location {
-      X: -303.576172
-      Y: -73.4316406
-    }
-    Rotation {
-      Pitch: -90
-      Roll: 56.2499237
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1462763862631299047
-  ChildIds: 15717779172367778697
-  ChildIds: 10955341022328725264
-  ChildIds: 17414037939809438698
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 17414037939809438698
-  Name: "Item Mod - Random Color"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17697439814188926950
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 10955341022328725264
-  Name: "Item"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17697439814188926950
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.4
-            Y: 0.4
-            Z: 0.4
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 14166348637342042554
-            SubObjectId: 5159779983559511387
-            InstanceId: 15717779172367778697
-            TemplateId: 3383705750043431077
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 15717779172367778697
-  Name: "Green Candy Bit"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17697439814188926950
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5159779983559511387
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Rainbow Candy"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 3383705750043431077
-    }
-  }
-}
-Objects {
   Id: 15112237771950002921
   Name: "Rainbow Candy"
   Transform {
@@ -9660,144 +9386,6 @@ Objects {
   }
 }
 Objects {
-  Id: 5312433663558424765
-  Name: "Rainbow Candy"
-  Transform {
-    Location {
-      X: -103.576172
-      Y: -23.4316406
-    }
-    Rotation {
-      Pitch: -90
-      Yaw: 90
-      Roll: 101.250061
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1462763862631299047
-  ChildIds: 4276261325692018641
-  ChildIds: 1606711560989717189
-  ChildIds: 9079333895723140335
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 9079333895723140335
-  Name: "Item Mod - Random Color"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5312433663558424765
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 1606711560989717189
-  Name: "Item"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5312433663558424765
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.4
-            Y: 0.4
-            Z: 0.4
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 11747119969507481695
-            SubObjectId: 5159779983559511387
-            InstanceId: 4276261325692018641
-            TemplateId: 3383705750043431077
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 4276261325692018641
-  Name: "Green Candy Bit"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5312433663558424765
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5159779983559511387
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Rainbow Candy"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 3383705750043431077
-    }
-  }
-}
-Objects {
   Id: 162488762590909547
   Name: "Rainbow Candy"
   Transform {
@@ -9908,143 +9496,6 @@ Objects {
     }
   }
   ParentId: 162488762590909547
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5159779983559511387
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Rainbow Candy"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 3383705750043431077
-    }
-  }
-}
-Objects {
-  Id: 4117259313729555501
-  Name: "Rainbow Candy"
-  Transform {
-    Location {
-      X: 96.4238281
-      Y: -23.4316406
-    }
-    Rotation {
-      Pitch: -90
-      Roll: 56.2499237
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1462763862631299047
-  ChildIds: 10989883936485236697
-  ChildIds: 9719605622074016340
-  ChildIds: 12580036724103448165
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 12580036724103448165
-  Name: "Item Mod - Random Color"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4117259313729555501
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5225203412715387101
-    }
-  }
-}
-Objects {
-  Id: 9719605622074016340
-  Name: "Item"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4117259313729555501
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Item Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.4
-            Y: 0.4
-            Z: 0.4
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 15808311266318984301
-            SubObjectId: 5159779983559511387
-            InstanceId: 10989883936485236697
-            TemplateId: 3383705750043431077
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 10989883936485236697
-  Name: "Green Candy Bit"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4117259313729555501
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

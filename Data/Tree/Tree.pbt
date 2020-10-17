@@ -18,6 +18,7 @@ Objects {
   ChildIds: 4226120016796708080
   ChildIds: 1939771447190991489
   ChildIds: 788952759244963130
+  ChildIds: 13816742157730657961
   ChildIds: 15890745258446820654
   ChildIds: 15969670120281364747
   ChildIds: 114523083307116321
@@ -25,106 +26,35 @@ Objects {
   ChildIds: 7085708660934895409
   ChildIds: 13253915032246250060
   ChildIds: 2782793507244063116
-  ChildIds: 5162679982873653265
-  ChildIds: 7233777674088408447
   ChildIds: 13139846731237301960
-  ChildIds: 4428897914313048815
   ChildIds: 2376998356101337759
-  ChildIds: 4541633906170376806
-  ChildIds: 12339013285606248165
-  ChildIds: 15893183390493066747
-  ChildIds: 91662093376024120
-  ChildIds: 11559800719957398787
-  ChildIds: 12515317524367573095
-  ChildIds: 11211848381982400391
-  ChildIds: 9858589202030577287
-  ChildIds: 3144577528816856399
-  ChildIds: 3388147792591694722
-  ChildIds: 13969888018999768418
-  ChildIds: 3395739470402970192
-  ChildIds: 5326175622032131070
-  ChildIds: 3532072791347603017
-  ChildIds: 5203561586968981479
-  ChildIds: 3067959510028165042
-  ChildIds: 3170532125922352612
-  ChildIds: 6025000169250785826
-  ChildIds: 2989267843571794132
-  ChildIds: 14916321720233096072
-  ChildIds: 3381154727261795796
-  ChildIds: 6593317338497728519
-  ChildIds: 15580100814717010500
-  ChildIds: 1032758771315186614
-  ChildIds: 4362332727345360808
-  ChildIds: 4644302338258136415
-  ChildIds: 4220429782994684239
-  ChildIds: 13816742157730657961
-  ChildIds: 686857017175347151
-  ChildIds: 17868418881867658004
-  ChildIds: 3624559170482094300
-  ChildIds: 13847800290638712675
-  ChildIds: 4954717706079664258
-  ChildIds: 14921350539340416712
-  ChildIds: 16542628571030100706
-  ChildIds: 9672258080698617775
-  ChildIds: 18070465477884558743
-  ChildIds: 3909069119537892607
-  ChildIds: 4761159128821449889
-  ChildIds: 5828017810669224863
-  ChildIds: 4069272749978231439
-  ChildIds: 1081019372054401694
-  ChildIds: 16150215518022110030
-  ChildIds: 1208528283338893649
-  ChildIds: 844962609668214242
-  ChildIds: 17217279271590523024
-  ChildIds: 17438022385560772713
-  ChildIds: 8328095115553212801
-  ChildIds: 1556027217074678945
-  ChildIds: 4628891716727146820
-  ChildIds: 2186690686579465395
-  ChildIds: 10642166602527810966
-  ChildIds: 13717806582470667097
-  ChildIds: 3480761148442685531
-  ChildIds: 14922447270769850840
-  ChildIds: 8221720316784671561
-  ChildIds: 3333083875434401201
-  ChildIds: 4256053631093790918
-  ChildIds: 10769306243090993049
-  ChildIds: 14745528649770278
-  ChildIds: 15939788480076555690
-  ChildIds: 3715083012345653491
-  ChildIds: 11431670395093722531
-  ChildIds: 11783341859750839193
-  ChildIds: 17560231393719095098
-  ChildIds: 7581641567335598588
-  ChildIds: 2497575249480727833
-  ChildIds: 1414388212197951190
-  ChildIds: 6443468759259959079
-  ChildIds: 8049238127587510558
-  ChildIds: 13535953403128920266
-  ChildIds: 14735478108467406917
-  ChildIds: 3739563088759645167
-  ChildIds: 7533023229695175719
-  ChildIds: 848873117539177548
-  ChildIds: 4580485556919432450
-  ChildIds: 971391247150967867
-  ChildIds: 4363628015840866318
-  ChildIds: 1727107559646319625
-  ChildIds: 2967051800653659754
-  ChildIds: 8205661208397587278
-  ChildIds: 12519159425425193307
-  ChildIds: 3730832339313238511
-  ChildIds: 3848471703924938568
-  ChildIds: 3685120521923526408
-  ChildIds: 7582861749376394305
-  ChildIds: 6959710875226046260
-  ChildIds: 18409684771106672759
-  ChildIds: 2485265660306359032
-  ChildIds: 9733582438998393377
-  ChildIds: 17908440038051777422
-  ChildIds: 743559783295488349
-  ChildIds: 12533792178139101252
-  ChildIds: 6701076740730935575
-  ChildIds: 9765990336098710888
+  ChildIds: 6512410541765101890
+  ChildIds: 1626910852416393824
+  ChildIds: 10073365075888973752
+  ChildIds: 5364099318304319810
+  ChildIds: 8295399162280426823
+  ChildIds: 13778673002263424296
+  ChildIds: 7499915708035609971
+  ChildIds: 5069783144843164314
+  ChildIds: 6984661105064948319
+  ChildIds: 17020843774475626988
+  ChildIds: 8495254400509178552
+  ChildIds: 9082135529080297431
+  ChildIds: 2483586278703300027
+  ChildIds: 17286841110182949410
+  ChildIds: 1941559665877769479
+  ChildIds: 3070532938740843720
+  ChildIds: 1833334562546090794
+  ChildIds: 15208253521981088650
+  ChildIds: 1816134789278963372
+  ChildIds: 12457522569359573912
+  ChildIds: 16677160515437365813
+  ChildIds: 17867665026944713193
+  ChildIds: 15483423752803769805
+  ChildIds: 17564431549844602406
+  ChildIds: 13600032501872349442
+  ChildIds: 11830480079368059606
+  ChildIds: 9586690445226753074
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -137,37 +67,1077 @@ Objects {
   }
 }
 Objects {
-  Id: 9765990336098710888
-  Name: "Decal Wood Ends Variations"
+  Id: 9586690445226753074
+  Name: "Bones Decal"
   Transform {
     Location {
-      X: 3196.56641
-      Y: 1663.6925
-      Z: 1021.19293
+      X: -2889.42651
+      Y: -3972.56909
+      Z: 183.233078
     }
     Rotation {
-      Yaw: 4.09811146e-05
-      Roll: -90.0002441
     }
     Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
+      X: 0.812199473
+      Y: 0.812199473
+      Z: 0.812199473
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 1389312074869019872
+  ChildIds: 2622791123167650082
+  ChildIds: 4092003715184186560
+  ChildIds: 5890958537981727010
+  ChildIds: 16896584430266559361
+  ChildIds: 13505035450116316618
+  ChildIds: 10966390202024026556
+  ChildIds: 7199803810462079217
+  ChildIds: 17840395359153709724
+  ChildIds: 13181058738030363757
+  ChildIds: 9822258287476625948
+  ChildIds: 17644213584024358801
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17644213584024358801
+  Name: "Bone Human Humerus 01"
+  Transform {
+    Location {
+      X: 0.343994141
+      Y: 17.1364746
+      Z: -0.293670654
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 180
+      Roll: 28.26474
+    }
+    Scale {
+      X: 0.00130576
+      Y: 1.81307673
+      Z: 1.87352312
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5124353486519681308
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0215416867
+        G: 0.0400000028
+        B: 0.00515999831
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2407829855670955504
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9822258287476625948
+  Name: "Bone Human Humerus 01"
+  Transform {
+    Location {
+      X: -3.10058594
+      Y: 17.1364746
+      Z: -0.238693237
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: -165.96373
+      Roll: 161.723724
+    }
+    Scale {
+      X: 0.00130572764
+      Y: 1.96728313
+      Z: 1.86261117
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5124353486519681308
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0215416867
+        G: 0.0400000028
+        B: 0.00515999831
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2407829855670955504
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13181058738030363757
+  Name: "Bone Human Skull 01"
+  Transform {
+    Location {
+      X: 0.0493164063
+      Y: -9.15283203
+      Z: -0.176040649
+    }
+    Rotation {
+      Roll: -89.9999924
+    }
+    Scale {
+      X: 2.50174475
+      Y: 0.00103518821
+      Z: 2.37544322
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5124353486519681308
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0215416867
+        G: 0.0400000028
+        B: 0.00515999831
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7369632945904869019
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17840395359153709724
+  Name: "Bone Human Humerus 01"
+  Transform {
+    Location {
+      X: -11.1921387
+      Y: -22.3979492
+      Z: 0.105957031
+    }
+    Rotation {
+      Yaw: -20.1721497
+    }
+    Scale {
+      X: 0.149700552
+      Y: 0.124094076
+      Z: 0.000149698739
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 8532218528728211775
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0421192087
+        G: 0.120000005
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.1
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.1
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7199803810462079217
+  Name: "Bone Human Humerus 01"
+  Transform {
+    Location {
+      X: 10.6557617
+      Y: -22.3979492
+      Z: 0.105957031
+    }
+    Rotation {
+      Yaw: 17.1005535
+    }
+    Scale {
+      X: 0.149701446
+      Y: 0.12665537
+      Z: 0.000149698739
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 8532218528728211775
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0421192087
+        G: 0.120000005
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.1
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.1
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10966390202024026556
+  Name: "Bone Human Humerus 01"
+  Transform {
+    Location {
+      X: -3.10058594
+      Y: 17.5004883
+      Z: 0.0725708
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 14.0362635
+      Roll: -17.9796753
+    }
+    Scale {
+      X: 6.88131331e-05
+      Y: 0.101452142
+      Z: 0.182513922
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5124353486519681308
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0215416867
+        G: 0.0400000028
+        B: 0.00515999831
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13505035450116316618
+  Name: "Prism - 3-Sided"
+  Transform {
+    Location {
+      X: 6.34521484
+      Y: 1.01098633
+      Z: 0.0487007797
+    }
+    Rotation {
+      Yaw: 179.559494
+    }
+    Scale {
+      X: 0.0122955423
+      Y: 0.079474248
+      Z: 0.001
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.00987414457
+        G: 0.0210000016
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5316478896368128728
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16896584430266559361
+  Name: "Bone Human Humerus 01"
+  Transform {
+    Location {
+      X: 10.6557617
+      Y: -22.3979492
+      Z: 0.0168762207
+    }
+    Rotation {
+      Yaw: 17.1005363
+    }
+    Scale {
+      X: 0.173572049
+      Y: 0.146851048
+      Z: 0.000173568842
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5124353486519681308
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0215416867
+        G: 0.0400000028
+        B: 0.00515999831
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5890958537981727010
+  Name: "Bone Human Humerus 01"
+  Transform {
+    Location {
+      X: -11.1921387
+      Y: -22.3979492
+      Z: 0.0168762207
+    }
+    Rotation {
+      Yaw: -20.1721191
+    }
+    Scale {
+      X: 0.17357105
+      Y: 0.143881366
+      Z: 0.000173568842
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5124353486519681308
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0215416867
+        G: 0.0400000028
+        B: 0.00515999831
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4092003715184186560
+  Name: "Bone Human Humerus 01"
+  Transform {
+    Location {
+      X: 0.343994141
+      Y: 17.1364746
+      Z: 0.039855957
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 14.0362635
+      Roll: -137.699387
+    }
+    Scale {
+      X: 0.00126153172
+      Y: 1.57612491
+      Z: 1.83701897
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5124353486519681308
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.715000033
+        G: 0.337205231
+        B: 0.0193049647
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2407829855670955504
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2622791123167650082
+  Name: "Bone Human Humerus 01"
+  Transform {
+    Location {
+      X: -3.10058594
+      Y: 17.1364746
+      Z: 0.094833374
+    }
+    Rotation {
+      Pitch: 90
+      Roll: -32.3122559
+    }
+    Scale {
+      X: 0.00126152672
+      Y: 1.74244058
+      Z: 1.83701992
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5124353486519681308
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.715000033
+        G: 0.337205231
+        B: 0.0193049647
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2407829855670955504
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1389312074869019872
+  Name: "Bone Human Skull 01"
+  Transform {
+    Location {
+      X: 0.0493164063
+      Y: -9.40380859
+    }
+    Rotation {
+      Roll: -89.9999924
+    }
+    Scale {
+      X: 2.39999986
+      Y: 0.00100004312
+      Z: 2.27956533
+    }
+  }
+  ParentId: 9586690445226753074
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5124353486519681308
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.715000033
+        G: 0.337205231
+        B: 0.0193049647
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7369632945904869019
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11830480079368059606
+  Name: "Leafy Patch 01"
+  Transform {
+    Location {
+      X: -4060.53369
+      Y: -3961.90015
+      Z: 256.884705
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.68645287
+      Y: 2.68645287
+      Z: 2.68645287
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10889875244643202178
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13600032501872349442
+  Name: "Decal Dirt Patch"
+  Transform {
+    Location {
+      X: -3415.60791
+      Y: -4255.46777
+      Z: 160.547714
+    }
+    Rotation {
+      Pitch: -2.97512817
+      Yaw: 29.801981
+      Roll: 0.210812524
+    }
+    Scale {
+      X: 1.67516804
+      Y: 1.67516398
+      Z: 0.333739
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14964967653464214432
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 17564431549844602406
+  Name: "Decal Dirt Patch"
+  Transform {
+    Location {
+      X: -3514.01343
+      Y: -3463.20532
+      Z: 143.871628
+    }
+    Rotation {
+      Pitch: -2.97512817
+      Yaw: 29.8019676
+      Roll: 0.210812956
+    }
+    Scale {
+      X: 2.7414515
+      Y: 2.74145865
+      Z: 0.140432224
     }
   }
   ParentId: 4781671109827199097
   UnregisteredParameters {
     Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
+      Name: "bp:Fade Delay"
+      Float: 0
+    }
+    Overrides {
+      Name: "bp:Fade Time"
+      Float: 0
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14964967653464214432
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 15483423752803769805
+  Name: "Clover Patch 01"
+  Transform {
+    Location {
+      X: -5850.75293
+      Y: -3250
+      Z: 135.448746
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.20000029
+      Y: 4.20000029
+      Z: 4.20000029
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4643288981220233326
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    DisableCastShadows: true
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17867665026944713193
+  Name: "Witche\'s Book"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5751125532144064646
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Witche\'s Book"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3433.62769
+            Y: -2808.59595
+            Z: 149.602051
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -44.9998779
+            Yaw: 177.422073
+            Roll: 89.9996338
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17884679603165529694
+    }
+  }
+}
+Objects {
+  Id: 16677160515437365813
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -4250.07861
+      Y: -3558.37915
+      Z: 275
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.100674279
+      Y: 0.100674279
+      Z: 0.100674279
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Sides"
+      Int: 32
     }
     Overrides {
       Name: "bp:color"
       Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
         A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Blur"
+      Float: 0.487747461
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 12457522569359573912
+  Name: "Liquid Decal"
+  Transform {
+    Location {
+      X: -4266.82178
+      Y: -3548.70947
+      Z: 255.539185
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.09804702
+      Y: 3.09804702
+      Z: 1.39578187
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Type"
+      Enum {
+        Value: "mc:eliquiddecaltype:1"
+      }
+    }
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 0
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.132096
+        G: 0.132096
+        B: 0.384
+        A: 0.311000019
       }
     }
   }
@@ -179,7 +1149,7 @@ Objects {
   }
   Blueprint {
     BlueprintAsset {
-      Id: 14463303659751748326
+      Id: 5931224016695282927
     }
     TeamSettings {
     }
@@ -188,38 +1158,138 @@ Objects {
   }
 }
 Objects {
-  Id: 6701076740730935575
-  Name: "Decal Wood Ends Variations"
+  Id: 1816134789278963372
+  Name: "Urban Pipe Straight"
   Transform {
     Location {
-      X: 2118.77905
-      Y: 1662.98315
-      Z: 1030.58728
+      X: -4250
+      Y: -3558.46899
+      Z: 218.447144
     }
     Rotation {
-      Yaw: -179.999954
-      Roll: 89.9995956
     }
     Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
+      X: 1.2
+      Y: 1.2
+      Z: 1.2
     }
   }
   ParentId: 4781671109827199097
   UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15208253521981088650
+  Name: "Sprinkler Head"
+  Transform {
+    Location {
+      X: -4250
+      Y: -3558.46899
+      Z: 279.027954
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 2444169943669668166
+  ChildIds: 8535527620635588843
+  ChildIds: 5700414806449777682
+  ChildIds: 4677273452038186856
+  ChildIds: 10831823066748786690
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10831823066748786690
+  Name: "Water Jet VFX"
+  Transform {
+    Location {
+      X: 0.786621094
+      Y: 0.804199219
+      Z: 54.084259
+    }
+    Rotation {
+    }
+    Scale {
+      X: 6.09999943
+      Y: 6.09999943
+      Z: 6.09999943
+    }
+  }
+  ParentId: 15208253521981088650
+  UnregisteredParameters {
     Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
+      Name: "bp:Velocity Min"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 1.2
+    }
+    Overrides {
+      Name: "bp:Angle Max"
+      Float: 114.149506
+    }
+    Overrides {
+      Name: "bp:Angle Min"
+      Float: 103.297462
     }
     Overrides {
       Name: "bp:color"
       Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
+        R: 0.279999971
+        G: 1
+        B: 0.957086205
         A: 1
       }
+    }
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 0.464248
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 1
     }
   }
   Collidable_v2 {
@@ -230,45 +1300,38 @@ Objects {
   }
   Blueprint {
     BlueprintAsset {
-      Id: 14463303659751748326
+      Id: 15763739372691970393
     }
     TeamSettings {
     }
-    DecalBP {
+    Vfx {
+      AutoPlay: true
     }
   }
 }
 Objects {
-  Id: 12533792178139101252
-  Name: "Decal Wood Ends Variations"
+  Id: 4677273452038186856
+  Name: "Urban Pipe Coupling 04"
   Transform {
     Location {
-      X: 2388.0061
-      Y: 1662.98315
-      Z: 1030.58728
+      Z: 44.8498535
     }
     Rotation {
-      Yaw: -179.999954
-      Roll: 89.999649
     }
     Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
+      X: 0.37559244
+      Y: 0.37559244
+      Z: 0.808326483
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 15208253521981088650
   UnregisteredParameters {
     Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
+      Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
+        R: 0.505208
+        G: 0.505208
+        B: 0.505208
         A: 1
       }
     }
@@ -279,47 +1342,97 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
     }
-    TeamSettings {
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    DecalBP {
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
     }
   }
 }
 Objects {
-  Id: 743559783295488349
-  Name: "Decal Wood Ends Variations"
+  Id: 5700414806449777682
+  Name: "Sci-fi Gear Small 02"
   Transform {
     Location {
-      X: 2653.04028
-      Y: 1663.6925
-      Z: 1021.19293
+      Z: 34.4191895
     }
     Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0003052
+      Pitch: 6.83018879e-06
+      Yaw: -11.2501402
+      Roll: 89.9999237
     }
     Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
+      X: 1.49999988
+      Y: 1.49999988
+      Z: 1.49999988
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 15208253521981088650
   UnregisteredParameters {
     Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        G: 0.0900000334
+        B: 0.0274172295
+        A: 1
+      }
     }
     Overrides {
-      Name: "bp:color"
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5051730193900457259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8535527620635588843
+  Name: "Urban Pipe Flange 01"
+  Transform {
+    Location {
+      Z: 29.4191895
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15208253521981088650
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
         A: 1
       }
     }
@@ -330,47 +1443,1415 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
+  CoreMesh {
+    MeshAsset {
+      Id: 18393437648231545508
     }
-    TeamSettings {
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    DecalBP {
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
     }
   }
 }
 Objects {
-  Id: 17908440038051777422
-  Name: "Decal Wood Ends Variations"
+  Id: 2444169943669668166
+  Name: "Urban Pipe Straight"
   Transform {
     Location {
-      X: 2924.66821
-      Y: 1663.6925
-      Z: 1021.19293
     }
     Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0002747
     }
     Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
+      X: 1.2
+      Y: 1.2
+      Z: 0.581921518
+    }
+  }
+  ParentId: 15208253521981088650
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1833334562546090794
+  Name: "Flower Building Kit"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14967107773471019810
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Flower Building Kit"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2845
+            Y: -7960
+            Z: 135
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 10762819691489369959
+    }
+  }
+}
+Objects {
+  Id: 3070532938740843720
+  Name: "Bush Leafy Low 01"
+  Transform {
+    Location {
+      X: -3790
+      Y: -3045
+      Z: 255
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 4781671109827199097
   UnregisteredParameters {
     Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
+      Name: "ma:Nature_Leaves:id"
+      AssetReference {
+        Id: 17534328568152039668
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17881746850706111911
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1941559665877769479
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: -4950
+      Y: -3425
+      Z: 195
+    }
+    Rotation {
+      Pitch: 83.8824234
+      Yaw: -150.162323
+      Roll: -179.999954
+    }
+    Scale {
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8556281639390552608
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17286841110182949410
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: -4560
+      Y: -3425.00024
+      Z: 173.185349
+    }
+    Rotation {
+      Pitch: 87.3701935
+      Yaw: 38.6431198
+      Roll: -179.999741
+    }
+    Scale {
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8556281639390552608
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2483586278703300027
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: -4540
+      Y: -3014.14355
+      Z: 203.076187
+    }
+    Rotation {
+      Pitch: 85.3508759
+      Yaw: 52.3615112
+      Roll: -179.999802
+    }
+    Scale {
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8556281639390552608
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9082135529080297431
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: -4955
+      Y: -3014.14355
+      Z: 174.235733
+    }
+    Rotation {
+      Pitch: 87.7694397
+      Yaw: -63.3745728
+      Roll: 8.77547427e-05
+    }
+    Scale {
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8556281639390552608
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8495254400509178552
+  Name: "Fexel\'s Everyday Item Package"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2373542749812580153
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 10766975867019021707
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3355133554475549291
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 10766975867019021707
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10018420752342598451
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fexel\'s Everyday Item Package"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3535
+            Y: -5185
+            Z: 135
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10835971833046632327
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 10766975867019021707
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12373827025038931391
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.0106048584
+            Y: 0.0474243164
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 7.3788513e-05
+            Roll: 179.999954
+          }
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 10766975867019021707
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12533152053526380080
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.2525177
+            Y: -0.0306396484
+            Z: 0.229019165
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6409160219039205789
+    }
+  }
+}
+Objects {
+  Id: 17020843774475626988
+  Name: "[Alchemi] Bonsai Plants"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10657859027847533403
+      value {
+        Overrides {
+          Name: "Name"
+          String: "[Alchemi] Bonsai Plants"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3965
+            Y: -5590
+            Z: 135
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 3.19999981
+            Y: 3.19999981
+            Z: 3.19999981
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16126149823548409357
+    }
+  }
+}
+Objects {
+  Id: 6984661105064948319
+  Name: "Heart - Polished"
+  Transform {
+    Location {
+      X: -3305
+      Y: -5220
+      Z: 240
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.5
+      Y: 1.1
+      Z: 0.6
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3852031999575408820
+      }
     }
     Overrides {
-      Name: "bp:color"
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11079179292347378394
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5069783144843164314
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: -4549.14355
+      Y: -4245
+      Z: 195
+    }
+    Rotation {
+      Pitch: 83.8825531
+      Yaw: -60.1623535
+      Roll: -179.999939
+    }
+    Scale {
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8556281639390552608
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7499915708035609971
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: -4534.14355
+      Y: -3840
+      Z: 173.185349
+    }
+    Rotation {
+      Pitch: 87.3721313
+      Yaw: 128.644241
+      Roll: -179.999954
+    }
+    Scale {
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8556281639390552608
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13778673002263424296
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: -4945
+      Y: -3840
+      Z: 203.076187
+    }
+    Rotation {
+      Pitch: 85.3509598
+      Yaw: 142.361435
+      Roll: -179.999924
+    }
+    Scale {
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8556281639390552608
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8295399162280426823
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: -4945
+      Y: -4250
+      Z: 174.235733
+    }
+    Rotation {
+      Pitch: 87.7701492
+      Yaw: 26.6248569
+      Roll: -3.05175781e-05
+    }
+    Scale {
+      X: 0.7
+      Y: 0.4
+      Z: 0.4
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8556281639390552608
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5364099318304319810
+  Name: "Planter Box"
+  Transform {
+    Location {
+      X: -4344.12891
+      Y: -3635
+      Z: 135
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.49999988
+      Y: 1.49999988
+      Z: 1.49999988
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 537726732507163410
+  ChildIds: 8841751218918121233
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8841751218918121233
+  Name: "Dirt"
+  Transform {
+    Location {
+      X: 0.283528656
+      Z: -399.640564
+    }
+    Rotation {
+    }
+    Scale {
+      X: 11
+      Y: 11
+      Z: 4.8
+    }
+  }
+  ParentId: 5364099318304319810
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 20253322222348443
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
+        R: 0.60800004
+        G: 0.60800004
+        B: 0.60800004
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17485881147669499682
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 537726732507163410
+  Name: "Walls"
+  Transform {
+    Location {
+      Y: -70.342453
+      Z: -66.6666412
+    }
+    Rotation {
+      Yaw: -89.9999695
+    }
+    Scale {
+      X: 0.383907735
+      Y: 0.383907735
+      Z: 0.380018592
+    }
+  }
+  ParentId: 5364099318304319810
+  ChildIds: 16350651439764828511
+  ChildIds: 15649918175219552903
+  ChildIds: 1628300589279903505
+  ChildIds: 1511921493818588762
+  ChildIds: 12340407472390305481
+  ChildIds: 4678585922513416791
+  ChildIds: 3705950007910122374
+  ChildIds: 7192907306375444901
+  ChildIds: 5004582212771555466
+  ChildIds: 8811124381033394149
+  ChildIds: 13389406944386521906
+  ChildIds: 14772510357351936452
+  ChildIds: 10464417587029121640
+  ChildIds: 15931072217434422981
+  ChildIds: 14126789326748339533
+  ChildIds: 18202910550615187757
+  ChildIds: 15879341211492775954
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15879341211492775954
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: 1230.75
+      Y: 1451.41431
+      Z: 215.645203
+    }
+    Rotation {
+      Pitch: 75.7793732
+      Yaw: 89.9998322
+      Roll: -179.999954
+    }
+    Scale {
+      X: 0.0363339446
+      Y: 0.0363338478
+      Z: 0.13472116
+    }
+  }
+  ParentId: 537726732507163410
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 18440814011778038326
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 18202910550615187757
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: -1599.74951
+      Y: -1469.24939
+      Z: 213.75
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 14.0362635
+      Roll: -75.9637451
+    }
+    Scale {
+      X: 0.142885089
+      Y: 0.142885074
+      Z: 0.035721276
+    }
+  }
+  ParentId: 537726732507163410
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 18440814011778038326
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14126789326748339533
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: -1588.5
+      Y: -1469.24939
+      Z: 315.000061
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 14.0362635
+      Roll: -75.9637451
+    }
+    Scale {
+      X: 0.142885089
+      Y: 0.142885074
+      Z: 0.035721276
+    }
+  }
+  ParentId: 537726732507163410
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 18440814011778038326
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15931072217434422981
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: -1642.49902
+      Y: 1415.24951
+      Z: 213.75
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 43.3138542
+      Roll: 43.3137817
+    }
+    Scale {
+      X: 0.142885089
+      Y: 0.142885074
+      Z: 0.035721276
+    }
+  }
+  ParentId: 537726732507163410
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 18440814011778038326
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10464417587029121640
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: -1642.49902
+      Y: 1403.99951
+      Z: 315.000061
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 43.3138542
+      Roll: 43.3137817
+    }
+    Scale {
+      X: 0.142885089
+      Y: 0.142885074
+      Z: 0.035721276
+    }
+  }
+  ParentId: 537726732507163410
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 18440814011778038326
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14772510357351936452
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: 1269
+      Y: -1439.99963
+      Z: 213.75
+    }
+    Rotation {
+      Pitch: 90
+      Roll: 180
+    }
+    Scale {
+      X: 0.142885089
+      Y: 0.142885074
+      Z: 0.035721276
+    }
+  }
+  ParentId: 537726732507163410
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 18440814011778038326
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13389406944386521906
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: 1269
+      Y: -1428.74963
+      Z: 315.000061
+    }
+    Rotation {
+      Pitch: 90
+      Roll: 180
+    }
+    Scale {
+      X: 0.142885089
+      Y: 0.142885074
+      Z: 0.035721276
+    }
+  }
+  ParentId: 537726732507163410
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 18440814011778038326
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8811124381033394149
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: 1230.74951
+      Y: 1458
+      Z: 213.75
+    }
+    Rotation {
+      Pitch: 75.7808762
+      Yaw: 89.9999161
+      Roll: -179.999954
+    }
+    Scale {
+      X: 0.142885014
+      Y: 0.142885074
+      Z: 0.0220725201
+    }
+  }
+  ParentId: 537726732507163410
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 18440814011778038326
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5004582212771555466
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: 1219.49951
+      Y: 1446.74927
+      Z: 315.000061
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 26.565033
+      Roll: 116.565041
+    }
+    Scale {
+      X: 0.142885089
+      Y: 0.142885074
+      Z: 0.035721276
+    }
+  }
+  ParentId: 537726732507163410
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 18440814011778038326
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7192907306375444901
+  Name: "Large Wood Board 8m"
+  Transform {
+    Location {
+      X: -1514.24951
+      Y: -1345.49939
+      Z: 360.000031
+    }
+    Rotation {
+      Yaw: 3.41509394e-06
+    }
+    Scale {
+      X: 3.555
+      Y: 3.6
+      Z: 3.6
+    }
+  }
+  ParentId: 537726732507163410
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
         A: 1
       }
     }
@@ -381,1827 +2862,58 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
+  CoreMesh {
+    MeshAsset {
+      Id: 2193443187905391329
     }
-    TeamSettings {
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 9733582438998393377
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: 4562.25146
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9996948
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
       }
     }
   }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
 }
 Objects {
-  Id: 2485265660306359032
-  Name: "Decal Wood Ends Variations"
+  Id: 3705950007910122374
+  Name: "Large Wood Board 8m"
   Transform {
     Location {
-      X: 3746.32593
-      Y: 1662.98315
-      Z: 1030.58728
+      X: -1649.24951
+      Y: -1469.24939
+      Z: 180
     }
     Rotation {
-      Yaw: -179.999954
-      Roll: 89.9996109
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 18409684771106672759
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: 4011.35864
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0003357
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 6959710875226046260
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: 4290.35498
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9996643
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 7582861749376394305
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: 3469.72949
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0004272
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 3685120521923526408
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: 486.211426
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9997787
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 3848471703924938568
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -606.313232
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0003662
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 3730832339313238511
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -329.717407
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9996796
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 12519159425425193307
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -64.6833496
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0002747
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 8205661208397587278
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: 214.313354
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9997482
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 2967051800653659754
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: 1837.16089
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0002441
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 1727107559646319625
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: 1021.23364
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0003357
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 4363628015840866318
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: 1293.63501
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0003052
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 971391247150967867
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: 1572.63208
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9996948
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 4580485556919432450
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: 752.005859
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0004
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 848873117539177548
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -2232.19189
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0001221
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 7533023229695175719
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -3309.97852
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9996643
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 3739563088759645167
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -3048.11963
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0002441
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 14735478108467406917
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -2768.34863
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9997635
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 13535953403128920266
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -2504.08936
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0001831
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 8049238127587510558
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -873.874
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0001831
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 6443468759259959079
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -1682.43237
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9996796
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 1414388212197951190
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -1417.39966
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0002747
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 2497575249480727833
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -1138.40283
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9997482
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 7581641567335598588
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -1959.02881
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0003662
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 17560231393719095098
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -3584.51343
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
+      Yaw: -6.10351563e-05
       Roll: 89.9998169
     }
     Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
+      X: 3.6
+      Y: 3.6
+      Z: 3.6
     }
   }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 11783341859750839193
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -4407.80908
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0002747
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 11431670395093722531
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -4128.03906
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9997482
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 3715083012345653491
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -3863.77979
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0001831
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 15939788480076555690
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -4669.66797
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.999649
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 14745528649770278
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -6035.354
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0002747
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 10769306243090993049
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -5766.12744
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811219e-05
-      Roll: -90.0002136
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 4256053631093790918
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -5486.35645
-      Y: 1662.98315
-      Z: 1030.58728
-    }
-    Rotation {
-      Yaw: -179.999954
-      Roll: 89.9998
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 3333083875434401201
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -5222.09717
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0001221
-    }
-    Scale {
-      X: 3.25029755
-      Y: 1.94090319
-      Z: 0.120193303
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 8221720316784671561
-  Name: "Decal Wood Ends Variations"
-  Transform {
-    Location {
-      X: -4950.19971
-      Y: 1663.6925
-      Z: 1021.19293
-    }
-    Rotation {
-      Yaw: 4.09811182e-05
-      Roll: -90.0000916
-    }
-    Scale {
-      X: 3.25
-      Y: 1.941
-      Z: 0.12
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Shape Index"
-      Int: 3
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.603000045
-        G: 0.546314
-        B: 0.502299
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14463303659751748326
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-}
-Objects {
-  Id: 14922447270769850840
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: 4600
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
+  ParentId: 537726732507163410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
         A: 1
       }
     }
@@ -2214,12 +2926,13 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4291393536411848060
+      Id: 2193443187905391329
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -2228,31 +2941,40 @@ Objects {
   }
 }
 Objects {
-  Id: 3480761148442685531
-  Name: "Wood 2x4 4m"
+  Id: 4678585922513416791
+  Name: "Large Wood Board 8m"
   Transform {
     Location {
-      X: 2503.49683
-      Y: 1875
-      Z: 135
+      X: -1694.24902
+      Y: -1559.24939
+      Z: 360.000031
     }
     Rotation {
-      Pitch: 85.4798813
+      Yaw: 89.9999313
     }
     Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
+      X: 3.6
+      Y: 3.6
+      Z: 3.6
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 537726732507163410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
         A: 1
       }
     }
@@ -2265,12 +2987,13 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4291393536411848060
+      Id: 2193443187905391329
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -2279,32 +3002,41 @@ Objects {
   }
 }
 Objects {
-  Id: 13717806582470667097
-  Name: "Wood 2x4 4m"
+  Id: 12340407472390305481
+  Name: "Large Wood Board 8m"
   Transform {
     Location {
-      X: 2936.92822
-      Y: 1875
-      Z: 135
+      X: -1570.5
+      Y: -1412.99988
+      Z: 180
     }
     Rotation {
-      Pitch: 90.5366592
-      Yaw: -5.78068924
+      Yaw: 90.0000229
+      Roll: 89.9998627
     }
     Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
+      X: 3.6
+      Y: 3.6
+      Z: 3.6
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 537726732507163410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
         A: 1
       }
     }
@@ -2317,12 +3049,13 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4291393536411848060
+      Id: 2193443187905391329
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -2331,33 +3064,40 @@ Objects {
   }
 }
 Objects {
-  Id: 10642166602527810966
-  Name: "Wood 2x4 4m"
+  Id: 1511921493818588762
+  Name: "Large Wood Board 8m"
   Transform {
     Location {
-      X: 3300
-      Y: 1875
-      Z: 135
+      X: 1151.99976
+      Y: 1320.74963
+      Z: 360.000031
     }
     Rotation {
-      Pitch: 91.9004745
-      Yaw: -14.0362549
-      Roll: -104.03627
+      Yaw: 179.999985
     }
     Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
+      X: 3.555
+      Y: 3.6
+      Z: 3.6
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 537726732507163410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
         A: 1
       }
     }
@@ -2370,12 +3110,13 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4291393536411848060
+      Id: 2193443187905391329
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -2384,84 +3125,41 @@ Objects {
   }
 }
 Objects {
-  Id: 2186690686579465395
-  Name: "Wood 2x4 4m"
+  Id: 1628300589279903505
+  Name: "Large Wood Board 8m"
   Transform {
     Location {
-      X: 3761.68311
-      Y: 1875
-      Z: 135
+      X: -1592.99902
+      Y: 1374.74927
+      Z: 180
     }
     Rotation {
-      Pitch: 86.9328232
-      Yaw: -1.18525362
-      Roll: -5.70819092
+      Yaw: -6.10351563e-05
+      Roll: 89.9998703
     }
     Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
+      X: 3.6
+      Y: 3.6
+      Z: 3.6
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 537726732507163410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
         A: 1
       }
     }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4628891716727146820
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: 4225
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
     Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
+      Name: "ma:Shared_Detail1:color"
       Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
         A: 1
       }
     }
@@ -2474,12 +3172,13 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4291393536411848060
+      Id: 2193443187905391329
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -2488,1889 +3187,44 @@ Objects {
   }
 }
 Objects {
-  Id: 1556027217074678945
-  Name: "Wood 2x4 4m"
+  Id: 15649918175219552903
+  Name: "Large Wood Board 8m"
   Transform {
     Location {
-      X: 400
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: 7.00170898
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 8328095115553212801
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: 850
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 91.5822525
-      Yaw: 1.75090647
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 17438022385560772713
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: 1275
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 92.8999252
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 17217279271590523024
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: 1675
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 88.7236099
-      Yaw: -9.24252319
-      Roll: 0.351732016
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 844962609668214242
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: 2000
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: -14.0362549
-      Roll: -104.03627
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 1208528283338893649
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -1764.45325
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 87.3157
-      Yaw: 9.03166199
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 16150215518022110030
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -1400
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: -22.300396
-      Roll: -104.03627
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 1081019372054401694
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -820.80426
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 94.4241
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4069272749978231439
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -453.009277
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 87.6581955
-      Yaw: -6.12474346
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 5828017810669224863
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -150
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 88.9198227
-      Yaw: -14.0362549
-      Roll: -104.03627
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4761159128821449889
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -3925
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: -14.0362549
-      Roll: -104.03627
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 3909069119537892607
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -3400
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 92.9176712
-      Yaw: -4.10440493
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 18070465477884558743
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -2975
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: -6.78028297
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 9672258080698617775
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -2675
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: 7.12502289
-      Roll: -82.8749695
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 16542628571030100706
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -2150
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: 8.26702881
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 14921350539340416712
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -4700
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4954717706079664258
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -4411.31
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 84.735672
-      Yaw: -5.24445152
-      Roll: -105.61853
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 13847800290638712675
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -5124.30469
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 85.7352295
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 3624559170482094300
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -5625
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: -14.8224249
-      Roll: -104.03627
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 17868418881867658004
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -5950
-      Y: 1875
-      Z: 135
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: 9.26600266
-    }
-    Scale {
-      X: 2.87017751
-      Y: 2.69999981
-      Z: 4.5
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.483
-        G: 0.341976792
-        B: 0.241016984
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4291393536411848060
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 686857017175347151
-  Name: "Small Stair Railing"
-  Transform {
-    Location {
-      X: 4957.20703
-      Y: 5247.25586
-      Z: 525
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11072521076370304172
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Small Stair Railing"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 4957.20703
-            Y: 1835
-            Z: 525
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18015247390409656899
-    }
-  }
-}
-Objects {
-  Id: 13816742157730657961
-  Name: "Terrain"
-  Transform {
-    Location {
-      X: 11797.0898
-      Y: 3571.60156
-      Z: -7782.73438
-    }
-    Rotation {
-      Yaw: -47.6282959
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Terrain {
-    Material {
-      Id: 3822609607801291069
-    }
-    VoxelSize: 700
-    OctreeDepth: 5
-    GeneratorID: "DEPRECATED"
-  }
-}
-Objects {
-  Id: 4220429782994684239
-  Name: "Tree Redwood Big"
-  Transform {
-    Location {
-      X: 6798.49
-      Y: -37647.4375
-      Z: 135
-    }
-    Rotation {
-    }
-    Scale {
-      X: 6
-      Y: 6
-      Z: 6
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8699268061173968020
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4644302338258136415
-  Name: "Tree Redwood Big"
-  Transform {
-    Location {
-      X: 14548.5029
-      Y: -30239.6973
-      Z: 135
-    }
-    Rotation {
-      Yaw: 69.7778854
-    }
-    Scale {
-      X: 6.94529343
-      Y: 6.94529343
-      Z: 6.94529343
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8699268061173968020
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4362332727345360808
-  Name: "Tree Redwood Medium"
-  Transform {
-    Location {
-      X: -3255
-      Y: -14090
-      Z: 135
-    }
-    Rotation {
-      Yaw: -172.486069
-    }
-    Scale {
-      X: 6
-      Y: 6
-      Z: 6
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 16503278745794574747
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 1032758771315186614
-  Name: "Tree Redwood Big"
-  Transform {
-    Location {
-      X: -10485.9326
-      Y: -15018.8965
-      Z: 135
-    }
-    Rotation {
-      Yaw: 14.9848967
-    }
-    Scale {
-      X: 6
-      Y: 6
-      Z: 6
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8699268061173968020
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 15580100814717010500
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -600
-      Y: 7025
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 6593317338497728519
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -2353.62
-      Y: 7025
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 3381154727261795796
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -4139.39063
-      Y: 7025
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 14916321720233096072
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -5925.29443
-      Y: 6872.63867
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 2989267843571794132
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -600
-      Y: 8795
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 6025000169250785826
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -5925.29443
-      Y: 8642.63867
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 3170532125922352612
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -600
-      Y: 10600
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 3067959510028165042
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -5925.29443
-      Y: 10447.6387
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 5203561586968981479
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -5905
-      Y: 12150
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: -7.12503052
-      Roll: 82.8749847
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 3532072791347603017
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -4119.09619
-      Y: 12302.3613
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 5326175622032131070
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -2333.32544
-      Y: 12302.3613
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 3395739470402970192
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -579.705444
-      Y: 12302.3613
-      Z: 1065.00098
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 13969888018999768418
-  Name: "Small Stair Railing"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11072521076370304172
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Small Stair Railing"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 4957.20703
-            Y: 5230
-            Z: 525
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18015247390409656899
-    }
-  }
-}
-Objects {
-  Id: 3388147792591694722
-  Name: "Deck Railing"
-  Transform {
-    Location {
-      X: 4525
-      Y: 7375
-      Z: 1050
-    }
-    Rotation {
-      Yaw: -90.0000305
-    }
-    Scale {
-      X: 0.99
-      Y: 0.99
-      Z: 0.99
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 5529345537740042370
-  ChildIds: 6780630936403635054
-  ChildIds: 10014142028411476969
-  ChildIds: 7575088847593748666
-  ChildIds: 7757799182648333130
-  ChildIds: 179188982163678927
-  ChildIds: 6106318393412367784
-  ChildIds: 6916314099192380960
-  ChildIds: 12296980022158828397
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 12296980022158828397
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 2171.71655
-      Y: 1035.35449
-      Z: -833.332397
+      X: 1320.74951
+      Y: 1523.24939
+      Z: 360.000031
     }
     Rotation {
       Yaw: -90
+      Roll: -6.10351563e-05
     }
     Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
+      X: 3.6
+      Y: 3.6
+      Z: 3.6
     }
   }
-  ParentId: 3388147792591694722
+  ParentId: 537726732507163410
   UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
+        A: 1
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -4380,2396 +3234,56 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 461796175785413307
+      Id: 2193443187905391329
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
       }
     }
   }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
-  Id: 6916314099192380960
-  Name: "Craftsman Porch Fence Post 01"
+  Id: 16350651439764828511
+  Name: "Large Wood Board 8m"
   Transform {
     Location {
-      X: -3150
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 3388147792591694722
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 6106318393412367784
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -4900
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 3388147792591694722
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 179188982163678927
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: -1350
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 3388147792591694722
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 7757799182648333130
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -3100
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 3388147792591694722
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 7575088847593748666
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 425
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 3388147792591694722
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 10014142028411476969
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -1325
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 3388147792591694722
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 6780630936403635054
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 2175
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 3388147792591694722
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 5529345537740042370
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: 475
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 3388147792591694722
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 3144577528816856399
-  Name: "Deck Railing"
-  Transform {
-    Location {
-      X: -6000
-      Y: 7375
-      Z: 1050
-    }
-    Rotation {
-      Yaw: -90.0000305
-    }
-    Scale {
-      X: 0.99
-      Y: 0.99
-      Z: 0.99
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 11192046499475590729
-  ChildIds: 3944061665744214134
-  ChildIds: 12575242280481705037
-  ChildIds: 13421070989694159665
-  ChildIds: 10340121272845785353
-  ChildIds: 15803383983078368700
-  ChildIds: 5787898866787967938
-  ChildIds: 4558629273824374876
-  ChildIds: 184310922576354796
-  ChildIds: 10294053955499668864
-  ChildIds: 6050386225096230716
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 6050386225096230716
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: -3150
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 3144577528816856399
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 10294053955499668864
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -4900
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 3144577528816856399
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 184310922576354796
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: -1350
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 3144577528816856399
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 4558629273824374876
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -3100
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 3144577528816856399
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 5787898866787967938
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 425
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 3144577528816856399
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 15803383983078368700
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -1325
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 3144577528816856399
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 10340121272845785353
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 2175
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 3144577528816856399
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 13421070989694159665
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: 475
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 3144577528816856399
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 12575242280481705037
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 3875
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 3144577528816856399
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 3944061665744214134
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: 2150
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 3144577528816856399
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 11192046499475590729
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: 3900
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 3144577528816856399
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 9858589202030577287
-  Name: "Deck Railing"
-  Transform {
-    Location {
-      X: -1075
-      Y: 12225
-      Z: 1050
-    }
-    Rotation {
-      Yaw: -3.05175781e-05
-    }
-    Scale {
-      X: 0.99
-      Y: 0.99
-      Z: 0.99
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 12896930647471151244
-  ChildIds: 17460368941580348662
-  ChildIds: 8949763690432938103
-  ChildIds: 7699518467477310886
-  ChildIds: 12207660265197217399
-  ChildIds: 13253407421026819127
-  ChildIds: 6317370031042829922
-  ChildIds: 14815180735095760213
-  ChildIds: 3561590276774393397
-  ChildIds: 11180685389760360381
-  ChildIds: 9435629852606698667
-  ChildIds: 302401653569303136
-  ChildIds: 17435355535514734091
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 17435355535514734091
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: -4950
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 302401653569303136
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: -3150
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 9435629852606698667
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -4900
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 11180685389760360381
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: -1350
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 3561590276774393397
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -3100
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 14815180735095760213
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 425
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 6317370031042829922
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -1325
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 13253407421026819127
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 2175
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 12207660265197217399
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: 475
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 7699518467477310886
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 3875
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 8949763690432938103
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: 2150
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 17460368941580348662
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 5650
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 12896930647471151244
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: 3900
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 9858589202030577287
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 11211848381982400391
-  Name: "Deck Railing"
-  Transform {
-    Location {
-      X: -1075
-      Y: 1825
-      Z: 1050
-    }
-    Rotation {
-      Yaw: -3.05175781e-05
-    }
-    Scale {
-      X: 0.99
-      Y: 0.99
-      Z: 0.99
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 5091081991895027246
-  ChildIds: 14159576712012065299
-  ChildIds: 10930616579565424772
-  ChildIds: 1378352010267614399
-  ChildIds: 18110799767273616697
-  ChildIds: 11468022115308264226
-  ChildIds: 623519702673352843
-  ChildIds: 11396491483428525660
-  ChildIds: 2168393493936429759
-  ChildIds: 2639295554393138099
-  ChildIds: 16623921665963491804
-  ChildIds: 6793730520522229795
-  ChildIds: 6125581042988721309
-  ChildIds: 7490349167140449683
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 7490349167140449683
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 6685.33789
-      Y: 3.27356553
-      Z: -833.332397
+      X: 1196.99902
+      Y: 1388.24927
+      Z: 180
     }
     Rotation {
       Yaw: -90
+      Roll: 89.999939
     }
     Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
+      X: 3.6
+      Y: 3.6
+      Z: 3.6
     }
   }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 6125581042988721309
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: -4950
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 6793730520522229795
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: -3150
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 16623921665963491804
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -4900
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 2639295554393138099
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: -1350
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 2168393493936429759
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -3100
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 11396491483428525660
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 425
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 623519702673352843
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: -1325
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 11468022115308264226
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 2175
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 18110799767273616697
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: 475
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 1378352010267614399
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 3875
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 10930616579565424772
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: 2150
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 14159576712012065299
-  Name: "Craftsman Porch Fence Post 01"
-  Transform {
-    Location {
-      X: 5650
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 5.3
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 461796175785413307
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4104324993237339157
-    SubobjectId: 14371695380909714499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 5091081991895027246
-  Name: "Craftsman Porch Fence Railing 01"
-  Transform {
-    Location {
-      X: 3900
-      Y: 0.0139160156
-      Z: 94.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.3
-      Y: 4.3
-      Z: 4.24000216
-    }
-  }
-  ParentId: 11211848381982400391
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11390981272720591546
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11147302489688727635
-    SubobjectId: 7292688535535796229
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 12515317524367573095
-  Name: "Flashlight"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 651445498870873157
-      value {
-        Overrides {
-          Name: "Intensity"
-          Float: 75.4742126
-        }
-        Overrides {
-          Name: "AttenuationRadius"
-          Float: 4481.854
-        }
-        Overrides {
-          Name: "OuterConeAngle"
-          Float: 33.3263702
-        }
-        Overrides {
-          Name: "IESProfile"
-          Enum {
-            Value: "mc:espotlightprofile:flashlight"
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 8522005989211901481
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Flashlight"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -6492.15332
-            Y: -1951.05212
-            Z: 178.545532
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: 41.0890198
-            Yaw: -21.2644653
-            Roll: 82.8164597
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11834231573820483336
-    }
-  }
-}
-Objects {
-  Id: 11559800719957398787
-  Name: "Wispy Fog Volume VFX"
-  Transform {
-    Location {
-      X: -6140
-      Y: -1310
-      Z: 230
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
+  ParentId: 537726732507163410
   UnregisteredParameters {
     Overrides {
-      Name: "bp:Density"
-      Float: 0.153801292
-    }
-    Overrides {
-      Name: "bp:Wind Speed"
-      Vector {
-        X: -5
-      }
-    }
-    Overrides {
-      Name: "bp:color"
+      Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.0493894108
-        G: 0.037817996
-        B: 0.066
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.371000022
+        G: 0.248363659
+        B: 0.173999
         A: 1
       }
     }
@@ -6780,25 +3294,30 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Blueprint {
-    BlueprintAsset {
-      Id: 1538208180143166038
+  CoreMesh {
+    MeshAsset {
+      Id: 2193443187905391329
     }
-    TeamSettings {
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    Vfx {
-      AutoPlay: true
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
     }
   }
 }
 Objects {
-  Id: 91662093376024120
-  Name: "Wispy Fog Volume VFX"
+  Id: 10073365075888973752
+  Name: "Wooden Barrel"
   Transform {
     Location {
-      X: -6315
-      Y: -1565
-      Z: 230
+      X: -4702.18506
+      Y: -7501.91895
+      Z: 135.4487
     }
     Rotation {
     }
@@ -6809,52 +3328,35 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Density"
-      Float: 0.153801292
-    }
-    Overrides {
-      Name: "bp:Wind Speed"
-      Vector {
-        X: 5
-      }
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.0493894108
-        G: 0.037817996
-        B: 0.066
-        A: 1
-      }
-    }
-  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Blueprint {
-    BlueprintAsset {
-      Id: 1538208180143166038
+  CoreMesh {
+    MeshAsset {
+      Id: 312563361801854362
     }
-    TeamSettings {
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    Vfx {
-      AutoPlay: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
     }
   }
 }
 Objects {
-  Id: 15893183390493066747
-  Name: "Wispy Fog Volume VFX"
+  Id: 1626910852416393824
+  Name: "Simple Crate 150cm"
   Transform {
     Location {
-      X: -6315
-      Y: -840
-      Z: 230
+      X: -4589.61426
+      Y: -7217.85059
+      Z: 135.4487
     }
     Rotation {
     }
@@ -6865,52 +3367,35 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Density"
-      Float: 0.153801292
-    }
-    Overrides {
-      Name: "bp:Wind Speed"
-      Vector {
-        X: 5
-      }
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.0493894108
-        G: 0.037817996
-        B: 0.066
-        A: 1
-      }
-    }
-  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Blueprint {
-    BlueprintAsset {
-      Id: 1538208180143166038
+  CoreMesh {
+    MeshAsset {
+      Id: 5591098412847697081
     }
-    TeamSettings {
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    Vfx {
-      AutoPlay: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
     }
   }
 }
 Objects {
-  Id: 12339013285606248165
-  Name: "Wispy Fog Volume VFX"
+  Id: 6512410541765101890
+  Name: "Wooden Bucket"
   Transform {
     Location {
-      X: -6115
-      Y: -160
-      Z: 285
+      X: -4762.99902
+      Y: -7353.19922
+      Z: 135.448914
     }
     Rotation {
     }
@@ -6921,97 +3406,24 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Density"
-      Float: 0.153801292
-    }
-    Overrides {
-      Name: "bp:Wind Speed"
-      Vector {
-        X: -5
-      }
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.0493894108
-        G: 0.037817996
-        B: 0.066
-        A: 1
-      }
-    }
-  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Blueprint {
-    BlueprintAsset {
-      Id: 1538208180143166038
+  CoreMesh {
+    MeshAsset {
+      Id: 2804000093999310212
     }
-    TeamSettings {
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    Vfx {
-      AutoPlay: true
-    }
-  }
-}
-Objects {
-  Id: 4541633906170376806
-  Name: "Wispy Fog Volume VFX"
-  Transform {
-    Location {
-      X: -6315
-      Y: 540
-      Z: 230
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Density"
-      Float: 0.153801292
-    }
-    Overrides {
-      Name: "bp:Wind Speed"
-      Vector {
-        X: 5
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
       }
-    }
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.0493894108
-        G: 0.037817996
-        B: 0.066
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 1538208180143166038
-    }
-    TeamSettings {
-    }
-    Vfx {
-      AutoPlay: true
     }
   }
 }
@@ -7047,7 +3459,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -6040
-            Y: -1345
+            Y: -1255.69568
             Z: 155
           }
         }
@@ -7062,58 +3474,13 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999985
+            Yaw: -179.999969
           }
         }
       }
     }
     TemplateAsset {
       Id: 4659540241900482464
-    }
-  }
-}
-Objects {
-  Id: 4428897914313048815
-  Name: "Decal Dirt Patch"
-  Transform {
-    Location {
-      X: -6225.00391
-      Y: -716.541626
-      Z: 135.44873
-    }
-    Rotation {
-    }
-    Scale {
-      X: 6.09356356
-      Y: 5.78304
-      Z: 0.016251862
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 0.45615381
-        G: 0.36855
-        B: 0.650000036
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 14964967653464214432
-    }
-    TeamSettings {
-    }
-    DecalBP {
     }
   }
 }
@@ -7167,12 +3534,13 @@ Objects {
   }
 }
 Objects {
-  Id: 7233777674088408447
-  Name: "Webs"
+  Id: 2782793507244063116
+  Name: "Grey Box"
   Transform {
     Location {
-      X: -5510
-      Y: -710
+      X: 3555
+      Y: 3475
+      Z: 10
     }
     Rotation {
     }
@@ -7183,6 +3551,5215 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
+  ChildIds: 3057566393385200006
+  ChildIds: 16639663032975329925
+  ChildIds: 4372816016116132201
+  ChildIds: 1875885670085332136
+  ChildIds: 1818546491510256974
+  ChildIds: 8104077925086283623
+  ChildIds: 4392961622090924734
+  ChildIds: 17985485958507276230
+  ChildIds: 16895327763912593511
+  ChildIds: 4150113891313045797
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 4150113891313045797
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: 7098.97949
+      Y: 6590
+      Z: 740
+    }
+    Rotation {
+      Pitch: 79.9999
+    }
+    Scale {
+      X: 9.83338356
+      Y: 9.83338356
+      Z: 13.8395796
+    }
+  }
+  ParentId: 2782793507244063116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16895327763912593511
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: 7683.97949
+      Y: 8255
+      Z: 750
+    }
+    Rotation {
+    }
+    Scale {
+      X: 9.83338356
+      Y: 9.83338356
+      Z: 13.8395796
+    }
+  }
+  ParentId: 2782793507244063116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17985485958507276230
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 2430
+      Y: -3220
+    }
+    Rotation {
+    }
+    Scale {
+      X: 72.2000046
+      Y: 27.3000011
+      Z: 4.1
+    }
+  }
+  ParentId: 2782793507244063116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.99
+        G: 0.747417331
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4392961622090924734
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 1155
+      Y: -10015
+      Z: 45
+    }
+    Rotation {
+    }
+    Scale {
+      X: 97.9000092
+      Y: 108.6
+      Z: 3.2
+    }
+  }
+  ParentId: 2782793507244063116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.99
+        G: 0.747417331
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8104077925086283623
+  Name: "Wedge - Convex"
+  Transform {
+    Location {
+      X: -2370
+      Y: -4585
+      Z: 0.447265625
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 90
+      Roll: 179.999878
+    }
+    Scale {
+      X: 4
+      Y: 27.5
+      Z: 27.5
+    }
+  }
+  ParentId: 2782793507244063116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.99
+        G: 0.747417331
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1794493300960258535
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1818546491510256974
+  Name: "Cube"
+  Transform {
+    Location {
+      X: -4340
+      Y: -4090
+    }
+    Rotation {
+      Yaw: 16.9864902
+    }
+    Scale {
+      X: 6.49999762
+      Y: 6.49999762
+      Z: 3.30000019
+    }
+  }
+  ParentId: 2782793507244063116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.99
+        G: 0.747417331
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1875885670085332136
+  Name: "Cube"
+  Transform {
+    Location {
+      X: -5285
+      Y: -4625
+    }
+    Rotation {
+      Yaw: -28.4365463
+    }
+    Scale {
+      X: 6.49999762
+      Y: 6.49999762
+      Z: 3.30000019
+    }
+  }
+  ParentId: 2782793507244063116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.99
+        G: 0.747417331
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4372816016116132201
+  Name: "Cube"
+  Transform {
+    Location {
+      X: -5590
+      Y: -5685
+    }
+    Rotation {
+    }
+    Scale {
+      X: 6.49999762
+      Y: 6.49999762
+      Z: 3.30000019
+    }
+  }
+  ParentId: 2782793507244063116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.99
+        G: 0.747417331
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16639663032975329925
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 3415
+      Y: 3570
+      Z: 125
+    }
+    Rotation {
+    }
+    Scale {
+      X: 51.3
+      Y: 110.000008
+      Z: 1.9
+    }
+  }
+  ParentId: 2782793507244063116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.99
+        G: 0.747417331
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3057566393385200006
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 665
+      Y: -9695
+      Z: 125
+    }
+    Rotation {
+    }
+    Scale {
+      X: 71.5999908
+      Y: 92.1
+      Z: 4.4
+    }
+  }
+  ParentId: 2782793507244063116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.00999999
+        G: 0.940993309
+        B: 1
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13253915032246250060
+  Name: "Level"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 10176613551094026796
+  ChildIds: 1894176368964430996
+  ChildIds: 13281013145643894029
+  ChildIds: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3186717923018208901
+  Name: "Outside"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13253915032246250060
+  ChildIds: 1032758771315186614
+  ChildIds: 4362332727345360808
+  ChildIds: 4644302338258136415
+  ChildIds: 4220429782994684239
+  ChildIds: 14889297229214700008
+  ChildIds: 1458432474871198141
+  ChildIds: 3497235975622220110
+  ChildIds: 6631470534229430143
+  ChildIds: 7264493579078499713
+  ChildIds: 7325835072791033414
+  ChildIds: 7789680554682446396
+  ChildIds: 8743805055054327090
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8743805055054327090
+  Name: "Tree Redwood Bare Big"
+  Transform {
+    Location {
+      X: -8009.6626
+      Y: -10716.252
+      Z: 424.324097
+    }
+    Rotation {
+      Pitch: 0.001591434
+      Yaw: -90.0111771
+      Roll: 8.02917767
+    }
+    Scale {
+      X: 5.07254791
+      Y: 5.07254791
+      Z: 5.07254791
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16393128389192616686
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7789680554682446396
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: -7466.24219
+      Y: -272.679688
+      Z: 135.448486
+    }
+    Rotation {
+      Yaw: 92.222641
+    }
+    Scale {
+      X: 6.16349173
+      Y: 6.16349173
+      Z: 6.16349173
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12069358021327041572
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7325835072791033414
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: -8748.92676
+      Y: -7015.12598
+      Z: 135.448486
+    }
+    Rotation {
+    }
+    Scale {
+      X: 6.16349173
+      Y: 6.16349173
+      Z: 6.16349173
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12069358021327041572
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7264493579078499713
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: -8748.92676
+      Y: -4360.65576
+      Z: 135.448486
+    }
+    Rotation {
+      Yaw: 92.222641
+    }
+    Scale {
+      X: 6.16349173
+      Y: 6.16349173
+      Z: 6.16349173
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12069358021327041572
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6631470534229430143
+  Name: "Hedge Barrier"
+  Transform {
+    Location {
+      X: -7747.14795
+      Y: -4934.19482
+      Z: 135
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2650950532841122304
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hedge Barrier"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -7747.14795
+            Y: -8256.20117
+            Z: 135
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7654355493694236527
+    }
+  }
+}
+Objects {
+  Id: 3497235975622220110
+  Name: "Hedge Barrier"
+  Transform {
+    Location {
+      X: -7747.14795
+      Y: -2674.88037
+      Z: 135
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2650950532841122304
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hedge Barrier"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -7747.14795
+            Y: -5521.56396
+            Z: 135
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16648550107552561950
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -43.6245117
+            Y: -90.6865234
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7654355493694236527
+    }
+  }
+}
+Objects {
+  Id: 1458432474871198141
+  Name: "Hedge Barrier"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2650950532841122304
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hedge Barrier"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -7747.14795
+            Y: -2674.88037
+            Z: 135
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7654355493694236527
+    }
+  }
+}
+Objects {
+  Id: 14889297229214700008
+  Name: "Tree Redwood Big"
+  Transform {
+    Location {
+      X: 705
+      Y: -20985.002
+      Z: 135
+    }
+    Rotation {
+      Yaw: 69.7778854
+    }
+    Scale {
+      X: 4.10000086
+      Y: 4.10000086
+      Z: 4.10000086
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8699268061173968020
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4220429782994684239
+  Name: "Tree Redwood Big"
+  Transform {
+    Location {
+      X: 6798.49
+      Y: -37647.4375
+      Z: 135
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.7
+      Y: 1.7
+      Z: 1.7
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8699268061173968020
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4644302338258136415
+  Name: "Tree Redwood Big"
+  Transform {
+    Location {
+      X: 14548.5029
+      Y: -30239.6973
+      Z: 135
+    }
+    Rotation {
+      Yaw: 69.7778854
+    }
+    Scale {
+      X: 3
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8699268061173968020
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4362332727345360808
+  Name: "Tree Redwood Medium"
+  Transform {
+    Location {
+      X: -3255
+      Y: -14090
+      Z: 135
+    }
+    Rotation {
+      Yaw: -172.486084
+    }
+    Scale {
+      X: 6
+      Y: 6
+      Z: 6
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16503278745794574747
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1032758771315186614
+  Name: "Tree Redwood Big"
+  Transform {
+    Location {
+      X: -10485.9326
+      Y: -15018.8965
+      Z: 135
+    }
+    Rotation {
+      Yaw: 14.9849167
+    }
+    Scale {
+      X: 6
+      Y: 6
+      Z: 6
+    }
+  }
+  ParentId: 3186717923018208901
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8699268061173968020
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13281013145643894029
+  Name: "House"
+  Transform {
+    Location {
+      X: 402.000061
+      Y: -553.5
+      Z: 132
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 13253915032246250060
+  ChildIds: 11644041400775637754
+  ChildIds: 15165194778326750562
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15165194778326750562
+  Name: "Alchemiter"
+  Transform {
+    Location {
+      X: 47693.332
+      Y: 24995
+      Z: 13793.333
+    }
+    Rotation {
+      Yaw: 89.9999466
+    }
+    Scale {
+      X: 3
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 13281013145643894029
+  ChildIds: 395185349995436965
+  ChildIds: 3493771215452758952
+  ChildIds: 5780404622732649705
+  ChildIds: 5430333269727265386
+  ChildIds: 4880049629968313533
+  ChildIds: 18286555897388744369
+  ChildIds: 17164060556361014133
+  ChildIds: 13829089422479732378
+  ChildIds: 306297865295623957
+  ChildIds: 17293658255798717718
+  ChildIds: 4908563689558512271
+  ChildIds: 15393283961068825242
+  ChildIds: 11642790807191040437
+  ChildIds: 12438236419007023116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 12438236419007023116
+  Name: "Parallelepiped - Horizontal "
+  Transform {
+    Location {
+      X: 485
+      Y: -385
+      Z: 345
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: 90.0000153
+      Roll: -179.999939
+    }
+    Scale {
+      X: 1.49999988
+      Y: 5.20000029
+      Z: 2.4
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9175409350255614155
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11642790807191040437
+  Name: "Parallelepiped - Horizontal "
+  Transform {
+    Location {
+      X: -80
+      Y: 170
+      Z: 345
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -179.999969
+      Roll: -179.999939
+    }
+    Scale {
+      X: 1.49999988
+      Y: 5.20000029
+      Z: 2.4
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9175409350255614155
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15393283961068825242
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: 820.001465
+      Y: -810.001953
+      Z: 383.330078
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.20000076
+      Y: 4.20000076
+      Z: -4.9
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18031180683407583988
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4908563689558512271
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: 820.000488
+      Y: -5.00195313
+      Z: 383.330078
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.20000076
+      Y: 4.20000076
+      Z: -4.9
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18031180683407583988
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17293658255798717718
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: 360
+      Y: 509.977539
+      Z: 383.330078
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.20000076
+      Y: 4.20000076
+      Z: -4.9
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18031180683407583988
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 306297865295623957
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: -435
+      Y: 509.998047
+      Z: 383.330078
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.20000076
+      Y: 4.20000076
+      Z: -4.9
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18031180683407583988
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13829089422479732378
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: -805
+      Y: 385
+      Z: 520
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.3
+      Y: 2.3
+      Z: 0.787499905
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17164060556361014133
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: -805
+      Y: 385
+      Z: 585
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.7
+      Y: 2.7
+      Z: 0.900000036
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 18286555897388744369
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: -805
+      Y: 385
+      Z: 400
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.7
+      Y: 2.7
+      Z: 2.4
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4880049629968313533
+  Name: "Arm"
+  Transform {
+    Location {
+      X: -822.222473
+      Y: 299.999237
+      Z: 388.888855
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.8
+      Y: 2.8
+      Z: 2.8
+    }
+  }
+  ParentId: 15165194778326750562
+  ChildIds: 15943708270412833108
+  ChildIds: 18070366451363192810
+  ChildIds: 14113512123660626382
+  ChildIds: 2463396233436122737
+  ChildIds: 6161717918940453600
+  ChildIds: 17485843368754577263
+  ChildIds: 10127287307546972328
+  ChildIds: 4464908417896364364
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 4464908417896364364
+  Name: "Head"
+  Transform {
+    Location {
+      Y: 68.3443527
+      Z: 577.728271
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.69999993
+      Y: 1.69999993
+      Z: 1.69999993
+    }
+  }
+  ParentId: 4880049629968313533
+  ChildIds: 13597694585251932686
+  ChildIds: 13511727446045609050
+  ChildIds: 3959819251622595083
+  ChildIds: 18329006638663708035
+  ChildIds: 465995051776716380
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 465995051776716380
+  Name: "Urban Pipe Valve 01"
+  Transform {
+    Location {
+      Y: 4.52100801
+      Z: 9.21911621
+    }
+    Rotation {
+      Roll: 90.0000076
+    }
+    Scale {
+      X: 0.179138944
+      Y: 0.179138944
+      Z: 0.537417
+    }
+  }
+  ParentId: 4464908417896364364
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16163665952175281032
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 18329006638663708035
+  Name: "Urban Pipe Valve 01"
+  Transform {
+    Location {
+      Y: -1.5070976
+      Z: 18.4843769
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.289561063
+      Y: 0.572359622
+      Z: 0.572359622
+    }
+  }
+  ParentId: 4464908417896364364
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13913062282643868615
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3959819251622595083
+  Name: "Urban Pipe Clamp 02"
+  Transform {
+    Location {
+      Y: -0.082269
+      Z: 27.1471367
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 0.266318083
+      Y: 0.188962117
+      Z: 0.328901023
+    }
+  }
+  ParentId: 4464908417896364364
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14805929512282111496
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13511727446045609050
+  Name: "Urban Pipe Clamp 02"
+  Transform {
+    Location {
+      Y: -1.46551061
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 0.461239636
+      Y: 0.461239636
+      Z: 0.461239636
+    }
+  }
+  ParentId: 4464908417896364364
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16157117460985672172
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13597694585251932686
+  Name: "Urban Pipe Clamp 02"
+  Transform {
+    Location {
+      Y: -1.46551061
+      Z: 18.3591175
+    }
+    Rotation {
+      Roll: -179.999969
+    }
+    Scale {
+      X: 0.461239636
+      Y: 0.461239636
+      Z: 0.461239636
+    }
+  }
+  ParentId: 4464908417896364364
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14541379120575232735
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10127287307546972328
+  Name: "Joint 2"
+  Transform {
+    Location {
+      Y: 2.15722656
+      Z: 315
+    }
+    Rotation {
+      Roll: 179.999969
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4880049629968313533
+  ChildIds: 14021954925487770820
+  ChildIds: 13346285044349530597
+  ChildIds: 16796713200614794491
+  ChildIds: 762211758526520615
+  ChildIds: 12351062349383558886
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 12351062349383558886
+  Name: "Urban Pipe Clamp 02"
+  Transform {
+    Location {
+      Y: 15.0000038
+      Z: 9.99999428
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 0.437477738
+      Y: 0.437477678
+      Z: 0.37832734
+    }
+  }
+  ParentId: 10127287307546972328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14805929512282111496
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 762211758526520615
+  Name: "Urban Pipe Clamp 01"
+  Transform {
+    Location {
+      Y: -20.5668907
+      Z: 9.50721
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 0.58963865
+      Y: 0.589638829
+      Z: 0.589638829
+    }
+  }
+  ParentId: 10127287307546972328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15732777065278343437
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16796713200614794491
+  Name: "Urban Pipe Valve 01"
+  Transform {
+    Location {
+      Y: -20.5668945
+      Z: -0.948509514
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.294819325
+      Y: 0.687911689
+      Z: 0.687911689
+    }
+  }
+  ParentId: 10127287307546972328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13913062282643868615
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13346285044349530597
+  Name: "Urban Pipe Clamp 01"
+  Transform {
+    Location {
+      Y: 15
+      Z: 10
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 0.72
+      Y: 0.72
+      Z: 0.72
+    }
+  }
+  ParentId: 10127287307546972328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15732777065278343437
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14021954925487770820
+  Name: "Urban Pipe Valve 01"
+  Transform {
+    Location {
+      Y: 15
+      Z: -2
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.36
+      Y: 0.840000033
+      Z: 0.840000033
+    }
+  }
+  ParentId: 10127287307546972328
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13913062282643868615
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17485843368754577263
+  Name: "Urban Pipe Clamp 02"
+  Transform {
+    Location {
+      Y: -12.8427734
+      Z: 625
+    }
+    Rotation {
+      Roll: -89.9999924
+    }
+    Scale {
+      X: 0.41
+      Y: 0.41
+      Z: 0.41
+    }
+  }
+  ParentId: 4880049629968313533
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14805929512282111496
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6161717918940453600
+  Name: "Arm Segment"
+  Transform {
+    Location {
+      Y: 27.1572266
+      Z: 325
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.2
+      Y: 1.2
+      Z: 1.2
+    }
+  }
+  ParentId: 4880049629968313533
+  ChildIds: 6150337440529685622
+  ChildIds: 419286563647184747
+  ChildIds: 10014647482927268982
+  ChildIds: 2757816716176897690
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2757816716176897690
+  Name: "Urban Pipe Valve 01"
+  Transform {
+    Location {
+      Y: -3.6942544
+      Z: 243.943481
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.200000018
+      Y: 0.4
+      Z: 0.4
+    }
+  }
+  ParentId: 6161717918940453600
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13913062282643868615
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10014647482927268982
+  Name: "Urban Pipe Clamp 01"
+  Transform {
+    Location {
+      Y: -3.6942544
+      Z: 250
+    }
+    Rotation {
+      Roll: -179.999954
+    }
+    Scale {
+      X: 0.369230777
+      Y: 0.369230777
+      Z: 0.354545474
+    }
+  }
+  ParentId: 6161717918940453600
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15732777065278343437
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 419286563647184747
+  Name: "Urban Pipe Cap 02"
+  Transform {
+    Location {
+      Y: -3.6942544
+      Z: 244.275208
+    }
+    Rotation {
+      Roll: 179.999924
+    }
+    Scale {
+      X: 0.615384579
+      Y: 0.615384579
+      Z: 0.590909
+    }
+  }
+  ParentId: 6161717918940453600
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18031180683407583988
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6150337440529685622
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+      Y: -3.6942544
+      Z: -2.25362134
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.765164793
+      Y: 0.765164793
+      Z: 4.69590044
+    }
+  }
+  ParentId: 6161717918940453600
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2463396233436122737
+  Name: "Arm Segment"
+  Transform {
+    Location {
+      Y: -12.8427734
+      Z: 325
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.2
+      Y: 1.2
+      Z: 1.2
+    }
+  }
+  ParentId: 4880049629968313533
+  ChildIds: 5108567504881463191
+  ChildIds: 9108563339827068353
+  ChildIds: 13418759262184329729
+  ChildIds: 9494510874653874963
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 9494510874653874963
+  Name: "Urban Pipe Valve 01"
+  Transform {
+    Location {
+      Z: 240
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.3
+      Y: 0.7
+      Z: 0.7
+    }
+  }
+  ParentId: 2463396233436122737
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13913062282643868615
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13418759262184329729
+  Name: "Urban Pipe Clamp 01"
+  Transform {
+    Location {
+      Z: 250
+    }
+    Rotation {
+      Roll: -179.999969
+    }
+    Scale {
+      X: 0.6
+      Y: 0.6
+      Z: 0.6
+    }
+  }
+  ParentId: 2463396233436122737
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15732777065278343437
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9108563339827068353
+  Name: "Urban Pipe Cap 02"
+  Transform {
+    Location {
+      Z: 240
+    }
+    Rotation {
+      Roll: 179.999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2463396233436122737
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18031180683407583988
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5108567504881463191
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.30000007
+      Y: 1.30000007
+      Z: 4.40000057
+    }
+  }
+  ParentId: 2463396233436122737
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14113512123660626382
+  Name: "Arm Segment"
+  Transform {
+    Location {
+      Y: -52.8427734
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.2
+      Y: 1.2
+      Z: 1.2
+    }
+  }
+  ParentId: 4880049629968313533
+  ChildIds: 5585199408337727849
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 5585199408337727849
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.30000007
+      Y: 1.30000007
+      Z: 4.99999952
+    }
+  }
+  ParentId: 14113512123660626382
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 18070366451363192810
+  Name: "Joint"
+  Transform {
+    Location {
+      Y: -52.8427734
+      Z: 300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.8
+      Y: 0.8
+      Z: 0.8
+    }
+  }
+  ParentId: 4880049629968313533
+  ChildIds: 1505832533585439063
+  ChildIds: 5954574038282186386
+  ChildIds: 13946343530844226297
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 13946343530844226297
+  Name: "Urban Pipe Valve 01"
+  Transform {
+    Location {
+      Z: 20
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.6
+      Y: 1.30000007
+      Z: 1.30000007
+    }
+  }
+  ParentId: 18070366451363192810
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13913062282643868615
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5954574038282186386
+  Name: "Urban Pipe Clamp 03"
+  Transform {
+    Location {
+      Z: 75
+    }
+    Rotation {
+      Roll: 179.999969
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18070366451363192810
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4798953546912878943
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1505832533585439063
+  Name: "Urban Pipe Clamp 04"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18070366451363192810
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13148505073156703051
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15943708270412833108
+  Name: "Arm Segment"
+  Transform {
+    Location {
+      Y: -52.8427734
+      Z: 325
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.2
+      Y: 1.2
+      Z: 1.2
+    }
+  }
+  ParentId: 4880049629968313533
+  ChildIds: 1562940263821903758
+  ChildIds: 17855859935951600120
+  ChildIds: 12921088916443548303
+  ChildIds: 13040482218643032996
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 13040482218643032996
+  Name: "Urban Pipe Valve 01"
+  Transform {
+    Location {
+      Z: 240
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.3
+      Y: 0.7
+      Z: 0.7
+    }
+  }
+  ParentId: 15943708270412833108
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13913062282643868615
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12921088916443548303
+  Name: "Urban Pipe Clamp 01"
+  Transform {
+    Location {
+      Z: 250
+    }
+    Rotation {
+      Roll: -179.999969
+    }
+    Scale {
+      X: 0.6
+      Y: 0.6
+      Z: 0.6
+    }
+  }
+  ParentId: 15943708270412833108
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15732777065278343437
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17855859935951600120
+  Name: "Urban Pipe Cap 02"
+  Transform {
+    Location {
+      Z: 240
+    }
+    Rotation {
+      Roll: 179.999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15943708270412833108
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18031180683407583988
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1562940263821903758
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+      Z: 29.166666
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.30000007
+      Y: 1.30000007
+      Z: 3.8
+    }
+  }
+  ParentId: 15943708270412833108
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5430333269727265386
+  Name: "Friangles"
+  Transform {
+    Location {
+      X: -80
+      Y: -390
+      Z: 625
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15165194778326750562
+  ChildIds: 16589445321112885596
+  ChildIds: 15284963694532029886
+  ChildIds: 16013834891593203233
+  ChildIds: 13285555150222095111
+  ChildIds: 2963691463965840901
+  ChildIds: 5711252994985089827
+  ChildIds: 13661802397687932228
+  ChildIds: 15851315112783030370
+  ChildIds: 8945284419277083254
+  ChildIds: 3657055782359330042
+  ChildIds: 7806039972213714276
+  ChildIds: 7906809799787797238
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 7906809799787797238
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -695
+      Y: 810
+    }
+    Rotation {
+      Yaw: -45
+    }
+    Scale {
+      X: 0.531817913
+      Y: 0.583333
+      Z: 0.0978269577
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.07
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 7806039972213714276
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -730
+      Y: 775
+    }
+    Rotation {
+      Yaw: -45
+    }
+    Scale {
+      X: 0.900000036
+      Y: 0.7
+      Z: 0.0978269577
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.05
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 3657055782359330042
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -760.000061
+      Y: 745.000305
+    }
+    Rotation {
+      Yaw: 134.999969
+    }
+    Scale {
+      X: 0.531817913
+      Y: 0.583333
+      Z: 0.0978269577
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.07
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 8945284419277083254
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -725
+      Y: 780
+    }
+    Rotation {
+      Yaw: 134.999969
+    }
+    Scale {
+      X: 0.900000036
+      Y: 0.7
+      Z: 0.0978269577
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.05
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 15851315112783030370
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: 35.3552246
+      Y: -35.3554688
+    }
+    Rotation {
+      Yaw: 44.9999733
+    }
+    Scale {
+      X: 5.6
+      Y: 5.09999895
+      Z: 0.156804517
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.018
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 13661802397687932228
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -194.454346
+      Y: 194.45459
+    }
+    Rotation {
+      Yaw: 44.9999733
+    }
+    Scale {
+      X: 3.89999938
+      Y: 3.99999952
+      Z: 0.167744339
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.025
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 5711252994985089827
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: 35.3552246
+      Y: 35.3554688
+    }
+    Rotation {
+      Yaw: 135
+    }
+    Scale {
+      X: 5.6
+      Y: 5.09999895
+      Z: 0.156804517
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.018
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 2963691463965840901
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -194.454346
+      Y: -194.454102
+    }
+    Rotation {
+      Yaw: 135
+    }
+    Scale {
+      X: 3.89999938
+      Y: 3.99999952
+      Z: 0.167744339
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.025
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 13285555150222095111
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -35.3554688
+      Y: 35.3554688
+    }
+    Rotation {
+      Yaw: -135
+    }
+    Scale {
+      X: 5.6
+      Y: 5.09999895
+      Z: 0.156804517
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.018
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 16013834891593203233
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: 194.454346
+      Y: -194.454102
+    }
+    Rotation {
+      Yaw: -135
+    }
+    Scale {
+      X: 3.89999938
+      Y: 3.99999952
+      Z: 0.167744339
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.025
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 15284963694532029886
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -35.3553276
+      Y: -35.3559303
+    }
+    Rotation {
+      Yaw: -45
+    }
+    Scale {
+      X: 5.6
+      Y: 5.09999895
+      Z: 0.156804517
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.018
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 16589445321112885596
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: 194.454559
+      Y: 194.454361
+    }
+    Rotation {
+      Yaw: -45
+    }
+    Scale {
+      X: 3.89999938
+      Y: 3.99999952
+      Z: 0.167744339
+    }
+  }
+  ParentId: 5430333269727265386
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Color"
+      Color {
+        R: 0.906
+        G: 0.831882298
+        B: 0.734766
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0.025
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2745113894603131219
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 5780404622732649705
+  Name: "Cylinder"
+  Transform {
+    Location {
+      X: -80
+      Y: -390
+      Z: 550
+    }
+    Rotation {
+    }
+    Scale {
+      X: 17
+      Y: 17
+      Z: 1.60000014
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13282259600726273799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3493771215452758952
+  Name: "Cube - Rounded - bottom aligned"
+  Transform {
+    Location {
+      X: -80
+      Y: -390
+    }
+    Rotation {
+    }
+    Scale {
+      X: 16
+      Y: 16
+      Z: 4.5
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17485881147669499682
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 395185349995436965
+  Name: "Cube"
+  Transform {
+    Location {
+      X: -80
+      Y: -390
+    }
+    Rotation {
+    }
+    Scale {
+      X: 20
+      Y: 20
+      Z: 3.00000024
+    }
+  }
+  ParentId: 15165194778326750562
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7152487209973297883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3284940111534433168
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11644041400775637754
+  Name: "Craftsman House 01"
+  Transform {
+    Location {
+      X: 99950
+      Y: 3000.00024
+      Z: 1880
+    }
+    Rotation {
+      Yaw: -90.0000305
+    }
+    Scale {
+      X: 19.0000019
+      Y: 19.0000019
+      Z: 19.0000019
+    }
+  }
+  ParentId: 13281013145643894029
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Craftsman House 01"
+  }
+  InstanceHistory {
+    SelfId: 11644041400775637754
+    SubobjectId: 6777927257701341868
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 1894176368964430996
+  Name: "Yard"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13253915032246250060
+  ChildIds: 2106668132454366082
+  ChildIds: 4522653632451730043
+  ChildIds: 1580012088877614752
+  ChildIds: 5889750697227244870
+  ChildIds: 17231903600651192143
+  ChildIds: 18208122035096665581
+  ChildIds: 630047146617909250
+  ChildIds: 11487429659696817522
+  ChildIds: 6604031934418992079
+  ChildIds: 14536406691193482838
+  ChildIds: 16571772899575969465
+  ChildIds: 6642226266096018861
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 6642226266096018861
+  Name: "Spidertown"
+  Transform {
+    Location {
+      X: -5875
+      Y: -690
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1894176368964430996
+  ChildIds: 7233777674088408447
+  ChildIds: 15300887259809801842
+  ChildIds: 4428897914313048815
+  ChildIds: 12515317524367573095
+  ChildIds: 17702321505973549114
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17702321505973549114
+  Name: "Color Grading Post Process"
+  Transform {
+    Location {
+      X: -360
+      Y: -100
+      Z: 340
+    }
+    Rotation {
+    }
+    Scale {
+      X: 7.1
+      Y: 23.7
+      Z: 3.4
+    }
+  }
+  ParentId: 6642226266096018861
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Unbounded"
+      Bool: false
+    }
+    Overrides {
+      Name: "bp:Color Gain"
+      Color {
+        R: 0.471000016
+        G: 0.414197
+        B: 0.749
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Blend Weight"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Blend Radius"
+      Float: 1000
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 8427225207388448836
+    }
+    TeamSettings {
+    }
+  }
+}
+Objects {
+  Id: 12515317524367573095
+  Name: "Flashlight"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6642226266096018861
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 651445498870873157
+      value {
+        Overrides {
+          Name: "Intensity"
+          Float: 100
+        }
+        Overrides {
+          Name: "AttenuationRadius"
+          Float: 4481.854
+        }
+        Overrides {
+          Name: "OuterConeAngle"
+          Float: 33.3263702
+        }
+        Overrides {
+          Name: "IESProfile"
+          Enum {
+            Value: "mc:espotlightprofile:flashlight"
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8522005989211901481
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Flashlight"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -617.15332
+            Y: -1785
+            Z: 178.545532
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 41.0890312
+            Yaw: -21.2644653
+            Roll: 82.8164597
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11834231573820483336
+    }
+  }
+}
+Objects {
+  Id: 4428897914313048815
+  Name: "Decal Dirt Patch"
+  Transform {
+    Location {
+      X: -350.003906
+      Y: -26.541626
+      Z: 135.44873
+    }
+    Rotation {
+    }
+    Scale {
+      X: 6.09356356
+      Y: 5.78304
+      Z: 0.016251862
+    }
+  }
+  ParentId: 6642226266096018861
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.45615381
+        G: 0.36855
+        B: 0.650000036
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14964967653464214432
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 15300887259809801842
+  Name: "Fog"
+  Transform {
+    Location {
+      X: -365
+      Y: 25
+      Z: 230
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6642226266096018861
+  ChildIds: 4541633906170376806
+  ChildIds: 11559800719957398787
+  ChildIds: 12339013285606248165
+  ChildIds: 15893183390493066747
+  ChildIds: 91662093376024120
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 91662093376024120
+  Name: "Wispy Fog Volume VFX"
+  Transform {
+    Location {
+      X: -75
+      Y: -900
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15300887259809801842
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Density"
+      Float: 0.153801292
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+        X: 5
+      }
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.0493894108
+        G: 0.037817996
+        B: 0.066
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1538208180143166038
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+}
+Objects {
+  Id: 15893183390493066747
+  Name: "Wispy Fog Volume VFX"
+  Transform {
+    Location {
+      X: -75
+      Y: -175
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15300887259809801842
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Density"
+      Float: 0.153801292
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+        X: 5
+      }
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.0493894108
+        G: 0.037817996
+        B: 0.066
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1538208180143166038
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+}
+Objects {
+  Id: 12339013285606248165
+  Name: "Wispy Fog Volume VFX"
+  Transform {
+    Location {
+      X: 125
+      Y: 505
+      Z: 55
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15300887259809801842
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Density"
+      Float: 0.153801292
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+        X: -5
+      }
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.0493894108
+        G: 0.037817996
+        B: 0.066
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1538208180143166038
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+}
+Objects {
+  Id: 11559800719957398787
+  Name: "Wispy Fog Volume VFX"
+  Transform {
+    Location {
+      X: 100
+      Y: -645
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15300887259809801842
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Density"
+      Float: 0.153801292
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+        X: -5
+      }
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.0493894108
+        G: 0.037817996
+        B: 0.066
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1538208180143166038
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+}
+Objects {
+  Id: 4541633906170376806
+  Name: "Wispy Fog Volume VFX"
+  Transform {
+    Location {
+      X: -75
+      Y: 1205
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15300887259809801842
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Density"
+      Float: 0.153801292
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+        X: 5
+      }
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.0493894108
+        G: 0.037817996
+        B: 0.066
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1538208180143166038
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+}
+Objects {
+  Id: 7233777674088408447
+  Name: "Webs"
+  Transform {
+    Location {
+      X: 365
+      Y: -20
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6642226266096018861
   ChildIds: 6186020299114728219
   ChildIds: 16058303337163220314
   ChildIds: 15448402529511091188
@@ -7230,9 +8807,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 35.6923866
-            Y: 47.7167892
-            Z: 0.000102303238
+            X: 34.8560333
+            Y: 49.6566124
+            Z: 6.07893489e-05
           }
         }
         Overrides {
@@ -7245,9 +8822,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1
-            Y: 0.525341749
-            Z: 2.19999981
+            X: 0.424425393
+            Y: 0.0847670063
+            Z: 2.19837
           }
         }
         Overrides {
@@ -7261,6 +8838,51 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Spider Web Bit"
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
         }
       }
     }
@@ -7279,6 +8901,75 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -0.000244140625
+            Yaw: 13.0945644
+            Roll: 89.9987717
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.232215196
+            Y: 0.0847670063
+            Z: 0.41477716
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -52.835434
+            Y: -10.6674728
+            Z: -5.77498795e-05
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7295,9 +8986,9 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: 0.284654945
-            Yaw: 14.6112595
-            Roll: 90.1832504
+            Pitch: 0.284641296
+            Yaw: 14.6114731
+            Roll: 90.1831665
           }
         }
         Overrides {
@@ -7311,6 +9002,59 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Spider Web Bit"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.187722042
+            Y: 0.0847670063
+            Z: 0.200522691
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
         }
       }
     }
@@ -7329,6 +9073,75 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.25150159
+            Y: 0.0847670063
+            Z: 0.556671143
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9.50780678
+            Y: -74.4555664
+            Z: -2.43157392e-05
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 0.000901584921
+            Yaw: 71.4331284
+            Roll: 90.0000076
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7346,16 +9159,16 @@ Objects {
           Name: "Rotation"
           Rotator {
             Pitch: 0.000710339635
-            Yaw: 71.7082
-            Roll: 90.3390732
+            Yaw: 71.7081604
+            Roll: 90.3390808
           }
         }
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.442297637
-            Y: 0.542173505
-            Z: 0.20736973
+            X: 0.187722355
+            Y: 0.0847670063
+            Z: 0.207216278
           }
         }
         Overrides {
@@ -7370,6 +9183,51 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7382,9 +9240,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1114.99805
-            Y: 131.917908
-            Z: 343.922424
+            X: -1110
+            Y: 126.731689
+            Z: 331.707
           }
         }
         Overrides {
@@ -7400,7 +9258,7 @@ Objects {
           Rotator {
             Pitch: 3.91875243
             Yaw: -89.999939
-            Roll: -89.9999619
+            Roll: -89.9999695
           }
         }
       }
@@ -7420,6 +9278,75 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.232215628
+            Y: 0.0847670063
+            Z: 0.416695863
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 15.5629892
+            Y: -44.6967735
+            Z: -6.0789348e-06
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 0.000901584921
+            Yaw: 71.4331284
+            Roll: 90.0000076
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7436,6 +9363,75 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Spider Web Bit"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 0.000648867921
+            Yaw: 71.7083511
+            Roll: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.221188679
+            Y: 0.0847670063
+            Z: 0.306062847
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 20.2031174
+            Y: -19.3125019
+            Z: 9.87826934e-06
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
         }
       }
     }
@@ -7454,6 +9450,75 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 0.000478113216
+            Yaw: 11.9841728
+            Roll: 89.9989
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.25150159
+            Y: 0.0847670063
+            Z: 0.556671143
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -80.0570908
+            Y: -30.9386959
+            Z: -9.11840252e-05
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7470,6 +9535,74 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Spider Web Bit"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 176.86795
+            Roll: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.424425393
+            Y: 0.0847670063
+            Z: 1.49888885
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 34.4190826
+            Y: 54.0717354
+            Z: 6.07893489e-05
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
         }
       }
     }
@@ -7488,6 +9621,75 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -0.000244140625
+            Yaw: 13.0945263
+            Roll: 89.9987717
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.221188679
+            Y: 0.0847670063
+            Z: 0.306063235
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -30.8447189
+            Y: 4.89270687
+            Z: -2.73552068e-05
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7504,6 +9706,74 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Spider Web Bit"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.424425691
+            Y: 0.0847670063
+            Z: 1.49888885
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 37.3500404
+            Y: 47.0919037
+            Z: 6.07893489e-05
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 86.8679428
+            Roll: 90.0000076
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
         }
       }
     }
@@ -7530,8 +9800,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 35.6923828
-            Y: 47.7167969
+            X: 31.9009666
+            Y: 47.8980217
+            Z: 0.000121376725
           }
         }
         Overrides {
@@ -7544,9 +9815,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1
-            Y: 0.4
-            Z: 2.2
+            X: 0.424425393
+            Y: 0.0847670063
+            Z: 2.19837
           }
         }
         Overrides {
@@ -7560,6 +9831,51 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Spider Web Bit"
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
         }
       }
     }
@@ -7578,6 +9894,75 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -0.000244140625
+            Yaw: 13.0945644
+            Roll: 89.9987717
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.232215196
+            Y: 0.0847670063
+            Z: 0.41477716
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -52.8354263
+            Y: -10.6674776
+            Z: -1.73395324e-06
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7594,6 +9979,75 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Spider Web Bit"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -0.000122070313
+            Yaw: 14.6105423
+            Roll: 89.9991531
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.187722042
+            Y: 0.0847670063
+            Z: 0.200522691
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -10.3300676
+            Y: 20.8969727
+            Z: 6.06883623e-05
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
         }
       }
     }
@@ -7612,6 +10066,75 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.25150159
+            Y: 0.0847670063
+            Z: 0.556671143
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9.50781
+            Y: -74.455574
+            Z: -9.71013797e-05
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 0.000901584921
+            Yaw: 71.4331284
+            Roll: 90.0000076
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7629,6 +10152,75 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.187722355
+            Y: 0.0847670063
+            Z: 0.207216278
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 23.961441
+            Y: 3.44971395
+            Z: -0.000101436264
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 0.000648867921
+            Yaw: 71.7083511
+            Roll: 89.9999695
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7642,16 +10234,16 @@ Objects {
           Name: "Position"
           Vector {
             X: -1115
-            Y: -242.662842
+            Y: -235
             Z: 297.997253
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: -2.66174507
+            Pitch: -2.66174316
             Yaw: 89.9997482
-            Roll: -89.9999466
+            Roll: -89.999939
           }
         }
         Overrides {
@@ -7679,6 +10271,75 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.232215628
+            Y: 0.0847670063
+            Z: 0.416695863
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 15.5630007
+            Y: -44.6967697
+            Z: -0.00010056929
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 0.000901584921
+            Yaw: 71.4331284
+            Roll: 90.0000076
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7695,6 +10356,75 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Spider Web Bit"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 20.2031345
+            Y: -19.3125
+            Z: -0.00010056929
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 0.000648867921
+            Yaw: 71.7083511
+            Roll: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.221188679
+            Y: 0.0847670063
+            Z: 0.306062847
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
         }
       }
     }
@@ -7713,6 +10443,75 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -80.0571213
+            Y: -30.9387188
+            Z: 0.00010056929
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 0.000478113216
+            Yaw: 11.9841728
+            Roll: 89.9989
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.25150159
+            Y: 0.0847670063
+            Z: 0.556671143
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7729,6 +10528,74 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Spider Web Bit"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 33.0045
+            Y: 50.2244949
+            Z: 0.000117908821
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 176.86795
+            Roll: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.424425393
+            Y: 0.0847670063
+            Z: 1.49888885
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
         }
       }
     }
@@ -7747,6 +10614,75 @@ Objects {
           Name: "Name"
           String: "Spider Web Bit"
         }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -0.000244140625
+            Yaw: 13.0945263
+            Roll: 89.9987717
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.221188679
+            Y: 0.0847670063
+            Z: 0.306063235
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -30.8447399
+            Y: 4.89269924
+            Z: -8.32297519e-05
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -7763,6 +10699,74 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Spider Web Bit"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.424425691
+            Y: 0.0847670063
+            Z: 1.49888885
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 33.1100464
+            Y: 47.9542313
+            Z: 0.000116174866
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.5522461
+            Roll: 90.0000076
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:id"
+          AssetReference {
+            Id: 12827530473249900764
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Faces:color"
+          Color {
+            R: 0.565401
+            G: 0.620120585
+            B: 0.687000036
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Sides:color"
+          Color {
+            R: 0.27429
+            G: 0.384593636
+            B: 0.446
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Font.Bevel:color"
+          Color {
+            R: 0.376267
+            G: 0.509731233
+            B: 0.587
+            A: 1
+          }
         }
       }
     }
@@ -7833,12 +10837,8 @@ Objects {
   ParentId: 13477291911659525035
   ChildIds: 9118195111556259970
   ChildIds: 3972392373031020544
-  ChildIds: 10084846918037943274
-  ChildIds: 6448010906335856769
   ChildIds: 2946601624254195184
   ChildIds: 14208739021074180176
-  ChildIds: 15076512390651417667
-  ChildIds: 8785893857292053629
   ChildIds: 5781764392137193436
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -7861,18 +10861,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571518
-      Y: -30.9386635
+      X: -76.7137756
+      Y: -30.7947407
+      Z: 6.31761359e-05
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9840679
-      Roll: 89.998909
+      Yaw: 11.9842978
+      Roll: 89.9989
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 6835810079393741077
@@ -7880,13 +10881,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -7896,7 +10897,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -7928,164 +10956,23 @@ Objects {
   }
 }
 Objects {
-  Id: 8785893857292053629
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: 9.50775909
-      Y: -74.455574
-    }
-    Rotation {
-      Pitch: 0.000901584921
-      Yaw: 71.4331284
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
-    }
-  }
-  ParentId: 6835810079393741077
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 8785893857292053629
-    SubobjectId: 14219588868815717201
-    InstanceId: 1148962355380216661
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
-  Id: 15076512390651417667
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: 15.5629559
-      Y: -44.6967888
-    }
-    Rotation {
-      Pitch: 0.000901584921
-      Yaw: 71.4331284
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
-    }
-  }
-  ParentId: 6835810079393741077
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 15076512390651417667
-    SubobjectId: 7890706180832263023
-    InstanceId: 1148962355380216661
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
   Id: 14208739021074180176
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354568
-      Y: -10.6674423
+      X: -49.4919357
+      Y: -10.5235987
+      Z: 0.000230835867
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
+      Yaw: 13.0947018
       Roll: 89.9987717
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 6835810079393741077
@@ -8093,13 +10980,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -8109,7 +10996,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -8145,18 +11059,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447227
-      Y: 4.89272213
+      X: -27.5012493
+      Y: 5.03655767
+      Z: 1.94388103e-05
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 6835810079393741077
@@ -8164,13 +11079,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -8180,7 +11095,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -8212,164 +11154,23 @@ Objects {
   }
 }
 Objects {
-  Id: 6448010906335856769
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: 20.2031116
-      Y: -19.3125153
-    }
-    Rotation {
-      Pitch: 0.000648867921
-      Yaw: 71.7083511
-      Roll: 89.9999542
-    }
-    Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
-    }
-  }
-  ParentId: 6835810079393741077
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 6448010906335856769
-    SubobjectId: 16555246062492690349
-    InstanceId: 1148962355380216661
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
-  Id: 10084846918037943274
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: 23.9614277
-      Y: 3.44968987
-    }
-    Rotation {
-      Pitch: 0.000648867921
-      Yaw: 71.7083511
-      Roll: 89.9999695
-    }
-    Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
-    }
-  }
-  ParentId: 6835810079393741077
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 10084846918037943274
-    SubobjectId: 3985528998878371014
-    InstanceId: 1148962355380216661
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
   Id: 3972392373031020544
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300629
-      Y: 20.8969803
+      X: -8.05969524
+      Y: 20.2533398
+      Z: 0.000212612
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106739
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 6835810079393741077
@@ -8377,13 +11178,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -8393,7 +11194,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -8429,18 +11257,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6923752
-      Y: 47.7167397
-      Z: 1.14821896e-05
+      X: 35.6923
+      Y: 47.7167091
+      Z: -0.00010691346
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875866055
-      Y: 0.241208553
-      Z: 2.51084661
+      X: 0.371739775
+      Y: 0.0847670063
+      Z: 2.5089879
     }
   }
   ParentId: 6835810079393741077
@@ -8448,13 +11276,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -8464,7 +11292,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -8513,16 +11368,11 @@ Objects {
     }
   }
   ParentId: 13477291911659525035
-  ChildIds: 11677220175200123745
   ChildIds: 773791891941318266
-  ChildIds: 18267316373607536894
   ChildIds: 4336864085952358312
   ChildIds: 789293232377564335
-  ChildIds: 9160668413515083722
-  ChildIds: 8443307438676083695
   ChildIds: 9357328969286098394
   ChildIds: 11437264779685724552
-  ChildIds: 540212422893911881
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8540,83 +11390,13 @@ Objects {
   }
 }
 Objects {
-  Id: 540212422893911881
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: -80.0571136
-      Y: -30.9384651
-    }
-    Rotation {
-      Pitch: 0.000478113216
-      Yaw: 11.9840679
-      Roll: 89.998909
-    }
-    Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
-    }
-  }
-  ParentId: 4519586349596578274
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 540212422893911881
-    SubobjectId: 13530179987233689701
-    InstanceId: 1148962355380216661
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
   Id: 11437264779685724552
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.50780487
-      Y: -74.4555511
+      X: 9.50779915
+      Y: -74.455574
+      Z: 3.6447771e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -8624,9 +11404,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 4519586349596578274
@@ -8634,13 +11414,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -8650,7 +11430,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -8686,8 +11493,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629864
-      Y: -44.6967735
+      X: 15.5629778
+      Y: -44.696785
+      Z: 3.76626958e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -8695,9 +11503,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 4519586349596578274
@@ -8705,13 +11513,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -8721,7 +11529,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -8753,154 +11588,13 @@ Objects {
   }
 }
 Objects {
-  Id: 8443307438676083695
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: -52.8354416
-      Y: -10.6674767
-    }
-    Rotation {
-      Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
-    }
-    Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
-    }
-  }
-  ParentId: 4519586349596578274
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 8443307438676083695
-    SubobjectId: 14526154115588975811
-    InstanceId: 1148962355380216661
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
-  Id: 9160668413515083722
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: -30.8447227
-      Y: 4.89258
-    }
-    Rotation {
-      Pitch: -0.000244140625
-      Yaw: 13.0944099
-      Roll: 89.9987717
-    }
-    Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
-    }
-  }
-  ParentId: 4519586349596578274
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 9160668413515083722
-    SubobjectId: 14094815710438277350
-    InstanceId: 1148962355380216661
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
   Id: 789293232377564335
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031212
-      Y: -19.3125
+      X: 20.2031136
+      Y: -19.3125134
+      Z: 2.21723931e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -8908,9 +11602,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 4519586349596578274
@@ -8918,13 +11612,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -8934,7 +11628,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -8970,8 +11691,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614239
-      Y: 3.44970703
+      X: 23.9614277
+      Y: 3.44963074
+      Z: 0.000114203009
     }
     Rotation {
       Pitch: 0.000648867921
@@ -8979,9 +11701,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 4519586349596578274
@@ -8989,13 +11711,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9005,7 +11727,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -9037,92 +11786,22 @@ Objects {
   }
 }
 Objects {
-  Id: 18267316373607536894
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: -10.3300772
-      Y: 20.8969707
-    }
-    Rotation {
-      Pitch: -0.000122070313
-      Yaw: 14.6104345
-      Roll: 89.9991608
-    }
-    Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
-    }
-  }
-  ParentId: 4519586349596578274
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 18267316373607536894
-    SubobjectId: 4699902173180082130
-    InstanceId: 1148962355380216661
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
   Id: 773791891941318266
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6925
-      Y: 47.7168541
+      X: 32.6106873
+      Y: 48.1636124
+      Z: 0.000126352272
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875862241
-      Y: 0.241201073
-      Z: 1.75493836
+      X: 0.371738106
+      Y: 0.0847670063
+      Z: 1.7536391
     }
   }
   ParentId: 4519586349596578274
@@ -9130,13 +11809,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9146,7 +11825,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -9173,76 +11879,6 @@ Objects {
   InstanceHistory {
     SelfId: 773791891941318266
     SubobjectId: 13116431503096328534
-    InstanceId: 1148962355380216661
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
-  Id: 11677220175200123745
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: 37.2363281
-      Y: 45.4311447
-    }
-    Rotation {
-      Yaw: 86.8679428
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 0.875860214
-      Y: 0.279471278
-      Z: 1.51047277
-    }
-  }
-  ParentId: 4519586349596578274
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3537542414747023371
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11677220175200123745
-    SubobjectId: 2213012017539847245
     InstanceId: 1148962355380216661
     TemplateId: 2495366483733062875
   }
@@ -9305,19 +11941,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -528.559509
+      X: -528.559448
       Y: 39.411953
-      Z: 0.00163286
+      Z: 0.00161342125
     }
     Rotation {
       Pitch: 0.00056007551
-      Yaw: 11.9844398
+      Yaw: 11.984643
       Roll: 89.9986496
     }
     Scale {
-      X: 0.519005418
-      Y: 0.283712745
-      Z: 0.249230564
+      X: 0.220279098
+      Y: 0.0847670063
+      Z: 0.249046072
     }
   }
   ParentId: 10940543354894892090
@@ -9325,13 +11961,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9341,7 +11977,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -9377,19 +12040,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -463.495422
-      Y: 28.1678867
-      Z: 0.00156482426
+      X: -463.495575
+      Y: 28.1679249
+      Z: 0.00151622726
     }
     Rotation {
       Pitch: 0.000546415104
-      Yaw: 11.9844007
-      Roll: 89.9987
+      Yaw: 11.9846048
+      Roll: 89.9986572
     }
     Scale {
-      X: 0.519004226
-      Y: 0.283714861
-      Z: 0.307126164
+      X: 0.220278531
+      Y: 0.0847670063
+      Z: 0.306898803
     }
   }
   ParentId: 10940543354894892090
@@ -9397,13 +12060,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9413,7 +12076,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -9449,19 +12139,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -396.901398
+      X: -396.901428
       Y: 15.060957
-      Z: 0.000311020965
+      Z: 0.000272143341
     }
     Rotation {
       Pitch: 0.000532754697
-      Yaw: 11.9843864
-      Roll: 89.9987
+      Yaw: 11.9845915
+      Roll: 89.9986496
     }
     Scale {
-      X: 0.519008
-      Y: 0.283700585
-      Z: 0.371435881
+      X: 0.220280185
+      Y: 0.0847670063
+      Z: 0.371160716
     }
   }
   ParentId: 10940543354894892090
@@ -9469,13 +12159,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9485,7 +12175,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -9521,19 +12238,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -364.631927
+      X: -364.63205
       Y: 10.3936205
-      Z: 9.71940535e-05
+      Z: 5.83164292e-05
     }
     Rotation {
       Pitch: 0.000532754697
-      Yaw: 11.9843273
-      Roll: 89.9987259
+      Yaw: 11.9845333
+      Roll: 89.998642
     }
     Scale {
-      X: 0.519007385
-      Y: 0.283705562
-      Z: 0.392971635
+      X: 0.220279887
+      Y: 0.0847670063
+      Z: 0.392680854
     }
   }
   ParentId: 10940543354894892090
@@ -9541,13 +12258,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9557,7 +12274,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -9595,17 +12339,17 @@ Objects {
     Location {
       X: -312.543793
       Y: -2.46371365
-      Z: -0.000160370182
+      Z: -0.000213826919
     }
     Rotation {
       Pitch: 0.000519094348
-      Yaw: 11.9842768
-      Roll: 89.9987564
+      Yaw: 11.9844809
+      Roll: 89.9986496
     }
     Scale {
-      X: 0.519005179
-      Y: 0.28371048
-      Z: 0.448560268
+      X: 0.220279008
+      Y: 0.0847670063
+      Z: 0.448228151
     }
   }
   ParentId: 10940543354894892090
@@ -9613,13 +12357,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9629,7 +12373,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -9666,18 +12437,18 @@ Objects {
   Transform {
     Location {
       X: -229.196243
-      Y: -19.1240768
-      Z: -0.000199247806
+      Y: -19.124115
+      Z: -0.000208967205
     }
     Rotation {
       Pitch: 0.000512264145
-      Yaw: 11.9842615
-      Roll: 89.9987869
+      Yaw: 11.9844656
+      Roll: 89.9987717
     }
     Scale {
-      X: 0.519008577
-      Y: 0.283708245
-      Z: 0.526661396
+      X: 0.220280364
+      Y: 0.0847670063
+      Z: 0.526271164
     }
   }
   ParentId: 10940543354894892090
@@ -9685,13 +12456,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9701,7 +12472,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -9737,19 +12535,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -177.833466
+      X: -177.833542
       Y: -28.1795483
-      Z: -0.000328029913
+      Z: -0.00034746874
     }
     Rotation {
       Pitch: 0.000505434
-      Yaw: 11.9841814
+      Yaw: 11.9843836
       Roll: 89.9988
     }
     Scale {
-      X: 0.51900661
-      Y: 0.283708483
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 10940543354894892090
@@ -9757,13 +12555,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9773,7 +12571,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -9809,19 +12634,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -130.205
+      X: -130.205078
       Y: -30.9074173
-      Z: -0.000306161266
+      Z: -0.000323170214
     }
     Rotation {
       Pitch: 0.000491773593
-      Yaw: 11.9841518
+      Yaw: 11.9843483
       Roll: 89.9988327
     }
     Scale {
-      X: 0.51900661
-      Y: 0.283708453
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 10940543354894892090
@@ -9829,13 +12654,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9845,7 +12670,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -9881,18 +12733,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571136
-      Y: -30.9385147
+      X: -80.0571442
+      Y: -30.938509
+      Z: 3.88776207e-05
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9840679
+      Yaw: 11.9842625
       Roll: 89.998909
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 10940543354894892090
@@ -9900,13 +12753,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9916,7 +12769,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -9952,8 +12832,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.50785065
-      Y: -74.4555588
+      X: 9.50782299
+      Y: -74.455574
+      Z: -3.40179176e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -9961,9 +12842,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 10940543354894892090
@@ -9971,13 +12852,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -9987,7 +12868,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10023,8 +12931,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5630112
-      Y: -44.6967697
+      X: 15.5630007
+      Y: -44.6967773
+      Z: -3.88776207e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -10032,9 +12941,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 10940543354894892090
@@ -10042,13 +12951,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10058,7 +12967,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10094,18 +13030,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354416
-      Y: -10.6675072
+      X: -52.8354836
+      Y: -10.6674309
+      Z: 0.000125137347
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 10940543354894892090
@@ -10113,13 +13050,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10129,7 +13066,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10165,18 +13129,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447304
-      Y: 4.89256096
+      X: -30.8447323
+      Y: 4.89259768
+      Z: 5.71015044e-05
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 10940543354894892090
@@ -10184,13 +13149,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10200,7 +13165,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10236,8 +13228,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031345
-      Y: -19.3124886
+      X: 20.2031231
+      Y: -19.3124905
+      Z: -2.91582146e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -10245,9 +13238,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 10940543354894892090
@@ -10255,13 +13248,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10271,7 +13264,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10307,8 +13327,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.961422
-      Y: 3.44972038
+      X: 23.9614334
+      Y: 3.44967198
+      Z: -0.000131515699
     }
     Rotation {
       Pitch: 0.000648867921
@@ -10316,9 +13337,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 10940543354894892090
@@ -10326,13 +13347,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10342,7 +13363,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10378,17 +13426,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 36.7870789
-      Y: 53.909687
+      X: 34.1072083
+      Y: 54.0562401
+      Z: -0.000250274694
     }
     Rotation {
       Yaw: 176.86795
       Roll: 89.9999542
     }
     Scale {
-      X: 0.875859499
-      Y: 0.279471278
-      Z: 1.51047277
+      X: 0.371737123
+      Y: 0.0847670063
+      Z: 1.50935388
     }
   }
   ParentId: 10940543354894892090
@@ -10396,13 +13445,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10412,7 +13461,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10448,18 +13524,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300896
-      Y: 20.8969669
+      X: -10.3300571
+      Y: 20.8970146
+      Z: 0.000104483603
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 10940543354894892090
@@ -10467,13 +13544,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10483,7 +13560,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10519,17 +13623,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6925926
-      Y: 47.716877
+      X: 33.4582672
+      Y: 50.2492752
+      Z: 0.00014093137
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875858545
-      Y: 0.241205558
-      Z: 1.83465135
+      X: 0.371736616
+      Y: 0.0847670063
+      Z: 1.83329213
     }
   }
   ParentId: 10940543354894892090
@@ -10537,13 +13642,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10553,7 +13658,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10589,17 +13721,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363
-      Y: 45.4310951
+      X: 37.3408241
+      Y: 47.3418312
+      Z: -0.00014336122
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875860751
-      Y: 0.279466093
-      Z: 8.23785496
+      X: 0.37173751
+      Y: 0.0847670063
+      Z: 8.23175144
     }
   }
   ParentId: 10940543354894892090
@@ -10607,13 +13740,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10623,7 +13756,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10702,18 +13862,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571289
-      Y: -30.9387207
+      X: -80.0571899
+      Y: -30.9386787
+      Z: 0.00010691346
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9840679
+      Yaw: 11.9842625
       Roll: 89.998909
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 11834625642326749549
@@ -10721,13 +13882,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10737,7 +13898,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10773,8 +13961,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.5078125
-      Y: -74.4555664
+      X: 10.6820202
+      Y: -76.1399078
+      Z: 5.64940419e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -10782,9 +13971,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 11834625642326749549
@@ -10792,13 +13981,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10808,7 +13997,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10844,8 +14060,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629883
-      Y: -44.6967773
+      X: 16.7370777
+      Y: -46.3811226
+      Z: 0.00021018213
     }
     Rotation {
       Pitch: 0.000901584921
@@ -10853,9 +14070,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 11834625642326749549
@@ -10863,13 +14080,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10879,7 +14096,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10915,18 +14159,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354492
-      Y: -10.6674805
+      X: -52.8354263
+      Y: -10.6675043
+      Z: -8.99045e-05
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 11834625642326749549
@@ -10934,13 +14179,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -10950,7 +14195,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -10986,18 +14258,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447266
-      Y: 4.89257813
+      X: -30.8447914
+      Y: 4.8925972
+      Z: 0.000108128384
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 11834625642326749549
@@ -11005,13 +14278,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11021,7 +14294,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11057,8 +14357,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.203125
-      Y: -19.3125
+      X: 21.3773098
+      Y: -20.9968414
+      Z: 3.52328425e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -11066,9 +14367,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 11834625642326749549
@@ -11076,13 +14377,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11092,7 +14393,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11128,8 +14456,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614258
-      Y: 3.44970703
+      X: 25.1355877
+      Y: 1.76537752
+      Z: 0.000131211971
     }
     Rotation {
       Pitch: 0.000648867921
@@ -11137,9 +14466,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 11834625642326749549
@@ -11147,13 +14476,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11163,7 +14492,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11199,18 +14555,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300781
-      Y: 20.8969727
+      X: -10.3300352
+      Y: 20.8969746
+      Z: -6.68209104e-05
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 11834625642326749549
@@ -11218,13 +14575,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11234,7 +14591,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11270,18 +14654,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6923409
-      Y: 47.7168121
-      Z: -1.14821896e-05
+      X: 34.5604439
+      Y: 48.9996796
+      Z: -5.34567298e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875862956
-      Y: 0.24120298
-      Z: 2.58012128
+      X: 0.371738374
+      Y: 0.0847670063
+      Z: 2.57821155
     }
   }
   ParentId: 11834625642326749549
@@ -11289,13 +14673,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11305,7 +14689,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11341,17 +14752,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363281
-      Y: 45.4312744
+      X: 33.6540298
+      Y: 48.4887047
+      Z: -2.18686619e-05
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875860214
-      Y: 0.279471278
-      Z: 1.51047277
+      X: 0.371737361
+      Y: 0.0847670063
+      Z: 1.50935388
     }
   }
   ParentId: 11834625642326749549
@@ -11359,13 +14771,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11375,7 +14787,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11416,12 +14855,12 @@ Objects {
       Z: 413.302856
     }
     Rotation {
-      Yaw: -84.5020676
+      Yaw: -84.5020752
     }
     Scale {
-      X: 1.37503862
-      Y: 0.438750505
-      Z: -1.23162138
+      X: 0.583601058
+      Y: 0.0847670063
+      Z: -1.23070943
     }
   }
   ParentId: 7233777674088408447
@@ -11429,13 +14868,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11445,7 +14884,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11568,19 +15034,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -116.444374
-      Y: 82.1050415
-      Z: 0.000118410084
+      X: -117.806068
+      Y: 86.7560196
+      Z: 0.0660312
     }
     Rotation {
-      Pitch: 0.0258522648
-      Yaw: 66.8674545
-      Roll: 88.8052368
+      Pitch: -0.00384521484
+      Yaw: 68.3375397
+      Roll: 88.7329559
     }
     Scale {
-      X: 0.875857294
-      Y: 0.279472142
-      Z: 1.05499601
+      X: 0.371736079
+      Y: 0.0847670212
+      Z: 1.05421424
     }
   }
   ParentId: 4855372132219799959
@@ -11588,13 +15054,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11604,7 +15070,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11640,19 +15133,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -121.133263
-      Y: 87.5388718
-      Z: 0.000159315387
+      X: -120.050102
+      Y: 88.8751144
+      Z: 0.000182279764
     }
     Rotation {
       Pitch: -9.15527344e-05
-      Yaw: -39.027832
-      Roll: 89.9996
+      Yaw: -39.0274658
+      Roll: 89.9995499
     }
     Scale {
-      X: 0.875857294
-      Y: 0.279472142
-      Z: 1.05499601
+      X: 0.37173602
+      Y: 0.0847670063
+      Z: 1.05421412
     }
   }
   ParentId: 4855372132219799959
@@ -11660,13 +15153,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11676,7 +15169,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11712,19 +15232,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -101.902298
-      Y: 54.7754173
-      Z: 0.000130251094
+      X: -99.4053192
+      Y: 56.3328209
+      Z: 0.00013958037
     }
     Rotation {
       Pitch: 9.56226431e-05
-      Yaw: 31.952877
-      Roll: 89.9997482
+      Yaw: 31.9530811
+      Roll: 89.9996643
     }
     Scale {
-      X: 0.875857234
-      Y: 0.279472291
-      Z: 1.00784767
+      X: 0.37173602
+      Y: 0.0847670063
+      Z: 1.00710118
     }
   }
   ParentId: 4855372132219799959
@@ -11732,13 +15252,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11748,7 +15268,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11784,19 +15331,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -81.262291
-      Y: -27.388525
-      Z: -0.188471526
+      X: -81.2623367
+      Y: -27.3885422
+      Z: -0.188470632
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9841194
+      Yaw: 11.9843159
       Roll: 89.9989
     }
     Scale {
-      X: 0.519007146
-      Y: 0.283708155
-      Z: 0.523910046
+      X: 0.220279738
+      Y: 0.0847670063
+      Z: 0.523521841
     }
   }
   ParentId: 4855372132219799959
@@ -11804,13 +15351,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11820,7 +15367,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11856,8 +15430,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5630112
-      Y: -44.6967697
+      X: 15.5630369
+      Y: -44.6968575
+      Z: 1.50703736e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -11865,9 +15440,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 4855372132219799959
@@ -11875,13 +15450,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11891,7 +15466,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11927,18 +15529,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354416
-      Y: -10.6675072
+      X: -52.8354683
+      Y: -10.6675282
+      Z: 7.1763684e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 4855372132219799959
@@ -11946,13 +15549,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -11962,7 +15565,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -11998,18 +15628,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447304
-      Y: 4.89256096
+      X: -30.8447552
+      Y: 4.89256811
+      Z: 9.06016521e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 4855372132219799959
@@ -12017,13 +15648,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12033,7 +15664,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12069,8 +15727,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031345
-      Y: -19.3124886
+      X: 20.2031212
+      Y: -19.3124485
+      Z: 2.24261521e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -12078,9 +15737,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 4855372132219799959
@@ -12088,13 +15747,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12104,7 +15763,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12140,8 +15826,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.961422
-      Y: 3.44972038
+      X: 23.9614239
+      Y: 3.4497335
+      Z: -1.04505871e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -12149,9 +15836,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 4855372132219799959
@@ -12159,13 +15846,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12175,7 +15862,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12211,18 +15925,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.9419975
-      Y: 53.1106606
-      Z: -4.00979588e-05
+      X: 34.7009
+      Y: 53.1787033
+      Z: -4.2250871e-05
     }
     Rotation {
       Yaw: 176.86795
       Roll: 89.9999542
     }
     Scale {
-      X: 0.875859499
-      Y: 0.279471278
-      Z: 1.51047277
+      X: 0.371737123
+      Y: 0.0847670063
+      Z: 1.50935388
     }
   }
   ParentId: 4855372132219799959
@@ -12230,13 +15944,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12246,7 +15960,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12282,18 +16023,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300896
-      Y: 20.8969669
+      X: -10.3301258
+      Y: 20.897049
+      Z: -1.13924852e-05
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 4855372132219799959
@@ -12301,13 +16043,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12317,7 +16059,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12353,18 +16122,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6925812
-      Y: 47.7168
-      Z: 4.66463962e-06
+      X: 33.6763954
+      Y: 50.0018082
+      Z: 1.72232849e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.899978101
-      Y: 0.300001174
-      Z: 1.50165617
+      X: 0.381973505
+      Y: 0.0847670063
+      Z: 1.50054419
     }
   }
   ParentId: 4855372132219799959
@@ -12372,13 +16141,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12388,7 +16157,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12424,18 +16220,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.251339
-      Y: 45.4649773
-      Z: 7.17636851e-07
+      X: 33.7525063
+      Y: 48.2299957
+      Z: 8.34252842e-06
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.900000036
-      Y: 0.3
-      Z: 1.5
+      X: 0.381982774
+      Y: 0.0847670063
+      Z: 1.42365038
     }
   }
   ParentId: 4855372132219799959
@@ -12443,13 +16239,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12459,7 +16255,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12538,18 +16361,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571289
-      Y: -30.9387207
+      X: -80.0570908
+      Y: -30.9387131
+      Z: 8.89196872e-06
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9840679
+      Yaw: 11.9842625
       Roll: 89.998909
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 8108775505547920576
@@ -12557,13 +16381,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12573,7 +16397,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12609,8 +16460,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.5078125
-      Y: -74.4555664
+      X: 9.50787544
+      Y: -74.4555435
+      Z: 8.5219375e-07
     }
     Rotation {
       Pitch: 0.000901584921
@@ -12618,9 +16470,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 8108775505547920576
@@ -12628,13 +16480,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12644,7 +16496,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12680,8 +16559,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629883
-      Y: -44.6967773
+      X: 15.5630083
+      Y: -44.6967812
+      Z: -7.75944864e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -12689,9 +16569,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 8108775505547920576
@@ -12699,13 +16579,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12715,7 +16595,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12751,18 +16658,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354492
-      Y: -10.6674805
+      X: -52.8355064
+      Y: -10.66751
+      Z: -1.177373e-05
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 8108775505547920576
@@ -12770,13 +16678,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12786,7 +16694,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12822,18 +16757,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447266
-      Y: 4.89257813
+      X: -30.8447762
+      Y: 4.89255762
+      Z: -5.77473429e-07
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 8108775505547920576
@@ -12841,13 +16777,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12857,7 +16793,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12893,8 +16856,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.203125
-      Y: -19.3125
+      X: 20.203186
+      Y: -19.312479
+      Z: 1.25810711e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -12902,9 +16866,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 8108775505547920576
@@ -12912,13 +16876,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12928,7 +16892,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -12964,8 +16955,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614258
-      Y: 3.44970703
+      X: 23.9614315
+      Y: 3.4497
+      Z: 6.89604167e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -12973,9 +16965,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 8108775505547920576
@@ -12983,13 +16975,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -12999,7 +16991,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13035,18 +17054,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300781
-      Y: 20.8969727
+      X: -10.3300915
+      Y: 20.8969631
+      Z: -7.08666403e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 8108775505547920576
@@ -13054,13 +17074,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13070,7 +17090,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13106,18 +17153,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6923294
-      Y: 47.7168121
-      Z: -9.51429502e-06
+      X: 33.9168282
+      Y: 49.7288284
+      Z: -1.01141941e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875862122
-      Y: 0.241202831
-      Z: 2.0299027
+      X: 0.371738106
+      Y: 0.0847670063
+      Z: 2.02840018
     }
   }
   ParentId: 8108775505547920576
@@ -13125,13 +17172,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13141,7 +17188,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13177,17 +17251,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363281
-      Y: 45.4312744
+      X: 37.3811836
+      Y: 48.0778313
+      Z: 1.8232462e-05
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875860214
-      Y: 0.279471278
-      Z: 1.51047277
+      X: 0.371737361
+      Y: 0.0847670063
+      Z: 1.50935388
     }
   }
   ParentId: 8108775505547920576
@@ -13195,13 +17270,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13211,7 +17286,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13333,19 +17435,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -125.039047
-      Y: -77.8248138
+      X: -125.039055
+      Y: -77.8249283
       Z: -0.409379184
     }
     Rotation {
       Pitch: 0.340286821
-      Yaw: 29.9446278
-      Roll: 89.1118469
+      Yaw: 29.9447021
+      Roll: 89.1118317
     }
     Scale {
-      X: 0.519005954
-      Y: 0.283709019
-      Z: 0.311491549
+      X: 0.220279232
+      Y: 0.0847670063
+      Z: 0.311260909
     }
   }
   ParentId: 6226464623385845827
@@ -13353,13 +17455,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13369,7 +17471,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13406,18 +17535,18 @@ Objects {
   Transform {
     Location {
       X: -99.9534836
-      Y: -50.2283554
-      Z: 0.249232769
+      Y: -50.2284241
+      Z: 0.249233127
     }
     Rotation {
-      Pitch: 0.459207267
-      Yaw: 37.8491936
-      Roll: 89.166954
+      Pitch: 0.459200412
+      Yaw: 37.8489304
+      Roll: 89.1668549
     }
     Scale {
-      X: 0.519007862
-      Y: 0.283708543
-      Z: 0.452193469
+      X: 0.22028017
+      Y: 0.0847670063
+      Z: 0.451858729
     }
   }
   ParentId: 6226464623385845827
@@ -13425,13 +17554,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13441,7 +17570,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13477,19 +17633,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -71.4274368
-      Y: -24.5149975
-      Z: -0.458185285
+      X: -71.4274292
+      Y: -24.5150375
+      Z: -0.458184928
     }
     Rotation {
       Pitch: 0.575545847
-      Yaw: 46.2185783
+      Yaw: 46.2186661
       Roll: 89.2426147
     }
     Scale {
-      X: 0.51900661
-      Y: 0.283708453
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 6226464623385845827
@@ -13497,13 +17653,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13513,7 +17669,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13549,8 +17732,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629559
-      Y: -44.6967888
+      X: 15.5628967
+      Y: -44.6967926
+      Z: 1.32762816e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -13558,9 +17742,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 6226464623385845827
@@ -13568,13 +17752,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13584,7 +17768,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13620,19 +17831,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8355522
-      Y: -10.6674023
-      Z: 1.38145097e-05
+      X: -52.8355598
+      Y: -10.6674366
+      Z: 1.39939184e-05
     }
     Rotation {
       Pitch: 0.19904536
-      Yaw: 24.701889
-      Roll: 89.4165726
+      Yaw: 24.7016659
+      Roll: 89.416626
     }
     Scale {
-      X: 0.479207247
-      Y: 0.282706857
-      Z: 0.44743526
+      X: 0.203387752
+      Y: 0.0847670063
+      Z: 0.447103977
     }
   }
   ParentId: 6226464623385845827
@@ -13640,13 +17851,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13656,7 +17867,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13692,18 +17930,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447227
-      Y: 4.89272213
+      X: -30.8447495
+      Y: 4.89272738
+      Z: -1.2558645e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 6226464623385845827
@@ -13711,13 +17950,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13727,7 +17966,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13763,8 +18029,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031116
-      Y: -19.3125153
+      X: 20.2030792
+      Y: -19.3125114
+      Z: -6.72784563e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -13772,9 +18039,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 6226464623385845827
@@ -13782,13 +18049,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13798,7 +18065,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13834,8 +18128,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614277
-      Y: 3.44968987
+      X: 23.9614315
+      Y: 3.44970608
+      Z: -6.36902723e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -13843,9 +18138,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 6226464623385845827
@@ -13853,13 +18148,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13869,7 +18164,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13905,18 +18227,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300629
-      Y: 20.8969803
+      X: -10.3301411
+      Y: 20.8970547
+      Z: 9.95721166e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 6226464623385845827
@@ -13924,13 +18247,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -13940,7 +18263,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -13976,18 +18326,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6923294
-      Y: 47.7167931
-      Z: 8.43223279e-06
+      X: 33.9690666
+      Y: 49.6703568
+      Z: -2.15291061e-06
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.900000036
-      Y: 0.3
-      Z: 2.4
+      X: 0.381982774
+      Y: 0.0847670063
+      Z: 2.39822435
     }
   }
   ParentId: 6226464623385845827
@@ -13995,13 +18345,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14011,7 +18361,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -14127,9 +18504,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -7.53460121
-      Y: 15.0771761
-      Z: -7.08032846
+      X: -4.81039858
+      Y: 14.9325485
+      Z: -7.0803
     }
     Rotation {
       Pitch: -3.30853271
@@ -14137,9 +18514,9 @@ Objects {
       Roll: 86.6263657
     }
     Scale {
-      X: 0.295765311
-      Y: 0.260814041
-      Z: 0.126054108
+      X: 0.125530317
+      Y: 0.0847670063
+      Z: 0.125960767
     }
   }
   ParentId: 5169057907100009841
@@ -14147,13 +18524,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14163,24 +18540,33 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.292644
-        G: 0.508431256
-        B: 0.739
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 1
-        G: 1
-        B: 1
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
         A: 1
       }
     }
@@ -14217,19 +18603,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -7.94113064
-      Y: -9.91703129
-      Z: -5.77945185
+      X: -5.21693802
+      Y: -10.0616636
+      Z: -5.77945614
     }
     Rotation {
       Pitch: -3.40478516
-      Yaw: 82.0493088
-      Roll: 86.7236633
+      Yaw: 82.0491333
+      Roll: 86.7236176
     }
     Scale {
-      X: 0.413262278
-      Y: 0.260811657
-      Z: 0.190957844
+      X: 0.175398976
+      Y: 0.0847670063
+      Z: 0.190816492
     }
   }
   ParentId: 5169057907100009841
@@ -14237,13 +18623,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14253,24 +18639,33 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.292644
-        G: 0.508431256
-        B: 0.739
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 1
-        G: 1
-        B: 1
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
         A: 1
       }
     }
@@ -14307,19 +18702,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -11.376255
-      Y: -35.1689
-      Z: -4.49048758
+      X: -8.65207291
+      Y: -35.3135529
+      Z: -4.49055243
     }
     Rotation {
       Pitch: -3.40487671
-      Yaw: 82.049408
-      Roll: 86.723671
+      Yaw: 82.0492325
+      Roll: 86.7235947
     }
     Scale {
-      X: 0.4132725
-      Y: 0.26081568
-      Z: 0.239049628
+      X: 0.175403267
+      Y: 0.0847670063
+      Z: 0.238872662
     }
   }
   ParentId: 5169057907100009841
@@ -14327,13 +18722,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14343,24 +18738,33 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.292644
-        G: 0.508431256
-        B: 0.739
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 1
-        G: 1
-        B: 1
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
         A: 1
       }
     }
@@ -14397,19 +18801,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -5.74261618
-      Y: 69.2053757
-      Z: -10.2325287
+      X: -1.83716762
+      Y: 67.4760895
+      Z: -9.5359354
     }
     Rotation {
-      Pitch: -85.37677
-      Yaw: -93.041748
-      Roll: -22.3387146
+      Pitch: -85.3611755
+      Yaw: -93.0272217
+      Roll: -22.3310852
     }
     Scale {
-      X: 0.875868857
-      Y: 0.241206065
-      Z: 2.05963111
+      X: 0.371740967
+      Y: 0.0847670063
+      Z: 2.05810499
     }
   }
   ParentId: 5169057907100009841
@@ -14417,13 +18821,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14433,7 +18837,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -14469,19 +18900,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -11.1647243
-      Y: -72.1225586
-      Z: -2.39778781
+      X: -8.44082737
+      Y: -72.2671585
+      Z: -2.39795494
     }
     Rotation {
       Pitch: -3.80245972
-      Yaw: 74.5584717
-      Roll: 87.1953735
+      Yaw: 74.5582047
+      Roll: 87.1952591
     }
     Scale {
-      X: 0.413268268
-      Y: 0.260814
-      Z: 0.329194456
+      X: 0.175401524
+      Y: 0.0847670063
+      Z: 0.328950733
     }
   }
   ParentId: 5169057907100009841
@@ -14489,13 +18920,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14505,24 +18936,33 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.292644
-        G: 0.508431256
-        B: 0.739
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 1
-        G: 1
-        B: 1
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
         A: 1
       }
     }
@@ -14559,8 +18999,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.50780487
-      Y: -74.4555511
+      X: 9.50779533
+      Y: -74.4555359
+      Z: -3.408775e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -14568,9 +19009,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 3894978501645158580
@@ -14578,13 +19019,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14594,7 +19035,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -14630,8 +19098,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629864
-      Y: -44.6967735
+      X: 15.5629845
+      Y: -44.6967583
+      Z: -9.2844266e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -14639,9 +19108,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 3894978501645158580
@@ -14649,13 +19118,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14665,7 +19134,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -14701,18 +19197,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354416
-      Y: -10.6674767
+      X: -52.8354
+      Y: -10.6674337
+      Z: -2.42202441e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 3894978501645158580
@@ -14720,13 +19217,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14736,7 +19233,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -14772,18 +19296,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447227
-      Y: 4.89258
+      X: -30.8447475
+      Y: 4.89251804
+      Z: -1.16615993e-05
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 3894978501645158580
@@ -14791,13 +19316,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14807,7 +19332,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -14843,8 +19395,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031212
-      Y: -19.3125
+      X: 20.203104
+      Y: -19.3125305
+      Z: -6.50358379e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -14852,9 +19405,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 3894978501645158580
@@ -14862,13 +19415,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14878,7 +19431,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -14914,8 +19494,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614239
-      Y: 3.44970703
+      X: 23.9614429
+      Y: 3.44975638
+      Z: 1.1706451e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -14923,9 +19504,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 3894978501645158580
@@ -14933,13 +19514,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -14949,7 +19530,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -14985,18 +19593,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300772
-      Y: 20.8969707
+      X: -10.3301039
+      Y: 20.8969078
+      Z: 3.72274121e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 3894978501645158580
@@ -15004,13 +19613,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15020,7 +19629,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15056,18 +19692,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6925163
-      Y: 47.7168
-      Z: -2.51172901e-06
+      X: 34.529892
+      Y: 49.0342674
+      Z: -1.23792361e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875862837
-      Y: 0.241202518
-      Z: 2.25277591
+      X: 0.371738374
+      Y: 0.0847670063
+      Z: 2.25110769
     }
   }
   ParentId: 3894978501645158580
@@ -15075,13 +19711,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15091,7 +19727,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15127,17 +19790,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363281
-      Y: 45.4311447
+      X: 37.3651466
+      Y: 47.784935
+      Z: 2.69113821e-06
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875860214
-      Y: 0.279471278
-      Z: 1.51047277
+      X: 0.371737361
+      Y: 0.0847670063
+      Z: 1.50935388
     }
   }
   ParentId: 3894978501645158580
@@ -15145,13 +19809,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15161,7 +19825,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15250,19 +19941,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -86.5590744
-      Y: -9.85721874
-      Z: 0.168326393
+      X: -86.5590363
+      Y: -9.85728741
+      Z: 0.168327823
     }
     Rotation {
       Pitch: -0.000885009766
-      Yaw: 114.983154
-      Roll: 89.9999619
+      Yaw: 114.982864
+      Roll: 89.9999466
     }
     Scale {
-      X: 0.875861049
-      Y: 0.27947095
-      Z: 0.721658647
+      X: 0.371737689
+      Y: 0.0847670063
+      Z: 0.721124172
     }
   }
   ParentId: 11484719658997278060
@@ -15270,13 +19961,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15286,7 +19977,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15322,9 +20040,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -93.5939102
-      Y: 121.18174
-      Z: 0.0722459406
+      X: -94.8477859
+      Y: 122.299026
+      Z: 0.0722387582
     }
     Rotation {
       Pitch: 0.000457622635
@@ -15332,9 +20050,9 @@ Objects {
       Roll: 89.9998169
     }
     Scale {
-      X: 0.875859261
-      Y: 0.279471517
-      Z: 0.543595195
+      X: 0.371736884
+      Y: 0.0847670063
+      Z: 0.543192387
     }
   }
   ParentId: 11484719658997278060
@@ -15342,13 +20060,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15358,7 +20076,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15394,19 +20139,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -84.6467361
-      Y: 123.869987
-      Z: 0.0722875595
+      X: -92.509613
+      Y: 121.704071
+      Z: 0.0723112449
     }
     Rotation {
-      Pitch: 8.87924543e-05
-      Yaw: -164.604385
-      Roll: 89.9995346
+      Pitch: 0.296286762
+      Yaw: -157.151566
+      Roll: 90.352562
     }
     Scale {
-      X: 0.875860333
-      Y: 0.279471368
-      Z: 0.779215872
+      X: 0.371737361
+      Y: 0.0847670212
+      Z: 0.778639555
     }
   }
   ParentId: 11484719658997278060
@@ -15414,13 +20159,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15430,7 +20175,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15466,19 +20238,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -65.938858
-      Y: 55.342823
-      Z: 0.16771622
+      X: -65.9388199
+      Y: 55.3427773
+      Z: 0.167717829
     }
     Rotation {
       Pitch: -0.000793457031
-      Yaw: 162.254562
+      Yaw: 162.254486
       Roll: 89.9994888
     }
     Scale {
-      X: 0.875861
-      Y: 0.27947095
-      Z: 0.721658528
+      X: 0.371737689
+      Y: 0.0847670063
+      Z: 0.721124053
     }
   }
   ParentId: 11484719658997278060
@@ -15486,13 +20258,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15502,7 +20274,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15538,19 +20337,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -135.566498
-      Y: 58.6360168
-      Z: -0.184282333
+      X: -135.566406
+      Y: 58.6359138
+      Z: -0.184279814
     }
     Rotation {
       Pitch: -0.000396728516
-      Yaw: -143.221191
-      Roll: 89.9995575
+      Yaw: -143.221283
+      Roll: 89.9995193
     }
     Scale {
-      X: 0.875863314
-      Y: 0.279470205
-      Z: 1.28085363
+      X: 0.371738613
+      Y: 0.0847670063
+      Z: 1.25008297
     }
   }
   ParentId: 11484719658997278060
@@ -15558,13 +20357,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15574,7 +20373,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15610,19 +20436,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -135.565292
-      Y: 58.639473
-      Z: -0.125142232
+      X: -135.565201
+      Y: 58.6393585
+      Z: -0.125139713
     }
     Rotation {
       Pitch: 3.4150944e-05
-      Yaw: -32.8858032
-      Roll: 89.9994888
+      Yaw: -32.8859863
+      Roll: 89.9995
     }
     Scale {
-      X: 0.875862122
-      Y: 0.279470772
-      Z: 0.855279505
+      X: 0.371738106
+      Y: 0.0847670063
+      Z: 0.854646266
     }
   }
   ParentId: 11484719658997278060
@@ -15630,13 +20456,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15646,7 +20472,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15682,8 +20535,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.50785065
-      Y: -74.4555588
+      X: 9.50787258
+      Y: -74.4554443
+      Z: 5.38227641e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -15691,9 +20545,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 11484719658997278060
@@ -15701,13 +20555,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15717,7 +20571,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15753,8 +20634,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5630112
-      Y: -44.6967697
+      X: 15.5629711
+      Y: -44.6967735
+      Z: 1.0046916e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -15762,9 +20644,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 11484719658997278060
@@ -15772,13 +20654,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15788,7 +20670,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15824,18 +20733,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354416
-      Y: -10.6675072
+      X: -52.8353882
+      Y: -10.6674538
+      Z: -1.07645528e-05
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 11484719658997278060
@@ -15843,13 +20753,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15859,7 +20769,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15895,18 +20832,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447304
-      Y: 4.89256096
+      X: -30.8446884
+      Y: 4.89256954
+      Z: 5.6065378e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 11484719658997278060
@@ -15914,13 +20852,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -15930,7 +20868,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -15966,8 +20931,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031345
-      Y: -19.3124886
+      X: 20.203146
+      Y: -19.312397
+      Z: -1.63262375e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -15975,9 +20941,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 11484719658997278060
@@ -15985,13 +20951,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16001,7 +20967,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16037,8 +21030,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.961422
-      Y: 3.44972038
+      X: 23.9613686
+      Y: 3.449646
+      Z: 2.69113821e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -16046,9 +21040,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 11484719658997278060
@@ -16056,13 +21050,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16072,7 +21066,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16108,9 +21129,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 36.7803078
-      Y: 53.8984604
-      Z: -0.210628748
+      X: 34.3955536
+      Y: 50.2136116
+      Z: -0.045313742
     }
     Rotation {
       Pitch: 4.33725166
@@ -16118,9 +21139,9 @@ Objects {
       Roll: 89.9999084
     }
     Scale {
-      X: 0.875859618
-      Y: 0.279471278
-      Z: 1.51047289
+      X: 0.371737123
+      Y: 0.0847670063
+      Z: 1.50935388
     }
   }
   ParentId: 11484719658997278060
@@ -16128,13 +21149,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16144,7 +21165,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16180,18 +21228,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300896
-      Y: 20.8969669
+      X: -10.3301125
+      Y: 20.8968868
+      Z: 9.06016521e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 11484719658997278060
@@ -16199,13 +21248,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16215,7 +21264,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16251,18 +21327,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6925888
-      Y: 47.7168274
-      Z: 2.15291061e-06
+      X: 33.881546
+      Y: 49.7691078
+      Z: 1.16615993e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875859737
-      Y: 0.241203129
-      Z: 2.18641782
+      X: 0.371737123
+      Y: 0.0847670063
+      Z: 2.18479753
     }
   }
   ParentId: 11484719658997278060
@@ -16270,13 +21346,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16286,7 +21362,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16322,18 +21425,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363167
-      Y: 45.4312134
-      Z: 1.07645531e-06
+      X: 37.3748322
+      Y: 47.9636726
+      Z: 9.14987e-06
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875859
-      Y: 0.279471785
-      Z: 2.1147089
+      X: 0.371736795
+      Y: 0.0847670063
+      Z: 2.11314201
     }
   }
   ParentId: 11484719658997278060
@@ -16341,13 +21444,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16357,7 +21460,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16440,19 +21570,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -77.3443756
-      Y: -46.8919029
-      Z: 0.000166491751
+      X: -75.1756
+      Y: -46.215416
+      Z: 0.000144334714
     }
     Rotation {
       Pitch: -0.000518798828
-      Yaw: 17.3240089
+      Yaw: 17.3241596
       Roll: 89.9995193
     }
     Scale {
-      X: 0.875864089
-      Y: 0.241202384
-      Z: 1.27452219
+      X: 0.371739
+      Y: 0.0847670063
+      Z: 1.273579
     }
   }
   ParentId: 12432323973711276091
@@ -16460,13 +21590,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16476,7 +21606,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16512,19 +21669,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -68.5258102
-      Y: -44.4684639
-      Z: 8.24385352e-05
+      X: -73.0414658
+      Y: -46.5668793
+      Z: 0.000107197004
     }
     Rotation {
-      Pitch: 5.46415104e-05
-      Yaw: 90.0591736
-      Roll: 89.9995499
+      Pitch: 0.212056875
+      Yaw: 86.1427917
+      Roll: 90.1169052
     }
     Scale {
-      X: 0.875860214
-      Y: 0.241202757
-      Z: 0.972435951
+      X: 0.371737361
+      Y: 0.0847670212
+      Z: 0.971716
     }
   }
   ParentId: 12432323973711276091
@@ -16532,13 +21689,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16548,7 +21705,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16584,8 +21768,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629883
-      Y: -44.6967773
+      X: 15.5630398
+      Y: -44.696804
+      Z: -4.75434399e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -16593,9 +21778,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 12432323973711276091
@@ -16603,13 +21788,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16619,7 +21804,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16655,18 +21867,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354492
-      Y: -10.6674805
+      X: -52.8354912
+      Y: -10.6674623
+      Z: 4.75434399e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 12432323973711276091
@@ -16674,13 +21887,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16690,7 +21903,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16726,18 +21966,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447266
-      Y: 4.89257813
+      X: -30.8446751
+      Y: 4.89255333
+      Z: 3.00510442e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 12432323973711276091
@@ -16745,13 +21986,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16761,7 +22002,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16797,8 +22065,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.203125
-      Y: -19.3125
+      X: 20.2030907
+      Y: -19.3124847
+      Z: -3.03874344e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -16806,9 +22075,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 12432323973711276091
@@ -16816,13 +22085,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16832,7 +22101,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16868,8 +22164,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614258
-      Y: 3.44970703
+      X: 23.9614601
+      Y: 3.4496932
+      Z: -1.59225681e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -16877,9 +22174,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 12432323973711276091
@@ -16887,13 +22184,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16903,7 +22200,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -16939,18 +22263,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300781
-      Y: 20.8969727
+      X: -10.3300076
+      Y: 20.896944
+      Z: 1.10112405e-05
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 12432323973711276091
@@ -16958,13 +22283,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -16974,7 +22299,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17010,18 +22362,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6923218
-      Y: 47.7168121
-      Z: -6.86240219e-06
+      X: 33.7261543
+      Y: 48.0751915
+      Z: 2.35026073e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.900000036
-      Y: 0.3
-      Z: 2.3
+      X: 0.381982774
+      Y: 0.0847670063
+      Z: 2.29829717
     }
   }
   ParentId: 12432323973711276091
@@ -17029,13 +22381,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17045,7 +22397,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17081,17 +22460,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363281
-      Y: 45.4312744
+      X: 34.917408
+      Y: 49.0149689
+      Z: -7.1763684e-06
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875860214
-      Y: 0.279471278
-      Z: 1.51047277
+      X: 0.371737361
+      Y: 0.0847670063
+      Z: 1.50935388
     }
   }
   ParentId: 12432323973711276091
@@ -17099,13 +22479,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17115,7 +22495,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17235,18 +22642,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571518
-      Y: -30.9386635
+      X: -80.0571671
+      Y: -30.9385986
+      Z: -6.09991321e-06
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9840679
+      Yaw: 11.9842625
       Roll: 89.998909
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 3726333805648888138
@@ -17254,13 +22662,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17270,7 +22678,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17306,8 +22741,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629559
-      Y: -44.6967888
+      X: 15.5629025
+      Y: -44.6967316
+      Z: 1.14821896e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -17315,9 +22751,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 3726333805648888138
@@ -17325,13 +22761,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17341,7 +22777,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17378,17 +22841,18 @@ Objects {
   Transform {
     Location {
       X: -52.8354568
-      Y: -10.6674423
+      Y: -10.6673994
+      Z: 8.61164244e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 3726333805648888138
@@ -17396,13 +22860,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17412,7 +22876,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17448,18 +22939,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447227
-      Y: 4.89272213
+      X: -30.8446407
+      Y: 4.89271164
+      Z: -6.4587316e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 3726333805648888138
@@ -17467,13 +22959,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17483,7 +22975,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17520,7 +23039,8 @@ Objects {
   Transform {
     Location {
       X: 20.2031116
-      Y: -19.3125153
+      Y: -19.3124905
+      Z: -9.23957487e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -17528,9 +23048,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 3726333805648888138
@@ -17538,13 +23058,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17554,7 +23074,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17590,8 +23137,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614277
-      Y: 3.44968987
+      X: 23.9614983
+      Y: 3.44966888
+      Z: -1.02263248e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -17599,9 +23147,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 3726333805648888138
@@ -17609,13 +23157,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17625,7 +23173,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17661,18 +23236,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300629
-      Y: 20.8969803
+      X: -10.3300915
+      Y: 20.8969421
+      Z: 7.89400565e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 3726333805648888138
@@ -17680,13 +23256,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17696,7 +23272,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17732,18 +23335,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6924171
-      Y: 47.7167
-      Z: 4.48523042e-06
+      X: 34.1250687
+      Y: 49.4928
+      Z: 1.74026936e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.87586087
-      Y: 0.24120295
-      Z: 2.39220238
+      X: 0.371737689
+      Y: 0.0847670063
+      Z: 2.39043236
     }
   }
   ParentId: 3726333805648888138
@@ -17751,13 +23354,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17767,7 +23370,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17846,9 +23476,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 10.2353497
-      Y: -73.6799469
-      Z: 3.3998047e-05
+      X: 10.2353439
+      Y: -73.6799545
+      Z: 3.36392259e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -17856,9 +23486,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.519007325
-      Y: 0.283708364
-      Z: 0.544632196
+      X: 0.220279872
+      Y: 0.0847670063
+      Z: 0.544228435
     }
   }
   ParentId: 6040450801407601085
@@ -17866,13 +23496,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17882,7 +23512,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17918,8 +23575,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629864
-      Y: -44.6967735
+      X: 15.5629797
+      Y: -44.6967125
+      Z: -6.9969592e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -17927,9 +23585,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 6040450801407601085
@@ -17937,13 +23595,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -17953,7 +23611,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -17989,18 +23674,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354416
-      Y: -10.6674767
+      X: -52.8354
+      Y: -10.6675196
+      Z: -7.71459599e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 6040450801407601085
@@ -18008,13 +23694,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18024,7 +23710,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18060,18 +23773,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447227
-      Y: 4.89258
+      X: -30.8446884
+      Y: 4.89263296
+      Z: -6.09991321e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 6040450801407601085
@@ -18079,13 +23793,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18095,7 +23809,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18131,8 +23872,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031212
-      Y: -19.3125
+      X: 20.2030983
+      Y: -19.3125763
+      Z: -8.61164244e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -18140,9 +23882,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 6040450801407601085
@@ -18150,13 +23892,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18166,7 +23908,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18202,8 +23971,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614239
-      Y: 3.44970703
+      X: 23.9614182
+      Y: 3.44976926
+      Z: 1.28277588e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -18211,9 +23981,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 6040450801407601085
@@ -18221,13 +23991,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18237,7 +24007,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18273,18 +24070,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300772
-      Y: 20.8969707
+      X: -10.3300533
+      Y: 20.8970337
+      Z: 1.04057344e-05
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 6040450801407601085
@@ -18292,13 +24090,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18308,7 +24106,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18344,18 +24169,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6925163
-      Y: 47.7168
-      Z: -2.51172901e-06
+      X: 34.7201271
+      Y: 48.8187332
+      Z: -2.33231981e-06
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875862837
-      Y: 0.241202518
-      Z: 2.25277591
+      X: 0.371738374
+      Y: 0.0847670063
+      Z: 2.25110769
     }
   }
   ParentId: 6040450801407601085
@@ -18363,13 +24188,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18379,7 +24204,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18415,18 +24267,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363205
-      Y: 45.4310799
-      Z: -6.27932241e-06
+      X: 37.3769341
+      Y: 48.0015259
+      Z: -1.86585585e-05
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875856161
-      Y: 0.279470742
-      Z: 1.44920588
+      X: 0.371735513
+      Y: 0.0847670063
+      Z: 1.34967148
     }
   }
   ParentId: 6040450801407601085
@@ -18434,13 +24286,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18450,7 +24302,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18531,18 +24410,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571136
-      Y: -30.9385147
+      X: -80.0570602
+      Y: -30.938427
+      Z: 2.42202441e-06
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9840679
+      Yaw: 11.9842625
       Roll: 89.998909
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 18068349216651084901
@@ -18550,13 +24430,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18566,7 +24446,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18602,8 +24509,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.50785065
-      Y: -74.4555588
+      X: 9.50783825
+      Y: -74.4555511
+      Z: 4.66463962e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -18611,9 +24519,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 18068349216651084901
@@ -18621,13 +24529,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18637,7 +24545,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18674,7 +24609,8 @@ Objects {
   Transform {
     Location {
       X: 15.5630112
-      Y: -44.6967697
+      Y: -44.6967049
+      Z: 6.9969592e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -18682,9 +24618,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 18068349216651084901
@@ -18692,13 +24628,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18708,7 +24644,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18744,18 +24707,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354416
-      Y: -10.6675072
+      X: -52.8354378
+      Y: -10.6675453
+      Z: 7.5351868e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 18068349216651084901
@@ -18763,13 +24727,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18779,7 +24743,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18815,18 +24806,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447304
-      Y: 4.89256096
+      X: -30.8447113
+      Y: 4.89261532
+      Z: 6.01020884e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 18068349216651084901
@@ -18834,13 +24826,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18850,7 +24842,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18886,8 +24905,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031345
-      Y: -19.3124886
+      X: 20.2031116
+      Y: -19.3125629
+      Z: 8.79105119e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -18895,9 +24915,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 18068349216651084901
@@ -18905,13 +24925,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18921,7 +24941,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -18957,8 +25004,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.961422
-      Y: 3.44972038
+      X: 23.9614372
+      Y: 3.44977784
+      Z: -1.26034975e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -18966,9 +25014,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 18068349216651084901
@@ -18976,13 +25024,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -18992,7 +25040,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19028,17 +25103,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 36.7870789
-      Y: 53.909687
+      X: 33.9764366
+      Y: 54.0635
+      Z: -1.25586448e-05
     }
     Rotation {
       Yaw: 176.86795
       Roll: 89.9999542
     }
     Scale {
-      X: 0.875859499
-      Y: 0.279471278
-      Z: 1.51047277
+      X: 0.371737123
+      Y: 0.0847670063
+      Z: 1.50935388
     }
   }
   ParentId: 18068349216651084901
@@ -19046,13 +25122,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19062,7 +25138,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19098,18 +25201,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300896
-      Y: 20.8969669
+      X: -10.33008
+      Y: 20.8970318
+      Z: -1.05851432e-05
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 18068349216651084901
@@ -19117,13 +25221,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19133,7 +25237,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19169,18 +25300,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6925774
-      Y: 47.7167778
-      Z: 6.09991321e-06
+      X: 34.29533
+      Y: 49.3002396
+      Z: 1.11233712e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.9
-      Y: 0.3
-      Z: 2.2
+      X: 0.381982774
+      Y: 0.0847670063
+      Z: 2.19837
     }
   }
   ParentId: 18068349216651084901
@@ -19188,13 +25319,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19204,7 +25335,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19240,17 +25398,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363052
-      Y: 45.4311714
+      X: 37.3862839
+      Y: 48.1735268
+      Z: -5.56168561e-06
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875856221
-      Y: 0.279471487
-      Z: 1.46477449
+      X: 0.371735573
+      Y: 0.0847670063
+      Z: 1.46368992
     }
   }
   ParentId: 18068349216651084901
@@ -19258,13 +25417,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19274,7 +25433,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19331,7 +25517,6 @@ Objects {
   ChildIds: 13773217046984073518
   ChildIds: 17008770642588904353
   ChildIds: 4764940405936343681
-  ChildIds: 6026661637927868046
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19349,83 +25534,13 @@ Objects {
   }
 }
 Objects {
-  Id: 6026661637927868046
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: -80.0571289
-      Y: -30.9387207
-    }
-    Rotation {
-      Pitch: 0.000478113216
-      Yaw: 11.9840679
-      Roll: 89.998909
-    }
-    Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
-    }
-  }
-  ParentId: 14507849801932622130
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 6026661637927868046
-    SubobjectId: 9400092520423932413
-    InstanceId: 15097991693247501955
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
   Id: 4764940405936343681
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.5078125
-      Y: -74.4555664
+      X: 9.50773811
+      Y: -74.4555511
+      Z: -6.36902723e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -19433,9 +25548,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 14507849801932622130
@@ -19443,13 +25558,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19459,7 +25574,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19495,8 +25637,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629883
-      Y: -44.6967773
+      X: 15.5629339
+      Y: -44.6967583
+      Z: -1.17961554e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -19504,9 +25647,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 14507849801932622130
@@ -19514,13 +25657,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19530,7 +25673,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19566,18 +25736,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354492
-      Y: -10.6674805
+      X: -52.8354683
+      Y: -10.6674767
+      Z: -9.19472222e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 14507849801932622130
@@ -19585,13 +25756,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19601,7 +25772,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19637,18 +25835,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447266
-      Y: 4.89257813
+      X: -30.8446693
+      Y: 4.89256477
+      Z: 5.21618267e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 14507849801932622130
@@ -19656,13 +25855,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19672,7 +25871,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19708,8 +25934,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.203125
-      Y: -19.3125
+      X: 20.2031231
+      Y: -19.3125019
+      Z: 9.00970645e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -19717,9 +25944,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 14507849801932622130
@@ -19727,13 +25954,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19743,7 +25970,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19779,8 +26033,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614258
-      Y: 3.44970703
+      X: 23.9615021
+      Y: 3.4496882
+      Z: 1.02683744e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -19788,9 +26043,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 14507849801932622130
@@ -19798,13 +26053,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19814,7 +26069,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19850,18 +26132,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300781
+      X: -10.3301
       Y: 20.8969727
+      Z: -7.5464e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 14507849801932622130
@@ -19869,13 +26152,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19885,7 +26168,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19921,18 +26231,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6924095
-      Y: 47.7167931
-      Z: -3.18451362e-06
+      X: 34.6684227
+      Y: 48.8772926
+      Z: -5.71866849e-06
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.9
-      Y: 0.3
-      Z: 1.7
+      X: 0.381982774
+      Y: 0.0847670063
+      Z: 1.74241126
     }
   }
   ParentId: 14507849801932622130
@@ -19940,13 +26250,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -19956,7 +26266,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -19992,18 +26329,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363663
-      Y: 45.4312744
-      Z: 9.77780201e-06
+      X: 37.3512802
+      Y: 47.5302734
+      Z: 1.65280744e-05
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.900000095
-      Y: 0.3
-      Z: 1.5
+      X: 0.381982774
+      Y: 0.0847670063
+      Z: 1.49888885
     }
   }
   ParentId: 14507849801932622130
@@ -20011,13 +26348,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20027,7 +26364,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20147,18 +26511,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571518
-      Y: -30.9386635
+      X: -80.0570831
+      Y: -30.9386425
+      Z: -2.87054741e-06
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9840679
+      Yaw: 11.9842625
       Roll: 89.998909
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 4255854746116493284
@@ -20166,13 +26531,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20182,7 +26547,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20218,8 +26610,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629559
-      Y: -44.6967888
+      X: 15.562911
+      Y: -44.6966553
+      Z: 1.0091768e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -20227,9 +26620,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 4255854746116493284
@@ -20237,13 +26630,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20253,7 +26646,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20289,18 +26709,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354568
-      Y: -10.6674423
+      X: -52.8353462
+      Y: -10.6674261
+      Z: 1.07645531e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 4255854746116493284
@@ -20308,13 +26729,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20324,7 +26745,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20360,18 +26808,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447227
-      Y: 4.89272213
+      X: -30.8446522
+      Y: 4.89273596
+      Z: 1.79409213e-07
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 4255854746116493284
@@ -20379,13 +26828,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20395,7 +26844,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20431,8 +26907,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031116
-      Y: -19.3125153
+      X: 20.2031231
+      Y: -19.3125
+      Z: 3.2293658e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -20440,9 +26917,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 4255854746116493284
@@ -20450,13 +26927,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20466,7 +26943,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20502,8 +27006,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614277
-      Y: 3.44968987
+      X: 23.9613972
+      Y: 3.44970822
+      Z: 7.5351868e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -20511,9 +27016,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 4255854746116493284
@@ -20521,13 +27026,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20537,7 +27042,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20573,18 +27105,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300629
-      Y: 20.8969803
+      X: -10.3300686
+      Y: 20.8969574
+      Z: 8.09584071e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 4255854746116493284
@@ -20592,13 +27125,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20608,7 +27141,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20644,18 +27204,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6922531
-      Y: 47.7167091
-      Z: 1.14821896e-05
+      X: 33.4611397
+      Y: 50.2441444
+      Z: 3.71377064e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875861
-      Y: 0.2678321
-      Z: 1.87908518
+      X: 0.371737689
+      Y: 0.0847670063
+      Z: 1.87769389
     }
   }
   ParentId: 4255854746116493284
@@ -20663,13 +27223,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20679,7 +27239,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20762,9 +27349,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -85.2945633
+      X: -85.294426
       Y: 105.09639
-      Z: 0.000834432256
+      Z: 0.000833714614
     }
     Rotation {
       Pitch: -0.000915527344
@@ -20772,9 +27359,9 @@ Objects {
       Roll: 89.9992294
     }
     Scale {
-      X: 0.875861526
-      Y: 0.279472411
-      Z: 0.558451533
+      X: 0.371737778
+      Y: 0.0847670063
+      Z: 0.558037758
     }
   }
   ParentId: 6587274825986467603
@@ -20782,13 +27369,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20798,7 +27385,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20834,19 +27448,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -82.5145798
-      Y: 99.5738831
-      Z: 0.000733783701
+      X: -82.5144348
+      Y: 99.5738907
+      Z: 0.000733066059
     }
     Rotation {
       Pitch: 0.000710339635
-      Yaw: 38.990181
-      Roll: 89.9991531
+      Yaw: 38.9899139
+      Roll: 89.9990768
     }
     Scale {
-      X: 0.875858188
-      Y: 0.279471278
-      Z: 1.17082047
+      X: 0.371736497
+      Y: 0.0847670063
+      Z: 1.16995311
     }
   }
   ParentId: 6587274825986467603
@@ -20854,13 +27468,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20870,7 +27484,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20906,9 +27547,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -103.448578
-      Y: 54.3614502
-      Z: 9.8136843e-05
+      X: -103.448372
+      Y: 54.3614616
+      Z: 9.72397902e-05
     }
     Rotation {
       Pitch: -6.10351563e-05
@@ -20916,9 +27557,9 @@ Objects {
       Roll: 89.9992371
     }
     Scale {
-      X: 0.875858188
-      Y: 0.279471248
-      Z: 1.17082047
+      X: 0.371736497
+      Y: 0.0847670063
+      Z: 1.16995311
     }
   }
   ParentId: 6587274825986467603
@@ -20926,13 +27567,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -20942,7 +27583,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -20978,18 +27646,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571136
-      Y: -30.9384651
+      X: -80.0568771
+      Y: -30.9384441
+      Z: 8.43223279e-06
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9840679
+      Yaw: 11.9842625
       Roll: 89.998909
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 6587274825986467603
@@ -20997,13 +27666,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21013,7 +27682,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21049,8 +27745,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.50780487
-      Y: -74.4555511
+      X: 9.50779819
+      Y: -74.4555435
+      Z: -7.1763684e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -21058,9 +27755,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 6587274825986467603
@@ -21068,13 +27765,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21084,7 +27781,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21120,8 +27844,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629864
-      Y: -44.6967735
+      X: 15.5629311
+      Y: -44.6966743
+      Z: -1.97350141e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -21129,9 +27854,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 6587274825986467603
@@ -21139,13 +27864,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21155,7 +27880,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21191,18 +27943,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354416
-      Y: -10.6674767
+      X: -52.8353119
+      Y: -10.6673851
+      Z: 1.1571894e-05
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 6587274825986467603
@@ -21210,13 +27963,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21226,7 +27979,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21262,18 +28042,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447227
-      Y: 4.89258
+      X: -30.8447151
+      Y: 4.89259815
+      Z: 7.04181139e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 6587274825986467603
@@ -21281,13 +28062,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21297,7 +28078,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21333,8 +28141,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031212
-      Y: -19.3125
+      X: 20.2031441
+      Y: -19.3125401
+      Z: -4.35067341e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -21342,9 +28151,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 6587274825986467603
@@ -21352,13 +28161,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21368,7 +28177,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21404,8 +28240,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614239
-      Y: 3.44970703
+      X: 23.9614143
+      Y: 3.44962716
+      Z: 1.8837967e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -21413,9 +28250,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 6587274825986467603
@@ -21423,13 +28260,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21439,7 +28276,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21475,18 +28339,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300772
-      Y: 20.8969707
+      X: -10.3300781
+      Y: 20.8969822
+      Z: -6.90725483e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 6587274825986467603
@@ -21494,13 +28359,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21510,7 +28375,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21546,18 +28438,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6924896
-      Y: 47.7166748
-      Z: -5.92050401e-06
+      X: 34.0172501
+      Y: 49.6147842
+      Z: -3.58818426e-07
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.899991512
-      Y: 0.293088973
-      Z: 2.30000424
+      X: 0.381979227
+      Y: 0.0847670063
+      Z: 2.29830074
     }
   }
   ParentId: 6587274825986467603
@@ -21565,13 +28457,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21581,7 +28473,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21617,18 +28536,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363243
-      Y: 45.431057
-      Z: -1.29174632e-05
+      X: 34.2387314
+      Y: 48.8754845
+      Z: -5.14904423e-05
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.900000095
-      Y: 0.3
-      Z: 1.5
+      X: 0.381982774
+      Y: 0.0847670063
+      Z: 1.49888885
     }
   }
   ParentId: 6587274825986467603
@@ -21636,13 +28555,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21652,7 +28571,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21737,19 +28683,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -93.4383774
-      Y: 7.39029884
-      Z: -0.0966934934
+      X: -90.6456604
+      Y: 12.5861216
+      Z: -0.0966111422
     }
     Rotation {
       Pitch: 0.00043030188
-      Yaw: -28.2488708
+      Yaw: -29.635849
       Roll: 89.9992447
     }
     Scale {
-      X: 0.875861287
-      Y: 0.279470921
-      Z: 0.587997
+      X: 0.371737778
+      Y: 0.0847670063
+      Z: 0.560031414
     }
   }
   ParentId: 17439879959742401227
@@ -21757,13 +28703,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21773,7 +28719,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21809,19 +28782,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -100.311142
-      Y: 53.0187759
-      Z: -0.0966660455
+      X: -100.311005
+      Y: 53.0187798
+      Z: -0.0966649652
     }
     Rotation {
       Pitch: -0.000427246094
       Yaw: -163.003
-      Roll: 90.0000076
+      Roll: 89.9999695
     }
     Scale {
-      X: 0.875857532
-      Y: 0.279471278
-      Z: 1.07676327
+      X: 0.371736139
+      Y: 0.0847670063
+      Z: 1.0759654
     }
   }
   ParentId: 17439879959742401227
@@ -21829,13 +28802,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21845,7 +28818,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21881,19 +28881,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -92.7973557
-      Y: 107.296173
-      Z: 0.000650179
+      X: -91.8635
+      Y: 110.91378
+      Z: 0.000701848825
     }
     Rotation {
-      Pitch: 0.000443962286
-      Yaw: 36.4471588
-      Roll: 89.999382
+      Pitch: -0.0671691895
+      Yaw: 37.895504
+      Roll: 89.9636917
     }
     Scale {
-      X: 0.875861168
-      Y: 0.279471278
-      Z: 1.03688908
+      X: 0.371737808
+      Y: 0.0847670212
+      Z: 1.03612089
     }
   }
   ParentId: 17439879959742401227
@@ -21901,13 +28901,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21917,7 +28917,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -21953,9 +28980,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -94.7709274
-      Y: 112.676102
-      Z: 0.00070364296
+      X: -94.7708435
+      Y: 112.675919
+      Z: 0.000713331043
     }
     Rotation {
       Pitch: -0.000396728516
@@ -21963,9 +28990,9 @@ Objects {
       Roll: 89.9993591
     }
     Scale {
-      X: 0.875855923
-      Y: 0.279471636
-      Z: 0.643751502
+      X: 0.371735513
+      Y: 0.0847670063
+      Z: 0.643274963
     }
   }
   ParentId: 17439879959742401227
@@ -21973,13 +29000,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -21989,7 +29016,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22025,19 +29079,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -107.458679
-      Y: 54.0078926
-      Z: -0.960428476
+      X: -105.577919
+      Y: 55.0497398
+      Z: -0.96038866
     }
     Rotation {
       Pitch: 4.09811328e-05
-      Yaw: -12.2933655
-      Roll: 89.9993439
+      Yaw: -12.2937317
+      Roll: 89.9992294
     }
     Scale {
-      X: 0.875857115
-      Y: 0.279471219
-      Z: 1.34914577
+      X: 0.37173602
+      Y: 0.0847670063
+      Z: 1.34814715
     }
   }
   ParentId: 17439879959742401227
@@ -22045,13 +29099,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22061,7 +29115,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22097,8 +29178,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.50785065
-      Y: -74.4555588
+      X: 9.50786686
+      Y: -74.4555435
+      Z: 7.71459599e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -22106,9 +29188,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 17439879959742401227
@@ -22116,13 +29198,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22132,7 +29214,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22168,8 +29277,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5630112
-      Y: -44.6967697
+      X: 15.5629797
+      Y: -44.6966629
+      Z: 2.51172901e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -22177,9 +29287,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 17439879959742401227
@@ -22187,13 +29297,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22203,7 +29313,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22239,18 +29376,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354416
-      Y: -10.6675072
+      X: -52.8353577
+      Y: -10.6674366
+      Z: -1.14821896e-05
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 17439879959742401227
@@ -22258,13 +29396,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22274,7 +29412,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22310,18 +29475,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447304
-      Y: 4.89256096
+      X: -30.8447266
+      Y: 4.89257097
+      Z: -7.1763684e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 17439879959742401227
@@ -22329,13 +29495,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22345,7 +29511,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22381,8 +29574,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031345
-      Y: -19.3124886
+      X: 20.2031212
+      Y: -19.3125267
+      Z: 4.30582122e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -22390,9 +29584,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 17439879959742401227
@@ -22400,13 +29594,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22416,7 +29610,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22452,8 +29673,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.961422
-      Y: 3.44972038
+      X: 23.9614162
+      Y: 3.44964743
+      Z: -1.928649e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -22461,9 +29683,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 17439879959742401227
@@ -22471,13 +29693,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22487,7 +29709,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22523,17 +29772,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 36.7870789
-      Y: 53.909687
+      X: 33.5682259
+      Y: 49.5954361
+      Z: 1.97350141e-06
     }
     Rotation {
       Yaw: 176.86795
       Roll: 89.9999542
     }
     Scale {
-      X: 0.875859499
-      Y: 0.279471278
-      Z: 1.51047277
+      X: 0.371737123
+      Y: 0.0847670063
+      Z: 1.50935388
     }
   }
   ParentId: 17439879959742401227
@@ -22541,13 +29791,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22557,7 +29807,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22593,18 +29870,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300896
-      Y: 20.8969669
+      X: -10.3300533
+      Y: 20.8969803
+      Z: 6.90725483e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 17439879959742401227
@@ -22612,13 +29890,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22628,7 +29906,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22664,18 +29969,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6925888
-      Y: 47.716732
-      Z: 6.27932241e-06
+      X: 35.6924973
+      Y: 47.7167244
+      Z: 5.74109481e-06
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875866175
-      Y: 0.290771127
-      Z: 2.33552718
+      X: 0.371739984
+      Y: 0.0847670063
+      Z: 2.33379769
     }
   }
   ParentId: 17439879959742401227
@@ -22683,13 +29988,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22699,7 +30004,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22735,17 +30067,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363052
-      Y: 45.4311714
+      X: 37.3144379
+      Y: 46.8593483
+      Z: 9.95721166e-06
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875856221
-      Y: 0.279471487
-      Z: 1.46477449
+      X: 0.371735573
+      Y: 0.0847670063
+      Z: 1.51735556
     }
   }
   ParentId: 17439879959742401227
@@ -22753,13 +30086,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22769,7 +30102,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22847,18 +30207,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571289
-      Y: -30.9387207
+      X: -80.0570908
+      Y: -30.9387054
+      Z: 3.07798928e-06
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9840679
+      Yaw: 11.9842625
       Roll: 89.998909
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 13974512459994498972
@@ -22866,13 +30227,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22882,7 +30243,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22918,8 +30306,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629883
-      Y: -44.6967773
+      X: 15.5629587
+      Y: -44.6967964
+      Z: -1.73242017e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -22927,9 +30316,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 13974512459994498972
@@ -22937,13 +30326,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -22953,7 +30342,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -22989,18 +30405,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354492
-      Y: -10.6674805
+      X: -52.835537
+      Y: -10.6674757
+      Z: -1.03959228e-05
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 13974512459994498972
@@ -23008,13 +30425,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23024,7 +30441,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23060,18 +30504,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447266
-      Y: 4.89257813
+      X: -30.8446598
+      Y: 4.89257908
+      Z: -1.1241109e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 13974512459994498972
@@ -23079,13 +30524,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23095,7 +30540,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23131,8 +30603,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.203125
-      Y: -19.3125
+      X: 20.203146
+      Y: -19.3124962
+      Z: -3.22375922e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -23140,9 +30613,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 13974512459994498972
@@ -23150,13 +30623,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23166,7 +30639,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23202,8 +30702,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614258
-      Y: 3.44970703
+      X: 23.9614029
+      Y: 3.44972658
+      Z: -7.48017283e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -23211,9 +30712,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 13974512459994498972
@@ -23221,13 +30722,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23237,7 +30738,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23273,18 +30801,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300781
-      Y: 20.8969727
+      X: -10.3300858
+      Y: 20.8969555
+      Z: -8.07061133e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 13974512459994498972
@@ -23292,13 +30821,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23308,7 +30837,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23344,18 +30900,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6923866
-      Y: 47.7168121
-      Z: -4.31177796e-06
+      X: 35.0961609
+      Y: 48.3925934
+      Z: 6.12794611e-06
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875864387
-      Y: 0.241203159
-      Z: 1.81723416
+      X: 0.371739
+      Y: 0.0847670063
+      Z: 1.81588888
     }
   }
   ParentId: 13974512459994498972
@@ -23363,13 +30919,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23379,7 +30935,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23415,17 +30998,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363281
-      Y: 45.4312744
+      X: 37.3573799
+      Y: 47.6415863
+      Z: 3.44241425e-06
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875860214
-      Y: 0.279471278
-      Z: 1.51047277
+      X: 0.371737361
+      Y: 0.0847670063
+      Z: 1.50935388
     }
   }
   ParentId: 13974512459994498972
@@ -23433,13 +31017,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23449,7 +31033,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23571,19 +31182,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -84.4502106
-      Y: -58.29216
-      Z: 0.00015142138
+      X: -87.6557617
+      Y: -57.6848564
+      Z: -0.0140330298
     }
     Rotation {
-      Pitch: 0.0268221516
-      Yaw: 153.35704
-      Roll: 91.0482
+      Pitch: 0.0403117761
+      Yaw: 150.999496
+      Roll: 90.9192505
     }
     Scale {
-      X: 0.875867963
-      Y: 0.241200522
-      Z: 1.74362087
+      X: 0.371740699
+      Y: 0.0847670212
+      Z: 1.74232972
     }
   }
   ParentId: 12685637626702373285
@@ -23591,13 +31202,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23607,7 +31218,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23643,18 +31281,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571518
-      Y: -30.9386635
+      X: -80.0570602
+      Y: -30.9386387
+      Z: -7.89400565e-06
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9840679
+      Yaw: 11.9842625
       Roll: 89.998909
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 12685637626702373285
@@ -23662,13 +31301,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23678,7 +31317,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23714,8 +31380,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.50775909
-      Y: -74.455574
+      X: 9.50778389
+      Y: -74.4555206
+      Z: 1.7940921e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -23723,9 +31390,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 12685637626702373285
@@ -23733,13 +31400,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23749,7 +31416,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23785,8 +31479,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629559
-      Y: -44.6967888
+      X: 15.5629539
+      Y: -44.6967506
+      Z: -1.02263248e-05
     }
     Rotation {
       Pitch: 0.000901584921
@@ -23794,9 +31489,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 12685637626702373285
@@ -23804,13 +31499,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23820,7 +31515,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23856,18 +31578,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354568
-      Y: -10.6674423
+      X: -52.8354607
+      Y: -10.6673994
+      Z: -4.30582122e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 12685637626702373285
@@ -23875,13 +31598,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23891,7 +31614,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23927,18 +31677,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447227
-      Y: 4.89272213
+      X: -30.8447895
+      Y: 4.8927393
+      Z: 1.46218508e-05
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 12685637626702373285
@@ -23946,13 +31697,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -23962,7 +31713,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -23998,8 +31776,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031116
-      Y: -19.3125153
+      X: 20.2031174
+      Y: -19.3125076
+      Z: -1.7940921e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -24007,9 +31786,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 12685637626702373285
@@ -24017,13 +31796,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24033,7 +31812,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24069,8 +31875,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614277
-      Y: 3.44968987
+      X: 23.961504
+      Y: 3.44965315
+      Z: -1.41733281e-05
     }
     Rotation {
       Pitch: 0.000648867921
@@ -24078,9 +31885,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 12685637626702373285
@@ -24088,13 +31895,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24104,7 +31911,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24140,18 +31974,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300629
-      Y: 20.8969803
+      X: -10.3300772
+      Y: 20.8969917
+      Z: 1.01366204e-05
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 12685637626702373285
@@ -24159,13 +31994,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24175,7 +32010,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24211,18 +32073,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6924248
-      Y: 47.7167397
-      Z: 4.30582122e-06
+      X: 33.9090805
+      Y: 49.7377205
+      Z: 1.41733281e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875867963
-      Y: 0.241200492
-      Z: 1.74362063
+      X: 0.371740699
+      Y: 0.0847670063
+      Z: 1.7423296
     }
   }
   ParentId: 12685637626702373285
@@ -24230,13 +32092,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24246,7 +32108,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24326,18 +32215,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571136
-      Y: -30.9384651
+      X: -80.0570755
+      Y: -30.9383888
+      Z: -3.2293658e-06
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9840679
+      Yaw: 11.9842625
       Roll: 89.998909
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
     }
   }
   ParentId: 15017559651246426450
@@ -24345,13 +32235,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24361,7 +32251,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24397,19 +32314,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 12.4675913
-      Y: -85.0184631
-      Z: -0.00010827346
+      X: 12.4676199
+      Y: -85.018486
+      Z: -0.000108094049
     }
     Rotation {
-      Pitch: 0.000915245269
-      Yaw: 67.9346695
+      Pitch: 0.000922075473
+      Yaw: 67.9348068
       Roll: 89.9999466
     }
     Scale {
-      X: 0.420952857
-      Y: 0.283708662
-      Z: 0.590842426
+      X: 0.178663105
+      Y: 0.0847670063
+      Z: 0.590404689
     }
   }
   ParentId: 15017559651246426450
@@ -24417,13 +32334,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24433,7 +32350,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24469,8 +32413,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5629864
-      Y: -44.6967735
+      X: 15.5630198
+      Y: -44.6967888
+      Z: 2.55658119e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -24478,9 +32423,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 15017559651246426450
@@ -24488,13 +32433,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24504,7 +32449,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24540,18 +32512,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354416
-      Y: -10.6674767
+      X: -52.8354378
+      Y: -10.667388
+      Z: 1.4352737e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 15017559651246426450
@@ -24559,13 +32532,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24575,7 +32548,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24611,18 +32611,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447227
-      Y: 4.89258
+      X: -30.8447151
+      Y: 4.89259243
+      Z: -3.2293658e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 15017559651246426450
@@ -24630,13 +32631,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24646,7 +32647,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24682,8 +32710,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031212
-      Y: -19.3125
+      X: 20.2031288
+      Y: -19.3125305
+      Z: 6.14476539e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -24691,9 +32720,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 15017559651246426450
@@ -24701,13 +32730,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24717,7 +32746,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24753,8 +32809,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.9614239
-      Y: 3.44970703
+      X: 23.9614258
+      Y: 3.44964457
+      Z: -1.4352737e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -24762,9 +32819,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 15017559651246426450
@@ -24772,13 +32829,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24788,7 +32845,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24824,18 +32908,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300772
-      Y: 20.8969707
+      X: -10.3301067
+      Y: 20.8969383
+      Z: 5.4271286e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 14.6106377
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.20192261
     }
   }
   ParentId: 15017559651246426450
@@ -24843,13 +32928,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24859,7 +32944,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24895,18 +33007,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6925201
-      Y: 47.7167282
-      Z: -7.5351868e-06
+      X: 34.0934334
+      Y: 49.5288277
+      Z: -2.15291061e-06
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875865161
-      Y: 0.241202459
-      Z: 2.08647299
+      X: 0.371739507
+      Y: 0.0847670063
+      Z: 2.08492708
     }
   }
   ParentId: 15017559651246426450
@@ -24914,13 +33026,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -24930,7 +33042,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -24966,17 +33105,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2363281
-      Y: 45.4311447
+      X: 37.3681946
+      Y: 47.8413086
+      Z: 6.6381408e-06
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875860214
-      Y: 0.279471278
-      Z: 1.51047277
+      X: 0.371737361
+      Y: 0.0847670063
+      Z: 1.4108932
     }
   }
   ParentId: 15017559651246426450
@@ -24984,13 +33124,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -25000,7 +33140,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -25049,17 +33216,16 @@ Objects {
     }
   }
   ParentId: 6186020299114728219
-  ChildIds: 11916334388008435504
   ChildIds: 7041532529323620109
-  ChildIds: 16731446278719663104
   ChildIds: 1932166020125186163
   ChildIds: 6870137517402285924
   ChildIds: 16859642910651548376
-  ChildIds: 8675691682784842248
-  ChildIds: 9562621438008316424
   ChildIds: 2885446576956072750
   ChildIds: 11763332237050633436
-  ChildIds: 14934985067822517856
+  ChildIds: 876179297911932519
+  ChildIds: 1254962429128536784
+  ChildIds: 2284143079771338517
+  ChildIds: 13503537189934535166
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -25077,22 +33243,23 @@ Objects {
   }
 }
 Objects {
-  Id: 14934985067822517856
+  Id: 13503537189934535166
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0571136
-      Y: -30.9385147
+      X: -9.43632507
+      Y: 13.8389387
+      Z: -0.0961669236
     }
     Rotation {
-      Pitch: 0.000478113216
-      Yaw: 11.9840679
-      Roll: 89.998909
+      Pitch: -1.18237305
+      Yaw: -12.4288273
+      Roll: 89.7775
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.371736914
+      Y: 0.0847666562
+      Z: 0.734081745
     }
   }
   ParentId: 8720449982372897930
@@ -25100,13 +33267,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -25116,7 +33283,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -25128,7 +33322,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 6843509397960255973
+      Id: 3537542414747023371
     }
     Teams {
       TeamInt: 2
@@ -25141,29 +33335,30 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 14934985067822517856
-    SubobjectId: 11324731885638269436
+    SelfId: 7041532529323620109
+    SubobjectId: 3734243765408235665
     InstanceId: 7588907991633116780
     TemplateId: 2495366483733062875
   }
 }
 Objects {
-  Id: 11763332237050633436
+  Id: 2284143079771338517
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 9.50785065
-      Y: -74.4555588
+      X: -51.2650032
+      Y: -23.0750618
+      Z: 0.343469977
     }
     Rotation {
-      Pitch: 0.000901584921
-      Yaw: 71.4331284
-      Roll: 90.0000076
+      Pitch: -1.18362427
+      Yaw: 3.48951745
+      Roll: 90.0741
     }
     Scale {
-      X: 0.51900655
-      Y: 0.283708423
-      Z: 0.560972273
+      X: 0.371734887
+      Y: 0.0847663209
+      Z: 1.94263315
     }
   }
   ParentId: 8720449982372897930
@@ -25171,13 +33366,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -25187,7 +33382,331 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3537542414747023371
+    }
+    Teams {
+      TeamInt: 2
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 7041532529323620109
+    SubobjectId: 3734243765408235665
+    InstanceId: 7588907991633116780
+    TemplateId: 2495366483733062875
+  }
+}
+Objects {
+  Id: 1254962429128536784
+  Name: "Spider Web Bit"
+  Transform {
+    Location {
+      X: -49.9404907
+      Y: -20.5798492
+      Z: -0.589437604
+    }
+    Rotation {
+      Pitch: -0.474212646
+      Yaw: -12.3639832
+      Roll: 89.7842255
+    }
+    Scale {
+      X: 0.371734887
+      Y: 0.0847663134
+      Z: 1.44935071
+    }
+  }
+  ParentId: 8720449982372897930
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Font.Faces:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Font.Sides:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3537542414747023371
+    }
+    Teams {
+      TeamInt: 2
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 7041532529323620109
+    SubobjectId: 3734243765408235665
+    InstanceId: 7588907991633116780
+    TemplateId: 2495366483733062875
+  }
+}
+Objects {
+  Id: 876179297911932519
+  Name: "Spider Web Bit"
+  Transform {
+    Location {
+      X: -9.43632507
+      Y: 13.8389387
+      Z: -0.0961669236
+    }
+    Rotation {
+      Pitch: -1.18237305
+      Yaw: 6.11589193
+      Roll: 89.7775192
+    }
+    Scale {
+      X: 0.371736914
+      Y: 0.0847666562
+      Z: 1.01413155
+    }
+  }
+  ParentId: 8720449982372897930
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Font.Faces:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Font.Sides:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3537542414747023371
+    }
+    Teams {
+      TeamInt: 2
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 7041532529323620109
+    SubobjectId: 3734243765408235665
+    InstanceId: 7588907991633116780
+    TemplateId: 2495366483733062875
+  }
+}
+Objects {
+  Id: 11763332237050633436
+  Name: "Spider Web Bit"
+  Transform {
+    Location {
+      X: 9.50782681
+      Y: -74.4554825
+      Z: -1.4352737e-06
+    }
+    Rotation {
+      Pitch: 0.000901584921
+      Yaw: 71.4331284
+      Roll: 90.0000076
+    }
+    Scale {
+      X: 0.220279604
+      Y: 0.0847670063
+      Z: 0.560556948
+    }
+  }
+  ParentId: 8720449982372897930
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Font.Faces:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Font.Sides:id"
+      AssetReference {
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -25223,8 +33742,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 15.5630112
-      Y: -44.6967697
+      X: 15.5630455
+      Y: -44.6967773
+      Z: -2.69113821e-06
     }
     Rotation {
       Pitch: 0.000901584921
@@ -25232,9 +33752,9 @@ Objects {
       Roll: 90.0000076
     }
     Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
+      X: 0.203388214
+      Y: 0.0847670063
+      Z: 0.419605076
     }
   }
   ParentId: 8720449982372897930
@@ -25242,13 +33762,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -25258,7 +33778,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -25290,154 +33837,13 @@ Objects {
   }
 }
 Objects {
-  Id: 9562621438008316424
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: -52.8354416
-      Y: -10.6675072
-    }
-    Rotation {
-      Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
-    }
-    Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
-    }
-  }
-  ParentId: 8720449982372897930
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 9562621438008316424
-    SubobjectId: 15483234661275297172
-    InstanceId: 7588907991633116780
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
-  Id: 8675691682784842248
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: -30.8447304
-      Y: 4.89256096
-    }
-    Rotation {
-      Pitch: -0.000244140625
-      Yaw: 13.0944099
-      Roll: 89.9987717
-    }
-    Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
-    }
-  }
-  ParentId: 8720449982372897930
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 8675691682784842248
-    SubobjectId: 3029798791636231572
-    InstanceId: 7588907991633116780
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
   Id: 16859642910651548376
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 20.2031345
-      Y: -19.3124886
+      X: 20.2031403
+      Y: -19.3125229
+      Z: -5.92050401e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -25445,9 +33851,9 @@ Objects {
       Roll: 89.9999542
     }
     Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
+      X: 0.193730146
+      Y: 0.0847670063
+      Z: 0.308199912
     }
   }
   ParentId: 8720449982372897930
@@ -25455,13 +33861,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -25471,7 +33877,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -25507,8 +33940,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 23.961422
-      Y: 3.44972038
+      X: 23.9614201
+      Y: 3.4496603
+      Z: 1.5249783e-06
     }
     Rotation {
       Pitch: 0.000648867921
@@ -25516,9 +33950,9 @@ Objects {
       Roll: 89.9999695
     }
     Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
+      X: 0.16441831
+      Y: 0.0847670063
+      Z: 0.208663061
     }
   }
   ParentId: 8720449982372897930
@@ -25526,13 +33960,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -25542,7 +33976,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -25578,17 +34039,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 36.7870789
-      Y: 53.909687
+      X: 33.9650421
+      Y: 50.4412918
+      Z: -3.0499566e-06
     }
     Rotation {
       Yaw: 176.86795
       Roll: 89.9999542
     }
     Scale {
-      X: 0.875859499
-      Y: 0.279471278
-      Z: 1.51047277
+      X: 0.371737123
+      Y: 0.0847670063
+      Z: 1.50935388
     }
   }
   ParentId: 8720449982372897930
@@ -25596,13 +34058,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -25612,7 +34074,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -25644,93 +34133,22 @@ Objects {
   }
 }
 Objects {
-  Id: 16731446278719663104
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: -10.3300896
-      Y: 20.8969669
-    }
-    Rotation {
-      Pitch: -0.000122070313
-      Yaw: 14.6104345
-      Roll: 89.9991608
-    }
-    Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
-    }
-  }
-  ParentId: 8720449982372897930
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 16731446278719663104
-    SubobjectId: 13427543665107852188
-    InstanceId: 7588907991633116780
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
   Id: 7041532529323620109
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6926155
-      Y: 47.7168083
-      Z: -4.66463962e-06
+      X: 33.6459084
+      Y: 50.0363503
+      Z: -2.08114689e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875853956
-      Y: 0.311670929
-      Z: 1.84551227
+      X: 0.371734649
+      Y: 0.0847670063
+      Z: 1.84414518
     }
   }
   ParentId: 8720449982372897930
@@ -25738,13 +34156,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -25754,7 +34172,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -25786,77 +34231,6 @@ Objects {
   }
 }
 Objects {
-  Id: 11916334388008435504
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: 37.2363
-      Y: 45.4312363
-      Z: -1.7940921e-06
-    }
-    Rotation {
-      Yaw: 86.8679428
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 0.875863731
-      Y: 0.279471606
-      Z: 1.39664412
-    }
-  }
-  ParentId: 8720449982372897930
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3537542414747023371
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 11916334388008435504
-    SubobjectId: 17813263275040868524
-    InstanceId: 7588907991633116780
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
   Id: 5398923599979325917
   Name: "1/4spiderweb"
   Transform {
@@ -25876,12 +34250,8 @@ Objects {
   ChildIds: 17833107566733883406
   ChildIds: 13573973308723972902
   ChildIds: 2444051593921821093
-  ChildIds: 17794485724565644030
-  ChildIds: 6263123743379494377
   ChildIds: 1079729730641609223
   ChildIds: 4368107915484119489
-  ChildIds: 8048392300718279502
-  ChildIds: 13950622096463374958
   ChildIds: 14995271776672282209
   ChildIds: 3082019194303963821
   ChildIds: 8171611599622894410
@@ -25907,19 +34277,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -72.5681458
-      Y: -47.8075676
-      Z: 6.31520452e-05
+      X: -74.3995361
+      Y: -45.8502846
+      Z: 9.09604714e-05
     }
     Rotation {
       Pitch: -0.000152587891
-      Yaw: 43.0950584
+      Yaw: 43.0951691
       Roll: 89.9992294
     }
     Scale {
-      X: 0.875868857
-      Y: 0.241202831
-      Z: 0.840024531
+      X: 0.371740967
+      Y: 0.0847670063
+      Z: 0.839402676
     }
   }
   ParentId: 5398923599979325917
@@ -25927,13 +34297,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -25943,7 +34313,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -25979,9 +34376,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -129.020721
-      Y: -79.1075516
-      Z: -0.00125146902
+      X: -129.020767
+      Y: -79.1076
+      Z: -0.00125200721
     }
     Rotation {
       Pitch: 4.09811328e-05
@@ -25989,9 +34386,9 @@ Objects {
       Roll: 89.9982681
     }
     Scale {
-      X: 0.394402474
-      Y: 0.283711463
-      Z: 0.511121392
+      X: 0.16739437
+      Y: 0.0847670063
+      Z: 0.510742664
     }
   }
   ParentId: 5398923599979325917
@@ -25999,13 +34396,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -26015,7 +34412,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -26051,9 +34475,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -105.867958
-      Y: -62.5397263
-      Z: -0.000825865485
+      X: -105.868
+      Y: -62.5397835
+      Z: -0.000825910305
     }
     Rotation {
       Pitch: 0.000129773587
@@ -26061,9 +34485,9 @@ Objects {
       Roll: 89.9984589
     }
     Scale {
-      X: 0.39580965
-      Y: 0.2837089
-      Z: 0.311532378
+      X: 0.167991623
+      Y: 0.0847670063
+      Z: 0.311301827
     }
   }
   ParentId: 5398923599979325917
@@ -26071,13 +34495,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -26087,7 +34511,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -26123,19 +34574,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -80.0572128
-      Y: -30.9386826
-      Z: -8.97046064e-08
+      X: -80.0572433
+      Y: -30.9387455
+      Z: 7.62489151e-07
     }
     Rotation {
       Pitch: 0.000601056614
-      Yaw: 17.0990448
+      Yaw: 17.0991764
       Roll: 89.998909
     }
     Scale {
-      X: 0.441992283
-      Y: 0.283708423
-      Z: 0.560973227
+      X: 0.18759279
+      Y: 0.0847670063
+      Z: 0.560557604
     }
   }
   ParentId: 5398923599979325917
@@ -26143,13 +34594,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -26159,7 +34610,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -26191,165 +34669,23 @@ Objects {
   }
 }
 Objects {
-  Id: 13950622096463374958
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: 14.0173464
-      Y: -75.9703369
-      Z: -1.21998264e-05
-    }
-    Rotation {
-      Pitch: 0.000901584921
-      Yaw: 71.4331284
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 0.519008458
-      Y: 0.283708423
-      Z: 0.585988
-    }
-  }
-  ParentId: 5398923599979325917
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 13950622096463374958
-    SubobjectId: 10660212245012356594
-    InstanceId: 7588907991633116780
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
-  Id: 8048392300718279502
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: 15.5629883
-      Y: -44.6967773
-    }
-    Rotation {
-      Pitch: 0.000901584921
-      Yaw: 71.4331284
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 0.47920832
-      Y: 0.28893
-      Z: 0.419915974
-    }
-  }
-  ParentId: 5398923599979325917
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 8048392300718279502
-    SubobjectId: 4457328104970157266
-    InstanceId: 7588907991633116780
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
   Id: 4368107915484119489
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -52.8354492
-      Y: -10.6674805
+      X: -52.8354797
+      Y: -10.6675253
+      Z: 6.36902723e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.094449
-      Roll: 89.9987717
+      Yaw: 13.0946617
+      Roll: 89.998764
     }
     Scale {
-      X: 0.479207516
-      Y: 0.282707244
-      Z: 0.417982161
+      X: 0.203387767
+      Y: 0.0847670063
+      Z: 0.417672664
     }
   }
   ParentId: 5398923599979325917
@@ -26357,13 +34693,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -26373,7 +34709,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -26409,18 +34772,19 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -30.8447266
-      Y: 4.89257813
+      X: -30.8446465
+      Y: 4.89254236
+      Z: -2.23140205e-06
     }
     Rotation {
       Pitch: -0.000244140625
-      Yaw: 13.0944099
+      Yaw: 13.0946236
       Roll: 89.9987717
     }
     Scale {
-      X: 0.456453115
-      Y: 0.264956802
-      Z: 0.308428645
+      X: 0.19373025
+      Y: 0.0847670063
+      Z: 0.308200359
     }
   }
   ParentId: 5398923599979325917
@@ -26428,13 +34792,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -26444,7 +34808,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -26476,164 +34867,23 @@ Objects {
   }
 }
 Objects {
-  Id: 6263123743379494377
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: 20.203125
-      Y: -19.3125
-    }
-    Rotation {
-      Pitch: 0.000648867921
-      Yaw: 71.7083511
-      Roll: 89.9999542
-    }
-    Scale {
-      X: 0.456453
-      Y: 0.290093035
-      Z: 0.308428228
-    }
-  }
-  ParentId: 5398923599979325917
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 6263123743379494377
-    SubobjectId: 324588683550401141
-    InstanceId: 7588907991633116780
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
-  Id: 17794485724565644030
-  Name: "Spider Web Bit"
-  Transform {
-    Location {
-      X: 23.9614258
-      Y: 3.44970703
-    }
-    Rotation {
-      Pitch: 0.000648867921
-      Yaw: 71.7083511
-      Roll: 89.9999695
-    }
-    Scale {
-      X: 0.387390584
-      Y: 0.300449938
-      Z: 0.208817631
-    }
-  }
-  ParentId: 5398923599979325917
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Font.Faces:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Bevel:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Font.Sides:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Font.Sides:id"
-      AssetReference {
-        Id: 17590716304218676130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 6843509397960255973
-    }
-    Teams {
-      TeamInt: 2
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 17794485724565644030
-    SubobjectId: 11860379224540943714
-    InstanceId: 7588907991633116780
-    TemplateId: 2495366483733062875
-  }
-}
-Objects {
   Id: 2444051593921821093
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -10.3300781
-      Y: 20.8969727
+      X: -0.0128402049
+      Y: 27.7048664
+      Z: 6.25689609e-06
     }
     Rotation {
       Pitch: -0.000122070313
-      Yaw: 14.6104345
+      Yaw: 32.9514198
       Roll: 89.9991608
     }
     Scale {
-      X: 0.387390018
-      Y: 0.311591178
-      Z: 0.202072278
+      X: 0.164418101
+      Y: 0.0847670063
+      Z: 0.179358989
     }
   }
   ParentId: 5398923599979325917
@@ -26641,13 +34891,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -26657,7 +34907,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -26693,18 +34970,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 35.6923714
-      Y: 47.716835
-      Z: -1.65953516e-05
+      X: 34.3879623
+      Y: 49.1950111
+      Z: -3.13069067e-05
     }
     Rotation {
       Yaw: 131.423767
       Roll: 89.9999466
     }
     Scale {
-      X: 0.875866652
-      Y: 0.311671525
-      Z: 2.71345568
+      X: 0.371740073
+      Y: 0.0847670063
+      Z: 2.71144676
     }
   }
   ParentId: 5398923599979325917
@@ -26712,13 +34989,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -26728,7 +35005,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -26764,18 +35068,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: 37.2364
-      Y: 45.4312477
-      Z: -5.4271286e-06
+      X: 34.311882
+      Y: 48.1835632
+      Z: -4.4628041e-06
     }
     Rotation {
       Yaw: 86.8679428
       Roll: 90.0000076
     }
     Scale {
-      X: 0.875858486
-      Y: 0.279470384
-      Z: 1.60384572
+      X: 0.371736616
+      Y: 0.0847670063
+      Z: 1.60265815
     }
   }
   ParentId: 5398923599979325917
@@ -26783,13 +35087,13 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
-        Id: 17614084999736129964
+        Id: 12827530473249900764
       }
     }
     Overrides {
@@ -26799,7 +35103,34 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 17590716304218676130
+        Id: 12827530473249900764
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Faces:color"
+      Color {
+        R: 0.565401
+        G: 0.620120585
+        B: 0.687000036
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.27429
+        G: 0.384593636
+        B: 0.446
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Bevel:color"
+      Color {
+        R: 0.376267
+        G: 0.509731233
+        B: 0.587
+        A: 1
       }
     }
   }
@@ -26828,2066 +35159,6 @@ Objects {
     SubobjectId: 11894519767669788562
     InstanceId: 7588907991633116780
     TemplateId: 2495366483733062875
-  }
-}
-Objects {
-  Id: 5162679982873653265
-  Name: "Pumpkin"
-  Transform {
-    Location {
-      X: -2146.24512
-      Y: -5373.11
-      Z: 413.388
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.291981727
-      Y: 0.291981727
-      Z: 0.291981727
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 13108552941358737060
-  ChildIds: 3338922635730690400
-  ChildIds: 629788534539307722
-  ChildIds: 8363294574480533384
-  ChildIds: 3430084594207032740
-  ChildIds: 1569773017714630005
-  ChildIds: 13478464505062835933
-  ChildIds: 12502338036850019202
-  ChildIds: 2862487511220809103
-  ChildIds: 1275480350581783341
-  ChildIds: 4386247446900892049
-  ChildIds: 13742063313667587788
-  ChildIds: 12196470352849215325
-  ChildIds: 12995322783486173914
-  ChildIds: 17824642653055705634
-  ChildIds: 16776063062552086640
-  ChildIds: 12422188396844248881
-  ChildIds: 743100466213455717
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  InstanceHistory {
-    SelfId: 5162679982873653265
-    SubobjectId: 13848114685582675974
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 743100466213455717
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -122.578812
-      Y: -54.6574783
-    }
-    Rotation {
-      Yaw: 146.029892
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 743100466213455717
-    SubobjectId: 10222011268653786994
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 12422188396844248881
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -16.2072067
-      Y: -126.32476
-    }
-    Rotation {
-      Yaw: 146.029877
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 12422188396844248881
-    SubobjectId: 3165923270190157606
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 16776063062552086640
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: 77.6100159
-      Y: -111.423729
-    }
-    Rotation {
-      Yaw: 146.029877
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 16776063062552086640
-    SubobjectId: 8024122060387821671
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 17824642653055705634
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -143.315338
-      Y: 37.423584
-    }
-    Rotation {
-      Yaw: 146.029877
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 17824642653055705634
-    SubobjectId: 8130755399396344373
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 12995322783486173914
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -92.4881592
-      Y: 112.866089
-    }
-    Rotation {
-      Yaw: 146.029877
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 12995322783486173914
-    SubobjectId: 3734414007009362637
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 12196470352849215325
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: 129.025635
-      Y: -4.04947615
-    }
-    Rotation {
-      Yaw: 146.029877
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 12196470352849215325
-    SubobjectId: 3371355342076886858
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 13742063313667587788
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: 103.709717
-      Y: 63.5967598
-    }
-    Rotation {
-      Yaw: 146.029877
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 13742063313667587788
-    SubobjectId: 4124867618918620891
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 4386247446900892049
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: 12.3659325
-      Y: 136.998215
-    }
-    Rotation {
-      Yaw: 146.029877
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4386247446900892049
-    SubobjectId: 13498678040113136006
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 1275480350581783341
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: 96.2805176
-      Y: -64.8526611
-    }
-    Rotation {
-      Yaw: 56.0297241
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 1275480350581783341
-    SubobjectId: 10824558274084887354
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 2862487511220809103
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: 62.632576
-      Y: 107.736305
-    }
-    Rotation {
-      Yaw: 146.029877
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 2862487511220809103
-    SubobjectId: 11543427064790797720
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 12502338036850019202
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -30.6232758
-      Y: 126.661728
-    }
-    Rotation {
-      Yaw: -168.968903
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 12502338036850019202
-    SubobjectId: 3029478669455092629
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 13478464505062835933
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: 16.9532623
-      Y: -117.418091
-    }
-    Rotation {
-      Yaw: 11.0300159
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 13478464505062835933
-    SubobjectId: 4361389853935003338
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 1569773017714630005
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: 115.200302
-      Y: 28.4098816
-    }
-    Rotation {
-      Yaw: 101.029709
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 1569773017714630005
-    SubobjectId: 10539285999289974114
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 3430084594207032740
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -128.872513
-      Y: -19.1679115
-    }
-    Rotation {
-      Yaw: -78.9691772
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 3430084594207032740
-    SubobjectId: 12110741502321403315
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 8363294574480533384
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -76.3105316
-      Y: -98.4943314
-    }
-    Rotation {
-      Yaw: -33.9697266
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 8363294574480533384
-    SubobjectId: 17553765681041737631
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 629788534539307722
-  Name: "Stem"
-  Transform {
-    Location {
-      X: 8.66042709
-      Y: -48.8746605
-      Z: 152.461044
-    }
-    Rotation {
-      Yaw: -123.968628
-    }
-    Scale {
-      X: 1.32676196
-      Y: 1.32676196
-      Z: 1.32676196
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.07733161
-        G: 0.197916672
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13127178988828444324
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 629788534539307722
-    SubobjectId: 10319595768849558237
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 3338922635730690400
-  Name: "Stem"
-  Transform {
-    Location {
-      X: -6.83563375
-      Y: 4.62307549
-      Z: 158.639984
-    }
-    Rotation {
-      Yaw: -123.968628
-    }
-    Scale {
-      X: 0.99999994
-      Y: 0.99999994
-      Z: 0.621025503
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.07733161
-        G: 0.197916672
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 3338922635730690400
-    SubobjectId: 12240177452232442231
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 13108552941358737060
-  Name: "Sphere"
-  Transform {
-    Location {
-      X: -109.950638
-      Y: 74.0937958
-    }
-    Rotation {
-      Yaw: -123.968628
-    }
-    Scale {
-      X: 2.49999952
-      Y: 3.17546821
-      Z: 4.32716656
-    }
-  }
-  ParentId: 5162679982873653265
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4247430867898109902
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 0.255845964
-        B: 0.034897089
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17476594959587675695
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 13108552941358737060
-    SubobjectId: 3630195463885702835
-    InstanceId: 14353710985301976312
-    TemplateId: 16944878466488736668
-  }
-}
-Objects {
-  Id: 2782793507244063116
-  Name: "Grey Box"
-  Transform {
-    Location {
-      X: 3555
-      Y: 3475
-      Z: 10
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 3057566393385200006
-  ChildIds: 16639663032975329925
-  ChildIds: 16906886010209774479
-  ChildIds: 4372816016116132201
-  ChildIds: 1875885670085332136
-  ChildIds: 1818546491510256974
-  ChildIds: 8104077925086283623
-  ChildIds: 4392961622090924734
-  ChildIds: 17985485958507276230
-  ChildIds: 17970850837066467239
-  ChildIds: 16895327763912593511
-  ChildIds: 4150113891313045797
-  ChildIds: 14884106158470634886
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 14884106158470634886
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -4295
-      Y: 3570
-      Z: 520
-    }
-    Rotation {
-    }
-    Scale {
-      X: 105.599983
-      Y: 104.6
-      Z: 8.9
-    }
-  }
-  ParentId: 2782793507244063116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 11613036252021123664
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.394000024
-        G: 0.248423532
-        B: 0.144204
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 4.14
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 0.4
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4150113891313045797
-  Name: "Cylinder"
-  Transform {
-    Location {
-      X: 7098.97949
-      Y: 6590
-      Z: 740
-    }
-    Rotation {
-      Pitch: 79.9999
-    }
-    Scale {
-      X: 9.83338356
-      Y: 9.83338356
-      Z: 13.8395796
-    }
-  }
-  ParentId: 2782793507244063116
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13282259600726273799
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    DisableDistanceFieldLighting: true
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 16895327763912593511
-  Name: "Cylinder"
-  Transform {
-    Location {
-      X: 7683.97949
-      Y: 8255
-      Z: 750
-    }
-    Rotation {
-    }
-    Scale {
-      X: 9.83338356
-      Y: 9.83338356
-      Z: 13.8395796
-    }
-  }
-  ParentId: 2782793507244063116
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13282259600726273799
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    DisableDistanceFieldLighting: true
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 17970850837066467239
-  Name: "Whitebox Stairs 01 Straight 150cm"
-  Transform {
-    Location {
-      X: 2056.75269
-      Y: 1810.36035
-      Z: 115
-    }
-    Rotation {
-      Yaw: -90
-    }
-    Scale {
-      X: 8.89726
-      Y: 4.60153961
-      Z: 4.70000029
-    }
-  }
-  ParentId: 2782793507244063116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 17614084999736129964
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:id"
-      AssetReference {
-        Id: 4050437425243511619
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 9906491685923217027
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 17985485958507276230
-  Name: "Cube"
-  Transform {
-    Location {
-      X: 2430
-      Y: -4005
-    }
-    Rotation {
-    }
-    Scale {
-      X: 72.2000275
-      Y: 42
-      Z: 4.1
-    }
-  }
-  ParentId: 2782793507244063116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.99
-        G: 0.747417331
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4392961622090924734
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -2375
-      Y: -9915
-      Z: 45
-    }
-    Rotation {
-    }
-    Scale {
-      X: 27.4
-      Y: 110.200005
-      Z: 3.2
-    }
-  }
-  ParentId: 2782793507244063116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.99
-        G: 0.747417331
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 8104077925086283623
-  Name: "Wedge - Convex"
-  Transform {
-    Location {
-      X: -2370
-      Y: -4585
-      Z: 0.447265625
-    }
-    Rotation {
-      Pitch: 90
-      Yaw: 90
-      Roll: 179.999878
-    }
-    Scale {
-      X: 4
-      Y: 27.5
-      Z: 27.5
-    }
-  }
-  ParentId: 2782793507244063116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.99
-        G: 0.747417331
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1794493300960258535
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 1818546491510256974
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -4340
-      Y: -4090
-    }
-    Rotation {
-      Yaw: 16.9864902
-    }
-    Scale {
-      X: 6.49999762
-      Y: 6.49999762
-      Z: 3.30000019
-    }
-  }
-  ParentId: 2782793507244063116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.99
-        G: 0.747417331
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 1875885670085332136
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -5285
-      Y: -4625
-    }
-    Rotation {
-      Yaw: -28.4365463
-    }
-    Scale {
-      X: 6.49999762
-      Y: 6.49999762
-      Z: 3.30000019
-    }
-  }
-  ParentId: 2782793507244063116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.99
-        G: 0.747417331
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4372816016116132201
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -5590
-      Y: -5685
-    }
-    Rotation {
-    }
-    Scale {
-      X: 6.49999762
-      Y: 6.49999762
-      Z: 3.30000019
-    }
-  }
-  ParentId: 2782793507244063116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.99
-        G: 0.747417331
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 16906886010209774479
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -4295
-      Y: 3570
-      Z: 1015
-    }
-    Rotation {
-    }
-    Scale {
-      X: 108.6
-      Y: 107.6
-      Z: 0.8
-    }
-  }
-  ParentId: 2782793507244063116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 9434609535791461420
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.405000031
-        G: 0.200957716
-        B: 0.0425249375
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 5
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 5
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    DisableDistanceFieldLighting: true
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 16639663032975329925
-  Name: "Cube"
-  Transform {
-    Location {
-      X: 3415
-      Y: 3570
-      Z: 125
-    }
-    Rotation {
-    }
-    Scale {
-      X: 51.3
-      Y: 110.000008
-      Z: 1.9
-    }
-  }
-  ParentId: 2782793507244063116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.99
-        G: 0.747417331
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 3057566393385200006
-  Name: "Cube"
-  Transform {
-    Location {
-      X: 1990
-      Y: -10745
-      Z: 125
-    }
-    Rotation {
-    }
-    Scale {
-      X: 71.5999908
-      Y: 92.1
-      Z: 4.4
-    }
-  }
-  ParentId: 2782793507244063116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.00999999
-        G: 0.940993309
-        B: 1
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 13253915032246250060
-  Name: "Level"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 10176613551094026796
-  ChildIds: 1894176368964430996
-  ChildIds: 13281013145643894029
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 13281013145643894029
-  Name: "House"
-  Transform {
-    Location {
-      X: 402.000061
-      Y: -553.5
-      Z: 132
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.3
-      Y: 0.3
-      Z: 0.3
-    }
-  }
-  ParentId: 13253915032246250060
-  ChildIds: 11644041400775637754
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 11644041400775637754
-  Name: "Craftsman House 01"
-  Transform {
-    Location {
-      X: 99950
-      Y: 3000.00024
-      Z: 1880
-    }
-    Rotation {
-      Yaw: -90.0000305
-    }
-    Scale {
-      X: 19.0000019
-      Y: 19.0000019
-      Z: 19.0000019
-    }
-  }
-  ParentId: 13281013145643894029
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Craftsman House 01"
-  }
-  InstanceHistory {
-    SelfId: 11644041400775637754
-    SubobjectId: 6777927257701341868
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-    WasRoot: true
-  }
-}
-Objects {
-  Id: 1894176368964430996
-  Name: "Yard"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13253915032246250060
-  ChildIds: 2106668132454366082
-  ChildIds: 4522653632451730043
-  ChildIds: 1580012088877614752
-  ChildIds: 5889750697227244870
-  ChildIds: 18208122035096665581
-  ChildIds: 630047146617909250
-  ChildIds: 11487429659696817522
-  ChildIds: 6604031934418992079
-  ChildIds: 14536406691193482838
-  ChildIds: 16571772899575969465
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
   }
 }
 Objects {
@@ -28935,17 +35206,17 @@ Objects {
   Name: "Grass Tall"
   Transform {
     Location {
-      X: -6195
-      Y: -2290
+      X: -6025
+      Y: -2400
       Z: 132
     }
     Rotation {
       Yaw: -35.000061
     }
     Scale {
-      X: 3
-      Y: 3
-      Z: 3
+      X: 2.3
+      Y: 2.3
+      Z: 2.60000014
     }
   }
   ParentId: 1894176368964430996
@@ -29203,14 +35474,8 @@ Objects {
   ChildIds: 2483283577961124387
   ChildIds: 8913225966839444584
   ChildIds: 6002304318306302788
-  ChildIds: 17282740455225797471
-  ChildIds: 1203885043302663667
-  ChildIds: 13229982364627061397
   ChildIds: 4919964739429631697
   ChildIds: 16594811871095110626
-  ChildIds: 14887793162501656460
-  ChildIds: 6516815112815210060
-  ChildIds: 15214184577834428114
   ChildIds: 859214565675418602
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -33206,174 +39471,6 @@ Objects {
   }
 }
 Objects {
-  Id: 15214184577834428114
-  Name: "Fence Segment"
-  Transform {
-    Location {
-      X: 15136.4766
-      Y: 27582.5977
-      Z: 432
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 0.3
-      Y: 0.3
-      Z: 0.3
-    }
-  }
-  ParentId: 5702453975289230257
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2613302385022587225
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fence Segment"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 16784.9766
-            Y: 15366.5957
-            Z: 300
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -89.9999847
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.3
-            Z: 0.3
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 13627054644157769251
-    }
-  }
-}
-Objects {
-  Id: 6516815112815210060
-  Name: "Fence Segment"
-  Transform {
-    Location {
-      X: 16216.4766
-      Y: 26322.6055
-      Z: 432.000092
-    }
-    Rotation {
-      Yaw: -179.999954
-    }
-    Scale {
-      X: 0.3
-      Y: 0.3
-      Z: 0.3
-    }
-  }
-  ParentId: 5702453975289230257
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2613302385022587225
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fence Segment"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 17864.9766
-            Y: 14106.6035
-            Z: 300.000092
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.3
-            Z: 0.3
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 13627054644157769251
-    }
-  }
-}
-Objects {
-  Id: 14887793162501656460
-  Name: "Fence Segment"
-  Transform {
-    Location {
-      X: 16216.4785
-      Y: 24057.6055
-      Z: 432.000092
-    }
-    Rotation {
-      Yaw: -179.999954
-    }
-    Scale {
-      X: 0.3
-      Y: 0.3
-      Z: 0.3
-    }
-  }
-  ParentId: 5702453975289230257
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2613302385022587225
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fence Segment"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 17864.9785
-            Y: 11841.6035
-            Z: 300.000092
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.3
-            Z: 0.3
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 13627054644157769251
-    }
-  }
-}
-Objects {
   Id: 16594811871095110626
   Name: "Fence Segment"
   Transform {
@@ -33401,8 +39498,6 @@ Objects {
   ChildIds: 386949347688688185
   ChildIds: 11317845652205700059
   ChildIds: 3461454698414986601
-  ChildIds: 17386773497662428024
-  ChildIds: 2341168710948766803
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -33418,134 +39513,6 @@ Objects {
     InstanceId: 6112888312463321457
     TemplateId: 13627054644157769251
     WasRoot: true
-  }
-}
-Objects {
-  Id: 2341168710948766803
-  Name: "Cube"
-  Transform {
-    Location {
-      X: 77.9665604
-      Y: -2900
-      Z: 1150
-    }
-    Rotation {
-      Pitch: -3.05175781e-05
-      Yaw: 1.68182385e-06
-      Roll: -178.610855
-    }
-    Scale {
-      X: 2
-      Y: 20.5
-      Z: 5
-    }
-  }
-  ParentId: 16594811871095110626
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4309573853018566778
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 1
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 15100783584482199501
-    SubobjectId: 12795759914581086277
-    InstanceId: 6112888312463321457
-    TemplateId: 13627054644157769251
-  }
-}
-Objects {
-  Id: 17386773497662428024
-  Name: "Cube"
-  Transform {
-    Location {
-      X: 77.9665604
-      Y: -2900
-      Z: 4600
-    }
-    Rotation {
-      Pitch: -3.05175781e-05
-      Yaw: 7.59518457e-07
-      Roll: 178.573944
-    }
-    Scale {
-      X: 2
-      Y: 20.5
-      Z: 5
-    }
-  }
-  ParentId: 16594811871095110626
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4309573853018566778
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 1
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 3494696841858857173
-    SubobjectId: 5799722841787625309
-    InstanceId: 6112888312463321457
-    TemplateId: 13627054644157769251
   }
 }
 Objects {
@@ -33569,7 +39536,6 @@ Objects {
     }
   }
   ParentId: 16594811871095110626
-  ChildIds: 5893729704543091592
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -33582,63 +39548,6 @@ Objects {
   InstanceHistory {
     SelfId: 12255951765222222802
     SubobjectId: 14561978466635431002
-    InstanceId: 6112888312463321457
-    TemplateId: 13627054644157769251
-  }
-}
-Objects {
-  Id: 5893729704543091592
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -11.8869514
-      Y: -204.159134
-      Z: 9.05791283
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.3
-      Y: 7.8
-      Z: 1
-    }
-  }
-  ParentId: 3461454698414986601
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 16382046159793390293
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 8993859991910873805
-    SubobjectId: 2077273729794354501
     InstanceId: 6112888312463321457
     TemplateId: 13627054644157769251
   }
@@ -33738,7 +39647,6 @@ Objects {
     }
   }
   ParentId: 16594811871095110626
-  ChildIds: 11406149035678249322
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -33751,63 +39659,6 @@ Objects {
   InstanceHistory {
     SelfId: 600631795201654611
     SubobjectId: 7518396868663568603
-    InstanceId: 6112888312463321457
-    TemplateId: 13627054644157769251
-  }
-}
-Objects {
-  Id: 11406149035678249322
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -9.99978161
-      Y: -204.112427
-      Z: 10.3639088
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.3
-      Y: 7.8
-      Z: 1
-    }
-  }
-  ParentId: 6747953041968534780
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 16382046159793390293
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 13949169485712355458
-    SubobjectId: 11643510158621878026
     InstanceId: 6112888312463321457
     TemplateId: 13627054644157769251
   }
@@ -33833,7 +39684,6 @@ Objects {
     }
   }
   ParentId: 16594811871095110626
-  ChildIds: 6442118435899480961
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -33846,63 +39696,6 @@ Objects {
   InstanceHistory {
     SelfId: 17213652482230435053
     SubobjectId: 10295304383726414693
-    InstanceId: 6112888312463321457
-    TemplateId: 13627054644157769251
-  }
-}
-Objects {
-  Id: 6442118435899480961
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -10.5553236
-      Y: -204.113022
-      Z: 9.99998188
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.3
-      Y: 7.8
-      Z: 1
-    }
-  }
-  ParentId: 7178553080896367605
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 16382046159793390293
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 16663161281813665095
-    SubobjectId: 9744691833700516559
     InstanceId: 6112888312463321457
     TemplateId: 13627054644157769251
   }
@@ -34120,8 +39913,6 @@ Objects {
   ChildIds: 16267962373098609296
   ChildIds: 5165395554897752996
   ChildIds: 12255951765222222802
-  ChildIds: 3494696841858857173
-  ChildIds: 15100783584482199501
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -34137,134 +39928,6 @@ Objects {
     InstanceId: 6112888312463321457
     TemplateId: 13627054644157769251
     WasRoot: true
-  }
-}
-Objects {
-  Id: 15100783584482199501
-  Name: "Cube"
-  Transform {
-    Location {
-      X: 77.9665604
-      Y: -2900
-      Z: 1150
-    }
-    Rotation {
-      Pitch: -3.05175781e-05
-      Yaw: 1.68182385e-06
-      Roll: -178.610855
-    }
-    Scale {
-      X: 2
-      Y: 20.5
-      Z: 5
-    }
-  }
-  ParentId: 4919964739429631697
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4309573853018566778
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 1
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 15100783584482199501
-    SubobjectId: 12795759914581086277
-    InstanceId: 6112888312463321457
-    TemplateId: 13627054644157769251
-  }
-}
-Objects {
-  Id: 3494696841858857173
-  Name: "Cube"
-  Transform {
-    Location {
-      X: 77.9665604
-      Y: -2900
-      Z: 4600
-    }
-    Rotation {
-      Pitch: -3.05175781e-05
-      Yaw: 7.59518457e-07
-      Roll: 178.573944
-    }
-    Scale {
-      X: 2
-      Y: 20.5
-      Z: 5
-    }
-  }
-  ParentId: 4919964739429631697
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4309573853018566778
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 1
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 3494696841858857173
-    SubobjectId: 5799722841787625309
-    InstanceId: 6112888312463321457
-    TemplateId: 13627054644157769251
   }
 }
 Objects {
@@ -34288,7 +39951,6 @@ Objects {
     }
   }
   ParentId: 4919964739429631697
-  ChildIds: 8993859991910873805
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -34301,63 +39963,6 @@ Objects {
   InstanceHistory {
     SelfId: 12255951765222222802
     SubobjectId: 14561978466635431002
-    InstanceId: 6112888312463321457
-    TemplateId: 13627054644157769251
-  }
-}
-Objects {
-  Id: 8993859991910873805
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -11.8869514
-      Y: -204.159134
-      Z: 9.05791283
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.3
-      Y: 7.8
-      Z: 1
-    }
-  }
-  ParentId: 12255951765222222802
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 16382046159793390293
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 8993859991910873805
-    SubobjectId: 2077273729794354501
     InstanceId: 6112888312463321457
     TemplateId: 13627054644157769251
   }
@@ -34457,7 +40062,6 @@ Objects {
     }
   }
   ParentId: 4919964739429631697
-  ChildIds: 13949169485712355458
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -34470,63 +40074,6 @@ Objects {
   InstanceHistory {
     SelfId: 600631795201654611
     SubobjectId: 7518396868663568603
-    InstanceId: 6112888312463321457
-    TemplateId: 13627054644157769251
-  }
-}
-Objects {
-  Id: 13949169485712355458
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -9.99978161
-      Y: -204.112427
-      Z: 10.3639088
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.3
-      Y: 7.8
-      Z: 1
-    }
-  }
-  ParentId: 600631795201654611
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 16382046159793390293
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 13949169485712355458
-    SubobjectId: 11643510158621878026
     InstanceId: 6112888312463321457
     TemplateId: 13627054644157769251
   }
@@ -34552,7 +40099,6 @@ Objects {
     }
   }
   ParentId: 4919964739429631697
-  ChildIds: 16663161281813665095
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -34565,63 +40111,6 @@ Objects {
   InstanceHistory {
     SelfId: 17213652482230435053
     SubobjectId: 10295304383726414693
-    InstanceId: 6112888312463321457
-    TemplateId: 13627054644157769251
-  }
-}
-Objects {
-  Id: 16663161281813665095
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -10.5553236
-      Y: -204.113022
-      Z: 9.99998188
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.3
-      Y: 7.8
-      Z: 1
-    }
-  }
-  ParentId: 17213652482230435053
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 16382046159793390293
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 16663161281813665095
-    SubobjectId: 9744691833700516559
     InstanceId: 6112888312463321457
     TemplateId: 13627054644157769251
   }
@@ -34809,174 +40298,6 @@ Objects {
     SubobjectId: 7197063310235168880
     InstanceId: 6112888312463321457
     TemplateId: 13627054644157769251
-  }
-}
-Objects {
-  Id: 13229982364627061397
-  Name: "Fence Segment"
-  Transform {
-    Location {
-      X: 37200
-      Y: 38350
-      Z: 1000.00024
-    }
-    Rotation {
-      Yaw: 179.999969
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5702453975289230257
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2613302385022587225
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fence Segment"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 17864.9785
-            Y: 11841.6035
-            Z: 300.000092
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999969
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.3
-            Z: 0.3
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 13627054644157769251
-    }
-  }
-}
-Objects {
-  Id: 1203885043302663667
-  Name: "Fence Segment"
-  Transform {
-    Location {
-      X: 33600
-      Y: 42549.9844
-      Z: 1000
-    }
-    Rotation {
-      Yaw: -90.0000458
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5702453975289230257
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2613302385022587225
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fence Segment"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 17864.9766
-            Y: 14106.6035
-            Z: 300.000092
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999969
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.3
-            Z: 0.3
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 13627054644157769251
-    }
-  }
-}
-Objects {
-  Id: 17282740455225797471
-  Name: "Fence Segment"
-  Transform {
-    Location {
-      X: 26250
-      Y: 42549.9844
-      Z: 1000
-    }
-    Rotation {
-      Yaw: -90.0000458
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5702453975289230257
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2613302385022587225
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fence Segment"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 16784.9766
-            Y: 15366.5957
-            Z: 300
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -90
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.3
-            Z: 0.3
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 13627054644157769251
-    }
   }
 }
 Objects {
@@ -36622,6 +41943,8506 @@ Objects {
   }
 }
 Objects {
+  Id: 17231903600651192143
+  Name: "Deck"
+  Transform {
+    Location {
+      X: -740
+      Y: 7045
+      Z: 1025
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1894176368964430996
+  ChildIds: 16906886010209774479
+  ChildIds: 14884106158470634886
+  ChildIds: 3395739470402970192
+  ChildIds: 5326175622032131070
+  ChildIds: 3532072791347603017
+  ChildIds: 5203561586968981479
+  ChildIds: 3067959510028165042
+  ChildIds: 3170532125922352612
+  ChildIds: 6025000169250785826
+  ChildIds: 2989267843571794132
+  ChildIds: 14916321720233096072
+  ChildIds: 3381154727261795796
+  ChildIds: 6593317338497728519
+  ChildIds: 15580100814717010500
+  ChildIds: 13969888018999768418
+  ChildIds: 686857017175347151
+  ChildIds: 17868418881867658004
+  ChildIds: 3624559170482094300
+  ChildIds: 13847800290638712675
+  ChildIds: 4954717706079664258
+  ChildIds: 14921350539340416712
+  ChildIds: 16542628571030100706
+  ChildIds: 9672258080698617775
+  ChildIds: 18070465477884558743
+  ChildIds: 3909069119537892607
+  ChildIds: 4761159128821449889
+  ChildIds: 5828017810669224863
+  ChildIds: 4069272749978231439
+  ChildIds: 1081019372054401694
+  ChildIds: 16150215518022110030
+  ChildIds: 1208528283338893649
+  ChildIds: 844962609668214242
+  ChildIds: 17217279271590523024
+  ChildIds: 17438022385560772713
+  ChildIds: 8328095115553212801
+  ChildIds: 1556027217074678945
+  ChildIds: 4628891716727146820
+  ChildIds: 2186690686579465395
+  ChildIds: 10642166602527810966
+  ChildIds: 13717806582470667097
+  ChildIds: 3480761148442685531
+  ChildIds: 14922447270769850840
+  ChildIds: 3388147792591694722
+  ChildIds: 3144577528816856399
+  ChildIds: 9858589202030577287
+  ChildIds: 11211848381982400391
+  ChildIds: 8221720316784671561
+  ChildIds: 3333083875434401201
+  ChildIds: 4256053631093790918
+  ChildIds: 10769306243090993049
+  ChildIds: 14745528649770278
+  ChildIds: 15939788480076555690
+  ChildIds: 3715083012345653491
+  ChildIds: 11431670395093722531
+  ChildIds: 11783341859750839193
+  ChildIds: 17560231393719095098
+  ChildIds: 7581641567335598588
+  ChildIds: 2497575249480727833
+  ChildIds: 1414388212197951190
+  ChildIds: 6443468759259959079
+  ChildIds: 8049238127587510558
+  ChildIds: 13535953403128920266
+  ChildIds: 14735478108467406917
+  ChildIds: 3739563088759645167
+  ChildIds: 7533023229695175719
+  ChildIds: 848873117539177548
+  ChildIds: 4580485556919432450
+  ChildIds: 971391247150967867
+  ChildIds: 4363628015840866318
+  ChildIds: 1727107559646319625
+  ChildIds: 2967051800653659754
+  ChildIds: 8205661208397587278
+  ChildIds: 12519159425425193307
+  ChildIds: 3730832339313238511
+  ChildIds: 3848471703924938568
+  ChildIds: 3685120521923526408
+  ChildIds: 7582861749376394305
+  ChildIds: 6959710875226046260
+  ChildIds: 18409684771106672759
+  ChildIds: 2485265660306359032
+  ChildIds: 9733582438998393377
+  ChildIds: 17908440038051777422
+  ChildIds: 743559783295488349
+  ChildIds: 12533792178139101252
+  ChildIds: 6701076740730935575
+  ChildIds: 9765990336098710888
+  ChildIds: 17970850837066467239
+  ChildIds: 6898292363949861047
+  ChildIds: 3899684631257697058
+  ChildIds: 2745053045350030902
+  ChildIds: 9876961588894258134
+  ChildIds: 3221554679154554911
+  ChildIds: 7611423712521822902
+  ChildIds: 5910020023476571670
+  ChildIds: 10652207838548616526
+  ChildIds: 11471675947640756580
+  ChildIds: 6374101595917939024
+  ChildIds: 830738123926778265
+  ChildIds: 554871267778717366
+  ChildIds: 8279676544212594670
+  ChildIds: 9184087895461694288
+  ChildIds: 16872872450785648426
+  ChildIds: 9154531358538321623
+  ChildIds: 14139285290063776624
+  ChildIds: 8173281941229921758
+  ChildIds: 4927806611231577876
+  ChildIds: 12449844102477395134
+  ChildIds: 4262781755641761391
+  ChildIds: 4771701839757618410
+  ChildIds: 8310542539199603679
+  ChildIds: 11849766409005585354
+  ChildIds: 15485947629222891143
+  ChildIds: 15324681743691327662
+  ChildIds: 1761756845343275737
+  ChildIds: 2377197717650075208
+  ChildIds: 9457616119784462730
+  ChildIds: 9628627783228151081
+  ChildIds: 2178396442449488793
+  ChildIds: 13437528172673923912
+  ChildIds: 4932955290302359442
+  ChildIds: 18004260995160413604
+  ChildIds: 14752680675850531264
+  ChildIds: 854943339989713989
+  ChildIds: 564246851055015821
+  ChildIds: 1746342543242474807
+  ChildIds: 14355861125625801159
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14355861125625801159
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: -5570
+      Y: -3465
+      Z: -770
+    }
+    Rotation {
+      Yaw: 44.9999924
+    }
+    Scale {
+      X: 3.50000024
+      Y: 3.50000024
+      Z: 3.50000024
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12069358021327041572
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1746342543242474807
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: -5635
+      Y: 4820
+      Z: -595
+    }
+    Rotation {
+      Yaw: -6.10351526e-05
+    }
+    Scale {
+      X: 2.60000014
+      Y: 2.60000014
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 564246851055015821
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: -5635
+      Y: 3590
+      Z: -595
+    }
+    Rotation {
+      Yaw: -135.000015
+    }
+    Scale {
+      X: 2.60000014
+      Y: 2.60000014
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 854943339989713989
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: -5635
+      Y: 2225
+      Z: -595
+    }
+    Rotation {
+      Yaw: 44.999939
+    }
+    Scale {
+      X: 2.60000014
+      Y: 2.60000014
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14752680675850531264
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: -5635
+      Y: -820
+      Z: -595
+    }
+    Rotation {
+      Yaw: 44.999939
+    }
+    Scale {
+      X: 2.60000014
+      Y: 2.60000014
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 18004260995160413604
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: -5635
+      Y: 545
+      Z: -830
+    }
+    Rotation {
+      Yaw: -6.10351526e-05
+    }
+    Scale {
+      X: 2.60000014
+      Y: 23.1999969
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4932955290302359442
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: -5635.00098
+      Y: -1880
+      Z: -725
+    }
+    Rotation {
+      Yaw: 44.999939
+    }
+    Scale {
+      X: 2.60000014
+      Y: 2.60000014
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13437528172673923912
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: -5055
+      Y: 5570
+      Z: -595
+    }
+    Rotation {
+      Yaw: 134.999954
+    }
+    Scale {
+      X: 3.40000057
+      Y: 3.40000057
+      Z: 3.40000057
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2178396442449488793
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: -3840
+      Y: 5570
+      Z: -595
+    }
+    Rotation {
+      Yaw: 89.9999466
+    }
+    Scale {
+      X: 2.60000014
+      Y: 2.60000014
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9628627783228151081
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: -2610
+      Y: 5570
+      Z: -595
+    }
+    Rotation {
+      Yaw: -45.0000305
+    }
+    Scale {
+      X: 2.60000014
+      Y: 2.60000014
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9457616119784462730
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: -1245
+      Y: 5570
+      Z: -595
+    }
+    Rotation {
+      Yaw: 134.999954
+    }
+    Scale {
+      X: 2.60000014
+      Y: 2.60000014
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2377197717650075208
+  Name: "Rock Pile 001"
+  Transform {
+    Location {
+      X: -5535
+      Y: -5320
+      Z: -890
+    }
+    Rotation {
+      Yaw: 44.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9754950629206105799
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1761756845343275737
+  Name: "Rock 01"
+  Transform {
+    Location {
+      X: -5785
+      Y: -5290
+      Z: -890
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8350145896913383097
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15324681743691327662
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: -5525
+      Y: -4910
+      Z: -705
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.89999986
+      Y: 2.89999986
+      Z: 2.89999986
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2493602085652605152
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15485947629222891143
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: -5570
+      Y: -4320
+      Z: -575
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.50000024
+      Y: 3.50000024
+      Z: 3.50000024
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12069358021327041572
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11849766409005585354
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: 1800
+      Y: 5570
+      Z: -595
+    }
+    Rotation {
+      Yaw: 134.999954
+    }
+    Scale {
+      X: 2.60000014
+      Y: 2.60000014
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8310542539199603679
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: 2860
+      Y: 5570
+      Z: -725
+    }
+    Rotation {
+      Yaw: 134.999954
+    }
+    Scale {
+      X: 2.60000014
+      Y: 2.60000014
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4771701839757618410
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: 435
+      Y: 5570
+      Z: -830
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 2.60000014
+      Y: 23.1999969
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4262781755641761391
+  Name: "Bush 02"
+  Transform {
+    Location {
+      X: 4325
+      Y: 5570
+      Z: -725
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 2.60000014
+      Y: 2.60000014
+      Z: 2.60000014
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11470418388198387148
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12449844102477395134
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: 5380
+      Y: 5800
+      Z: -890
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2493602085652605152
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4927806611231577876
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: 5075
+      Y: 5610
+      Z: -720
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.9
+      Y: 2.9
+      Z: 2.9
+    }
+  }
+  ParentId: 17231903600651192143
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2493602085652605152
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8173281941229921758
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215
+      Y: -1025
+      Z: -890
+    }
+    Rotation {
+      Pitch: 88.9173508
+      Yaw: 75.9612198
+      Roll: -104.033905
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14139285290063776624
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5214.99951
+      Y: -1350
+      Z: -889.998169
+    }
+    Rotation {
+      Pitch: 87.6572266
+      Yaw: 83.8735809
+      Roll: -0.00100708008
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9154531358538321623
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5214.99854
+      Y: -1700
+      Z: -889.99585
+    }
+    Rotation {
+      Pitch: 85.5750732
+      Yaw: -89.9986
+      Roll: -179.99881
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16872872450785648426
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215
+      Y: 1085
+      Z: -890
+    }
+    Rotation {
+      Pitch: 88.9175339
+      Yaw: 75.9615784
+      Roll: -104.033966
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9184087895461694288
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5214.99951
+      Y: 745
+      Z: -889.998169
+    }
+    Rotation {
+      Pitch: 87.6574783
+      Yaw: 83.8738861
+      Roll: -0.00100708008
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8279676544212594670
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5214.99854
+      Y: 385
+      Z: -889.99585
+    }
+    Rotation {
+      Pitch: 85.5754318
+      Yaw: -89.9989
+      Roll: -179.998825
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 554871267778717366
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5214.99707
+      Y: -160
+      Z: -889.992249
+    }
+    Rotation {
+      Pitch: 90
+      Roll: -171.735397
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 830738123926778265
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5214.99609
+      Y: -520
+      Z: -889.99
+    }
+    Rotation {
+      Pitch: 87.3148041
+      Yaw: 99.0282822
+      Roll: -0.00314331055
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6374101595917939024
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215.00098
+      Y: 1600
+      Z: -890.003418
+    }
+    Rotation {
+      Pitch: 90
+      Roll: -97.0011292
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11471675947640756580
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215.00244
+      Y: 2040
+      Z: -890.006226
+    }
+    Rotation {
+      Pitch: 88.4166107
+      Yaw: -88.2443848
+      Roll: -179.996109
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10652207838548616526
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215.00293
+      Y: 2495
+      Z: -890.008789
+    }
+    Rotation {
+      Pitch: 87.0992889
+      Yaw: -89.9983215
+      Roll: -179.998367
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5910020023476571670
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215.00439
+      Y: 2855
+      Z: -890.011292
+    }
+    Rotation {
+      Pitch: 88.723732
+      Yaw: 80.7553864
+      Roll: 0.350124925
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7611423712521822902
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215.00488
+      Y: 3185
+      Z: -890.013367
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: -27.9378662
+      Roll: 152.062607
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3221554679154554911
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215.00635
+      Y: 3690
+      Z: -890.016479
+    }
+    Rotation {
+      Pitch: 85.4794312
+      Yaw: 89.998909
+      Roll: -0.00100708008
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9876961588894258134
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215.00732
+      Y: 4165
+      Z: -890.019165
+    }
+    Rotation {
+      Pitch: 89.4593124
+      Yaw: -95.7733154
+      Roll: -179.995468
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2745053045350030902
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215.00781
+      Y: 4460
+      Z: -890.021362
+    }
+    Rotation {
+      Pitch: 88.0995636
+      Yaw: -104.035889
+      Roll: 75.9636536
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3899684631257697058
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215.00928
+      Y: 4925
+      Z: -890.024292
+    }
+    Rotation {
+      Pitch: 86.9324
+      Yaw: 88.812767
+      Roll: -5.70977783
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6898292363949861047
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5215.01
+      Y: 5290
+      Z: -890.027161
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: -90
+      Roll: -179.999481
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17970850837066467239
+  Name: "Whitebox Stairs 01 Straight 150cm"
+  Transform {
+    Location {
+      X: 6351.75293
+      Y: -1759.63965
+      Z: -900
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 8.89726
+      Y: 4.60153961
+      Z: 4.70000029
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:id"
+      AssetReference {
+        Id: 17614084999736129964
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 4050437425243511619
+      }
+    }
+    Overrides {
+      Name: "ma:Building_Floor:color"
+      Color {
+        R: 0.864
+        G: 0.822
+        B: 0.781
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3804561942186383868
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9765990336098710888
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 3936.56641
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0002365
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 6701076740730935575
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 2858.77905
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9995804
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 12533792178139101252
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 3128.0061
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9996338
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 743559783295488349
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 3393.04028
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0003
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 17908440038051777422
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 3664.66821
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.000267
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 9733582438998393377
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 5302.25146
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9996796
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 2485265660306359032
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 4486.32617
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9995956
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 18409684771106672759
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 4751.3584
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0003357
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 6959710875226046260
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 5030.35498
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.999649
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 7582861749376394305
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 4209.72949
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811182e-05
+      Roll: -90.0004196
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 3685120521923526408
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 1226.21143
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9997635
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 3848471703924938568
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 133.686768
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811182e-05
+      Roll: -90.0003586
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 3730832339313238511
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 410.282593
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9996643
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 12519159425425193307
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 675.31665
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.000267
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 8205661208397587278
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 954.313354
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.999733
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 2967051800653659754
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 2577.16089
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0002365
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 1727107559646319625
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 1761.23364
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0003357
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 4363628015840866318
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 2033.63501
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0003
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 971391247150967867
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 2312.63208
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9996796
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 4580485556919432450
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: 1492.00586
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811182e-05
+      Roll: -90.0004044
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 848873117539177548
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -1492.19189
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0001144
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 7533023229695175719
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -2569.97852
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.999649
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 3739563088759645167
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -2308.11963
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0002365
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 14735478108467406917
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -2028.34863
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9997482
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 13535953403128920266
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -1764.08936
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0001831
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 8049238127587510558
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -133.874023
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0001831
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 6443468759259959079
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -942.432373
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9996643
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 1414388212197951190
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -677.399658
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.000267
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 2497575249480727833
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -398.402832
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.999733
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 7581641567335598588
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -1219.02881
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811182e-05
+      Roll: -90.0003586
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 17560231393719095098
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -2844.51343
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9998
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 11783341859750839193
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -3667.80908
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.000267
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 11431670395093722531
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -3388.03906
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.999733
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 3715083012345653491
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -3123.77979
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0001831
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 15939788480076555690
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -3929.66797
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9996338
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 14745528649770278
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -5295.354
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.000267
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 10769306243090993049
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -5026.12744
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811182e-05
+      Roll: -90.0002136
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 4256053631093790918
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -4746.35645
+      Y: -5382.0166
+      Z: 5.58728027
+    }
+    Rotation {
+      Yaw: -179.999954
+      Roll: 89.9997787
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 3333083875434401201
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -4482.09717
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811146e-05
+      Roll: -90.0001144
+    }
+    Scale {
+      X: 3.25029755
+      Y: 1.94090319
+      Z: 0.120193303
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 8221720316784671561
+  Name: "Decal Wood Ends Variations"
+  Transform {
+    Location {
+      X: -4210.19971
+      Y: -5381.30762
+      Z: -3.80706787
+    }
+    Rotation {
+      Yaw: 4.09811182e-05
+      Roll: -90.0000916
+    }
+    Scale {
+      X: 3.25
+      Y: 1.941
+      Z: 0.12
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.603000045
+        G: 0.546314
+        B: 0.502299
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14463303659751748326
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 11211848381982400391
+  Name: "Deck Railing"
+  Transform {
+    Location {
+      X: -335
+      Y: -5220
+      Z: 25
+    }
+    Rotation {
+      Yaw: -3.05175763e-05
+    }
+    Scale {
+      X: 0.99
+      Y: 0.99
+      Z: 0.99
+    }
+  }
+  ParentId: 17231903600651192143
+  ChildIds: 5091081991895027246
+  ChildIds: 14159576712012065299
+  ChildIds: 10930616579565424772
+  ChildIds: 1378352010267614399
+  ChildIds: 18110799767273616697
+  ChildIds: 11468022115308264226
+  ChildIds: 623519702673352843
+  ChildIds: 11396491483428525660
+  ChildIds: 2168393493936429759
+  ChildIds: 2639295554393138099
+  ChildIds: 16623921665963491804
+  ChildIds: 6793730520522229795
+  ChildIds: 6125581042988721309
+  ChildIds: 7490349167140449683
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 7490349167140449683
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 6685.33789
+      Y: 3.27356553
+      Z: -833.332397
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 6125581042988721309
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -4950
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 6793730520522229795
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -3150
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 16623921665963491804
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -4900
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 2639295554393138099
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -1350
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 2168393493936429759
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -3100
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 11396491483428525660
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 425
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 623519702673352843
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -1325
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 11468022115308264226
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 2175
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 18110799767273616697
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: 475
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 1378352010267614399
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 3875
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 10930616579565424772
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: 2150
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 14159576712012065299
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 5650
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 5091081991895027246
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: 3900
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 11211848381982400391
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 9858589202030577287
+  Name: "Deck Railing"
+  Transform {
+    Location {
+      X: -335
+      Y: 5180
+      Z: 25
+    }
+    Rotation {
+      Yaw: -3.05175763e-05
+    }
+    Scale {
+      X: 0.99
+      Y: 0.99
+      Z: 0.99
+    }
+  }
+  ParentId: 17231903600651192143
+  ChildIds: 12896930647471151244
+  ChildIds: 17460368941580348662
+  ChildIds: 8949763690432938103
+  ChildIds: 7699518467477310886
+  ChildIds: 12207660265197217399
+  ChildIds: 13253407421026819127
+  ChildIds: 6317370031042829922
+  ChildIds: 14815180735095760213
+  ChildIds: 3561590276774393397
+  ChildIds: 11180685389760360381
+  ChildIds: 9435629852606698667
+  ChildIds: 302401653569303136
+  ChildIds: 17435355535514734091
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17435355535514734091
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -4950
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 302401653569303136
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -3150
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 9435629852606698667
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -4900
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 11180685389760360381
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -1350
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 3561590276774393397
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -3100
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 14815180735095760213
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 425
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 6317370031042829922
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -1325
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 13253407421026819127
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 2175
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 12207660265197217399
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: 475
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 7699518467477310886
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 3875
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 8949763690432938103
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: 2150
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 17460368941580348662
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 5650
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 12896930647471151244
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: 3900
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 3144577528816856399
+  Name: "Deck Railing"
+  Transform {
+    Location {
+      X: -5260
+      Y: 330
+      Z: 25
+    }
+    Rotation {
+      Yaw: -90.0000229
+    }
+    Scale {
+      X: 0.99
+      Y: 0.99
+      Z: 0.99
+    }
+  }
+  ParentId: 17231903600651192143
+  ChildIds: 11192046499475590729
+  ChildIds: 3944061665744214134
+  ChildIds: 12575242280481705037
+  ChildIds: 13421070989694159665
+  ChildIds: 10340121272845785353
+  ChildIds: 15803383983078368700
+  ChildIds: 5787898866787967938
+  ChildIds: 4558629273824374876
+  ChildIds: 184310922576354796
+  ChildIds: 10294053955499668864
+  ChildIds: 6050386225096230716
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 6050386225096230716
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -3150
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 3144577528816856399
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 10294053955499668864
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -4900
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 3144577528816856399
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 184310922576354796
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -1350
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 3144577528816856399
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 4558629273824374876
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -3100
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 3144577528816856399
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 5787898866787967938
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 425
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 3144577528816856399
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 15803383983078368700
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -1325
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 3144577528816856399
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 10340121272845785353
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 2175
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 3144577528816856399
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 13421070989694159665
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: 475
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 3144577528816856399
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 12575242280481705037
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 3875
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 3144577528816856399
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 3944061665744214134
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: 2150
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 3144577528816856399
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 11192046499475590729
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: 3900
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 3144577528816856399
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 3388147792591694722
+  Name: "Deck Railing"
+  Transform {
+    Location {
+      X: 5265
+      Y: 330
+      Z: 25
+    }
+    Rotation {
+      Yaw: -90.0000229
+    }
+    Scale {
+      X: 0.99
+      Y: 0.99
+      Z: 0.99
+    }
+  }
+  ParentId: 17231903600651192143
+  ChildIds: 5529345537740042370
+  ChildIds: 6780630936403635054
+  ChildIds: 10014142028411476969
+  ChildIds: 7575088847593748666
+  ChildIds: 7757799182648333130
+  ChildIds: 179188982163678927
+  ChildIds: 6106318393412367784
+  ChildIds: 6916314099192380960
+  ChildIds: 12296980022158828397
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 12296980022158828397
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 2171.71655
+      Y: 1035.35449
+      Z: -833.332397
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 3388147792591694722
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 6916314099192380960
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -3150
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 3388147792591694722
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 6106318393412367784
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -4900
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 3388147792591694722
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 179188982163678927
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -1350
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 3388147792591694722
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 7757799182648333130
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -3100
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 3388147792591694722
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 7575088847593748666
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 425
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 3388147792591694722
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 10014142028411476969
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: -1325
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 3388147792591694722
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 6780630936403635054
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 2175
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 3388147792591694722
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 5529345537740042370
+  Name: "Craftsman Porch Fence Railing 01"
+  Transform {
+    Location {
+      X: 475
+      Y: 0.0139160156
+      Z: 94.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 4.24000216
+    }
+  }
+  ParentId: 3388147792591694722
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11390981272720591546
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 11147302489688727635
+    SubobjectId: 7292688535535796229
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 14922447270769850840
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 5340
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3480761148442685531
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 3243.49683
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 85.479866
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13717806582470667097
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 3695
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 89.4633102
+      Yaw: 174.219193
+      Roll: -179.999954
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10642166602527810966
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 4040
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 88.0995636
+      Yaw: 165.96373
+      Roll: 75.9638
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2186690686579465395
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 4515
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 86.9329147
+      Yaw: -1.1852417
+      Roll: -5.70819092
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4628891716727146820
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 4965
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1556027217074678945
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 1140
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: -90
+      Roll: -97.001709
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8328095115553212801
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 1590
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 88.4178467
+      Yaw: -178.249084
+      Roll: 180
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17438022385560772713
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 2015
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 87.1000366
+      Yaw: 180
+      Roll: 180
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17217279271590523024
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 2430
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 88.7240448
+      Yaw: -9.24264526
+      Roll: 0.351719409
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 844962609668214242
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 2740
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 90
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1208528283338893649
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -1010.00012
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 87.3155365
+      Yaw: 9.03167343
+      Roll: 9.11485768e-06
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16150215518022110030
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -645
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+      Roll: -81.7358704
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1081019372054401694
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -80.8042603
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 85.5758209
+      Yaw: 180
+      Roll: 180
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4069272749978231439
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 286.990723
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 87.6582336
+      Yaw: -6.12475538
+      Roll: -5.22368282e-06
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5828017810669224863
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: 590
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 88.9197083
+      Yaw: -14.0362635
+      Roll: -104.036148
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4761159128821449889
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -3185
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 90
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3909069119537892607
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -2660
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 87.0823288
+      Yaw: 175.895584
+      Roll: 180
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 18070465477884558743
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -2235
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 5.35582829
+      Roll: 12.1361141
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9672258080698617775
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -1935
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: 180
+      Roll: 90.0000153
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16542628571030100706
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -1410
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: -90
+      Roll: -98.2670288
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14921350539340416712
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -3960
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4954717706079664258
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -3685
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 84.735817
+      Yaw: -5.24447632
+      Roll: -105.618683
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13847800290638712675
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -4384.30469
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 85.7351837
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3624559170482094300
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -4885
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+      Roll: -89.2138062
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17868418881867658004
+  Name: "Wood 2x4 4m"
+  Transform {
+    Location {
+      X: -5210
+      Y: -5170
+      Z: -890
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: -7.12502289
+      Roll: -16.3910217
+    }
+    Scale {
+      X: 2.87017751
+      Y: 2.69999981
+      Z: 4.5
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4291393536411848060
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 686857017175347151
+  Name: "Small Stair Railing"
+  Transform {
+    Location {
+      X: 4957.20703
+      Y: 5247.25586
+      Z: 525
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17231903600651192143
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 11072521076370304172
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Small Stair Railing"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 5697.20703
+            Y: -5210
+            Z: -500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18015247390409656899
+    }
+  }
+}
+Objects {
+  Id: 13969888018999768418
+  Name: "Small Stair Railing"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17231903600651192143
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 11072521076370304172
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Small Stair Railing"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 5697.20703
+            Y: -1815
+            Z: -500
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18015247390409656899
+    }
+  }
+}
+Objects {
+  Id: 15580100814717010500
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 140
+      Y: -20
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6593317338497728519
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -1613.62012
+      Y: -20
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3381154727261795796
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -3399.39063
+      Y: -20
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14916321720233096072
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -5185.29443
+      Y: -172.361328
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+      Roll: 90.0000076
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2989267843571794132
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 140
+      Y: 1750
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6025000169250785826
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -5185.29443
+      Y: 1597.63867
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+      Roll: 90.0000076
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3170532125922352612
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 140
+      Y: 3555
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3067959510028165042
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -5185.29443
+      Y: 3402.63867
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+      Roll: 90.0000076
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5203561586968981479
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -5165
+      Y: 5105
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+      Roll: 90.0000076
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3532072791347603017
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -3379.09619
+      Y: 5257.36133
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5326175622032131070
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -1593.32544
+      Y: 5257.36133
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3395739470402970192
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 160.294556
+      Y: 5257.36133
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14884106158470634886
+  Name: "Cube"
+  Transform {
+    Location {
+      Z: -445
+    }
+    Rotation {
+    }
+    Scale {
+      X: 105.599983
+      Y: 104.6
+      Z: 8.9
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 11613036252021123664
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.394000024
+        G: 0.248423532
+        B: 0.144204
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 4.14
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.4
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16906886010209774479
+  Name: "Cube"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 108.6
+      Y: 107.6
+      Z: 0.8
+    }
+  }
+  ParentId: 17231903600651192143
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 9434609535791461420
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.405000031
+        G: 0.200957716
+        B: 0.0425249375
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 5889750697227244870
   Name: "Sandbox"
   Transform {
@@ -37261,6 +51082,18 @@ Objects {
       AssetReference {
         Id: 15835672292391321145
       }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 2
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 2
     }
   }
   Collidable_v2 {
@@ -40077,6 +53910,18 @@ Objects {
         Id: 15835672292391321145
       }
     }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 2
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 2
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -40159,6 +54004,18 @@ Objects {
         Id: 15835672292391321145
       }
     }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 6
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 6
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -40208,6 +54065,18 @@ Objects {
         Id: 15835672292391321145
       }
     }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 4
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 4
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -40254,6 +54123,18 @@ Objects {
       AssetReference {
         Id: 15835672292391321145
       }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 10
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 10
     }
   }
   Collidable_v2 {
@@ -40420,6 +54301,18 @@ Objects {
         Id: 15835672292391321145
       }
     }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 12
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 12
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -40567,7 +54460,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -40630,7 +54523,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -40692,7 +54585,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -40754,7 +54647,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -40816,7 +54709,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -40878,7 +54771,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -40940,7 +54833,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -41002,7 +54895,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -41064,7 +54957,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -41125,7 +55018,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -41186,7 +55079,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -41247,7 +55140,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -41308,7 +55201,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -41370,7 +55263,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -41432,7 +55325,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -41494,7 +55387,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -41557,7 +55450,7 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -42294,7 +56187,7 @@ Objects {
     Location {
       X: -10640
       Y: -469.999512
-      Z: -78.0000305
+      Z: 81.9999695
     }
     Rotation {
     }
@@ -42952,7 +56845,7 @@ Objects {
     Overrides {
       Name: "cs:Speed"
       Vector {
-        X: 2
+        Y: 2
       }
     }
   }
@@ -43104,7 +56997,7 @@ Objects {
     Overrides {
       Name: "cs:Speed"
       Vector {
-        X: -2
+        Y: -2
       }
     }
   }
@@ -43256,7 +57149,7 @@ Objects {
     Overrides {
       Name: "cs:Speed"
       Vector {
-        X: 2
+        Y: 2
       }
     }
   }
@@ -43408,7 +57301,7 @@ Objects {
     Overrides {
       Name: "cs:Speed"
       Vector {
-        X: -2
+        Y: -2
       }
     }
   }
@@ -43560,7 +57453,7 @@ Objects {
     Overrides {
       Name: "cs:Speed"
       Vector {
-        X: 2
+        Y: 2
       }
     }
   }
@@ -43712,7 +57605,7 @@ Objects {
     Overrides {
       Name: "cs:Speed"
       Vector {
-        X: -2
+        Y: -2
       }
     }
   }
@@ -43864,7 +57757,7 @@ Objects {
     Overrides {
       Name: "cs:Speed"
       Vector {
-        X: 2
+        Y: -2
       }
     }
   }
@@ -44016,7 +57909,7 @@ Objects {
     Overrides {
       Name: "cs:Speed"
       Vector {
-        X: -2
+        Y: 2
       }
     }
   }
@@ -49272,7 +63165,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Item - Gold Ring"
+          String: "Gold Ring"
         }
         Overrides {
           Name: "Position"
@@ -50102,6 +63995,40 @@ Objects {
     ScriptAsset {
       Id: 15205461612182831883
     }
+  }
+}
+Objects {
+  Id: 13816742157730657961
+  Name: "Terrain"
+  Transform {
+    Location {
+      X: 11797.0898
+      Y: 3571.60156
+      Z: -7782.73438
+    }
+    Rotation {
+      Yaw: -47.6282959
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Terrain {
+    Material {
+      Id: 3822609607801291069
+    }
+    VoxelSize: 700
+    OctreeDepth: 5
+    GeneratorID: "DEPRECATED"
   }
 }
 Objects {
