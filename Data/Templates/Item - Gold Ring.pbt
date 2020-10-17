@@ -4,38 +4,24 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 8136103707212543612
+      RootId: 13502343614372805169
       Objects {
-        Id: 8136103707212543612
-        Name: "Item - Gold Ring"
+        Id: 13502343614372805169
+        Name: "Gold Ring"
         Transform {
           Scale {
             X: 1
             Y: 1
-            Z: 0.173535138
+            Z: 1
           }
         }
         ParentId: 18378500637296493349
         ChildIds: 10913684027264179897
         UnregisteredParameters {
           Overrides {
-            Name: "cs:SkipMod"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:Size"
-            Float: 0.7
-          }
-          Overrides {
             Name: "cs:PickupSound"
             AssetReference {
               Id: 11959917457289143983
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 11251994733772007315
             }
           }
         }
@@ -45,24 +31,13 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        CoreMesh {
-          MeshAsset {
-            Id: 13282259600726273799
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
+        Folder {
+          IsGroup: true
         }
       }
       Objects {
         Id: 10913684027264179897
-        Name: "ClientContext"
+        Name: "Geo"
         Transform {
           Location {
           }
@@ -74,7 +49,7 @@
             Z: 1
           }
         }
-        ParentId: 8136103707212543612
+        ParentId: 13502343614372805169
         ChildIds: 2261771314680139829
         ChildIds: 2937438721188151792
         ChildIds: 16758933499839826087
@@ -92,16 +67,19 @@
         Name: "Gem"
         Transform {
           Location {
-            X: 73.7822189
-            Z: -2.08778858
+            X: 7.38525391
+            Y: -0.0009765625
+            Z: 74.0383301
           }
           Rotation {
-            Pitch: -90
+            Pitch: -1.47128296
+            Yaw: 0.000664388237
+            Roll: -0.000152587891
           }
           Scale {
             X: 0.625268579
             Y: 0.625268579
-            Z: 3.60312366
+            Z: 0.625268579
           }
         }
         ParentId: 10913684027264179897
@@ -150,18 +128,18 @@
         Name: "Setting"
         Transform {
           Location {
-            X: 61.2763596
-            Z: -2.08776665
+            X: 7.06347656
+            Z: 61.5354
           }
           Rotation {
-            Pitch: 90
-            Yaw: -63.4349632
-            Roll: -63.434967
+            Pitch: 1.47142756
+            Yaw: -179.999344
+            Roll: -179.999847
           }
           Scale {
             X: 0.500214875
             Y: 0.500214875
-            Z: 2.16187429
+            Z: 0.375161201
           }
         }
         ParentId: 10913684027264179897
@@ -211,29 +189,22 @@
         Name: "Band"
         Transform {
           Location {
-            X: 4.76837158e-07
-            Z: -45.6330872
+            X: 13.0454102
+            Z: 0.0858154297
           }
           Rotation {
+            Pitch: 88.5283203
+            Yaw: -0.00479125977
+            Roll: -0.00546264648
           }
           Scale {
             X: 1.00042975
             Y: 1.00042975
-            Z: 0.864378273
+            Z: 0.15
           }
         }
         ParentId: 10913684027264179897
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:Size"
-            Float: 0.6
-          }
-          Overrides {
-            Name: "cs:PickupSound"
-            AssetReference {
-              Id: 11959917457289143983
-            }
-          }
           Overrides {
             Name: "cs:SkipMod"
             Bool: true
@@ -276,30 +247,12 @@
       }
     }
     Assets {
-      Id: 13282259600726273799
-      Name: "Cylinder"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cylinder_002"
-      }
-    }
-    Assets {
       Id: 11959917457289143983
       Name: "Collect Coin Star Ping 01 SFX"
       PlatformAssetType: 7
       PrimaryAsset {
         AssetType: "AudioAssetRef"
         AssetId: "sfx_collect_coin_star_ping_01_Cue_ref"
-      }
-    }
-    Assets {
-      Id: 11251994733772007315
-      Name: "Invisible"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_invisible_001"
       }
     }
     Assets {

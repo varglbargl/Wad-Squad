@@ -144,6 +144,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -301,6 +307,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -452,6 +464,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -600,6 +618,12 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
           }
         }
       }
@@ -753,6 +777,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -904,6 +934,14 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -1052,6 +1090,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
           }
         }
       }
@@ -1205,6 +1251,14 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.000405602943
+            Y: 3.24759203e-05
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -1355,6 +1409,14 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.000405602943
+            Y: 3.24759203e-05
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -1503,6 +1565,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.000405602943
+            Y: 3.24759203e-05
+            Z: 25.6550083
           }
         }
       }
@@ -1656,6 +1726,14 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.000405602943
+            Y: 3.24759203e-05
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -1805,6 +1883,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
           }
         }
       }
@@ -1958,6 +2044,14 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -2107,6 +2201,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
           }
         }
       }
@@ -2260,6 +2362,14 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -2409,6 +2519,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
           }
         }
       }
@@ -2561,6 +2679,14 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -2709,6 +2835,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
           }
         }
       }
@@ -2861,6 +2995,14 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -3009,6 +3151,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
           }
         }
       }
@@ -3161,6 +3311,14 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -3309,6 +3467,14 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.24756e-05
+            Y: -0.000405602856
+            Z: 25.6550083
           }
         }
       }

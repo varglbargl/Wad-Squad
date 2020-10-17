@@ -75,7 +75,7 @@ end
 function rollThatWad(deltaTime)
   deltaTime = deltaTime or delay
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.New(0, 0, (wadSize - 1.7) * -gravityForce * deltaTime * 100)
+  local simulatedMass = Vector3.New(0, 0, (wadSize - 1.65) * -gravityForce * deltaTime * 100)
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()

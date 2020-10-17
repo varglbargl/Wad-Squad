@@ -15,13 +15,9 @@
             Z: 1.00000024
           }
         }
-        ParentId: 12084705839328914698
+        ParentId: 12369859827094797545
         ChildIds: 10505543911066477400
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:Size"
-            Float: 1.2
-          }
           Overrides {
             Name: "cs:PickupSound"
             AssetReference {
@@ -84,7 +80,7 @@
         Name: "Cube"
         Transform {
           Location {
-            Z: 64.9999924
+            Z: 39.2729607
           }
           Rotation {
           }
@@ -136,9 +132,9 @@
         Name: "Cube"
         Transform {
           Location {
-            X: -95.0003128
-            Y: 2.86102295e-05
-            Z: 34.9998932
+            X: -94.9999466
+            Y: 3.9537721e-05
+            Z: 9.2728653
           }
           Rotation {
           }
@@ -190,9 +186,9 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 95.0003128
-            Y: -2.86102295e-05
-            Z: 34.9998932
+            X: 94.9999466
+            Y: -3.9537721e-05
+            Z: 9.2728653
           }
           Rotation {
           }
@@ -244,9 +240,9 @@
         Name: "Cube"
         Transform {
           Location {
-            X: -0.000587304414
-            Y: -44.9999619
-            Z: 34.9998932
+            X: -0.000808437471
+            Y: -44.9981918
+            Z: 9.2728653
           }
           Rotation {
           }
@@ -298,9 +294,9 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 0.000587304414
-            Y: 44.9999619
-            Z: 34.9998932
+            X: 0.000808437471
+            Y: 44.9981918
+            Z: 9.2728653
           }
           Rotation {
           }
@@ -352,9 +348,9 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: -75.0001297
-            Y: -24.9999828
-            Z: 69.9999924
+            X: -74.9999695
+            Y: -24.9998951
+            Z: 44.2729607
           }
           Rotation {
           }
@@ -406,9 +402,9 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: -25.000145
-            Y: -24.9998646
-            Z: 69.9999924
+            X: -24.9999828
+            Y: -24.9998379
+            Z: 44.2729607
           }
           Rotation {
           }
@@ -460,9 +456,9 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: 24.9998646
-            Y: -25.000145
-            Z: 69.9999924
+            X: 24.9999905
+            Y: -25.0000858
+            Z: 44.2729607
           }
           Rotation {
           }
@@ -514,9 +510,9 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: 74.9998474
+            X: 74.9999695
             Y: -25.0000286
-            Z: 69.9999924
+            Z: 44.2729607
           }
           Rotation {
           }
@@ -568,9 +564,9 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: 75.0001297
-            Y: 24.9999828
-            Z: 69.9999924
+            X: 74.9999695
+            Y: 24.9998951
+            Z: 44.2729607
           }
           Rotation {
           }
@@ -622,9 +618,9 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: 25.000145
-            Y: 24.9998646
-            Z: 69.9999924
+            X: 24.9999828
+            Y: 24.9998379
+            Z: 44.2729607
           }
           Rotation {
           }
@@ -676,9 +672,9 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: -24.9998646
-            Y: 25.000145
-            Z: 69.9999924
+            X: -24.9999905
+            Y: 25.0000858
+            Z: 44.2729607
           }
           Rotation {
           }
@@ -730,9 +726,9 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: -74.9998474
+            X: -74.9999695
             Y: 25.0000286
-            Z: 69.9999924
+            Z: 44.2729607
           }
           Rotation {
           }
@@ -784,9 +780,9 @@
         Name: "Pipe"
         Transform {
           Location {
-            X: -49.9999847
-            Y: -0.000120004013
-            Z: 9.99999905
+            X: -49.9999733
+            Y: -0.000107685672
+            Z: -15.7270269
           }
           Rotation {
           }
@@ -838,7 +834,7 @@
         Name: "Pipe"
         Transform {
           Location {
-            Z: 9.99999905
+            Z: -15.7270269
           }
           Rotation {
           }
@@ -890,9 +886,9 @@
         Name: "Pipe"
         Transform {
           Location {
-            X: 49.9999847
-            Y: 0.000120004013
-            Z: 9.99999905
+            X: 49.9999733
+            Y: 0.000107685672
+            Z: -15.7270269
           }
           Rotation {
           }

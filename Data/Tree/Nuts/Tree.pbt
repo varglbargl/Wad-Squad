@@ -1302,7 +1302,7 @@ Objects {
 }
 Objects {
   Id: 14961133532710113978
-  Name: "Item - Hex Nut"
+  Name: "Hex Nut"
   Transform {
     Scale {
       X: 1
@@ -1311,6 +1311,12 @@ Objects {
     }
   }
   ParentId: 14947551448938016171
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
       key: 4822603087812204496
@@ -1318,6 +1324,16 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Hex Nut"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
         }
       }
     }

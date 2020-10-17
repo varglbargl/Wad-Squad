@@ -282,6 +282,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -431,6 +437,12 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
           }
         }
       }
@@ -584,6 +596,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -729,6 +747,12 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
         }
         Overrides {
           Name: "Rotation"
@@ -886,6 +910,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -1035,6 +1065,12 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
           }
         }
       }
@@ -1188,6 +1224,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -1337,6 +1379,12 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
           }
         }
       }
@@ -1489,6 +1537,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -1637,6 +1691,12 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
           }
         }
       }
@@ -1789,6 +1849,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -1937,6 +2003,12 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
           }
         }
       }
@@ -2089,6 +2161,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -2239,6 +2317,12 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
       }
     }
     TemplateAsset {
@@ -2367,7 +2451,7 @@ Objects {
 }
 Objects {
   Id: 14656127293318179697
-  Name: "Item - Lego Brick"
+  Name: "Lego Brick"
   Transform {
     Scale {
       X: 1
@@ -2376,6 +2460,12 @@ Objects {
     }
   }
   ParentId: 12369859827094797545
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
       key: 15626392067336189312
@@ -2383,6 +2473,12 @@ Objects {
         Overrides {
           Name: "Name"
           String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
         }
         Overrides {
           Name: "Rotation"

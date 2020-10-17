@@ -55,9 +55,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -67,6 +67,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 7865226810826310261
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -167,9 +172,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -179,6 +184,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 5545285103813181809
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -279,9 +289,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -291,6 +301,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 2544852158717374561
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -391,9 +406,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -403,6 +418,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 2019450262797226395
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -503,9 +523,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -515,6 +535,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 15639465444146505217
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -615,9 +640,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -627,6 +652,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 3600735437760906937
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -727,9 +757,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -739,6 +769,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 9468927692523607741
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -838,9 +873,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -850,6 +885,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 1451686355315582283
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -950,9 +990,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -962,6 +1002,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 12430212163582375253
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -1060,9 +1105,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -1072,6 +1117,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 1841024701462530233
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -1290,9 +1340,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -1302,6 +1352,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 7970124603774909830
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -1402,9 +1457,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -1414,6 +1469,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 8154016067162190793
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -1512,9 +1572,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -1524,6 +1584,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 18109566311582581181
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -1623,9 +1688,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -1635,6 +1700,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 12277569815810828355
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -1734,9 +1804,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -1746,6 +1816,11 @@ Objects {
             SubObjectId: 15439994944323740757
             InstanceId: 14994935548094100433
             TemplateId: 8295217518807828874
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -1846,9 +1921,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -1858,6 +1933,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 6013287860616023046
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -1958,9 +2038,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -1970,6 +2050,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 14418867369113607836
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -2076,9 +2161,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -2088,6 +2173,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 13967097505319392599
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -2188,9 +2278,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -2200,6 +2290,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 3976232022556861763
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -2300,9 +2395,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -2312,6 +2407,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 12740548994557432141
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -2412,9 +2512,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -2424,6 +2524,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 1829278518508409585
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -2524,9 +2629,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -2536,6 +2641,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 5051726247300550109
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -2754,9 +2864,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -2766,6 +2876,11 @@ Objects {
             SubObjectId: 15439994944323740757
             InstanceId: 6404440850945233164
             TemplateId: 8295217518807828874
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -2866,9 +2981,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -2878,6 +2993,11 @@ Objects {
             SubObjectId: 15439994944323740757
             InstanceId: 10318716609773902456
             TemplateId: 8295217518807828874
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -2978,9 +3098,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -2990,6 +3110,11 @@ Objects {
             SubObjectId: 15439994944323740757
             InstanceId: 10877554438183046901
             TemplateId: 8295217518807828874
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -3090,9 +3215,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -3102,6 +3227,11 @@ Objects {
             SubObjectId: 15439994944323740757
             InstanceId: 16858637479498107824
             TemplateId: 8295217518807828874
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -3200,9 +3330,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -3212,6 +3342,11 @@ Objects {
             SubObjectId: 15439994944323740757
             InstanceId: 11087891553168197545
             TemplateId: 8295217518807828874
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -3317,9 +3452,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -3329,6 +3464,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 2152195823551978914
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -3433,9 +3573,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -3445,6 +3585,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 15030755970336054651
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -3551,9 +3696,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -3563,6 +3708,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 12749281793275665295
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -3668,9 +3818,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -3680,6 +3830,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 13892627704730174933
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -3784,9 +3939,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -3796,6 +3951,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 6287154242483203338
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -3901,9 +4061,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -3913,6 +4073,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 7151903335778024898
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -4019,9 +4184,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -4031,6 +4196,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 9734779615130485938
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -4135,9 +4305,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -4147,6 +4317,11 @@ Objects {
             SubObjectId: 15439994944323740757
             InstanceId: 10687446034590507822
             TemplateId: 8295217518807828874
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -4245,9 +4420,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -4257,6 +4432,11 @@ Objects {
             SubObjectId: 15439994944323740757
             InstanceId: 9529354190295674154
             TemplateId: 8295217518807828874
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -4357,9 +4537,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -4369,6 +4549,11 @@ Objects {
             SubObjectId: 15439994944323740757
             InstanceId: 11237134811868656311
             TemplateId: 8295217518807828874
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -4474,9 +4659,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -4486,6 +4671,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 14250567919195696854
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -4586,9 +4776,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -4598,6 +4788,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 1643020403553445929
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -4696,9 +4891,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -4708,6 +4903,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 11580013866929012085
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -4807,9 +5007,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -4819,6 +5019,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 16923538675444705533
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -5277,9 +5482,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -5289,6 +5494,11 @@ Objects {
             SubObjectId: 15439994944323740757
             InstanceId: 9803540227583671146
             TemplateId: 8295217518807828874
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -5393,9 +5603,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.1
-            Y: 0.1
-            Z: 1.19999981
+            X: 0.100000143
+            Y: 0.0999979824
+            Z: 1.45995545
           }
         }
         Overrides {
@@ -5405,6 +5615,11 @@ Objects {
             SubObjectId: 17595363790206932742
             InstanceId: 2194816730996462272
             TemplateId: 1547873072103151062
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
@@ -5534,7 +5749,7 @@ Objects {
 }
 Objects {
   Id: 604084488066579313
-  Name: "Item - Matchbox"
+  Name: "Match Box"
   Transform {
     Scale {
       X: 1

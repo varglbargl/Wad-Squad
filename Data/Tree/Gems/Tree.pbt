@@ -3539,7 +3539,7 @@ Objects {
 }
 Objects {
   Id: 62891076359961030
-  Name: "Diamond"
+  Name: "Precious Gem"
   Transform {
     Scale {
       X: 1
@@ -3548,6 +3548,12 @@ Objects {
     }
   }
   ParentId: 2134820763970167618
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
       key: 14756763129742726229

@@ -15,7 +15,7 @@
             Z: 0.875616968
           }
         }
-        ParentId: 13823332308649692460
+        ParentId: 416289918673193258
         ChildIds: 17799661305285969016
         UnregisteredParameters {
           Overrides {
@@ -23,10 +23,6 @@
             AssetReference {
               Id: 9697630894860945995
             }
-          }
-          Overrides {
-            Name: "cs:Size"
-            Float: 0.8
           }
         }
         Collidable_v2 {

@@ -18,10 +18,6 @@
         ParentId: 18165674481544559514
         UnregisteredParameters {
           Overrides {
-            Name: "cs:Size"
-            Float: 0.7
-          }
-          Overrides {
             Name: "cs:PickupSound"
             AssetReference {
               Id: 11763366870123048561

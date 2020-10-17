@@ -10,25 +10,39 @@
         Name: "Candy Box"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.3
+            Y: 0.3
+            Z: 0.3
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 5889750697227244870
+        ChildIds: 14044536720411881364
         ChildIds: 6556165746650720676
+        ChildIds: 1694754718726258614
         ChildIds: 10345018831423879558
+        ChildIds: 3003508651444626110
         ChildIds: 12806692021067326606
+        ChildIds: 3375057998182242265
         ChildIds: 13169234361403904489
+        ChildIds: 12773910114177777822
         ChildIds: 2977462296767448750
+        ChildIds: 14434913837695722774
         ChildIds: 5784596752700941094
+        ChildIds: 6326500523867252753
         ChildIds: 14976763492555124257
+        ChildIds: 17813148641908666829
         ChildIds: 8007714533677594621
+        ChildIds: 3992730749130486748
         ChildIds: 12645297175737464300
+        ChildIds: 3080043291142291828
         ChildIds: 12874272579119728452
+        ChildIds: 13650406020410031191
         ChildIds: 2701001221891947111
+        ChildIds: 8923592478775251076
         ChildIds: 16411928113813411508
+        ChildIds: 4961931504814396405
         ChildIds: 15909049061197436357
+        ChildIds: 9713362214388206497
         ChildIds: 2222758167004630417
         ChildIds: 15543212880072492756
         ChildIds: 7017348845820927790
@@ -48,6 +62,58 @@
         }
         Folder {
           IsGroup: true
+        }
+      }
+      Objects {
+        Id: 14044536720411881364
+        Name: "Decal Letters 01"
+        Transform {
+          Location {
+            X: -76.1263
+            Y: 256.800262
+            Z: 21.083992
+          }
+          Rotation {
+            Pitch: 36.2095261
+            Yaw: -22.2773075
+            Roll: 29.2480354
+          }
+          Scale {
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
+          }
+        }
+        ParentId: 8824066908579342221
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:color"
+            Color {
+              R: 1
+              G: 1
+              B: 1
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 18
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 9708141689872640486
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
         }
       }
       Objects {
@@ -71,12 +137,7 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 1569424953209978124
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:Size"
-            Float: 0.4
-          }
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
@@ -114,50 +175,26 @@
         }
       }
       Objects {
-        Id: 1569424953209978124
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 6556165746650720676
-        ChildIds: 14044536720411881364
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 14044536720411881364
+        Id: 1694754718726258614
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: 65.791893
+            Y: 252.843262
+            Z: 22.1817417
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: 15.8278284
+            Yaw: 22.7185917
+            Roll: 42.2950363
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 1569424953209978124
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -194,14 +231,14 @@
         Name: "Item - Candy Bit"
         Transform {
           Location {
-            X: 76.9126053
-            Y: 244.719543
-            Z: 11.3363323
+            X: 73.4226074
+            Y: 245.466949
+            Z: 11.512064
           }
           Rotation {
-            Pitch: -50.5731888
-            Yaw: -49.2463
-            Roll: -2.11168265
+            Pitch: -45.3691406
+            Yaw: -50.5929871
+            Roll: -0.344390869
           }
           Scale {
             X: 0.3
@@ -210,12 +247,7 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 13883324956101242158
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:Size"
-            Float: 0.4
-          }
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
@@ -253,50 +285,26 @@
         }
       }
       Objects {
-        Id: 13883324956101242158
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 10345018831423879558
-        ChildIds: 1694754718726258614
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 1694754718726258614
+        Id: 3003508651444626110
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: -13.9488087
+            Y: 230.31311
+            Z: 26.5563736
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: -27.7068596
+            Yaw: 124.070595
+            Roll: 5.05765438
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 13883324956101242158
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -349,7 +357,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 18338969011469545510
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -391,50 +398,26 @@
         }
       }
       Objects {
-        Id: 18338969011469545510
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 12806692021067326606
-        ChildIds: 3003508651444626110
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 3003508651444626110
+        Id: 3375057998182242265
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: 22.8825302
+            Y: 223.245514
+            Z: 25.4069061
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: 23.0498447
+            Yaw: 75.165062
+            Roll: 53.1514587
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 18338969011469545510
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -487,7 +470,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 18012460399036515649
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -530,50 +512,26 @@
         }
       }
       Objects {
-        Id: 18012460399036515649
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 13169234361403904489
-        ChildIds: 3375057998182242265
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 3375057998182242265
+        Id: 12773910114177777822
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: -11.9470339
+            Y: 184.032303
+            Z: 50.4867439
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: -12.8030109
+            Yaw: 23.4282436
+            Roll: 24.8507385
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 18012460399036515649
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -626,7 +584,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 7379582862249726470
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -670,50 +627,26 @@
         }
       }
       Objects {
-        Id: 7379582862249726470
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 2977462296767448750
-        ChildIds: 12773910114177777822
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 12773910114177777822
+        Id: 14434913837695722774
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: 30.8621464
+            Y: 183.65892
+            Z: 46.6239853
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: 15.3370523
+            Yaw: 21.2681198
+            Roll: 36.778244
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 7379582862249726470
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -766,7 +699,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 2268861715177011086
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -809,50 +741,26 @@
         }
       }
       Objects {
-        Id: 2268861715177011086
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 5784596752700941094
-        ChildIds: 14434913837695722774
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 14434913837695722774
+        Id: 6326500523867252753
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: 64.3682785
+            Y: 204.493423
+            Z: 47.132103
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: 15.3370523
+            Yaw: 21.2681198
+            Roll: 36.778244
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 2268861715177011086
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -905,7 +813,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 9287476482761603721
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -949,50 +856,26 @@
         }
       }
       Objects {
-        Id: 9287476482761603721
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 14976763492555124257
-        ChildIds: 6326500523867252753
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 6326500523867252753
+        Id: 17813148641908666829
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: -78.9773941
+            Y: 226.39032
+            Z: 43.065094
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: 1.28267527
+            Yaw: 26.8883667
+            Roll: 66.7043076
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 9287476482761603721
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -1045,7 +928,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 2313306896369460053
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -1089,50 +971,26 @@
         }
       }
       Objects {
-        Id: 2313306896369460053
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 8007714533677594621
-        ChildIds: 17813148641908666829
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 17813148641908666829
+        Id: 3992730749130486748
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: -59.6899147
+            Y: 207.767151
+            Z: 30.1761818
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: 15.3370523
+            Yaw: 21.2681198
+            Roll: 36.778244
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 2313306896369460053
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -1185,7 +1043,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 16160753177154625860
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -1229,50 +1086,26 @@
         }
       }
       Objects {
-        Id: 16160753177154625860
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 12645297175737464300
-        ChildIds: 3992730749130486748
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 3992730749130486748
+        Id: 3080043291142291828
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: -55.9449577
+            Y: 138.552032
+            Z: 58.9242401
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: -12.8030109
+            Yaw: 23.4282227
+            Roll: 24.8507481
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 16160753177154625860
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -1325,7 +1158,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 18271388597581911020
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -1369,50 +1201,26 @@
         }
       }
       Objects {
-        Id: 18271388597581911020
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 12874272579119728452
-        ChildIds: 3080043291142291828
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 3080043291142291828
+        Id: 13650406020410031191
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: 17.3806381
+            Y: 137.397476
+            Z: 58.9174461
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: -12.8029909
+            Yaw: 23.428196
+            Roll: 24.8507557
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 18271388597581911020
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -1465,7 +1273,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 7656255575860588239
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -1508,50 +1315,26 @@
         }
       }
       Objects {
-        Id: 7656255575860588239
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 2701001221891947111
-        ChildIds: 13650406020410031191
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 13650406020410031191
+        Id: 8923592478775251076
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: 68.6838226
+            Y: 136.728134
+            Z: 57.1432228
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: -12.8029842
+            Yaw: 23.4281635
+            Roll: 24.8507614
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 7656255575860588239
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -1604,7 +1387,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 12464125414700057116
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -1648,50 +1430,26 @@
         }
       }
       Objects {
-        Id: 12464125414700057116
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 16411928113813411508
-        ChildIds: 8923592478775251076
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 8923592478775251076
+        Id: 4961931504814396405
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: 62.1089668
+            Y: 136.694153
+            Z: 58.9107132
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: -12.8029699
+            Yaw: 23.4281502
+            Roll: 24.8507614
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 12464125414700057116
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -1744,7 +1502,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 10661096157413540205
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -1788,50 +1545,26 @@
         }
       }
       Objects {
-        Id: 10661096157413540205
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 15909049061197436357
-        ChildIds: 4961931504814396405
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 4961931504814396405
+        Id: 9713362214388206497
         Name: "Decal Letters 01"
         Transform {
           Location {
-            X: -25
-            Y: -2.02250147
+            X: -67.413147
+            Y: 176.648422
+            Z: 52.4268303
           }
           Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
+            Pitch: 11.3881311
+            Yaw: -33.4514542
+            Roll: 39.0535736
           }
           Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
+            X: 0.09
+            Y: 0.09
+            Z: 0.045
           }
         }
-        ParentId: 10661096157413540205
+        ParentId: 8824066908579342221
         UnregisteredParameters {
           Overrides {
             Name: "bp:color"
@@ -1884,7 +1617,6 @@
           }
         }
         ParentId: 8824066908579342221
-        ChildIds: 5900642855456414009
         UnregisteredParameters {
           Overrides {
             Name: "cs:Size"
@@ -1923,82 +1655,6 @@
           StaticMesh {
             Physics {
             }
-          }
-        }
-      }
-      Objects {
-        Id: 5900642855456414009
-        Name: "ClientContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2
-            Y: 1
-            Z: 0.5
-          }
-        }
-        ParentId: 2222758167004630417
-        ChildIds: 9713362214388206497
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 9713362214388206497
-        Name: "Decal Letters 01"
-        Transform {
-          Location {
-            X: -25
-            Y: -2.02250147
-          }
-          Rotation {
-            Pitch: 22.4999199
-            Yaw: 90.000267
-            Roll: 90.0002594
-          }
-          Scale {
-            X: 0.15
-            Y: 0.15
-            Z: 0.15
-          }
-        }
-        ParentId: 5900642855456414009
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:color"
-            Color {
-              R: 1
-              G: 1
-              B: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Shape Index"
-            Int: 18
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 9708141689872640486
-          }
-          TeamSettings {
-          }
-          DecalBP {
           }
         }
       }
@@ -3166,6 +2822,15 @@
       }
     }
     Assets {
+      Id: 9708141689872640486
+      Name: "Decal Letters 01"
+      PlatformAssetType: 14
+      PrimaryAsset {
+        AssetType: "DecalBlueprintAssetRef"
+        AssetId: "bp_decal_letters_001"
+      }
+    }
+    Assets {
       Id: 4850200685106868950
       Name: "Ball"
       PlatformAssetType: 1
@@ -3181,15 +2846,6 @@
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "plastic_matte_001"
-      }
-    }
-    Assets {
-      Id: 9708141689872640486
-      Name: "Decal Letters 01"
-      PlatformAssetType: 14
-      PrimaryAsset {
-        AssetType: "DecalBlueprintAssetRef"
-        AssetId: "bp_decal_letters_001"
       }
     }
     Assets {

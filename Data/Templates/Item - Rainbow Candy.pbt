@@ -15,13 +15,9 @@
             Z: 1
           }
         }
-        ParentId: 15038114883517970452
+        ParentId: 162488762590909547
         ChildIds: 621673916434848243
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:Size"
-            Float: 0.4
-          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -75,10 +71,6 @@
         }
         ParentId: 621673916434848243
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:Size"
-            Float: 0.4
-          }
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {

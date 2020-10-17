@@ -15,13 +15,9 @@
             Z: 1.70000017
           }
         }
-        ParentId: 12347420487302035762
+        ParentId: 9472738016385806500
         ChildIds: 9322700811100641035
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:Size"
-            Float: 0.6
-          }
           Overrides {
             Name: "cs:PickupSound"
             AssetReference {

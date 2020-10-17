@@ -12,16 +12,12 @@
           Scale {
             X: 1
             Y: 1
-            Z: 1
+            Z: -1
           }
         }
-        ParentId: 6356233811165293214
+        ParentId: 12846366802568968478
         ChildIds: 5264422817723580876
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:Size"
-            Float: 0.9
-          }
           Overrides {
             Name: "cs:PickupSound"
             AssetReference {

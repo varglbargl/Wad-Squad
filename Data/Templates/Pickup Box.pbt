@@ -10,9 +10,9 @@
         Name: "Pickup Box"
         Transform {
           Scale {
-            X: 0.934269428
-            Y: 2.62565351
-            Z: 0.82224232
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ParentId: 12992235084320586803

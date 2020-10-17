@@ -7,7 +7,7 @@
       RootId: 5279847333045756421
       Objects {
         Id: 5279847333045756421
-        Name: "Cube"
+        Name: "Hitbox Cube"
         Transform {
           Scale {
             X: 1
@@ -38,7 +38,9 @@
             TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
-          EnableCameraCollision: true
+          DisableDistanceFieldLighting: true
+          DisableCastShadows: true
+          DisableReceiveDecals: true
           StaticMesh {
             Physics {
             }
