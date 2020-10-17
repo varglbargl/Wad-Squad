@@ -106,6 +106,8 @@ function rollThatWad(deltaTime)
   WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, deltaTime))
   WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, deltaTime * 15))
 
+  UNDERGRAB:SetWorldPosition(WAD:GetWorldPosition() + Vector3.New(0, 0, -18.5 * wadSize))
+
   deltaTime = Task.Wait(delay)
 
   rollThatWad(deltaTime)
@@ -183,13 +185,15 @@ function handleGrabberOverlap (trigger, object)
 
       -- old way of scaling the wad up
       GRABBER:SetWorldScale(Vector3.ONE * wadSize * 0.375)
+      UNDERGRAB:SetWorldScale(Vector3.ONE * wadSize * 0.2)
       MESH:SetWorldScale(Vector3.ONE * wadSize * 0.3)
 
       -- a thing i just wish wasn't broken
       -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)
       -- clientItem:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.1))
       if trigger.name == "Undergrab" then
-        Utils.lerpNSlurp(clientItem, WAD, 0.6, 50, 0.5)
+        print("Undergrabbed!")
+        Utils.lerpNSlurp(clientItem, WAD, 0.65, 40, 0.5)
       else
         Utils.lerpNSlurp(clientItem, WAD, 0.45, 50, 0.75)
       end
