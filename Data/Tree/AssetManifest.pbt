@@ -485,6 +485,15 @@ Assets {
   }
 }
 Assets {
+  Id: 11400053795102971138
+  Name: "Flower Bellflower 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_flower_bell_001_ref"
+  }
+}
+Assets {
   Id: 11390981272720591546
   Name: "Craftsman Porch Fence Railing 01"
   PlatformAssetType: 1
@@ -545,15 +554,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cone_convex_001"
-  }
-}
-Assets {
-  Id: 10766975867019021707
-  Name: "Glass 01 (no distortion)"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_basic_glass_001"
   }
 }
 Assets {

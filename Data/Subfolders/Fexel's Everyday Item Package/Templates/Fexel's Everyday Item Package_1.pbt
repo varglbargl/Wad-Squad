@@ -7,12 +7,8 @@
       RootId: 10018420752342598451
       Objects {
         Id: 10018420752342598451
-        Name: "Group"
+        Name: "Fexel\'s Everyday Item Package"
         Transform {
-          Location {
-          }
-          Rotation {
-          }
           Scale {
             X: 1
             Y: 1
@@ -951,11 +947,14 @@
         Name: "Horn"
         Transform {
           Location {
-            X: -0.094543457
-            Y: 1.50657654
-            Z: 36.5985565
+            X: 6.96987057
+            Y: 13.2797728
+            Z: 71.8326645
           }
           Rotation {
+            Pitch: 12.9475651
+            Yaw: -179.999954
+            Roll: 145.28569
           }
           Scale {
             X: 0.202132523
@@ -1010,11 +1009,14 @@
         Name: "Horn"
         Transform {
           Location {
-            X: -0.094543457
-            Y: -1.9532547
-            Z: 36.5985565
+            X: 7.41105652
+            Y: 10.4370575
+            Z: 73.7531433
           }
           Rotation {
+            Pitch: 12.9475651
+            Yaw: -179.999954
+            Roll: 145.28569
           }
           Scale {
             X: 0.202132523
@@ -1069,11 +1071,14 @@
         Name: "Horn"
         Transform {
           Location {
-            X: -1.15838623
-            Y: 0.124511719
-            Z: 36.5985565
+            X: 8.18186474
+            Y: 12.1452951
+            Z: 72.3620758
           }
           Rotation {
+            Pitch: 12.9475651
+            Yaw: -179.999954
+            Roll: 145.28569
           }
           Scale {
             X: 0.202132523
@@ -1128,11 +1133,14 @@
         Name: "Horn"
         Transform {
           Location {
-            X: 0.360412598
-            Y: 0.124511719
-            Z: 36.5985565
+            X: 6.7036376
+            Y: 12.1423969
+            Z: 72.7019119
           }
           Rotation {
+            Pitch: 12.9475651
+            Yaw: -179.999954
+            Roll: 145.28569
           }
           Scale {
             X: 0.202132523
@@ -14196,7 +14204,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10677923361162907795
+              Id: 10766975867019021707
             }
           }
           Overrides {
@@ -14254,7 +14262,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10677923361162907795
+              Id: 10766975867019021707
             }
           }
           Overrides {
@@ -14310,7 +14318,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10677923361162907795
+              Id: 10766975867019021707
             }
           }
           Overrides {
@@ -14367,7 +14375,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10677923361162907795
+              Id: 10766975867019021707
             }
           }
           Overrides {
@@ -14794,6 +14802,15 @@
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_cube_002"
+      }
+    }
+    Assets {
+      Id: 10766975867019021707
+      Name: "Glass 01 (no distortion)"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_basic_glass_001"
       }
     }
     Assets {

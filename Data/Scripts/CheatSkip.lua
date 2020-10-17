@@ -1,4 +1,5 @@
 ﻿local ACTIVATE = script:GetCustomProperty("Activate")
+local SIZE_BOOST = script:GetCustomProperty("SizeBoost")
 
 if ACTIVATE then
   Task.Wait(2)
@@ -7,6 +8,6 @@ if ACTIVATE then
   local wad = player.clientUserData["Wad"]
   local wadControl = wad:GetCustomProperty("WadControl"):WaitForObject()
 
-  wadControl.context.updateWadSize(4)
+  wadControl.context.updateWadSize(SIZE_BOOST)
   wad:SetWorldPosition(script:GetWorldPosition())
 end

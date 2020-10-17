@@ -9,8 +9,6 @@ local HITBOX_SPHERE = script:GetCustomProperty("HitboxSphere")
 local HITBOX_CUBE = script:GetCustomProperty("HitboxCube")
 local MESH = script:GetCustomProperty("Mesh"):WaitForObject()
 local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
--- local CAMERA_CONTAINER = script:GetCustomProperty("CameraContainer"):WaitForObject()
--- local ORB = script:GetCustomProperty("Orb")
 
 local delay = 0.01
 local moveSpeed = 650
@@ -77,7 +75,7 @@ end
 function rollThatWad(deltaTime)
   deltaTime = deltaTime or delay
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.New(0, 0, (wadSize - 1.9) * -gravityForce * deltaTime * 100)
+  local simulatedMass = Vector3.New(0, 0, (wadSize - 1.7) * -gravityForce * deltaTime * 100)
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -136,23 +134,23 @@ function handleGrabberOverlap (grabber, trigger)
 
   if trigger:IsA("Trigger") and trigger.name == "Pickup Sphere" or trigger.name == "Pickup Box" then
     local item = Utils.findItem(trigger.parent)
-    local itemVisible = item:IsVisibleInHierarchy()
-    local itemSize = item:GetCustomProperty("Size")
+    local itemVisible = (item.visibility ~= Visibility.FORCE_OFF)
+    -- I can't believe I could have just been doing this all along.
+    local itemSize = trigger:GetWorldScale().size * 1.3
     item.clientUserData["Size"] = itemSize
 
-    -- all grabbable props MUST have a Size property
-    if not itemSize or not itemVisible then return end
+    -- all grabbable props must be visible
+    if not itemVisible then return end
 
     local wadSize = WAD.clientUserData["Size"]
-    -- print(wadSize)
     local tooBigh = itemSize > wadSize / 2
-    local tooSmol = itemSize <= wadSize / 20
+    local tooSmol = itemSize < wadSize / 20
 
     if tooBigh then
       -- TODO: Bounce off at the the angle at which you collided mirrored along
       -- the axis perpendicular to vector between wad and trigger
       -- OMG THAT SOUNDS LIKE SUCH A MATH NIGHTMARE
-      -- ALSO TODO: Fix the part where they can clip through triggers.
+      -- ALSO TODO: Fix the part where you can clip through triggers.
       WAD:SetVelocity(WAD:GetVelocity() * -1)
       WAD:SetAngularVelocity(WAD:GetAngularVelocity() * -1)
       print(item.name .. " is too B I G H")
@@ -167,9 +165,8 @@ function handleGrabberOverlap (grabber, trigger)
       local clientItem = World.SpawnAsset(item.sourceTemplateId, {position = item:GetWorldPosition(), rotation = item:GetWorldRotation(), scale = item:GetWorldScale()})
       local hitbox = nil
 
-      if clientItem:IsA("CoreMesh") then
+      if clientItem:IsA("CoreMesh") or item.collision == Collision.FORCE_OFF then
         clientItem.collision = item.collision
-      -- elseif not item.collision == Collision.FORCE_OFF then
       else
         local hitboxShape = nil
 
@@ -249,6 +246,7 @@ function updateWadSize(wadSize)
   MESH:SetWorldScale(Vector3.ONE * wadSize * 0.3)
 
   WAD.clientUserData["Size"] = wadSize
+  UI_MANAGER.context.updateScore(wadSize)
 end
 
 -- handler params: Trigger_, Object_

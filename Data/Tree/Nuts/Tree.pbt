@@ -5,11 +5,12 @@ Objects {
   Name: "Hex Nut"
   Transform {
     Location {
-      X: 295.357422
-      Y: 1817.99316
-      Z: 4.26745605
+      X: 295.357849
+      Y: 1817.99292
+      Z: 4.26747608
     }
     Rotation {
+      Yaw: 78.4498749
     }
     Scale {
       X: 1.75439155
@@ -120,11 +121,12 @@ Objects {
   Name: "Hex Nut"
   Transform {
     Location {
-      X: 620.74707
-      Y: 1487.74683
-      Z: 4.26745605
+      X: 620.746643
+      Y: 1487.74561
+      Z: 4.26747608
     }
     Rotation {
+      Yaw: 26.6124401
     }
     Scale {
       X: 1.75439155
@@ -350,11 +352,12 @@ Objects {
   Name: "Hex Nut"
   Transform {
     Location {
-      X: 736.02832
-      Y: 1135.40039
-      Z: 4.26745605
+      X: 736.028198
+      Y: 1135.40015
+      Z: 4.26747608
     }
     Rotation {
+      Yaw: 40.3751221
     }
     Scale {
       X: 1.75439155
@@ -465,11 +468,12 @@ Objects {
   Name: "Hex Nut"
   Transform {
     Location {
-      X: 471.888672
-      Y: 813.070801
-      Z: 4.26745605
+      X: 471.888428
+      Y: 813.071228
+      Z: 4.26747608
     }
     Rotation {
+      Yaw: -16.0705872
     }
     Scale {
       X: 1.75439155
@@ -686,10 +690,11 @@ Objects {
   Transform {
     Location {
       X: -485.90332
-      Y: -329.67041
+      Y: -329.669525
       Z: 25.8255
     }
     Rotation {
+      Yaw: 31.4471588
     }
     Scale {
       X: 1.75439155
@@ -790,14 +795,14 @@ Objects {
   Name: "Hex Nut"
   Transform {
     Location {
-      X: -159.5
-      Y: -68.7128906
+      X: -159.499893
+      Y: -68.7125397
       Z: 20.0991821
     }
     Rotation {
       Pitch: -1.2507019
-      Yaw: 0.0882075429
-      Roll: 2.05664873
+      Yaw: -25.6271973
+      Roll: 2.05665088
     }
     Scale {
       X: 1.75439155
@@ -898,12 +903,14 @@ Objects {
   Name: "Hex Nut"
   Transform {
     Location {
-      X: -241.876953
-      Y: -1180.36914
-      Z: 37.0444336
+      X: -241.877136
+      Y: -1180.36926
+      Z: 37.0444717
     }
     Rotation {
-      Roll: 6.30457449
+      Pitch: 1.58963764
+      Yaw: -14.5482788
+      Roll: 6.10174513
     }
     Scale {
       X: 1.75439155
