@@ -8,14 +8,14 @@ script.parent.isClientOnly then
 
   function step()
 
-    for i, leg in ipairs(legs) do
-      leg:RotateTo(Rotation.New(0, 10 * (i % 2 * 2 - 1), 0), speed, true)
+    for i, legGroup in ipairs(legs) do
+      legGroup:RotateTo(Rotation.New(0, 10 * (i % 2 * 2 - 1), 0), speed, true)
     end
 
     Task.Wait(speed)
 
-    for i, leg in ipairs(legs) do
-      leg:RotateTo(Rotation.New(0, -10 * (i % 2 * 2 - 1), 0), speed, true)
+    for i, legGroup in ipairs(legs) do
+      legGroup:RotateTo(Rotation.New(0, -10 * (i % 2 * 2 - 1), 0), speed, true)
     end
 
     Task.Wait(speed)

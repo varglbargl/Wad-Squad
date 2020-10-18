@@ -53,6 +53,8 @@ function UTILS.lerpNSlurp(object, targetObject, lerp, steps, time)
   time = time / steps
 
   function step(stepObject, stepTargetObject, stepLerp, stepTotal, stepTime, stepNumber)
+    if not Object.IsValid(stepObject) then return end
+
     stepObject:SetWorldPosition(Vector3.Lerp(stepObject:GetWorldPosition(), stepTargetObject:GetWorldPosition(), stepLerp))
 
     if stepNumber < stepTotal then

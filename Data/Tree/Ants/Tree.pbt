@@ -754,7 +754,7 @@ Objects {
 }
 Objects {
   Id: 4657647216098649694
-  Name: "Ant Circle - Sandwich"
+  Name: "Ant Circle - Pentagram"
   Transform {
     Location {
       X: 1359.69824

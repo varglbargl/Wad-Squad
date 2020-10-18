@@ -14,7 +14,7 @@ function wadCameraFollow()
 
   -- CAMERA_CONTAINER:MoveWorldTo(Vector3.Lerp(CAMERA_CONTAINER:GetWorldPosition(), wadPosition, 0.7), 0.1)
   -- CAMERA_CONTAINER:MoveTo(wadPosition, 0.1)
-  CAMERA_CONTAINER:SetWorldPosition(Vector3.Lerp(CAMERA_CONTAINER:GetWorldPosition(), wadPosition, 0.7))
+  CAMERA_CONTAINER:SetWorldPosition(Vector3.Lerp(CAMERA_CONTAINER:GetWorldPosition(), wadPosition, 0.1))
   -- CAMERA_CONTAINER:SetWorldPosition(wadPosition)
   -- CAMERA_CONTAINER:Follow(myWad, 8000)
   CAMERA_CONTAINER:SetWorldRotation(playerRotation)

@@ -1,17 +1,17 @@
-﻿local Utils = require(script:GetCustomProperty("Utils"))
-
-local FREQUENCY = script:GetCustomProperty("Frequency")
+﻿local FREQUENCY = script:GetCustomProperty("Frequency")
 local WAVELENGTH = script:GetCustomProperty("Wavelength")
+local DIRECTION = script:GetCustomProperty("Direction")
 
-local item = Utils.findItem(script.parent)
 local speed = 5 / FREQUENCY
+local zenith = DIRECTION:GetNormalized() * WAVELENGTH
+local startPosition = script.parent:GetPosition()
 
 function bob()
-  item:MoveTo(Vector3.UP * WAVELENGTH, speed, true)
+  script.parent:MoveTo(startPosition + zenith, speed, true)
 
   Task.Wait(speed)
 
-  item:MoveTo(Vector3.UP * -WAVELENGTH, speed, true)
+  script.parent:MoveTo(startPosition - zenith, speed, true)
 
   Task.Wait(speed)
   bob()

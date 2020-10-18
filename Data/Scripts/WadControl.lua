@@ -10,9 +10,9 @@ local HITBOX_CUBE = script:GetCustomProperty("HitboxCube")
 local MESH = script:GetCustomProperty("Mesh"):WaitForObject()
 local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 
-local delay = 0.01
+local delay = 0.005
 local moveSpeed = 650
-local gravityForce = 320
+local gravityForce = 555
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
@@ -23,7 +23,7 @@ local maxGrabbed = 100
 
 local grabbedHitboxes = {}
 local hitboxGrabIndex = 0
-local maxHitboxes = 20
+local maxHitboxes = 12
 
 -- TODO: You're really just gonna have to replace this eventually
 function handleKeyPress(player, keyCode)
@@ -75,7 +75,7 @@ end
 function rollThatWad(deltaTime)
   deltaTime = deltaTime or delay
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.New(0, 0, (wadSize - 1.65) * -gravityForce * deltaTime * 100)
+  local simulatedMass = Vector3.New(0, 0, (wadSize - 1.7) * -gravityForce)
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -144,7 +144,7 @@ function handleGrabberOverlap (grabber, trigger)
 
     local wadSize = WAD.clientUserData["Size"]
     local tooBigh = itemSize > wadSize / 2
-    local tooSmol = itemSize < wadSize / 20
+    local tooSmol = itemSize < wadSize / 25
 
     if tooBigh then
       -- TODO: Bounce off at the the angle at which you collided mirrored along
@@ -169,6 +169,7 @@ function handleGrabberOverlap (grabber, trigger)
         clientItem.collision = item.collision
       else
         local hitboxShape = nil
+        clientItem.collision = Collision.FORCE_OFF
 
         if trigger.name == "Pickup Sphere" then
           hitboxShape = HITBOX_SPHERE
@@ -202,7 +203,7 @@ function handleGrabberOverlap (grabber, trigger)
       itemGrabIndex = (itemGrabIndex + 1) % maxGrabbed
 
       -- and severely limit hitboxes
-      if (hitbox) then
+      if hitbox then
         if grabbedHitboxes[hitboxGrabIndex] then
           grabbedHitboxes[hitboxGrabIndex]:Destroy()
         end

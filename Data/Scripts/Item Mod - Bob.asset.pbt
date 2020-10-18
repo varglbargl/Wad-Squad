@@ -18,6 +18,12 @@
         Name: "cs:Wavelength"
         Int: 20
       }
+      Overrides {
+        Name: "cs:Direction"
+        Vector {
+          Z: 1
+        }
+      }
     }
   }
   SerializationVersion: 65
