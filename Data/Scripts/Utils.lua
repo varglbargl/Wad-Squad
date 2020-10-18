@@ -52,18 +52,18 @@ function UTILS.lerpNSlurp(object, targetObject, lerp, steps, time)
   lerp = lerp / steps
   time = time / steps
 
-  function step(stepObject, stepTargetObject, stepLerp, stepTotal, stepTime, stepNumber)
-    if not Object.IsValid(stepObject) then return end
+  function slurp(slurpObject, slurpTargetObject, slurpLerp, slurpTotal, slurpTime, slurpNumber)
+    if not Object.IsValid(slurpObject) then return end
 
-    stepObject:SetWorldPosition(Vector3.Lerp(stepObject:GetWorldPosition(), stepTargetObject:GetWorldPosition(), stepLerp))
+    slurpObject:SetWorldPosition(Vector3.Lerp(slurpObject:GetWorldPosition(), slurpTargetObject:GetWorldPosition(), slurpLerp))
 
-    if stepNumber < stepTotal then
-      Task.Wait(stepTime)
-      step(stepObject, stepTargetObject, stepLerp, stepTotal, stepTime, stepNumber + 1)
+    if slurpNumber < slurpTotal then
+      Task.Wait(slurpTime)
+      slurp(slurpObject, slurpTargetObject, slurpLerp, slurpTotal, slurpTime, slurpNumber + 1)
     end
   end
 
-  Task.Spawn(function() step(object, targetObject, lerp, steps, time, 0) end)
+  Task.Spawn(function() slurp(object, targetObject, lerp, steps, time, 0) end)
 end
 
 return UTILS

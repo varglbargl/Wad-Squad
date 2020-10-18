@@ -12,7 +12,7 @@ local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 
 local delay = 0.005
 local moveSpeed = 650
-local gravityForce = 555
+local gravityForce = 600
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
@@ -167,7 +167,7 @@ function handleGrabberOverlap (grabber, trigger)
 
       if clientItem:IsA("CoreMesh") or item.collision == Collision.FORCE_OFF then
         clientItem.collision = item.collision
-      else
+      elseif not grabbedItems[itemGrabIndex] or itemSize > grabbedItems[itemGrabIndex]:GetWorldScale().size * 1.2 then
         local hitboxShape = nil
         clientItem.collision = Collision.FORCE_OFF
 

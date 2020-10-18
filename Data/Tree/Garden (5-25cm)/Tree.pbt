@@ -168,17 +168,17 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 9.98096466
-            Y: 9.98096466
-            Z: 9.98096466
+            X: 8.79137707
+            Y: 8.79137707
+            Z: 8.79137707
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 65.6076126
-            Y: 85.353241
-            Z: 332.890259
+            X: 65.6076508
+            Y: 85.3532104
+            Z: 392.073608
           }
         }
         Overrides {
