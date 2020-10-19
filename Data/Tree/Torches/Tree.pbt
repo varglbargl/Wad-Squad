@@ -5,12 +5,12 @@ Objects {
   Name: "Match Sconce"
   Transform {
     Location {
-      X: -250.00325
+      X: -233.780914
       Y: -2049.99902
       Z: 466.666656
     }
     Rotation {
-      Yaw: 5.00019789
+      Yaw: -5.48645
     }
     Scale {
       X: 0.6
@@ -101,11 +101,14 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+            X: -115.530434
+            Y: -45.6597748
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
+            Yaw: -90
           }
         }
       }
@@ -167,8 +170,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 54.8974609
-            Y: 0.000406901032
+            X: 54.8963737
+            Y: -46.8365974
             Z: 33.3333321
           }
         }
@@ -221,11 +224,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+            X: -55.5555534
+            Y: -111.113144
+            Z: 55.5555534
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
+            Yaw: -89.9999695
           }
         }
       }
@@ -288,8 +295,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 78.3908691
-            Y: -1.02578795
+            X: 75.1625443
+            Y: -37.9243774
             Z: 33.3333321
           }
         }
@@ -336,6 +343,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+            Yaw: -90
           }
         }
         Overrides {
@@ -349,6 +357,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+            X: -65.0230408
+            Y: -105.846558
           }
         }
       }
@@ -459,11 +469,14 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+            X: -60.1809959
+            Y: -50.5037918
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
+            Yaw: -90
           }
         }
       }
@@ -572,21 +585,16 @@ Objects {
           String: "Match Sconce"
         }
         Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 3.33333325
-            Y: 3.33333325
-            Z: 3.33333325
-          }
-        }
-        Overrides {
           Name: "Position"
           Vector {
+            X: -7.26294231
+            Y: -83.012825
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
           }
         }
       }
@@ -702,11 +710,14 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
+            X: -111.116531
+            Y: -66.8640137
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
+            Yaw: -89.9999695
           }
         }
       }

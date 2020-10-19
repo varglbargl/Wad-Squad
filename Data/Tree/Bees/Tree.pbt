@@ -1,23 +1,1713 @@
 ﻿Name: "Bees"
 RootId: 8319386543174339870
 Objects {
-  Id: 6713772938824596769
+  Id: 7752967228798203077
   Name: "Bee Circle"
   Transform {
     Location {
-      X: -3282.40381
-      Y: -4938.42578
-      Z: 230.32135
+      X: 499.554016
+      Y: -7127.44922
+      Z: 835.673828
     }
     Rotation {
-      Pitch: 11.4823809
-      Yaw: 170.554642
-      Roll: -6.8968811
+      Yaw: 98.2974167
+      Roll: -5
     }
     Scale {
       X: 1
       Y: 1
       Z: 1
+    }
+  }
+  ParentId: 8319386543174339870
+  ChildIds: 5853394347346749007
+  ChildIds: 9430360484345242803
+  ChildIds: 1787243905668487491
+  ChildIds: 17200800836442782982
+  ChildIds: 17098428218528780278
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17098428218528780278
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: 31.1726875
+      Y: -449.770508
+      Z: 67.5161743
+    }
+    Rotation {
+      Yaw: -86.0353088
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7752967228798203077
+  ChildIds: 9196910055218715604
+  ChildIds: 10832267776597348924
+  ChildIds: 7754324447218632966
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 7754324447218632966
+  Name: "Item Mod - Bob"
+  Transform {
+    Location {
+      Z: -0.000101725258
+    }
+    Rotation {
+      Yaw: -6.83018834e-06
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 17098428218528780278
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Int: 50
+    }
+    Overrides {
+      Name: "cs:Frequency"
+      Int: 13
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5779258749086545758
+    }
+  }
+}
+Objects {
+  Id: 10832267776597348924
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 17098428218528780278
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 9196910055218715604
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17098428218528780278
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
+  Id: 17200800836442782982
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: -621.007446
+      Y: 646.77
+      Z: -129.58078
+    }
+    Rotation {
+      Yaw: 133.835892
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7752967228798203077
+  ChildIds: 7228665729592508319
+  ChildIds: 7465500113651744733
+  ChildIds: 15167626342207407145
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15167626342207407145
+  Name: "Item Mod - Bob"
+  Transform {
+    Location {
+      X: -0.000563635433
+      Y: -0.000587016926
+      Z: -0.000101725258
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 17200800836442782982
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Int: 30
+    }
+    Overrides {
+      Name: "cs:Frequency"
+      Int: 12
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5779258749086545758
+    }
+  }
+}
+Objects {
+  Id: 7465500113651744733
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 17200800836442782982
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 7228665729592508319
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17200800836442782982
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.205484599
+            Y: 0.205484599
+            Z: 0.205484599
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
+  Id: 1787243905668487491
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: 361.109192
+      Y: 777.423462
+      Z: -205.103546
+    }
+    Rotation {
+      Yaw: 65.08535
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7752967228798203077
+  ChildIds: 14595764497985016204
+  ChildIds: 11297242917990176432
+  ChildIds: 16200667333339815808
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16200667333339815808
+  Name: "Item Mod - Bob"
+  Transform {
+    Location {
+      X: 0.000685657142
+      Y: -0.00147613324
+    }
+    Rotation {
+      Yaw: -2.04905627e-05
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 1787243905668487491
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Int: 30
+    }
+    Overrides {
+      Name: "cs:Frequency"
+      Int: 11
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5779258749086545758
+    }
+  }
+}
+Objects {
+  Id: 11297242917990176432
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 1787243905668487491
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 14595764497985016204
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1787243905668487491
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.205484599
+            Y: 0.205484599
+            Z: 0.205484599
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
+  Id: 9430360484345242803
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: 1443.91602
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7752967228798203077
+  ChildIds: 18376202544881709065
+  ChildIds: 1080749952820146781
+  ChildIds: 9000240623506601445
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 9000240623506601445
+  Name: "Item Mod - Bob"
+  Transform {
+    Location {
+      X: -0.000813802064
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 9430360484345242803
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Int: 30
+    }
+    Overrides {
+      Name: "cs:Frequency"
+      Int: 14
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5779258749086545758
+    }
+  }
+}
+Objects {
+  Id: 1080749952820146781
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 9430360484345242803
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 18376202544881709065
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9430360484345242803
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
+  Id: 5853394347346749007
+  Name: "Item Mod - Rotate Around Point"
+  Transform {
+    Location {
+      Y: -0.000813802064
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 7752967228798203077
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Z: 0.4
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1455796903912206889
+    }
+  }
+}
+Objects {
+  Id: 17903661439578943521
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: -143.561188
+      Y: -6903.19336
+      Z: 223.865356
+    }
+    Rotation {
+      Pitch: 1.19440198
+      Yaw: -87.7623596
+      Roll: -71.2569
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8319386543174339870
+  ChildIds: 16098892542932371747
+  ChildIds: 8499584427389669031
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8499584427389669031
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 17903661439578943521
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 16098892542932371747
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17903661439578943521
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
+  Id: 12410804265865323583
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: 36.8815079
+      Y: -5099.3457
+      Z: 223.865356
+    }
+    Rotation {
+      Pitch: -6.10351563e-05
+      Yaw: 44.3232956
+      Roll: -43.1756
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8319386543174339870
+  ChildIds: 11971425497116910805
+  ChildIds: 17824717092234853697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17824717092234853697
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 12410804265865323583
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 11971425497116910805
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12410804265865323583
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
+  Id: 6569349116940059556
+  Name: "Bee Circle"
+  Transform {
+    Location {
+      X: -3177.84668
+      Y: -5147.98633
+      Z: 1308.05176
+    }
+    Rotation {
+      Pitch: 11.4823332
+      Yaw: 99.3118744
+      Roll: -6.8968811
+    }
+    Scale {
+      X: 1.05704331
+      Y: 1.05704331
+      Z: 1.05704331
+    }
+  }
+  ParentId: 8319386543174339870
+  ChildIds: 11927509844150235098
+  ChildIds: 7173848923630527230
+  ChildIds: 16605999598270592403
+  ChildIds: 461094669252326386
+  ChildIds: 18326814458370225993
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 18326814458370225993
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: 31.1726875
+      Y: -449.770508
+      Z: 67.5161743
+    }
+    Rotation {
+      Yaw: -86.0353088
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6569349116940059556
+  ChildIds: 5204290357806967337
+  ChildIds: 9164223319344827905
+  ChildIds: 153469927608403329
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 153469927608403329
+  Name: "Item Mod - Bob"
+  Transform {
+    Location {
+      Z: -0.000101725258
+    }
+    Rotation {
+      Yaw: -6.83018834e-06
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 18326814458370225993
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Int: 50
+    }
+    Overrides {
+      Name: "cs:Frequency"
+      Int: 4
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5779258749086545758
+    }
+  }
+}
+Objects {
+  Id: 9164223319344827905
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 18326814458370225993
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 5204290357806967337
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18326814458370225993
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
+  Id: 461094669252326386
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: -621.007446
+      Y: 646.77
+      Z: -129.58078
+    }
+    Rotation {
+      Yaw: 133.835892
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6569349116940059556
+  ChildIds: 1752184763618872984
+  ChildIds: 12472357899243237306
+  ChildIds: 8065029436952032990
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8065029436952032990
+  Name: "Item Mod - Bob"
+  Transform {
+    Location {
+      X: -0.000563635433
+      Y: -0.000587016926
+      Z: -0.000101725258
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 461094669252326386
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Int: 30
+    }
+    Overrides {
+      Name: "cs:Frequency"
+      Int: 5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5779258749086545758
+    }
+  }
+}
+Objects {
+  Id: 12472357899243237306
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 461094669252326386
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 1752184763618872984
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 461094669252326386
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.205484599
+            Y: 0.205484599
+            Z: 0.205484599
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
+  Id: 16605999598270592403
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: 361.109192
+      Y: 777.423462
+      Z: -205.103546
+    }
+    Rotation {
+      Yaw: 65.08535
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6569349116940059556
+  ChildIds: 16606422030518236724
+  ChildIds: 16426630775396777691
+  ChildIds: 16340369450752154627
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16340369450752154627
+  Name: "Item Mod - Bob"
+  Transform {
+    Location {
+      X: 0.000685657142
+      Y: -0.00147613324
+    }
+    Rotation {
+      Yaw: -2.04905627e-05
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 16605999598270592403
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Int: 30
+    }
+    Overrides {
+      Name: "cs:Frequency"
+      Int: 8
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5779258749086545758
+    }
+  }
+}
+Objects {
+  Id: 16426630775396777691
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 16605999598270592403
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 16606422030518236724
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16605999598270592403
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.205484599
+            Y: 0.205484599
+            Z: 0.205484599
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
+  Id: 7173848923630527230
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: 595.78
+      Y: -98.6655655
+      Z: -368.092377
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6569349116940059556
+  ChildIds: 15938596555644420450
+  ChildIds: 17468122892201601155
+  ChildIds: 17842540845776006861
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17842540845776006861
+  Name: "Item Mod - Bob"
+  Transform {
+    Location {
+      X: -0.000813802064
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 7173848923630527230
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Int: 30
+    }
+    Overrides {
+      Name: "cs:Frequency"
+      Int: 6
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5779258749086545758
+    }
+  }
+}
+Objects {
+  Id: 17468122892201601155
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 7173848923630527230
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 15938596555644420450
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7173848923630527230
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
+  Id: 11927509844150235098
+  Name: "Item Mod - Rotate Around Point"
+  Transform {
+    Location {
+      X: 3.83144543e-05
+      Z: 0.000187254336
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 6569349116940059556
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Z: 0.6
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1455796903912206889
+    }
+  }
+}
+Objects {
+  Id: 6713772938824596769
+  Name: "Bee Circle"
+  Transform {
+    Location {
+      X: -3350.1709
+      Y: -5269.3374
+      Z: 230.32135
+    }
+    Rotation {
+      Pitch: 6.9544096
+      Yaw: 171.105743
+      Roll: -6.80853271
+    }
+    Scale {
+      X: 1.05704331
+      Y: 1.05704331
+      Z: 1.05704331
     }
   }
   ParentId: 8319386543174339870
@@ -724,257 +2414,13 @@ Objects {
   }
 }
 Objects {
-  Id: 1877416244335010533
-  Name: "Honey Bee"
-  Transform {
-    Location {
-      X: -3494.85986
-      Y: -4785.41309
-      Z: 112.396851
-    }
-    Rotation {
-      Pitch: 8.53548241
-      Yaw: 175.046066
-      Roll: -77.7955627
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8319386543174339870
-  ChildIds: 18432817195187855149
-  ChildIds: 12524839843534880715
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 12524839843534880715
-  Name: "Pickup Box"
-  Transform {
-    Scale {
-      X: 3.33333325
-      Y: 3.33333325
-      Z: 3.33333325
-    }
-  }
-  ParentId: 1877416244335010533
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -0.000813802064
-            Y: -10.9667969
-            Z: 10.5107622
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.766548514
-            Y: 1.83325
-            Z: 0.882672906
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Roll: -10.4462891
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 18432817195187855149
-  Name: "Honey Bee"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1877416244335010533
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 15150143337005922378
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Honey Bee"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 2672850210028433424
-    }
-  }
-}
-Objects {
-  Id: 16204309794442404341
-  Name: "Honey Bee"
-  Transform {
-    Location {
-      X: -3364.49365
-      Y: -4692.38281
-      Z: -317.560608
-    }
-    Rotation {
-      Yaw: 44.3243713
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8319386543174339870
-  ChildIds: 515466582311514478
-  ChildIds: 17188640840382590976
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 17188640840382590976
-  Name: "Pickup Box"
-  Transform {
-    Scale {
-      X: 3.33333325
-      Y: 3.33333325
-      Z: 3.33333325
-    }
-  }
-  ParentId: 16204309794442404341
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -0.000813802064
-            Y: -10.9667969
-            Z: 10.5107622
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.766548514
-            Y: 1.83325
-            Z: 0.882672906
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Roll: -10.4462891
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 515466582311514478
-  Name: "Honey Bee"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16204309794442404341
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 15150143337005922378
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Honey Bee"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 2672850210028433424
-    }
-  }
-}
-Objects {
   Id: 6061591634338713474
   Name: "Bee Circle"
   Transform {
     Location {
-      X: -3530.42969
-      Y: -4938.42578
-      Z: 430.164795
+      X: -3442.0752
+      Y: -5245.9292
+      Z: 829.905396
     }
     Rotation {
       Pitch: -0.753448486
@@ -982,9 +2428,9 @@ Objects {
       Roll: 0.173682064
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 1.04355669
+      Y: 1.04355669
+      Z: 1.04355669
     }
   }
   ParentId: 8319386543174339870
@@ -1691,11 +3137,255 @@ Objects {
   }
 }
 Objects {
+  Id: 1877416244335010533
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: -3494.85986
+      Y: -4989.84863
+      Z: 349.182312
+    }
+    Rotation {
+      Pitch: 8.53548241
+      Yaw: 175.046066
+      Roll: -77.7955322
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8319386543174339870
+  ChildIds: 18432817195187855149
+  ChildIds: 12524839843534880715
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 12524839843534880715
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 1877416244335010533
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 18432817195187855149
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1877416244335010533
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
+  Id: 16204309794442404341
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: -3364.49365
+      Y: -4634.07373
+      Z: -317.560608
+    }
+    Rotation {
+      Yaw: 44.3243294
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8319386543174339870
+  ChildIds: 515466582311514478
+  ChildIds: 17188640840382590976
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17188640840382590976
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 16204309794442404341
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 515466582311514478
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16204309794442404341
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
   Id: 4337167228108116708
   Name: "Honey Bee"
   Transform {
     Location {
-      X: -2107.8125
+      X: -1835.3645
       Y: 2463.05664
       Z: 287.668854
     }
@@ -1862,7 +3552,7 @@ Objects {
     }
     Rotation {
       Yaw: 98.2974167
-      Roll: -5.00000238
+      Roll: -5
     }
     Scale {
       X: 1
@@ -3294,14 +4984,14 @@ Objects {
   Name: "Honey Bee"
   Transform {
     Location {
-      X: 1159.15356
-      Y: -46.3134766
-      Z: -124.475601
+      X: -3548.99731
+      Y: -4070.28955
+      Z: -61.6107178
     }
     Rotation {
-      Pitch: 1.05532563
-      Yaw: 13.1962881
-      Roll: -26.6166534
+      Pitch: 1.05522323
+      Yaw: 101.390495
+      Roll: -26.6152344
     }
     Scale {
       X: 1

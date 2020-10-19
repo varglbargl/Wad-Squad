@@ -70,7 +70,6 @@
             Y: 5
           }
           Rotation {
-            Yaw: -94.9999466
           }
           Scale {
             X: 1.69999993
@@ -105,10 +104,12 @@
         Name: "Item - Lit Match"
         Transform {
           Location {
-            X: 20
+            X: -20.0359783
+            Y: 44.3507919
           }
           Rotation {
-            Pitch: -19.9999886
+            Pitch: -19.9999695
+            Yaw: 89.9999695
           }
           Scale {
             X: 0.100000009

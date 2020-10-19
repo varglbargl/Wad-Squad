@@ -5,14 +5,14 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -3893.0647
-      Y: 3252.75952
+      X: -3892.99878
+      Y: 3283.28027
       Z: -20
     }
     Rotation {
-      Pitch: -79.1654053
-      Yaw: -87.759491
-      Roll: -3.82751465
+      Pitch: -79.1611
+      Yaw: -87.7550049
+      Roll: -3.8274231
     }
     Scale {
       X: 1
@@ -141,19 +141,19 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -3893.26172
-      Y: 3069.52148
-      Z: -23.6637363
+      X: -3893.26099
+      Y: 3069.51855
+      Z: -28.4199219
     }
     Rotation {
-      Pitch: -89.4215393
-      Yaw: -11.3669128
-      Roll: -54.085144
+      Pitch: -89.4158325
+      Yaw: -11.3791809
+      Roll: -54.0665588
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -651,17 +651,17 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -2586.88428
-      Y: 52.8554268
-      Z: 10
+      X: -2586.88452
+      Y: 52.8408203
+      Z: 92.684082
     }
     Rotation {
-      Yaw: -11.2504578
+      Yaw: -11.2504883
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -783,16 +783,16 @@ Objects {
   Transform {
     Location {
       X: -3486.698
-      Y: -47.1358223
-      Z: 10
+      Y: -47.1503906
+      Z: 92.684082
     }
     Rotation {
-      Yaw: -11.2505188
+      Yaw: -11.2505493
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -1038,19 +1038,19 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: 389.892517
-      Y: 1275.2605
-      Z: 200.361084
+      X: 389.89209
+      Y: 1275.25781
+      Z: 283.044189
     }
     Rotation {
       Pitch: 2.71798491
-      Yaw: 89.9992523
+      Yaw: 89.9992371
       Roll: -3.05175781e-05
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -1171,19 +1171,19 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: 389.892731
-      Y: 979.141052
-      Z: 152.375732
+      X: 389.892822
+      Y: 979.139648
+      Z: 235.05957
     }
     Rotation {
       Pitch: 2.71798491
-      Yaw: 89.9992523
+      Yaw: 89.9992371
       Roll: -3.05175781e-05
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -1554,9 +1554,9 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -3893.58643
-      Y: 186.229645
-      Z: 10
+      X: -3893.58667
+      Y: 186.228516
+      Z: 92.684082
     }
     Rotation {
       Yaw: -67.5001221
@@ -1564,7 +1564,7 @@ Objects {
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -1939,9 +1939,9 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: 389.332733
-      Y: 213.61203
-      Z: 10
+      X: 389.332764
+      Y: 213.611328
+      Z: 92.684082
     }
     Rotation {
       Yaw: 89.999939
@@ -1949,7 +1949,7 @@ Objects {
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -2316,16 +2316,16 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -1720.00928
-      Y: 74.9994736
-      Z: 10
+      X: -1720.00952
+      Y: 74.984375
+      Z: 92.684082
     }
     Rotation {
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -2446,9 +2446,9 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -3793.63037
-      Y: 1979.59204
-      Z: 10
+      X: -3793.63013
+      Y: 1979.57715
+      Z: 92.684082
     }
     Rotation {
       Yaw: -101.250244
@@ -2456,7 +2456,7 @@ Objects {
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -2569,9 +2569,9 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -1420.01514
-      Y: -0.000405322877
-      Z: 10
+      X: -1420.01489
+      Y: -0.0009765625
+      Z: 92.684082
     }
     Rotation {
       Yaw: -22.4997559
@@ -2579,7 +2579,7 @@ Objects {
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -3207,9 +3207,9 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -3793.60547
-      Y: 1029.74402
-      Z: 10
+      X: -3793.60522
+      Y: 1029.72949
+      Z: 92.684082
     }
     Rotation {
       Yaw: -78.7496948
@@ -3217,7 +3217,7 @@ Objects {
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -3330,16 +3330,16 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -495.009705
-      Y: 74.9996185
-      Z: 10
+      X: -495.009521
+      Y: 74.9970703
+      Z: 92.684082
     }
     Rotation {
     }
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888
@@ -3951,9 +3951,9 @@ Objects {
   Name: "Domino"
   Transform {
     Location {
-      X: -3893.60303
-      Y: 454.777832
-      Z: 10
+      X: -3893.60278
+      Y: 454.773438
+      Z: 92.684082
     }
     Rotation {
       Yaw: -101.250244
@@ -3961,7 +3961,7 @@ Objects {
     Scale {
       X: 1
       Y: 1
-      Z: 1
+      Z: -1
     }
   }
   ParentId: 3642746188604673888

@@ -26,15 +26,6 @@ Assets {
   }
 }
 Assets {
-  Id: 14782639740804501016
-  Name: "Fantasy Human Gal 1"
-  PlatformAssetType: 17
-  PrimaryAsset {
-    AssetType: "AnimatedMeshAssetRef"
-    AssetId: "npc_human_gal_fantasy_003_ref"
-  }
-}
-Assets {
   Id: 13282259600726273799
   Name: "Cylinder"
   PlatformAssetType: 1

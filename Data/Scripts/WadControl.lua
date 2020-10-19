@@ -12,7 +12,7 @@ local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 
 local delay = 0.005
 local moveSpeed = 650
-local gravityForce = 600
+local gravityForce = 610
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
@@ -75,7 +75,7 @@ end
 function rollThatWad(deltaTime)
   deltaTime = deltaTime or delay
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.New(0, 0, (wadSize - 1.7) * -gravityForce)
+  local simulatedMass = Vector3.New(0, 0, (wadSize - 1.75) * -gravityForce)
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -216,11 +216,11 @@ function handleGrabberOverlap (grabber, trigger)
       -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)
       -- clientItem:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.1))
       if grabber.name == "Undergrab" then
-        Utils.lerpNSlurp(clientItem, WAD, 0.55, 40, 0.5)
-        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.55, 40, 0.5) end
+        Utils.lerpNSlurp(clientItem, WAD, 0.55, 40, 0.4)
+        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.55, 60, 0.5) end
       else
         Utils.lerpNSlurp(clientItem, WAD, 0.4, 50, 0.75)
-        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.4, 40, 0.5) end
+        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.4, 60, 0.5) end
       end
 
       wadSize = wadSize + itemSize / 50

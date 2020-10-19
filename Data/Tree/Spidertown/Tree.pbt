@@ -1,6 +1,102 @@
 ﻿Name: "Spidertown"
 RootId: 12109605343542789210
 Objects {
+  Id: 10416003809160338203
+  Name: "Chain Tile 01"
+  Transform {
+    Location {
+      X: -350.526367
+      Y: -595.511963
+      Z: 452.438171
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.649455607
+      Y: 0.649455607
+      Z: 0.321380913
+    }
+  }
+  ParentId: 12109605343542789210
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18353433627847787208
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 37508769482668157
+  Name: "Small Open Crate"
+  Transform {
+    Location {
+      X: -55
+      Y: -1000
+      Z: 135
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12109605343542789210
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        G: 4
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.107799701
+        G: 0.0835199729
+        B: 0.179999948
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1490857703873336751
+    }
+    Teams {
+      TeamInt: 2
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 14172600757985173100
   Name: "Carpet Tile 01"
   Transform {
@@ -460,7 +556,7 @@ Objects {
   Name: "Grass Tall"
   Transform {
     Location {
-      X: -205
+      X: -221.129883
       Y: -1710
       Z: 132
     }

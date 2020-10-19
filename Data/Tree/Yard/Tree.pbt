@@ -5,7 +5,7 @@ Objects {
   Name: "Garden"
   Transform {
     Location {
-      X: -4345
+      X: -5214.646
       Y: -3634.99976
       Z: 135
     }
@@ -195,51 +195,6 @@ Objects {
     }
     TemplateAsset {
       Id: 17726477386828542061
-    }
-  }
-}
-Objects {
-  Id: 630047146617909250
-  Name: "Fantasy Human Gal 1"
-  Transform {
-    Location {
-      X: 3315.00024
-      Y: 6745
-      Z: 2040
-    }
-    Rotation {
-    }
-    Scale {
-      X: 9.6
-      Y: 9.6
-      Z: 9.6
-    }
-  }
-  ParentId: 14383419372897064754
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 14782639740804501016
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    AnimatedMesh {
-      AnimationStance: "unarmed_idle_relaxed"
-      AnimationStancePlaybackRate: 1
-      AnimationStanceShouldLoop: true
-      AnimationPlaybackRateMultiplier: 1
-      PlayOnStartAnimation {
-        PlaybackRate: 1
-        ShouldLoop: true
-      }
     }
   }
 }
@@ -506,16 +461,16 @@ Objects {
   Name: "Tree Oak 01"
   Transform {
     Location {
-      X: -10640
-      Y: -469.999512
+      X: -10514.416
+      Y: -470
       Z: 81.9999695
     }
     Rotation {
     }
     Scale {
-      X: 6
-      Y: 6
-      Z: 6
+      X: 7.890903
+      Y: 7.890903
+      Z: 7.890903
     }
   }
   ParentId: 14383419372897064754

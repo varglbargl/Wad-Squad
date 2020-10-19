@@ -1,6 +1,56 @@
 ﻿Name: "Outside"
 RootId: 11789853748847975752
 Objects {
+  Id: 3341713855421399907
+  Name: "Invisible Walls"
+  Transform {
+    Location {
+      X: 5759.12
+      Y: 404.928345
+      Z: -18427.8223
+    }
+    Rotation {
+    }
+    Scale {
+      X: 263.473
+      Y: 267.772888
+      Z: 641.412537
+    }
+  }
+  ParentId: 11789853748847975752
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 11251994733772007315
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5141308867330199470
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    DisableCastShadows: true
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 8743805055054327090
   Name: "Tree Redwood Bare Big"
   Transform {

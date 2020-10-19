@@ -5,7 +5,7 @@ Objects {
   Name: "Garden (5-25cm)"
   Transform {
     Location {
-      X: -30584.3027
+      X: -33483.168
       Y: -9829.01
       Z: -39.7683716
     }

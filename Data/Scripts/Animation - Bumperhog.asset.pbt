@@ -3,6 +3,18 @@
   Name: "Animation - Bumperhog"
   PlatformAssetType: 3
   TextAsset {
+    CustomParameters {
+      Overrides {
+        Name: "cs:VFX"
+        AssetReference {
+          Id: 16916440363316830103
+        }
+      }
+      Overrides {
+        Name: "cs:Force"
+        Float: 25
+      }
+    }
   }
   SerializationVersion: 65
 }

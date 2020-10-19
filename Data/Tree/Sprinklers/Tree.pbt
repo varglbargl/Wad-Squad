@@ -1,6 +1,147 @@
 ﻿Name: "Sprinklers"
 RootId: 14291318332536821318
 Objects {
+  Id: 10611919161715379890
+  Name: "Sprinkler Head"
+  Transform {
+    Location {
+      X: 12080.7646
+      Y: -3882.11914
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.99999905
+      Y: 4.99999905
+      Z: 4.99999905
+    }
+  }
+  ParentId: 14291318332536821318
+  ChildIds: 16777062901348030547
+  ChildIds: 4157606454333757452
+  ChildIds: 1335517474705198596
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 1335517474705198596
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.666666746
+      Y: 0.666666746
+      Z: 0.666666746
+    }
+  }
+  ParentId: 10611919161715379890
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 4157606454333757452
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 0.666666746
+      Y: 0.666666746
+      Z: 0.666666746
+    }
+  }
+  ParentId: 10611919161715379890
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.441241831
+            Y: 0.441241831
+            Z: 0.441241831
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 22.1815643
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 16777062901348030547
+  Name: "Sprinkler Head"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10611919161715379890
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18124628489835964995
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Sprinkler Head"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.846028805
+            Z: 5.47257614
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7329050911160183410
+    }
+  }
+}
+Objects {
   Id: 8814809780519813370
   Name: "Sprinkler Head"
   Transform {

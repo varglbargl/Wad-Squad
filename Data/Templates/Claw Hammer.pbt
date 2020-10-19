@@ -10,14 +10,13 @@
         Name: "Claw Hammer"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.566555321
+            Y: 0.566555321
+            Z: 0.566555321
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 9308695743155741376
-        ChildIds: 5024703599402058176
+        ChildIds: 13998178281661082803
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -29,12 +28,10 @@
         }
       }
       Objects {
-        Id: 9308695743155741376
-        Name: "Head"
+        Id: 13998178281661082803
+        Name: "Geo"
         Transform {
           Location {
-            Y: -212.736328
-            Z: -107.056534
           }
           Rotation {
           }
@@ -45,6 +42,35 @@
           }
         }
         ParentId: 11161468861786088888
+        ChildIds: 9308695743155741376
+        ChildIds: 5024703599402058176
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 9308695743155741376
+        Name: "Head"
+        Transform {
+          Location {
+            Y: -107.056641
+            Z: 283.339264
+          }
+          Rotation {
+            Roll: 89.9999771
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13998178281661082803
         ChildIds: 4982809354493751606
         ChildIds: 9785010027674914174
         ChildIds: 15050163572915901126
@@ -683,10 +709,11 @@
         Name: "Handle"
         Transform {
           Location {
-            Y: 212.736328
-            Z: 14.6276093
+            Y: 14.6289063
+            Z: -142.134293
           }
           Rotation {
+            Roll: 89.9999771
           }
           Scale {
             X: 1
@@ -694,7 +721,7 @@
             Z: 1
           }
         }
-        ParentId: 11161468861786088888
+        ParentId: 13998178281661082803
         ChildIds: 7686608984330042685
         ChildIds: 9526679020398197607
         ChildIds: 6156690043180699452
