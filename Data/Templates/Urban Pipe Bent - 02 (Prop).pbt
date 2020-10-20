@@ -7,16 +7,30 @@
       RootId: 9613085516545401601
       Objects {
         Id: 9613085516545401601
-        Name: "Plumbing"
+        Name: "Plumbing Piece"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 1.48753417
+            Y: 1.48753417
+            Z: 1.48753417
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 7007091537414418291
         ChildIds: 16822642698654005574
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupSound"
+            AssetReference {
+              Id: 13044126771883783701
+            }
+          }
+          Overrides {
+            Name: "cs:PickupFX"
+            ObjectReference {
+              SelfId: 11256904120761855927
+            }
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -29,7 +43,7 @@
       }
       Objects {
         Id: 16822642698654005574
-        Name: "ClientContext"
+        Name: "Geo"
         Transform {
           Location {
           }
@@ -211,6 +225,15 @@
             }
           }
         }
+      }
+    }
+    Assets {
+      Id: 13044126771883783701
+      Name: "Impact Metal Small SFX"
+      PlatformAssetType: 7
+      PrimaryAsset {
+        AssetType: "AudioAssetRef"
+        AssetId: "sfx_gun_impact_metal_sm"
       }
     }
     Assets {

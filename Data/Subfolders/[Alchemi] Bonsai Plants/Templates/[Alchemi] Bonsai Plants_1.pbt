@@ -7,16 +7,12 @@
       RootId: 10657859027847533403
       Objects {
         Id: 10657859027847533403
-        Name: "Group"
+        Name: "[Alchemi] Bonsai Plants"
         Transform {
-          Location {
-          }
-          Rotation {
-          }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 4.10000038
+            Y: 4.10000038
+            Z: 4.10000038
           }
         }
         ChildIds: 10093447948623163450
@@ -32,8 +28,7 @@
         Name: "[Alchemi] Bonsai  Summer"
         Transform {
           Location {
-            X: 113.488281
-            Y: -13.9726563
+            X: 113.48822
           }
           Rotation {
           }
@@ -412,9 +407,9 @@
         Name: "[Alchemi] Bonsai Spring"
         Transform {
           Location {
-            X: 38.0878906
-            Y: 5.75683594
-            Z: 6.65759277
+            X: 38.087841
+            Y: 5.75683546
+            Z: -1.2195121
           }
           Rotation {
           }
@@ -758,9 +753,9 @@
         Name: "[Alchemi] Bonsai Autumn"
         Transform {
           Location {
-            X: -113.388672
-            Y: 6.84375
-            Z: 6.65759277
+            X: -113.388664
+            Y: -1.2195121
+            Z: -1.2195121
           }
           Rotation {
           }
@@ -808,7 +803,7 @@
         UnregisteredParameters {
           Overrides {
             Name: "bp:Leaf Scale"
-            Float: 0.2
+            Float: 0.25
           }
           Overrides {
             Name: "bp:Life"
@@ -826,11 +821,11 @@
           }
           Overrides {
             Name: "bp:Density"
-            Float: 1.24911118
+            Float: 2
           }
           Overrides {
             Name: "bp:Gravity"
-            Float: -1.5
+            Float: -1
           }
           Overrides {
             Name: "bp:color"
@@ -1137,9 +1132,9 @@
         Name: "[Alchemi] Bonsai Root"
         Transform {
           Location {
-            X: -38.1875
-            Y: 1.375
-            Z: 6.65759277
+            X: -45.1219482
+            Y: -3.6585362
+            Z: -1.2195121
           }
           Rotation {
           }

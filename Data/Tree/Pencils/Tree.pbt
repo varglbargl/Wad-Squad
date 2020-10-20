@@ -770,14 +770,14 @@ Objects {
   Name: "Colored Pencil"
   Transform {
     Location {
-      X: -2647.45166
-      Y: 2595
-      Z: -130.000031
+      X: -3436.14502
+      Y: 2474.71899
+      Z: -129.999908
     }
     Rotation {
       Pitch: -90
-      Yaw: 14.0362635
-      Roll: 114.37825
+      Yaw: -26.565033
+      Roll: 154.979584
     }
     Scale {
       X: 0.21207124
@@ -1229,14 +1229,14 @@ Objects {
   Name: "Colored Pencil"
   Transform {
     Location {
-      X: -1310
-      Y: 2660
-      Z: -130
+      X: -917.851074
+      Y: 2274.48706
+      Z: -129.999939
     }
     Rotation {
       Pitch: -90
-      Yaw: 7.12502289
-      Roll: -160.792175
+      Yaw: 180
+      Roll: 54.6282959
     }
     Scale {
       X: 0.21207124
@@ -1360,14 +1360,6 @@ Objects {
           Rotator {
             Yaw: 179.999924
             Roll: 9.15999698e-13
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.999999762
-            Y: 0.999999762
-            Z: 0.999999762
           }
         }
       }

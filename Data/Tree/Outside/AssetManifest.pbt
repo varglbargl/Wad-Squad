@@ -8,15 +8,6 @@
   }
 }
 Assets {
-  Id: 16503278745794574747
-  Name: "Tree Redwood Medium"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_tree_redwood_002"
-  }
-}
-Assets {
   Id: 16393128389192616686
   Name: "Tree Redwood Bare Big"
   PlatformAssetType: 1

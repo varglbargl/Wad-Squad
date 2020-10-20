@@ -19,7 +19,8 @@ else
     Color.YELLOW,
     Color.GREEN,
     Color.BLUE,
-    Color.PURPLE
+    Color.PURPLE,
+    Color.PINK
   }
 end
 

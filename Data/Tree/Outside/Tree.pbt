@@ -560,46 +560,6 @@ Objects {
   }
 }
 Objects {
-  Id: 4362332727345360808
-  Name: "Tree Redwood Medium"
-  Transform {
-    Location {
-      X: -3255
-      Y: -14090
-      Z: 135
-    }
-    Rotation {
-      Yaw: -172.486084
-    }
-    Scale {
-      X: 6
-      Y: 6
-      Z: 6
-    }
-  }
-  ParentId: 11789853748847975752
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 16503278745794574747
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
   Id: 1032758771315186614
   Name: "Tree Redwood Big"
   Transform {

@@ -1,6 +1,100 @@
 ﻿Name: "Planter 1"
 RootId: 16293025218802327690
 Objects {
+  Id: 13473521525239192949
+  Name: "Decal Bullet Damage Wood"
+  Transform {
+    Location {
+      X: 554.835938
+      Y: -1913.88208
+      Z: 15.6018476
+    }
+    Rotation {
+      Yaw: -89.0264
+      Roll: 89.9998779
+    }
+    Scale {
+      X: 0.0842632204
+      Y: 0.0842629
+      Z: 0.000496440101
+    }
+  }
+  ParentId: 16293025218802327690
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 0.624635756
+        B: 0.480000019
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 3951634741642929759
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 2008270243891892476
+  Name: "Decal Bullet Damage Wood"
+  Transform {
+    Location {
+      X: 554.842773
+      Y: -542.657715
+      Z: 16.1069546
+    }
+    Rotation {
+      Yaw: -89.0264206
+      Roll: 89.9998779
+    }
+    Scale {
+      X: 0.0842632204
+      Y: 0.0842629
+      Z: 0.00049644016
+    }
+  }
+  ParentId: 16293025218802327690
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 0.624635756
+        B: 0.480000019
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 3951634741642929759
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
   Id: 18004625656948544371
   Name: "Decal Dirt Patch"
   Transform {

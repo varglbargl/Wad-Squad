@@ -723,8 +723,8 @@ Objects {
   Name: "Book"
   Transform {
     Location {
-      X: 1077.86475
-      Y: 307.989502
+      X: 1308.02686
+      Y: 413.246338
       Z: 12.5055084
     }
     Rotation {

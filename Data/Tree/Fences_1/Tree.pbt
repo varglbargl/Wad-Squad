@@ -311,7 +311,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -641,7 +641,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -971,7 +971,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -1301,7 +1301,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -1631,7 +1631,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -1965,7 +1965,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -2295,7 +2295,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -2628,7 +2628,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -2957,7 +2957,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -3290,7 +3290,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -3619,7 +3619,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -3948,7 +3948,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -4278,7 +4278,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"
@@ -4385,229 +4385,11 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2930946233843972535
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:smart"
-          Bool: false
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:vtile"
-          Float: 2
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:utile"
-          Float: 0.2
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 2955082615315311783
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:smart"
-          Bool: false
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:vtile"
-          Float: 2
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:utile"
-          Float: 0.2
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5252674359890914300
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:smart"
-          Bool: false
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:vtile"
-          Float: 2
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:utile"
-          Float: 0.2
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5366074395565417317
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:smart"
-          Bool: false
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:vtile"
-          Float: 2
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:utile"
-          Float: 0.2
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.0999
-            Y: 0.156230807
-            Z: 1.19
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5653309682793122595
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:smart"
-          Bool: false
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:vtile"
-          Float: 2
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:utile"
-          Float: 0.2
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.0999
-            Y: 0.156230807
-            Z: 1.19
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 8149938139186593878
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:smart"
-          Bool: false
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:vtile"
-          Float: 2
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:utile"
-          Float: 0.2
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.0999
-            Y: 0.177831009
-            Z: 1.19
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11422357170610767655
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:smart"
-          Bool: false
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:vtile"
-          Float: 2
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:utile"
-          Float: 0.2
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.0999
-            Y: 0.156230807
-            Z: 1.19
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11736252756228929924
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:smart"
-          Bool: false
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:vtile"
-          Float: 2
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:utile"
-          Float: 0.2
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.0999
-            Y: 0.133130327
-            Z: 1.19
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11807071664258401282
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:smart"
-          Bool: false
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:vtile"
-          Float: 2
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:utile"
-          Float: 0.2
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.0999
-            Y: 0.177831009
-            Z: 1.19
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16107635274315807790
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:smart"
-          Bool: false
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:vtile"
-          Float: 2
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:utile"
-          Float: 0.2
-        }
-      }
-    }
-    ParameterOverrideMap {
       key: 17430998273110683890
       value {
         Overrides {
           Name: "Name"
-          String: "Rickety wooden fence"
+          String: "Garden Fence"
         }
         Overrides {
           Name: "Position"

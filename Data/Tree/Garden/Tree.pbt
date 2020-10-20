@@ -1,6 +1,157 @@
 ﻿Name: "Garden"
 RootId: 3092004872852450116
 Objects {
+  Id: 7030007948608344877
+  Name: "Pipes"
+  Transform {
+    Location {
+      X: 1899.646
+      Y: 5225
+      Z: -115
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Pipes"
+  }
+}
+Objects {
+  Id: 18412602128092246479
+  Name: "Trellis Platforms"
+  Transform {
+    Location {
+      X: 4224.646
+      Y: -3680.00024
+      Z: -320
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Trellis Platforms"
+  }
+}
+Objects {
+  Id: 2470355676460590255
+  Name: "Ambience Nature Calm Forest Set 01 SFX"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3092004872852450116
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5341159740561491560
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Ambience Nature Calm Forest Set 01 SFX"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 317.308105
+            Y: -2114.35278
+            Z: -134.780579
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6020247343916752988
+      value {
+        Overrides {
+          Name: "Repeat"
+          Bool: true
+        }
+        Overrides {
+          Name: "EnableSpatialization"
+          Bool: false
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9678863114808399908
+      value {
+        Overrides {
+          Name: "Repeat"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11463192664781989988
+      value {
+        Overrides {
+          Name: "Repeat"
+          Bool: true
+        }
+        Overrides {
+          Name: "EnableSpatialization"
+          Bool: false
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13406254572276603093
+    }
+  }
+}
+Objects {
   Id: 8087210267001392139
   Name: "Invisible Ramp"
   Transform {
@@ -1505,21 +1656,20 @@ Objects {
   }
 }
 Objects {
-  Id: 5294975022293199233
-  Name: "Grass Tall"
+  Id: 6216154186127255500
+  Name: "Grass"
   Transform {
     Location {
-      X: -606.766113
-      Y: -1023.59985
-      Z: 0.448791504
+      X: 3379.646
+      Y: -420.000244
+      Z: -40
     }
     Rotation {
-      Yaw: 137.531281
     }
     Scale {
-      X: 1.57761085
-      Y: 1.10432756
-      Z: 1.26208866
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 3092004872852450116
@@ -1529,233 +1679,9 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 5739790186020624212
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 1733120221721180603
-  Name: "Grass Tall"
-  Transform {
-    Location {
-      X: -271.882324
-      Y: -1019.69458
-      Z: 0.448761
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 1.4
-      Z: 1.6
-    }
-  }
-  ParentId: 3092004872852450116
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5739790186020624212
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4906148935594502586
-  Name: "Grass Short"
-  Transform {
-    Location {
-      X: -1216.82666
-      Y: -3109.26245
-      Z: 0.448791504
-    }
-    Rotation {
-      Yaw: 107.656059
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 3092004872852450116
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 15292310889241014565
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 1670155039139758374
-  Name: "Urban Pipe Straight"
-  Transform {
-    Location {
-      X: -1281.83154
-      Y: -3964.08911
-      Z: -20.1524353
-    }
-    Rotation {
-      Pitch: -3.60821533
-    }
-    Scale {
-      X: 1.71502507
-      Y: 1.71502626
-      Z: 1.141119
-    }
-  }
-  ParentId: 3092004872852450116
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 15897705887741699672
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 16109846217657519034
-  Name: "Urban Pipe Coupling 05"
-  Transform {
-    Location {
-      X: -1280.13525
-      Y: -3964.16528
-      Z: 35
-    }
-    Rotation {
-      Pitch: -1.95196533
-    }
-    Scale {
-      X: 1.76421857
-      Y: 1.76421857
-      Z: 1.76421857
-    }
-  }
-  ParentId: 3092004872852450116
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12610149741243116648
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 15483423752803769805
-  Name: "Clover Patch 01"
-  Transform {
-    Location {
-      X: -994.300293
-      Y: -3548.14819
-      Z: 4.99987793
-    }
-    Rotation {
-    }
-    Scale {
-      X: 4.20000029
-      Y: 4.20000029
-      Z: 1.89999974
-    }
-  }
-  ParentId: 3092004872852450116
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Nature_Leaves:color"
-      Color {
-        R: 0.0444499925
-        G: 0.105000004
-        B: 0.0141749931
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 4643288981220233326
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    DisableDistanceFieldLighting: true
-    DisableCastShadows: true
-    DisableReceiveDecals: true
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Grass"
   }
 }
 Objects {

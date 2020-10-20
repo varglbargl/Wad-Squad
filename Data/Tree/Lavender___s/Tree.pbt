@@ -122,14 +122,14 @@ Objects {
   Name: "Lavender"
   Transform {
     Location {
-      X: -135.880615
-      Y: -1197.52197
+      X: 14.234375
+      Y: -976.023926
       Z: 29.9497375
     }
     Rotation {
-      Pitch: 12.0444984
-      Yaw: -141.338074
-      Roll: 1.14931631
+      Pitch: 33.7711639
+      Yaw: -140.826813
+      Roll: 23.0110626
     }
     Scale {
       X: 1
@@ -239,9 +239,9 @@ Objects {
   Name: "Lavender"
   Transform {
     Location {
-      X: -134.293213
-      Y: -1134.55469
-      Z: 57.1624756
+      X: -134.292969
+      Y: -1018.7085
+      Z: 32.8999939
     }
     Rotation {
       Pitch: 12.0444984
@@ -824,14 +824,14 @@ Objects {
   Name: "Lavender"
   Transform {
     Location {
-      X: -146.738525
-      Y: -884.052734
+      X: -68.6982422
+      Y: -720.723633
       Z: 11.7549133
     }
     Rotation {
       Pitch: 12.0444984
-      Yaw: 172.598511
-      Roll: 1.14931428
+      Yaw: 172.598495
+      Roll: -5.9934082
     }
     Scale {
       X: 1
@@ -941,14 +941,14 @@ Objects {
   Name: "Lavender"
   Transform {
     Location {
-      X: -100.293701
-      Y: -841.505371
-      Z: 38.9676514
+      X: 22.034668
+      Y: -612.237305
+      Z: 7.13754272
     }
     Rotation {
-      Pitch: 12.0444984
-      Yaw: 90.8424
-      Roll: 1.14929616
+      Pitch: 2.81408548
+      Yaw: 45.5544739
+      Roll: -14.105835
     }
     Scale {
       X: 1
@@ -1059,13 +1059,13 @@ Objects {
   Transform {
     Location {
       X: -102.89502
-      Y: -779.106445
-      Z: -41.0086975
+      Y: -618.552734
+      Z: 31.1522827
     }
     Rotation {
-      Pitch: 4.09811328e-05
-      Yaw: 90.720871
-      Roll: 1.59543724e-05
+      Pitch: 28.3097801
+      Yaw: 90.7206116
+      Roll: 14.2634935
     }
     Scale {
       X: 1
@@ -1176,13 +1176,13 @@ Objects {
   Transform {
     Location {
       X: -18.1411133
-      Y: -863.468262
+      Y: -773.156738
       Z: -39.2219238
     }
     Rotation {
       Pitch: 4.09811328e-05
-      Yaw: 12.8883867
-      Roll: 2.99859221e-06
+      Yaw: 12.8884258
+      Roll: 2.99859107e-06
     }
     Scale {
       X: 1
@@ -1292,9 +1292,9 @@ Objects {
   Name: "Lavender"
   Transform {
     Location {
-      X: -68.6015625
-      Y: -954.851074
-      Z: -22.8896484
+      X: -49.7900391
+      Y: -887
+      Z: 32.2102966
     }
     Rotation {
       Pitch: 2.73207552e-05
@@ -1409,14 +1409,14 @@ Objects {
   Name: "Lavender"
   Transform {
     Location {
-      X: -167.166748
-      Y: -935.635254
+      X: -167.166992
+      Y: -845.32373
       Z: -32.6059875
     }
     Rotation {
       Pitch: 4.09811328e-05
       Yaw: -135.943085
-      Roll: 2.69843e-06
+      Roll: 2.6984269e-06
     }
     Scale {
       X: 1
@@ -1527,13 +1527,13 @@ Objects {
   Transform {
     Location {
       X: -200.683105
-      Y: -844.131836
+      Y: -753.820313
       Z: -22.8896484
     }
     Rotation {
       Pitch: 4.09811328e-05
-      Yaw: 175.350311
-      Roll: 1.11682984e-05
+      Yaw: 175.350296
+      Roll: 1.11682966e-05
     }
     Scale {
       X: 1
@@ -1639,726 +1639,18 @@ Objects {
   }
 }
 Objects {
-  Id: 8948553190681405059
-  Name: "Lavender"
-  Transform {
-    Location {
-      X: -82.7497559
-      Y: -620.044922
-      Z: 41.4915771
-    }
-    Rotation {
-      Pitch: 8.1240654
-      Yaw: -105.988098
-      Roll: 7.34411287
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6103267456963798084
-  ChildIds: 12742503458393452820
-  ChildIds: 2842943223352997071
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 2842943223352997071
-  Name: "Pickup Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8948553190681405059
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Box"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.150002152
-            Y: 0.15
-            Z: 1.66675341
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -19.728508
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3.07104492
-            Y: 1.49658203
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 12742503458393452820
-  Name: "Lavender"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8948553190681405059
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 7312680608505905495
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Lavender"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -18.8250046
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9643440699341162816
-    }
-  }
-}
-Objects {
-  Id: 2679407978598974291
-  Name: "Lavender"
-  Transform {
-    Location {
-      X: -119.809082
-      Y: -566.489258
-      Z: 48.098053
-    }
-    Rotation {
-      Pitch: 12.0444984
-      Yaw: 128.011444
-      Roll: 1.14931154
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6103267456963798084
-  ChildIds: 13428963450853459951
-  ChildIds: 16811605929397981434
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 16811605929397981434
-  Name: "Pickup Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2679407978598974291
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Box"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.150002152
-            Y: 0.15
-            Z: 1.66675341
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -19.728508
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3.07104492
-            Y: 1.49658203
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 13428963450853459951
-  Name: "Lavender"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2679407978598974291
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 7312680608505905495
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Lavender"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -18.8250046
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9643440699341162816
-    }
-  }
-}
-Objects {
-  Id: 3638524464205273407
-  Name: "Lavender"
-  Transform {
-    Location {
-      X: -14.9128418
-      Y: -522.527344
-      Z: -4.66555786
-    }
-    Rotation {
-      Pitch: 4.09811328e-05
-      Yaw: 46.1335907
-      Roll: 1.12852322e-05
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6103267456963798084
-  ChildIds: 4867711630507542559
-  ChildIds: 10618300782907982761
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 10618300782907982761
-  Name: "Pickup Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3638524464205273407
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Box"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.150002152
-            Y: 0.15
-            Z: 1.66675341
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -19.728508
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3.07104492
-            Y: 1.49658203
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 4867711630507542559
-  Name: "Lavender"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3638524464205273407
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 7312680608505905495
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Lavender"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -18.8250046
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9643440699341162816
-    }
-  }
-}
-Objects {
-  Id: 6112939749720651984
-  Name: "Lavender"
-  Transform {
-    Location {
-      X: -13.7734375
-      Y: -642.103
-      Z: -2.87878418
-    }
-    Rotation {
-      Pitch: 4.09811328e-05
-      Yaw: -31.6990662
-      Roll: 3.15189959e-06
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6103267456963798084
-  ChildIds: 17867692598176557596
-  ChildIds: 17754525833252761890
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 17754525833252761890
-  Name: "Pickup Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6112939749720651984
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Box"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.150002152
-            Y: 0.15
-            Z: 1.66675341
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -19.728508
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3.07104492
-            Y: 1.49658203
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 17867692598176557596
-  Name: "Lavender"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6112939749720651984
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 7312680608505905495
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Lavender"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -18.8250046
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9643440699341162816
-    }
-  }
-}
-Objects {
-  Id: 14262690934338329075
-  Name: "Lavender"
-  Transform {
-    Location {
-      X: -170.568604
-      Y: -588.885254
-      Z: 3.7371521
-    }
-    Rotation {
-      Pitch: 4.09811328e-05
-      Yaw: 179.469528
-      Roll: 1.09243354e-06
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6103267456963798084
-  ChildIds: 4641779933281841179
-  ChildIds: 14746209610545673661
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 14746209610545673661
-  Name: "Pickup Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14262690934338329075
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Box"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.150002152
-            Y: 0.15
-            Z: 1.66675341
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -19.728508
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3.07104492
-            Y: 1.49658203
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 4641779933281841179
-  Name: "Lavender"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14262690934338329075
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 7312680608505905495
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Lavender"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -18.8250046
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9643440699341162816
-    }
-  }
-}
-Objects {
-  Id: 9424661906935865716
-  Name: "Lavender"
-  Transform {
-    Location {
-      X: -130.202881
-      Y: -500.189453
-      Z: 13.4534912
-    }
-    Rotation {
-      Pitch: 4.09811328e-05
-      Yaw: 130.763138
-      Roll: 9.65700656e-06
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6103267456963798084
-  ChildIds: 11025766085415277689
-  ChildIds: 16149712658676563247
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 16149712658676563247
-  Name: "Pickup Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9424661906935865716
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Box"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.150002152
-            Y: 0.15
-            Z: 1.66675341
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -19.728508
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3.07104492
-            Y: 1.49658203
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 11025766085415277689
-  Name: "Lavender"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9424661906935865716
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 7312680608505905495
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Lavender"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -18.8250046
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9643440699341162816
-    }
-  }
-}
-Objects {
   Id: 6747039548472717986
   Name: "Lavender"
   Transform {
     Location {
-      X: -78.2585449
-      Y: -256.814941
+      X: -78.2587891
+      Y: -351.042
       Z: 34.6445618
     }
     Rotation {
       Pitch: 12.0444984
-      Yaw: 55.881218
-      Roll: 1.14929712
+      Yaw: 55.8812
+      Roll: 1.14929748
     }
     Scale {
       X: 1
@@ -2469,13 +1761,13 @@ Objects {
   Transform {
     Location {
       X: -34.2353516
-      Y: -317.430176
+      Y: -411.657227
       Z: 39.694458
     }
     Rotation {
-      Pitch: 12.0444984
-      Yaw: -25.8752747
-      Roll: 1.14928746
+      Pitch: 0.720311701
+      Yaw: -28.2390747
+      Roll: 0.668308496
     }
     Scale {
       X: 1
@@ -2585,14 +1877,14 @@ Objects {
   Name: "Lavender"
   Transform {
     Location {
-      X: -117.687744
-      Y: -380.9375
-      Z: -16.3322754
+      X: -117.6875
+      Y: -501.641113
+      Z: 3.33721924
     }
     Rotation {
-      Pitch: 3.4150944e-05
-      Yaw: -103.829651
-      Roll: 6.04549859e-06
+      Pitch: 6.83018879e-06
+      Yaw: -103.829956
+      Roll: -32.3150635
     }
     Scale {
       X: 1
@@ -2703,12 +1995,12 @@ Objects {
   Transform {
     Location {
       X: -176.62793
-      Y: -294.779297
+      Y: -389.006348
     }
     Rotation {
       Pitch: 2.04905664e-05
       Yaw: 177.832428
-      Roll: 6.00229168e-06
+      Roll: 6.00229e-06
     }
     Scale {
       X: 1
@@ -2818,9 +2110,9 @@ Objects {
   Name: "Lavender"
   Transform {
     Location {
-      X: -115.150146
-      Y: -215.375977
-      Z: -9.71633911
+      X: -115.150391
+      Y: -239.36084
+      Z: 22.4125671
     }
     Rotation {
       Pitch: 4.09811328e-05
@@ -2935,13 +2227,13 @@ Objects {
   Name: "Lavender"
   Transform {
     Location {
-      X: -18.3469238
-      Y: -226.57959
+      X: -18.3466797
+      Y: -320.806641
     }
     Rotation {
       Pitch: 3.4150944e-05
-      Yaw: 58.6328201
-      Roll: 5.99873465e-06
+      Yaw: 58.6328
+      Roll: 5.99873374e-06
     }
     Scale {
       X: 1
@@ -3285,12 +2577,12 @@ Objects {
   Name: "Lavender"
   Transform {
     Location {
-      X: -88.2905273
-      Y: -99.1367188
-      Z: -27.04776
+      X: -20.4863281
+      Y: -146.272949
+      Z: 27.4523621
     }
     Rotation {
-      Yaw: -84.6297913
+      Yaw: -52.1087646
     }
     Scale {
       X: 1

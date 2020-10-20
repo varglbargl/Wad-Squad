@@ -107,6 +107,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3951634741642929759
+  Name: "Decal Bullet Damage Wood"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_bullet_wood_001"
+  }
+}
+Assets {
   Id: 3729200827906376498
   Name: "Bush Leafy Tall 01"
   PlatformAssetType: 1

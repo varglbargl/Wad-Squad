@@ -26,15 +26,6 @@ Assets {
   }
 }
 Assets {
-  Id: 15292310889241014565
-  Name: "Grass Short"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_grass_generic_002"
-  }
-}
-Assets {
   Id: 14964967653464214432
   Name: "Decal Dirt Patch"
   PlatformAssetType: 14
@@ -95,24 +86,6 @@ Assets {
   PrimaryAsset {
     AssetType: "DecalBlueprintAssetRef"
     AssetId: "dcl_liquid"
-  }
-}
-Assets {
-  Id: 5739790186020624212
-  Name: "Grass Tall"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_grass_generic_001"
-  }
-}
-Assets {
-  Id: 4643288981220233326
-  Name: "Clover Patch 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_foliage_gen_clover_patch_001"
   }
 }
 Assets {

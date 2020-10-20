@@ -5,12 +5,12 @@ Objects {
   Name: "Watering Can - Turquouse"
   Transform {
     Location {
-      X: 11339.4092
-      Y: -1580.67212
-      Z: 1603.36914
+      X: 5056.00098
+      Y: -19546.1719
+      Z: 3216.6665
     }
     Rotation {
-      Yaw: 6.41254759
+      Yaw: 51.4126053
     }
     Scale {
       X: 3.33333325

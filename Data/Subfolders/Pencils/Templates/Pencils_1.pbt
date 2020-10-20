@@ -10,9 +10,9 @@
         Name: "Colored Pencil"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.999999762
+            Y: 0.999999762
+            Z: 0.999999762
           }
         }
         ParentId: 3839838480872649496
@@ -650,6 +650,13 @@
               Id: 132672053610873933
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -698,6 +705,13 @@
               Id: 132672053610873933
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1
+              A: 1
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -744,6 +758,13 @@
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
               Id: 132672053610873933
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1
+              A: 1
             }
           }
         }

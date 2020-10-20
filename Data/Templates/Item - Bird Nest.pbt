@@ -7,7 +7,7 @@
       RootId: 4702240767131014181
       Objects {
         Id: 4702240767131014181
-        Name: "Item - Bird Nest"
+        Name: "Bird Nest"
         Transform {
           Scale {
             X: 1
@@ -502,6 +502,19 @@
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
               Id: 7210998986192987884
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1
+              G: 0.910993397
+              B: 0.52
+              A: 1
             }
           }
         }

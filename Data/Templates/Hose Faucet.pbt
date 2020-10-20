@@ -10,13 +10,21 @@
         Name: "Hose Faucet"
         Transform {
           Scale {
-            X: 0.661582053
-            Y: 0.661582053
-            Z: 0.661582053
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 6591359336881178704
         ChildIds: 15229079872209659989
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupSound"
+            AssetReference {
+              Id: 13044126771883783701
+            }
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -34,12 +42,11 @@
           Location {
           }
           Rotation {
-            Roll: 5.00001764
           }
           Scale {
-            X: 2.2
-            Y: 2.2
-            Z: 2.2
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ParentId: 15785079424283649238
@@ -66,17 +73,18 @@
         Name: "Urban Pipe Elbow 01"
         Transform {
           Location {
-            X: -8.75
-            Y: -40
-            Z: -44.9999695
+            X: -19.25
+            Y: -79.4160156
+            Z: 101.942688
           }
           Rotation {
-            Yaw: 90.0000076
+            Pitch: -5.00003052
+            Yaw: 90
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 2.20000029
+            Y: 2.20000029
+            Z: 2.20000029
           }
         }
         ParentId: 15229079872209659989
@@ -105,17 +113,19 @@
         Name: "Urban Pipe Valve 02"
         Transform {
           Location {
-            X: -8.75
-            Z: 34.9998474
+            X: -19.25
+            Y: 23.5878906
+            Z: 269.602905
           }
           Rotation {
-            Yaw: 146.249908
-            Roll: -0.000122070313
+            Pitch: -2.77542114
+            Yaw: 146.350708
+            Roll: -4.16073608
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 2.20000029
+            Y: 2.20000029
+            Z: 2.20000029
           }
         }
         ParentId: 15229079872209659989
@@ -144,17 +154,19 @@
         Name: "Urban Pipe Clamp 01"
         Transform {
           Location {
-            X: -8.75
+            X: -19.25
+            Y: 16.8769531
+            Z: 192.896179
           }
           Rotation {
-            Pitch: 4.09811328e-05
+            Pitch: 5.00006
             Yaw: -90
             Roll: -9.15527344e-05
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 2.20000029
+            Y: 2.20000029
+            Z: 2.20000029
           }
         }
         ParentId: 15229079872209659989
@@ -183,18 +195,19 @@
         Name: "Urban Pipe Elbow 01"
         Transform {
           Location {
-            X: -8.75
-            Y: 40
-            Z: -44.9999695
+            X: -19.25
+            Y: 95.9121094
+            Z: 86.6032104
           }
           Rotation {
+            Pitch: 5.00001907
             Yaw: -89.999939
-            Roll: 9.56226286e-05
+            Roll: 0.000100487348
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 2.20000029
+            Y: 2.20000029
+            Z: 2.20000029
           }
         }
         ParentId: 15229079872209659989
@@ -223,19 +236,18 @@
         Name: "Urban Pipe Straight"
         Transform {
           Location {
-            X: -7.61422777
-            Y: -36.4786186
-            Z: -201.282715
+            X: -16.7519531
+            Y: -101.666992
+            Z: -241.246155
           }
           Rotation {
-            Pitch: 1.39180124
-            Yaw: 90
-            Roll: 4.8038936e-07
+            Pitch: -3.60821533
+            Yaw: 89.9999847
           }
           Scale {
-            X: 1.17831862
-            Y: 1.17832351
-            Z: 3.53463483
+            X: 2.59230113
+            Y: 2.59231186
+            Z: 7.77619743
           }
         }
         ParentId: 15229079872209659989
@@ -267,19 +279,19 @@
         Name: "Sign Bracket - Round"
         Transform {
           Location {
-            X: -7.5757494
-            Y: -52.568428
-            Z: -127.576042
+            X: -16.6660156
+            Y: -122.796875
+            Z: -76.6234741
           }
           Rotation {
             Pitch: 6.83018879e-06
             Yaw: 179.999954
-            Roll: 1.39180291
+            Roll: -3.60821533
           }
           Scale {
-            X: 2.37373757
-            Y: 2.37373757
-            Z: 2.37373757
+            X: 5.22222281
+            Y: 5.22222281
+            Z: 5.22222281
           }
         }
         ParentId: 15229079872209659989
@@ -309,19 +321,19 @@
         Name: "Nail"
         Transform {
           Location {
-            X: 21.0345631
-            Y: -47.7477417
-            Z: -127.470337
+            X: 46.2773438
+            Y: -112.208984
+            Z: -77.3161316
           }
           Rotation {
-            Pitch: 89.6455612
-            Yaw: 90
-            Roll: 0.00055313349
+            Pitch: 84.6453171
+            Yaw: 89.999855
+            Roll: 0.000585545553
           }
           Scale {
-            X: 0.0505051054
-            Y: 0.0505051129
-            Z: 0.0761306807
+            X: 0.111111246
+            Y: 0.111111253
+            Z: 0.167487517
           }
         }
         ParentId: 15229079872209659989
@@ -365,19 +377,19 @@
         Name: "Nail"
         Transform {
           Location {
-            X: -38.7475739
-            Y: -47.7477455
-            Z: -127.470337
+            X: -85.2441406
+            Y: -112.210938
+            Z: -77.3161316
           }
           Rotation {
-            Pitch: 89.6450119
-            Yaw: 89.9994431
-            Roll: 0.000553250953
+            Pitch: 84.6449203
+            Yaw: 89.9999237
+            Roll: 0.00107949064
           }
           Scale {
-            X: 0.0505051054
-            Y: 0.0505051129
-            Z: 0.0761306807
+            X: 0.111111246
+            Y: 0.111111253
+            Z: 0.167487517
           }
         }
         ParentId: 15229079872209659989
@@ -421,16 +433,17 @@
         Name: "Threads"
         Transform {
           Location {
-            X: -10.8674593
-            Y: 40.1079597
-            Z: -38.8219452
+            X: -23.9091797
+            Y: 97.3339844
+            Z: 100.122498
           }
           Rotation {
+            Roll: 5.00002193
           }
           Scale {
-            X: 1.75703073
-            Y: 1.75703073
-            Z: 1.75703073
+            X: 3.86546803
+            Y: 3.86546803
+            Z: 3.86546803
           }
         }
         ParentId: 15229079872209659989
@@ -723,6 +736,15 @@
             }
           }
         }
+      }
+    }
+    Assets {
+      Id: 13044126771883783701
+      Name: "Impact Metal Small SFX"
+      PlatformAssetType: 7
+      PrimaryAsset {
+        AssetType: "AudioAssetRef"
+        AssetId: "sfx_gun_impact_metal_sm"
       }
     }
     Assets {

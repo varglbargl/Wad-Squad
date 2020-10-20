@@ -219,11 +219,11 @@ function handleGrabberOverlap (grabber, trigger)
       -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)
       -- clientItem:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.1))
       if grabber.name == "Undergrab" then
-        Utils.lerpNSlurp(clientItem, WAD, 0.55, 40, 0.4)
-        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.55, 60, 0.5) end
+        Utils.lerpNSlurp(clientItem, WAD, 0.55, 40, 0.5 * (itemSize / wadSize))
+        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.55, 60, 0.8 * (itemSize / wadSize)) end
       else
-        Utils.lerpNSlurp(clientItem, WAD, 0.4, 50, 0.75)
-        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.4, 60, 0.5) end
+        Utils.lerpNSlurp(clientItem, WAD, 0.4, 50, 0.7 * (itemSize / wadSize))
+        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.4, 60, 0.9 * (itemSize / wadSize)) end
       end
 
       wadSize = wadSize + itemSize / 50
@@ -234,11 +234,17 @@ function handleGrabberOverlap (grabber, trigger)
       UI_MANAGER.context.pickedUpItem(item, WAD)
 
       local pickupSound = clientItem:GetCustomProperty("PickupSound")
+      local pickupFX = item:GetCustomProperty("PickupFX")
 
       if pickupSound then
         Utils.playSoundEffect(pickupSound)
       else
         Utils.playSoundEffect(DEFAULT_PICKUP_SOUND)
+      end
+
+      if pickupFX then
+        pickupFX = pickupFX:WaitForObject()
+        pickupFX:Play()
       end
     end
   end

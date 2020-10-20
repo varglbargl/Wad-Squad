@@ -51,56 +51,6 @@ Objects {
   }
 }
 Objects {
-  Id: 7519198889842815352
-  Name: "Claw Hammer"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 280905557327166263
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11161468861786088888
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Claw Hammer"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1042.40833
-            Y: 863.979187
-            Z: 233.911682
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.566555321
-            Y: 0.566555321
-            Z: 0.566555321
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -86.040863
-            Yaw: -91.4605103
-            Roll: 37.463707
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 2166862301265764358
-    }
-  }
-}
-Objects {
   Id: 5008411848582469400
   Name: "Ant Hill"
   Transform {

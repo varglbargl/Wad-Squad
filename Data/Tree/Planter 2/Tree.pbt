@@ -1,6 +1,206 @@
 ﻿Name: "Planter 2"
 RootId: 1308157785884344232
 Objects {
+  Id: 3063436703650072355
+  Name: "Lavender Bush"
+  Transform {
+    Location {
+      X: 394.969086
+      Y: -229.835617
+      Z: 80.35952
+    }
+    Rotation {
+      Yaw: -59.0319519
+    }
+    Scale {
+      X: 0.722432792
+      Y: 0.722432792
+      Z: 0.644772053
+    }
+  }
+  ParentId: 1308157785884344232
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        R: 0.0131125432
+        G: 0.179999948
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12069358021327041572
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4145966419278717005
+  Name: "Lavender Bush"
+  Transform {
+    Location {
+      X: 340.209961
+      Y: -302.949554
+      Z: 80.35952
+    }
+    Rotation {
+      Yaw: -42.5368042
+    }
+    Scale {
+      X: 0.666666627
+      Y: 0.666666627
+      Z: 0.595000863
+    }
+  }
+  ParentId: 1308157785884344232
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        R: 0.0131125432
+        G: 0.179999948
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12069358021327041572
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2608626693141883769
+  Name: "Lavender Bush"
+  Transform {
+    Location {
+      X: 397.116547
+      Y: 1.72753906
+      Z: 80.35952
+    }
+    Rotation {
+      Yaw: 31.2253418
+    }
+    Scale {
+      X: 0.827620149
+      Y: 0.827620149
+      Z: 0.738652408
+    }
+  }
+  ParentId: 1308157785884344232
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        R: 0.0131125432
+        G: 0.179999948
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12069358021327041572
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7830411227406819570
+  Name: "Lavender Bush"
+  Transform {
+    Location {
+      X: 379.948914
+      Y: 129.367188
+      Z: 80.35952
+    }
+    Rotation {
+      Yaw: -49.0230408
+    }
+    Scale {
+      X: 0.666666627
+      Y: 0.666666627
+      Z: 0.595000863
+    }
+  }
+  ParentId: 1308157785884344232
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Leaves:color"
+      Color {
+        R: 0.0131125432
+        G: 0.179999948
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12069358021327041572
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 16236285497942867476
   Name: "Moundhog"
   Transform {
@@ -461,67 +661,17 @@ Objects {
   Name: "Lavender Bush"
   Transform {
     Location {
-      X: 379.948914
-      Y: 181.325531
-      Z: 80.3595276
+      X: 356.213226
+      Y: 252.255539
+      Z: 80.35952
     }
     Rotation {
-      Yaw: -49.0230408
+      Yaw: 1.04658401
     }
     Scale {
-      X: 0.666666627
-      Y: 0.666666627
-      Z: 0.595000863
-    }
-  }
-  ParentId: 1308157785884344232
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Nature_Leaves:color"
-      Color {
-        R: 0.0131125432
-        G: 0.179999948
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12069358021327041572
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 18440909269809023112
-  Name: "Lavender Bush"
-  Transform {
-    Location {
-      X: 379.948914
-      Y: -8.68229198
-      Z: 80.3595276
-    }
-    Rotation {
-      Yaw: 64.5714722
-    }
-    Scale {
-      X: 0.666666627
-      Y: 0.666666627
-      Z: 0.595000863
+      X: 0.818629861
+      Y: 0.818629861
+      Z: 0.730628133
     }
   }
   ParentId: 1308157785884344232
@@ -563,15 +713,15 @@ Objects {
     Location {
       X: 379.948914
       Y: -375.209656
-      Z: 80.3595276
+      Z: 80.35952
     }
     Rotation {
-      Yaw: 102.269897
+      Yaw: 102.269913
     }
     Scale {
-      X: 0.666666627
-      Y: 0.666666627
-      Z: 0.595000863
+      X: 0.706878901
+      Y: 0.706878901
+      Z: 0.63089031
     }
   }
   ParentId: 1308157785884344232
@@ -612,11 +762,11 @@ Objects {
   Transform {
     Location {
       X: 379.948914
-      Y: -188.662766
-      Z: 80.3595276
+      Y: -128.455078
+      Z: 80.35952
     }
     Rotation {
-      Yaw: 138.063461
+      Yaw: 138.063416
     }
     Scale {
       X: 0.666666627
@@ -919,6 +1069,35 @@ Objects {
         Overrides {
           Name: "cs:Force"
           Float: 16
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8131205970773532333
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -10.2749672
+            Y: 1.48495674
+            Z: 12.0820408
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -30.1665344
+            Yaw: -66.7486267
+            Roll: -42.0341492
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.157423496
+            Y: 0.157423496
+            Z: 0.157423496
+          }
         }
       }
     }
@@ -2514,7 +2693,6 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {

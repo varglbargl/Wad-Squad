@@ -7864,90 +7864,6 @@ Objects {
   }
 }
 Objects {
-  Id: 6593317338497728519
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -1613.62012
-      Y: -20
-      Z: 40.0009766
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 4.1
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 196529515263058465
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 3381154727261795796
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -3399.39063
-      Y: -20
-      Z: 40.0009766
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 4.1
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 196529515263058465
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
   Id: 14916321720233096072
   Name: "Large Wood Beam 8m"
   Transform {
@@ -7991,48 +7907,6 @@ Objects {
   }
 }
 Objects {
-  Id: 2989267843571794132
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: 140
-      Y: 1750
-      Z: 40.0009766
-    }
-    Rotation {
-      Pitch: 90
-    }
-    Scale {
-      X: 4.1
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 196529515263058465
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
   Id: 6025000169250785826
   Name: "Large Wood Beam 8m"
   Transform {
@@ -8044,48 +7918,6 @@ Objects {
     Rotation {
       Pitch: 90
       Roll: 90.0000076
-    }
-    Scale {
-      X: 4.1
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 196529515263058465
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 3170532125922352612
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: 140
-      Y: 3555
-      Z: 40.0009766
-    }
-    Rotation {
-      Pitch: 90
     }
     Scale {
       X: 4.1

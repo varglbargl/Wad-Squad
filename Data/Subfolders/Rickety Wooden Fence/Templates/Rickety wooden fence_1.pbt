@@ -7,7 +7,7 @@
       RootId: 17430998273110683890
       Objects {
         Id: 17430998273110683890
-        Name: "Rickety wooden fence"
+        Name: "Garden Fence"
         Transform {
           Scale {
             X: 3.36751509
@@ -80,9 +80,9 @@
             Roll: 87.4999771
           }
           Scale {
-            X: 0.1
+            X: 0.0999
             Y: 0.177831009
-            Z: 1.20000017
+            Z: 1.19
           }
         }
         ParentId: 3476528881604899000
@@ -95,19 +95,19 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.5
+            Float: 0.2
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.5
+            Float: 2
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -117,7 +117,7 @@
             Id: 3555083525931093615
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
@@ -153,19 +153,19 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.5
+            Float: 0.2
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.5
+            Float: 2
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -175,7 +175,7 @@
             Id: 3555083525931093615
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
@@ -211,19 +211,19 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.5
+            Float: 0.2
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.5
+            Float: 2
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -233,7 +233,7 @@
             Id: 3555083525931093615
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
@@ -269,19 +269,19 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.5
+            Float: 0.2
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.5
+            Float: 2
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -291,7 +291,7 @@
             Id: 3555083525931093615
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
@@ -327,19 +327,19 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.5
+            Float: 0.2
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.5
+            Float: 2
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -349,7 +349,7 @@
             Id: 3555083525931093615
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
@@ -371,9 +371,9 @@
             Roll: 82.4999619
           }
           Scale {
-            X: 0.1
+            X: 0.0999
             Y: 0.156230807
-            Z: 1.20000017
+            Z: 1.19
           }
         }
         ParentId: 3476528881604899000
@@ -386,19 +386,19 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.5
+            Float: 0.2
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.5
+            Float: 2
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -408,7 +408,7 @@
             Id: 3555083525931093615
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
@@ -429,9 +429,9 @@
             Roll: 87.4999695
           }
           Scale {
-            X: 0.1
+            X: 0.0999
             Y: 0.133130327
-            Z: 1.20000017
+            Z: 1.19
           }
         }
         ParentId: 3476528881604899000
@@ -444,19 +444,19 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.5
+            Float: 0.2
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.5
+            Float: 2
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -466,7 +466,7 @@
             Id: 3555083525931093615
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
@@ -488,9 +488,9 @@
             Roll: 97.5000153
           }
           Scale {
-            X: 0.1
+            X: 0.0999
             Y: 0.177831009
-            Z: 1.20000017
+            Z: 1.19
           }
         }
         ParentId: 3476528881604899000
@@ -503,19 +503,19 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.5
+            Float: 0.2
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.5
+            Float: 2
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -525,7 +525,7 @@
             Id: 3555083525931093615
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
@@ -547,9 +547,9 @@
             Roll: 92.4999847
           }
           Scale {
-            X: 0.1
+            X: 0.0999
             Y: 0.156230807
-            Z: 1.20000017
+            Z: 1.19
           }
         }
         ParentId: 3476528881604899000
@@ -562,19 +562,19 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.5
+            Float: 0.2
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.5
+            Float: 2
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -584,7 +584,7 @@
             Id: 3555083525931093615
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
@@ -604,9 +604,9 @@
             Roll: 97.4999924
           }
           Scale {
-            X: 0.1
+            X: 0.0999
             Y: 0.156230807
-            Z: 1.20000017
+            Z: 1.19
           }
         }
         ParentId: 3476528881604899000
@@ -619,19 +619,19 @@
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:utile"
-            Float: 0.5
+            Float: 0.2
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 0.5
+            Float: 2
           }
         }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
@@ -641,7 +641,7 @@
             Id: 3555083525931093615
           }
           Teams {
-            IsTeamCollisionEnabled: true
+            TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
           EnableCameraCollision: true
