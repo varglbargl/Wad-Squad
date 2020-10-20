@@ -170,6 +170,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3951634741642929759
+  Name: "Decal Bullet Damage Wood"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_bullet_wood_001"
+  }
+}
+Assets {
   Id: 3284940111534433168
   Name: "Cube - Bottom-Aligned"
   PlatformAssetType: 1

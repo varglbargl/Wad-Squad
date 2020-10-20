@@ -238,6 +238,7 @@
             TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {

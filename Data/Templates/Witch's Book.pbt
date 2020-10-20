@@ -10,12 +10,12 @@
         Name: "Witch\'s Book"
         Transform {
           Scale {
-            X: 0.442370772
-            Y: 0.442370772
-            Z: 0.442370772
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 5987649464590042409
         ChildIds: 13145543794133012487
         ChildIds: 14021927308182772925
         ChildIds: 11150569768389850965
@@ -36,11 +36,14 @@
         Name: "Tree Decal"
         Transform {
           Location {
-            X: -168.57103
-            Y: -6.37965488
-            Z: 132.08342
+            X: -45.7348633
+            Y: 1098.61621
+            Z: 58.7601318
           }
           Rotation {
+            Pitch: -2.70053101
+            Yaw: -87.7262573
+            Roll: 90.0028
           }
           Scale {
             X: 1
@@ -71,19 +74,19 @@
         Name: "Tree Oak Bare 01"
         Transform {
           Location {
-            X: -0.0124080479
-            Y: -0.296677798
-            Z: 1.24176339e-07
+            X: 1112.74316
+            Y: 54.4958496
+            Z: 48.1170807
           }
           Rotation {
-            Pitch: 6.83018879e-06
-            Yaw: 134.999969
-            Roll: -2.83698573e-05
+            Pitch: -2.95962524
+            Yaw: -2.58181763
+            Roll: -89.8649
           }
           Scale {
-            X: 0.132149577
-            Y: 0.00132149574
-            Z: 0.132149577
+            X: 0.0374867581
+            Y: 0.000374867552
+            Z: 0.0374867581
           }
         }
         ParentId: 13145543794133012487
@@ -130,19 +133,19 @@
         Name: "Tree Oak Bare 01"
         Transform {
           Location {
-            X: 0.0119074006
-            Y: 0.297171682
-            Z: 0.70081526
+            X: 1112.8418
+            Y: 54.2919922
+            Z: 47.9878235
           }
           Rotation {
-            Pitch: 6.83018879e-06
-            Yaw: 134.999954
-            Roll: 6.14332691e-07
+            Pitch: -2.95962524
+            Yaw: -2.58181763
+            Roll: -89.8648682
           }
           Scale {
-            X: 0.131
-            Y: 0.00137911586
-            Z: 0.128865659
+            X: 0.0371606573
+            Y: 0.000391212612
+            Z: 0.036555212
           }
         }
         ParentId: 13145543794133012487
@@ -189,19 +192,19 @@
         Name: "Star - Faceted 5-Pointed"
         Transform {
           Location {
-            X: 74.957077
-            Y: -73.1803131
-            Z: 297.975189
+            X: 1079.33691
+            Y: -28.6108398
+            Z: 49.4295959
           }
           Rotation {
-            Pitch: 21.6091938
-            Yaw: 135.000031
-            Roll: 89.9997
+            Pitch: -2.70162964
+            Yaw: -24.2161865
+            Roll: 1.21605384
           }
           Scale {
-            X: 0.247594446
-            Y: 0.247594446
-            Z: 0.00126764213
+            X: 0.0702349
+            Y: 0.0702349
+            Z: 0.000359590951
           }
         }
         ParentId: 13145543794133012487
@@ -239,19 +242,19 @@
         Name: "Star - Faceted 5-Pointed"
         Transform {
           Location {
-            X: 42.4118195
-            Y: -40.6348686
-            Z: 351.437775
+            X: 1091.68115
+            Y: -44.3486328
+            Z: 48.7911682
           }
           Rotation {
-            Pitch: -2.57821178
-            Yaw: 135.000153
-            Roll: 89.9997253
+            Pitch: -2.96252441
+            Yaw: -0.000152587891
+            Roll: 0.0014728813
           }
           Scale {
-            X: 0.247594446
-            Y: 0.247594446
-            Z: 0.00126764213
+            X: 0.0702349
+            Y: 0.0702349
+            Z: 0.000359590951
           }
         }
         ParentId: 13145543794133012487
@@ -289,19 +292,19 @@
         Name: "Star - Faceted 5-Pointed"
         Transform {
           Location {
-            X: -6.1866765
-            Y: 7.96348238
-            Z: 368.658875
+            X: 1110.91211
+            Y: -50.1057129
+            Z: 47.7960815
           }
           Rotation {
-            Pitch: 75.8209152
-            Yaw: -44.998745
-            Roll: -89.9988556
+            Pitch: 0.855201125
+            Yaw: -106.736237
+            Roll: 2.83652234
           }
           Scale {
-            X: 0.247594446
-            Y: 0.247594446
-            Z: 0.00126764213
+            X: 0.0702349
+            Y: 0.0702349
+            Z: 0.000359590951
           }
         }
         ParentId: 13145543794133012487
@@ -339,19 +342,19 @@
         Name: "Star - Faceted 5-Pointed"
         Transform {
           Location {
-            X: -52.4893036
-            Y: 54.2657547
-            Z: 350.19751
+            X: 1129.67871
+            Y: -45.7097168
+            Z: 46.8247681
           }
           Rotation {
-            Pitch: -2.57821178
-            Yaw: 135.000153
-            Roll: 89.9997253
+            Pitch: -2.96252441
+            Yaw: -0.000152587891
+            Roll: 0.0014728813
           }
           Scale {
-            X: 0.247594446
-            Y: 0.247594446
-            Z: 0.00126764213
+            X: 0.0702349
+            Y: 0.0702349
+            Z: 0.000359590951
           }
         }
         ParentId: 13145543794133012487
@@ -389,19 +392,19 @@
         Name: "Star - Faceted 5-Pointed"
         Transform {
           Location {
-            X: -81.9222794
-            Y: 83.6982422
-            Z: 303.779144
+            X: 1142.05
+            Y: -33.0869141
+            Z: 46.1841736
           }
           Rotation {
-            Pitch: -25.1531677
-            Yaw: 135.000275
-            Roll: 89.9997
+            Pitch: -2.73590088
+            Yaw: 22.601963
+            Roll: -1.13677979
           }
           Scale {
-            X: 0.247594446
-            Y: 0.247594446
-            Z: 0.00126764213
+            X: 0.0702349
+            Y: 0.0702349
+            Z: 0.000359590951
           }
         }
         ParentId: 13145543794133012487
@@ -439,15 +442,18 @@
         Name: "Front Cover"
         Transform {
           Location {
-            X: -2.52832031
-            Y: 74.9639893
+            X: -45.7348633
+            Y: 1098.61621
+            Z: 58.7601318
           }
           Rotation {
-            Yaw: -89.9999847
+            Pitch: -2.70053101
+            Yaw: -87.7262573
+            Roll: 90.0028
           }
           Scale {
             X: 1
-            Y: -1
+            Y: 1
             Z: 1
           }
         }
@@ -471,16 +477,19 @@
         Name: "Pipe - Quarter Thick"
         Transform {
           Location {
-            X: 220
-            Y: -24.9995117
+            X: 1047.96
+            Y: 94.8979492
+            Z: 40.8848877
           }
           Rotation {
-            Yaw: -89.9999847
+            Pitch: -42.0402527
+            Yaw: 177.546844
+            Roll: 89.8182831
           }
           Scale {
-            X: 1
-            Y: -1
-            Z: 5.99999809
+            X: 0.283669144
+            Y: 0.283669144
+            Z: 1.70201433
           }
         }
         ParentId: 14021927308182772925
@@ -498,6 +507,18 @@
               G: 0.120000005
               A: 1
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.1
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.8
           }
         }
         Collidable_v2 {
@@ -526,16 +547,19 @@
         Name: "Pipe - Quarter Thick"
         Transform {
           Location {
-            X: 220
-            Y: 55.0004883
+            X: 1064.79834
+            Y: 94.1762695
+            Z: 56.0818787
           }
           Rotation {
-            Yaw: 90.0000534
+            Pitch: 42.0402069
+            Yaw: -2.45315552
+            Roll: -89.8183
           }
           Scale {
-            X: 1
-            Y: -1
-            Z: 5.99999809
+            X: 0.283669144
+            Y: 0.283669144
+            Z: 1.70201433
           }
         }
         ParentId: 14021927308182772925
@@ -553,6 +577,18 @@
               G: 0.120000005
               A: 1
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.1
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.8
           }
         }
         Collidable_v2 {
@@ -581,19 +617,19 @@
         Name: "Parallelepiped - Horizontal "
         Transform {
           Location {
-            X: 75
-            Y: 160
-            Z: 300
+            X: 1110.58887
+            Y: 6.90551758
+            Z: 45.6801453
           }
           Rotation {
-            Pitch: -90
-            Yaw: -153.434952
-            Roll: 18.4358521
+            Pitch: -0.13494873
+            Yaw: 87.4251556
+            Roll: 177.039505
           }
           Scale {
-            X: 6
-            Y: -2.1
-            Z: 0.3
+            X: 1.70201492
+            Y: 0.595705152
+            Z: 0.0851007476
           }
         }
         ParentId: 14021927308182772925
@@ -611,6 +647,18 @@
               G: 0.120000005
               A: 1
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.6
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.8
           }
         }
         Collidable_v2 {
@@ -639,18 +687,19 @@
         Name: "Cube - Arched"
         Transform {
           Location {
-            X: -22
-            Y: 257
-            Z: 300
+            X: 1149.4104
+            Y: 5.1550293
+            Z: 43.6710205
           }
           Rotation {
-            Yaw: -134.999985
-            Roll: -89.9999542
+            Pitch: -87.037323
+            Yaw: -179.966446
+            Roll: 177.388046
           }
           Scale {
-            X: 0.15
-            Y: -5.99999905
-            Z: 0.2
+            X: 0.0425503738
+            Y: 1.70201457
+            Z: 0.056733828
           }
         }
         ParentId: 14021927308182772925
@@ -668,6 +717,18 @@
               G: 0.120000005
               A: 1
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.1
           }
         }
         Collidable_v2 {
@@ -696,15 +757,18 @@
         Name: "Back Cover"
         Transform {
           Location {
-            X: -12.5283203
-            Y: 54.9639893
+            X: -45.7348633
+            Y: 1098.61621
+            Z: 58.7601318
           }
           Rotation {
-            Yaw: -89.9999847
+            Pitch: -2.70053101
+            Yaw: -87.7262573
+            Roll: 90.0028
           }
           Scale {
             X: 1
-            Y: -1
+            Y: 1
             Z: 1
           }
         }
@@ -728,16 +792,19 @@
         Name: "Pipe - Quarter Thick"
         Transform {
           Location {
-            X: 55
-            Y: -95
+            X: 1062.84424
+            Y: 94.1293945
+            Z: -1.06066895
           }
           Rotation {
-            Yaw: 179.999954
+            Pitch: -47.9593811
+            Yaw: -2.72451782
+            Roll: -89.7984619
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 5.99999809
+            X: 0.283669144
+            Y: -0.283669144
+            Z: 1.70201433
           }
         }
         ParentId: 11150569768389850965
@@ -755,6 +822,18 @@
               G: 0.120000005
               A: 1
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.1
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.8
           }
         }
         Collidable_v2 {
@@ -783,15 +862,19 @@
         Name: "Pipe - Quarter Thick"
         Transform {
           Location {
-            X: 135
-            Y: -95
+            X: 1047.66504
+            Y: 94.8518066
+            Z: 15.793335
           }
           Rotation {
+            Pitch: 47.9594154
+            Yaw: 177.275482
+            Roll: 89.7984695
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 5.99999809
+            X: 0.283669144
+            Y: -0.283669144
+            Z: 1.70201433
           }
         }
         ParentId: 11150569768389850965
@@ -809,6 +892,18 @@
               G: 0.120000005
               A: 1
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.1
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.8
           }
         }
         Collidable_v2 {
@@ -837,19 +932,19 @@
         Name: "Parallelepiped - Horizontal "
         Transform {
           Location {
-            X: -50
-            Y: 50
-            Z: 300
+            X: 1109.46436
+            Y: 6.85888672
+            Z: 4.56350708
           }
           Rotation {
-            Pitch: -90
-            Yaw: 26.565033
-            Roll: 18.4340134
+            Pitch: -0.13494873
+            Yaw: 87.4251556
+            Roll: -2.95864868
           }
           Scale {
-            X: 6
-            Y: 2.1
-            Z: 0.3
+            X: 1.70201492
+            Y: -0.595705152
+            Z: 0.0851007476
           }
         }
         ParentId: 11150569768389850965
@@ -867,6 +962,18 @@
               G: 0.120000005
               A: 1
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.6
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.8
           }
         }
         Collidable_v2 {
@@ -895,18 +1002,19 @@
         Name: "Cube - Arched"
         Transform {
           Location {
-            X: -147
-            Y: 147
-            Z: 300
+            X: 1148.28613
+            Y: 5.10888672
+            Z: 2.55395508
           }
           Rotation {
-            Yaw: 44.9999962
-            Roll: 89.9999542
+            Pitch: 87.0373306
+            Yaw: 0.0335907377
+            Roll: -177.388016
           }
           Scale {
-            X: 0.15
-            Y: 5.99999905
-            Z: 0.2
+            X: 0.0425503738
+            Y: -1.70201457
+            Z: 0.056733828
           }
         }
         ParentId: 11150569768389850965
@@ -924,6 +1032,18 @@
               G: 0.120000005
               A: 1
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.5
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.1
           }
         }
         Collidable_v2 {
@@ -952,17 +1072,19 @@
         Name: "Spine"
         Transform {
           Location {
-            X: 62.469635
-            Y: -124.162994
-            Z: 300.02243
+            X: 24.5151367
+            Y: 62.5378418
+            Z: -0.264526367
           }
           Rotation {
-            Yaw: 134.999969
+            Pitch: -0.118408203
+            Yaw: -90.685791
+            Roll: 0.144068971
           }
           Scale {
-            X: 0.900000036
-            Y: 1.80000007
-            Z: 6
+            X: 0.25530225
+            Y: 0.510604501
+            Z: 1.70201492
           }
         }
         ParentId: 5751125532144064646
@@ -980,6 +1102,18 @@
               G: 0.120000005
               A: 1
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 0.1
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 0.8
           }
         }
         Collidable_v2 {
@@ -1008,11 +1142,14 @@
         Name: "Paper"
         Transform {
           Location {
-            X: -47.4140625
-            Y: -4.89196777
-            Z: 300
+            X: -45.7348633
+            Y: 1098.61621
+            Z: 58.7601318
           }
           Rotation {
+            Pitch: -2.70053101
+            Yaw: -87.7262573
+            Roll: 90.0028
           }
           Scale {
             X: 1
@@ -1043,16 +1180,19 @@
         Name: "Cube"
         Transform {
           Location {
-            X: -46.2722473
-            Y: 38.434
+            X: 1102.47021
+            Y: 7.22338867
+            Z: 25.5289612
           }
           Rotation {
-            Yaw: -45
+            Pitch: 2.95959592
+            Yaw: 177.418182
+            Roll: 89.8648682
           }
           Scale {
-            X: 3.50000048
-            Y: 1.30000007
-            Z: 5.6
+            X: 0.992842138
+            Y: 0.368769914
+            Z: 1.58854723
           }
         }
         ParentId: 6147317889743540975
@@ -1102,18 +1242,19 @@
         Name: "Page"
         Transform {
           Location {
-            X: -17.9879761
-            Y: 24.2918625
+            X: 1093.8335
+            Y: 7.60620117
+            Z: 23.1354523
           }
           Rotation {
-            Pitch: -1.18112183
-            Yaw: -44.9999084
-            Roll: -89.999939
+            Pitch: 2.95609212
+            Yaw: 176.235489
+            Roll: -0.196105957
           }
           Scale {
-            X: 4.3
-            Y: 5.6
-            Z: 1
+            X: 1.21977735
+            Y: 1.58854723
+            Z: 0.283669144
           }
         }
         ParentId: 6147317889743540975
@@ -1163,18 +1304,19 @@
         Name: "Page"
         Transform {
           Location {
-            X: -45.2088242
-            Y: -2.92898464
+            X: 1094.39795
+            Y: 7.60668945
+            Z: 34.041
           }
           Rotation {
-            Pitch: 0.690047145
-            Yaw: -45
-            Roll: -90
+            Pitch: 2.96100307
+            Yaw: 178.109146
+            Roll: -0.0994567871
           }
           Scale {
-            X: 4.3
-            Y: 5.6
-            Z: 1
+            X: 1.21977735
+            Y: 1.58854723
+            Z: 0.283669144
           }
         }
         ParentId: 6147317889743540975
@@ -1224,18 +1366,19 @@
         Name: "Page"
         Transform {
           Location {
-            X: -56.8788528
-            Y: -14.5990095
+            X: 1094.63965
+            Y: 7.60668945
+            Z: 38.7164
           }
           Rotation {
-            Pitch: -1.40301514
-            Yaw: -44.9999084
-            Roll: -89.9998779
+            Pitch: 2.95530653
+            Yaw: 176.01329
+            Roll: -0.207489014
           }
           Scale {
-            X: 4.3
-            Y: 5.6
-            Z: 1
+            X: 1.21977735
+            Y: 1.58854723
+            Z: 0.283669144
           }
         }
         ParentId: 6147317889743540975
@@ -1285,18 +1428,19 @@
         Name: "Page"
         Transform {
           Location {
-            X: 1.7529211
-            Y: 44.0329323
+            X: 1093.42432
+            Y: 7.60595703
+            Z: 15.2265625
           }
           Rotation {
-            Pitch: 1.18520164
-            Yaw: -44.999939
-            Roll: -89.999939
+            Pitch: 2.96169281
+            Yaw: 178.604965
+            Roll: -0.0737915039
           }
           Scale {
-            X: 4.3
-            Y: 5.6
-            Z: 1
+            X: 1.21977735
+            Y: 1.58854723
+            Z: 0.283669144
           }
         }
         ParentId: 6147317889743540975
@@ -1346,16 +1490,19 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 102.220161
-            Y: -110.058426
+            X: 1043.03955
+            Y: 9.90332
+            Z: 28.6046906
           }
           Rotation {
-            Yaw: -44.9999695
+            Pitch: 2.95956182
+            Yaw: 177.418182
+            Roll: 89.8648682
           }
           Scale {
-            X: 0.7
-            Y: 1.49999988
-            Z: 5.6
+            X: 0.198568404
+            Y: 0.425503671
+            Z: 1.58854723
           }
         }
         ParentId: 6147317889743540975
@@ -1405,19 +1552,19 @@
         Name: "Page"
         Transform {
           Location {
-            X: -39.8409615
-            Y: 2.43888
-            Z: 3.05175781e-05
+            X: 1094.28662
+            Y: 7.60644531
+            Z: 31.8904572
           }
           Rotation {
-            Pitch: -0.770233154
-            Yaw: -44.9999084
-            Roll: -89.9998169
+            Pitch: 2.95741701
+            Yaw: 176.646912
+            Roll: -0.174743652
           }
           Scale {
-            X: 4.3
-            Y: 5.6
-            Z: 1
+            X: 1.21977735
+            Y: 1.58854723
+            Z: 0.283669144
           }
         }
         ParentId: 6147317889743540975

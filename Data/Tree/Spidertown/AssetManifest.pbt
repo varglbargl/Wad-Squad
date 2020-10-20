@@ -98,6 +98,15 @@ Assets {
   }
 }
 Assets {
+  Id: 2416419333238860711
+  Name: "Ambience Cave Drips 01 SFX"
+  PlatformAssetType: 7
+  PrimaryAsset {
+    AssetType: "AudioAssetRef"
+    AssetId: "sfx_ambience_cave_drips_01_Cue_ref"
+  }
+}
+Assets {
   Id: 1538208180143166038
   Name: "Wispy Fog Volume VFX"
   PlatformAssetType: 8

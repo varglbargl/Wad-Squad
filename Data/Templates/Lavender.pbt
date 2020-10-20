@@ -15,11 +15,8 @@
             Z: 0.795425594
           }
         }
-        ParentId: 4781671109827199097
-        ChildIds: 2278735307538460268
-        ChildIds: 10652968241190788803
-        ChildIds: 2316446974080531799
-        ChildIds: 16732110546041550963
+        ParentId: 2679407978598974291
+        ChildIds: 538046057208417406
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -31,16 +28,46 @@
         }
       }
       Objects {
+        Id: 538046057208417406
+        Name: "Geo"
+        Transform {
+          Location {
+            Z: -100
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 7312680608505905495
+        ChildIds: 2278735307538460268
+        ChildIds: 10652968241190788803
+        ChildIds: 2316446974080531799
+        ChildIds: 16732110546041550963
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
         Id: 2278735307538460268
         Name: "Flower Bellflower 01"
         Transform {
           Location {
-            X: 6.63279486
-            Y: -2.54752564
-            Z: 9.26073456
+            X: 6.63245201
+            Y: -2.54826427
+            Z: 109.260658
           }
           Rotation {
-            Yaw: 35.3686028
+            Yaw: 35.3686
+            Roll: -2.03357075e-07
           }
           Scale {
             X: 0.689998
@@ -48,7 +75,7 @@
             Z: 0.779376209
           }
         }
-        ParentId: 7312680608505905495
+        ParentId: 538046057208417406
         UnregisteredParameters {
           Overrides {
             Name: "ma:Nature_Leaves:color"
@@ -92,9 +119,9 @@
         Name: "Flower Bellflower 01"
         Transform {
           Location {
-            X: 2.66310453
-            Y: -2.54752564
-            Z: -62.256176
+            X: 2.66308022
+            Y: -2.5480268
+            Z: 37.7438164
           }
           Rotation {
           }
@@ -104,7 +131,7 @@
             Z: 1
           }
         }
-        ParentId: 7312680608505905495
+        ParentId: 538046057208417406
         UnregisteredParameters {
           Overrides {
             Name: "ma:Nature_Leaves:color"
@@ -148,12 +175,13 @@
         Name: "Flower Bellflower 01"
         Transform {
           Location {
-            X: -0.801444709
-            Y: 5.4382
-            Z: -84.8937607
+            X: -0.801331
+            Y: 5.43769264
+            Z: 15.106246
           }
           Rotation {
-            Yaw: -103.715454
+            Yaw: -103.715469
+            Roll: 2.63652254e-07
           }
           Scale {
             X: 1.41242826
@@ -161,7 +189,7 @@
             Z: 1.15190303
           }
         }
-        ParentId: 7312680608505905495
+        ParentId: 538046057208417406
         UnregisteredParameters {
           Overrides {
             Name: "ma:Nature_Leaves:color"
@@ -205,20 +233,21 @@
         Name: "Flower Bellflower 01"
         Transform {
           Location {
-            X: -3.11645
-            Y: 1.56903028
-            Z: -105.073402
+            X: -3.11628819
+            Y: 1.56835973
+            Z: -5.07338667
           }
           Rotation {
-            Yaw: -76.3852844
+            Yaw: -76.3852692
+            Roll: 3.3550586e-07
           }
           Scale {
-            X: 1.61451769
-            Y: 1.61451769
+            X: 1.61451781
+            Y: 1.61451781
             Z: 1.0599941
           }
         }
-        ParentId: 7312680608505905495
+        ParentId: 538046057208417406
         UnregisteredParameters {
           Overrides {
             Name: "ma:Nature_Leaves:color"

@@ -239,14 +239,14 @@ Objects {
   Name: "Corn Cob"
   Transform {
     Location {
-      X: -63.7045898
-      Y: 667.387207
-      Z: 243.298828
+      X: -169.870605
+      Y: 710.974609
+      Z: 233.301025
     }
     Rotation {
-      Pitch: 5.5620141
-      Yaw: -69.7267151
-      Roll: -21.3277893
+      Pitch: 11.117444
+      Yaw: -70.2928162
+      Roll: -25.6640625
     }
     Scale {
       X: 1.27746046
@@ -356,13 +356,14 @@ Objects {
   Name: "Corn Cob"
   Transform {
     Location {
-      X: -0.268554688
-      Y: 629.054688
+      X: -81.7255859
+      Y: 657.135742
+      Z: 0.880126953
     }
     Rotation {
-      Pitch: 14.933074
-      Yaw: 177.925018
-      Roll: 25.9724503
+      Pitch: 8.84639931
+      Yaw: 177.25145
+      Roll: 22.3993416
     }
     Scale {
       X: 1.6263293

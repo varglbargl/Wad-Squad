@@ -37,7 +37,7 @@
       }
       Objects {
         Id: 17697592597685767901
-        Name: "ClientContext"
+        Name: "Geo"
         Transform {
           Location {
           }

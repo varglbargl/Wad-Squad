@@ -12,7 +12,7 @@ local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 
 local delay = 0.005
 local moveSpeed = 650
-local gravityForce = 610
+local gravityForce = 500
 local impulseToApply = Vector3.ZERO
 local torqueToApply = Vector3.ZERO
 local owner = nil
@@ -75,7 +75,7 @@ end
 function rollThatWad(deltaTime)
   deltaTime = deltaTime or delay
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.New(0, 0, (wadSize - 1.75) * -gravityForce)
+  local simulatedMass = Vector3.UP * (wadSize ^ 0.85 - 1.8) * -gravityForce * deltaTime
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -91,15 +91,18 @@ function rollThatWad(deltaTime)
   local finalWadImpulse = nil
   local finalWadTorque = nil
 
+  -- local simulatedGravity = Vector3.Lerp(Vector3.New(0, 0, currentWadAngularVelocity.z), simulatedMass, deltaTime)
+
   if impulseToApply.x == 0 and impulseToApply.y == 0 then
-    finalWadImpulse = simulatedMass
+    -- finalWadImpulse = simulatedGravity
+    finalWadImpulse = Vector3.UP * currentWadVelocity
     finalWadTorque = Vector3.ZERO
   else
     local forwardWadImpulse = cameraForward * impulseToApply.x
     local lateralWadImpulse = cameraRight * impulseToApply.y
     local combinedWadImpulse = forwardWadImpulse + lateralWadImpulse
     local normalizedWadImpulse = combinedWadImpulse:GetNormalized()
-    finalWadImpulse = normalizedWadImpulse * moveSpeed * ((wadSize - 1) / 1.5 + 1) + simulatedMass
+    finalWadImpulse = normalizedWadImpulse * moveSpeed * wadSize ^ 0.7
 
     local forwardWadTorque = cameraRight * torqueToApply.y
     local lateralWadTorque = cameraForward * torqueToApply.x
@@ -108,7 +111,7 @@ function rollThatWad(deltaTime)
     finalWadTorque = normalizedWadTorque * moveSpeed / 2.5
   end
 
-  WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, deltaTime))
+  WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, deltaTime) + simulatedMass)
   WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, deltaTime * 15))
 
   UNDERGRAB:SetWorldPosition(WAD:GetWorldPosition() + Vector3.New(0, 0, -18.5 * wadSize))
@@ -144,7 +147,7 @@ function handleGrabberOverlap (grabber, trigger)
 
     local wadSize = WAD.clientUserData["Size"]
     local tooBigh = itemSize > wadSize / 2
-    local tooSmol = itemSize < wadSize / 25
+    local tooSmol = itemSize < wadSize / 20
 
     if tooBigh then
       -- TODO: Bounce off at the the angle at which you collided mirrored along

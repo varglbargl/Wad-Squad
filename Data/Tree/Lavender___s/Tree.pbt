@@ -1846,6 +1846,12 @@ Objects {
     }
   }
   ParentId: 2679407978598974291
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
       key: 7312680608505905495

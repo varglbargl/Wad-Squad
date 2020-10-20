@@ -1,6 +1,45 @@
 ﻿Name: "Outside"
 RootId: 11789853748847975752
 Objects {
+  Id: 2106668132454366082
+  Name: "Tree Oak 01"
+  Transform {
+    Location {
+      X: -10440.7773
+      Y: -406.856934
+      Z: 81.9999084
+    }
+    Rotation {
+    }
+    Scale {
+      X: 7.890903
+      Y: 7.890903
+      Z: 7.890903
+    }
+  }
+  ParentId: 11789853748847975752
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17481560565727335353
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 3341713855421399907
   Name: "Invisible Walls"
   Transform {
@@ -23,6 +62,11 @@ Objects {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
         Id: 11251994733772007315
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
       }
     }
   }

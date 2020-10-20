@@ -27,7 +27,7 @@ Objects {
   ChildIds: 1391958311014849750
   ChildIds: 10283409824059089972
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -333,19 +333,19 @@ Objects {
   Name: "Corn Plant"
   Transform {
     Location {
-      X: -1.02929711
-      Y: 214.511108
+      X: -10.2470722
+      Y: 204.717163
       Z: 1.01725282e-05
     }
     Rotation {
-      Pitch: -1.24978638
-      Yaw: 35.2599754
-      Roll: 0.203572229
+      Pitch: 1.42735231
+      Yaw: 35.3339729
+      Roll: 6.69196177
     }
     Scale {
-      X: 1.2
-      Y: 1.2
-      Z: 1.2
+      X: 1.20000017
+      Y: 1.20000017
+      Z: 1.20000017
     }
   }
   ParentId: 16864024156635537354
@@ -355,7 +355,7 @@ Objects {
   ChildIds: 8921554243862219566
   ChildIds: 17707382834578003900
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -683,7 +683,7 @@ Objects {
   ChildIds: 14740577947330448884
   ChildIds: 6282856618086224238
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -1011,7 +1011,7 @@ Objects {
   ChildIds: 6628373322256277855
   ChildIds: 7213360353968390688
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -1339,7 +1339,7 @@ Objects {
   ChildIds: 8350428047366979208
   ChildIds: 16873721812264985897
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"

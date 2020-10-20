@@ -23,8 +23,8 @@ Objects {
   ChildIds: 15969670120281364747
   ChildIds: 114523083307116321
   ChildIds: 15471502460057071864
-  ChildIds: 7085708660934895409
   ChildIds: 630047146617909250
+  ChildIds: 7085708660934895409
   ChildIds: 15764376009576159070
   ChildIds: 8602953674852076896
   ChildIds: 17020843774475626988
@@ -48,7 +48,11 @@ Objects {
   ChildIds: 15051956596245822219
   ChildIds: 13393366413775015424
   ChildIds: 1319092295359910836
-  ChildIds: 15192462222702122480
+  ChildIds: 13787166440355539958
+  ChildIds: 11443598032769783013
+  ChildIds: 15879042653478146029
+  ChildIds: 2008270243891892476
+  ChildIds: 10289434529770063281
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -61,8 +65,8 @@ Objects {
   }
 }
 Objects {
-  Id: 15192462222702122480
-  Name: "Claw Hammer"
+  Id: 10289434529770063281
+  Name: "Pen"
   Transform {
     Scale {
       X: 1
@@ -79,18 +83,18 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 11161468861786088888
+      key: 13270813154639598207
       value {
         Overrides {
           Name: "Name"
-          String: "Claw Hammer"
+          String: "Pen"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -4228.86768
-            Y: -5018.03174
-            Z: 160
+            X: -2477.96802
+            Y: -5159.99268
+            Z: 531.197388
           }
         }
         Overrides {
@@ -101,7 +105,200 @@ Objects {
       }
     }
     TemplateAsset {
-      Id: 2166862301265764358
+      Id: 10148430708848723458
+    }
+  }
+}
+Objects {
+  Id: 2008270243891892476
+  Name: "Decal Bullet Damage Wood"
+  Transform {
+    Location {
+      X: -4381.51074
+      Y: -4448.98633
+      Z: 159.160431
+    }
+    Rotation {
+      Yaw: -89.0264282
+      Roll: 89.9998779
+    }
+    Scale {
+      X: 0.126394823
+      Y: 0.126394346
+      Z: 0.00074466021
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 1
+        G: 0.624635756
+        B: 0.480000019
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 3951634741642929759
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 15879042653478146029
+  Name: "Bicycle"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15220446676714055400
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bicycle"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -543.379272
+            Y: -2343.24219
+            Z: 329.837585
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -76.3438416
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2134202940802111610
+    }
+  }
+}
+Objects {
+  Id: 11443598032769783013
+  Name: "Sunglasses"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12424787317026213179
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Sunglasses"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2270.86401
+            Y: -7300
+            Z: 195
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.76018554
+            Y: 0.76018554
+            Z: 0.76018554
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2237025121489108274
+    }
+  }
+}
+Objects {
+  Id: 13787166440355539958
+  Name: "Glasses"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1688507514363888254
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Glasses"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2265.8623
+            Y: -7561.23291
+            Z: 198.678543
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.76018554
+            Y: 0.76018554
+            Z: 0.76018554
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16000282121247453385
     }
   }
 }
@@ -110,12 +307,12 @@ Objects {
   Name: "Hay Bail"
   Transform {
     Location {
-      X: -1731.38794
-      Y: -5859.56201
+      X: -1662.50464
+      Y: -5834.43506
       Z: 420.337646
     }
     Rotation {
-      Yaw: 20.0408306
+      Yaw: 20.0408268
     }
     Scale {
       X: 1.88535011
@@ -971,8 +1168,8 @@ Objects {
   Name: "Wooden Barrel"
   Transform {
     Location {
-      X: -1090.90234
-      Y: -5900
+      X: -1178.04919
+      Y: -5878.82764
       Z: 135.448792
     }
     Rotation {
@@ -1094,8 +1291,8 @@ Objects {
   Name: "Grass Short"
   Transform {
     Location {
-      X: -3740
-      Y: -2980
+      X: -3660.40625
+      Y: -2973.20679
       Z: 135.448792
     }
     Rotation {
@@ -1337,10 +1534,10 @@ Objects {
 }
 Objects {
   Id: 2101339000519451770
-  Name: "Group"
+  Name: "Bee Sauce"
   Transform {
     Location {
-      X: -4965.09717
+      X: -5836.8252
       Y: -4864.37305
       Z: 280.000061
     }
@@ -1392,13 +1589,21 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            Z: 30
+            Z: 39.779541
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 89.9999771
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.3922832
+            Y: 1.3922832
+            Z: 1.3922832
           }
         }
       }
@@ -1437,7 +1642,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -6470.84326
-            Y: -7928.24512
+            Y: -6911.98
             Z: 198.405457
           }
         }
@@ -4345,51 +4550,6 @@ Objects {
   }
 }
 Objects {
-  Id: 630047146617909250
-  Name: "Fantasy Human Gal 1"
-  Transform {
-    Location {
-      X: 2214.12793
-      Y: 10395.4502
-      Z: 2096.42236
-    }
-    Rotation {
-    }
-    Scale {
-      X: 9.6
-      Y: 9.6
-      Z: 9.6
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 14782639740804501016
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    AnimatedMesh {
-      AnimationStancePlaybackRate: 1
-      AnimationStanceShouldLoop: true
-      AnimationPlaybackRateMultiplier: 1
-      PlayOnStartAnimation {
-        Animation: "unarmed_sit_chair_upright"
-        PlaybackRate: 1
-        ShouldLoop: true
-      }
-    }
-  }
-}
-Objects {
   Id: 7085708660934895409
   Name: "Items"
   Transform {
@@ -4406,7 +4566,6 @@ Objects {
   ParentId: 4781671109827199097
   ChildIds: 12276776014136101490
   ChildIds: 6204873557268680208
-  ChildIds: 7918873598400975079
   ChildIds: 12797387713704493848
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
@@ -4443,132 +4602,6 @@ Objects {
   }
   Folder {
     IsGroup: true
-  }
-}
-Objects {
-  Id: 7918873598400975079
-  Name: "Skull"
-  Transform {
-    Location {
-      X: -6480.00244
-      Y: -2790.00098
-      Z: 146.999985
-    }
-    Rotation {
-      Yaw: -74.9998932
-    }
-    Scale {
-      X: 0.3
-      Y: 0.3
-      Z: 0.3
-    }
-  }
-  ParentId: 7085708660934895409
-  ChildIds: 14382030237100018461
-  ChildIds: 2478898773007134623
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 2478898773007134623
-  Name: "Item Sphere"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7918873598400975079
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 8.79137707
-            Y: 8.79137707
-            Z: 8.79137707
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 65.6076508
-            Y: 85.3532104
-            Z: 392.073608
-          }
-        }
-        Overrides {
-          Name: "cs:Pickup"
-          ObjectReference {
-            SelfId: 9649259103484566523
-            SubObjectId: 11722593964823537590
-            InstanceId: 14382030237100018461
-            TemplateId: 9577761946829181634
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 14382030237100018461
-  Name: "Skull"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7918873598400975079
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11722593964823537590
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Skull"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -35.0001221
-            Roll: -20.0000916
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9577761946829181634
-    }
   }
 }
 Objects {
@@ -4626,6 +4659,51 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Yard_1"
+  }
+}
+Objects {
+  Id: 630047146617909250
+  Name: "Fantasy Human Gal 1"
+  Transform {
+    Location {
+      X: 2214.12793
+      Y: 10395.4502
+      Z: 2096.42236
+    }
+    Rotation {
+    }
+    Scale {
+      X: 9.6
+      Y: 9.6
+      Z: 9.6
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14782639740804501016
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    AnimatedMesh {
+      AnimationStancePlaybackRate: 1
+      AnimationStanceShouldLoop: true
+      AnimationPlaybackRateMultiplier: 1
+      PlayOnStartAnimation {
+        Animation: "unarmed_sit_chair_upright"
+        PlaybackRate: 1
+        ShouldLoop: true
+      }
+    }
   }
 }
 Objects {
@@ -4771,7 +4849,11 @@ Objects {
   UnregisteredParameters {
     Overrides {
       Name: "cs:Activate"
-      Bool: false
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:SizeBoost"
+      Float: 10
     }
   }
   Collidable_v2 {

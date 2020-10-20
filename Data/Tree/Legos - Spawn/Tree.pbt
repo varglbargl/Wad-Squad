@@ -53,25 +53,25 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1.4522953
-            Y: 0.619576216
-            Z: 0.179865837
+            X: 1.45229566
+            Y: 0.464879811
+            Z: 0.179864943
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 34.6712151
-            Y: -14.1762447
-            Z: 67.166832
+            X: 37.9338531
+            Y: -10.4165325
+            Z: 67.7742767
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: 5.1675024
-            Yaw: -44.5082397
-            Roll: -7.25842285
+            Pitch: 5.52628517
+            Yaw: -41.6256409
+            Roll: -6.98986816
           }
         }
         Overrides {

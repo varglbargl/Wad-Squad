@@ -1,6 +1,353 @@
 ﻿Name: "Pumpkins"
 RootId: 8143356660582177273
 Objects {
+  Id: 4143190547811381072
+  Name: "Pumpkin"
+  Transform {
+    Location {
+      X: -718.025818
+      Y: -607.330933
+      Z: -104.661682
+    }
+    Rotation {
+      Yaw: -18.247467
+    }
+    Scale {
+      X: 1.24504328
+      Y: 1.24504328
+      Z: 1.24504328
+    }
+  }
+  ParentId: 8143356660582177273
+  ChildIds: 7145594067380947255
+  ChildIds: 14532918281207004638
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14532918281207004638
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4143190547811381072
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.55332267
+            Y: 1.55332267
+            Z: 1.55332267
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 5.51062
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 7145594067380947255
+  Name: "Pumpkin"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4143190547811381072
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 496962078720551281
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pump"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 509910703645694809
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pumps"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 519785041950623065
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kin"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -15.6069336
+            Y: -27.5532227
+            Z: 6.57437134
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5865547246808840557
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pump"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6379108772762058093
+      value {
+        Overrides {
+          Name: "Name"
+          String: "but pumkins grow on vines."
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7779571630916258479
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pump"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9023513524114145605
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kin"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10137293907928392967
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pump"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10643966281234926733
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kin"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11546670234831711915
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kin"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3.85595703
+            Y: -20.9067383
+            Z: 7.09957886
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13015121163767444283
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pump"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13618457477999162277
+      value {
+        Overrides {
+          Name: "Name"
+          String: "A lot of people forget to"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14076361892592167840
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kin"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14951629306127004873
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kin"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -7.1105957
+            Y: 23.0415039
+            Z: 6.43499756
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14954439676380370089
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kin"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15150569830996609776
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Weird Pumpkin"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.76112425
+            Y: 1.76112425
+            Z: 1.76112425
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15175805404740013669
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kin"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15429159851391793583
+      value {
+        Overrides {
+          Name: "Name"
+          String: "incorporate this into their models"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15867261003414797838
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kin"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15902942683853266388
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pump"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16951397924029988557
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pump"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17542453737581558591
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pump"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17668826615309014399
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kin"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18265398441977063570
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kin"
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 14021019340385318905
+    }
+  }
+}
+Objects {
   Id: 16448518287868098071
   Name: "Pumpkin"
   Transform {

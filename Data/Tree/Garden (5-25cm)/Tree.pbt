@@ -1,6 +1,428 @@
 ﻿Name: "Garden (5-25cm)"
 RootId: 4089793586574305372
 Objects {
+  Id: 14137030203399785830
+  Name: "Game Console"
+  Transform {
+    Location {
+      X: 8164.62402
+      Y: -10963.5479
+      Z: 578.283752
+    }
+    Rotation {
+      Yaw: 28.8832741
+    }
+    Scale {
+      X: 2.72583389
+      Y: 2.72583389
+      Z: 2.72583389
+    }
+  }
+  ParentId: 4089793586574305372
+  ChildIds: 16776270151462818417
+  ChildIds: 14007440234724978365
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14007440234724978365
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1.2228651
+      Y: 1.2228651
+      Z: 1.2228651
+    }
+  }
+  ParentId: 14137030203399785830
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.74005079
+            Y: 4.31188822
+            Z: 0.178897858
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: -23.5052967
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 16776270151462818417
+  Name: "Game Console"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14137030203399785830
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15050616643305293183
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Game Console"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: -26.9983788
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.999999881
+            Y: 0.999999881
+            Z: 0.999999881
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8929365538719126979
+    }
+  }
+}
+Objects {
+  Id: 15690858651382146229
+  Name: "Keys"
+  Transform {
+    Location {
+      X: 2466.21411
+      Y: -768.126587
+      Z: 356.621429
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 4089793586574305372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Keys"
+  }
+}
+Objects {
+  Id: 17084302445056785033
+  Name: "Pencils"
+  Transform {
+    Location {
+      X: 6811.50391
+      Y: -9874.32227
+      Z: 478.101685
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 4089793586574305372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Pencils"
+  }
+}
+Objects {
+  Id: 5197187195817543837
+  Name: "Bird Nest"
+  Transform {
+    Location {
+      X: -2961.50708
+      Y: -10128.7109
+      Z: 7771.46875
+    }
+    Rotation {
+      Pitch: -1.15706813
+      Yaw: -30.1323299
+      Roll: 12.9913683
+    }
+    Scale {
+      X: 4.1046586
+      Y: 4.1046586
+      Z: 4.1046586
+    }
+  }
+  ParentId: 4089793586574305372
+  ChildIds: 1445202752241271867
+  ChildIds: 8994669089318398153
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8994669089318398153
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5197187195817543837
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.721140802
+            Y: 0.721140802
+            Z: 0.472415864
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -13.6801147
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 4.30273438
+            Y: 8.09228516
+            Z: 6.11715698
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 1445202752241271867
+  Name: "Item - Bird Nest"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5197187195817543837
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4702240767131014181
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bird Nest"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1906190434718175542
+    }
+  }
+}
+Objects {
+  Id: 2753150943935412621
+  Name: "Hammers"
+  Transform {
+    Location {
+      X: 8714.16699
+      Y: 5284.05859
+      Z: 78.1004791
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 4089793586574305372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Hammers"
+  }
+}
+Objects {
+  Id: 11357189319074412901
+  Name: "Books"
+  Transform {
+    Location {
+      X: -1303.98267
+      Y: -4657.65625
+      Z: 38
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 4089793586574305372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Books"
+  }
+}
+Objects {
+  Id: 4983899146034926111
+  Name: "Elephant Watering Cans uwu"
+  Transform {
+    Location {
+      X: 822.17
+      Y: -10578.1514
+      Z: -5.23162842
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4089793586574305372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Elephant Watering Cans uwu"
+  }
+}
+Objects {
+  Id: 9800484597718047675
+  Name: "Fences"
+  Transform {
+    Location {
+      X: 14410.3809
+      Y: -9676.2168
+      Z: 392.020355
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.23087502
+      Y: 2.23087502
+      Z: 2.23087502
+    }
+  }
+  ParentId: 4089793586574305372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Fences_1"
+  }
+}
+Objects {
   Id: 10696684083747098599
   Name: "Lillies"
   Transform {

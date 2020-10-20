@@ -8,6 +8,6 @@ if ACTIVATE then
   local wad = player.clientUserData["Wad"]
   local wadControl = wad:GetCustomProperty("WadControl"):WaitForObject()
 
+  wad:SetWorldPosition(script:GetWorldPosition() + Vector3.UP * 20 * SIZE_BOOST)
   wadControl.context.updateWadSize(SIZE_BOOST)
-  wad:SetWorldPosition(script:GetWorldPosition())
 end

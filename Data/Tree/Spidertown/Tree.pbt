@@ -1,6 +1,45 @@
 ﻿Name: "Spidertown"
 RootId: 12109605343542789210
 Objects {
+  Id: 12086503995615251396
+  Name: "Ambience Cave Drips 01 SFX"
+  Transform {
+    Location {
+      X: -2682.99609
+      Y: -154.543335
+      Z: -1092.23376
+    }
+    Rotation {
+      Pitch: -2.80459595
+      Yaw: 15.3807945
+      Roll: -0.771148682
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12109605343542789210
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  AudioInstance {
+    AudioAsset {
+      Id: 2416419333238860711
+    }
+    AutoPlay: true
+    Repeat: true
+    Volume: 1
+    Falloff: 300
+    Radius: 3000
+    IsAttenuationEnabled: true
+  }
+}
+Objects {
   Id: 10416003809160338203
   Name: "Chain Tile 01"
   Transform {
@@ -19,7 +58,7 @@ Objects {
   }
   ParentId: 12109605343542789210
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
@@ -705,29 +744,6 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 651445498870873157
-      value {
-        Overrides {
-          Name: "Intensity"
-          Float: 100
-        }
-        Overrides {
-          Name: "AttenuationRadius"
-          Float: 4481.854
-        }
-        Overrides {
-          Name: "OuterConeAngle"
-          Float: 33.3263702
-        }
-        Overrides {
-          Name: "IESProfile"
-          Enum {
-            Value: "mc:espotlightprofile:flashlight"
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
       key: 8522005989211901481
       value {
         Overrides {
@@ -748,14 +764,6 @@ Objects {
             Pitch: 41.0890274
             Yaw: -21.2644653
             Roll: 82.8164597
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
           }
         }
       }
@@ -19726,9 +19734,9 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -85.294426
-      Y: 105.09639
-      Z: 0.000833714614
+      X: -84.3180466
+      Y: 105.668915
+      Z: 0.000819541281
     }
     Rotation {
       Pitch: -0.000915527344
@@ -19738,7 +19746,7 @@ Objects {
     Scale {
       X: 0.371737778
       Y: 0.0847670063
-      Z: 0.558037758
+      Z: 0.567524612
     }
   }
   ParentId: 6587274825986467603
@@ -19825,18 +19833,18 @@ Objects {
   Name: "Spider Web Bit"
   Transform {
     Location {
-      X: -82.5144348
-      Y: 99.5738907
-      Z: 0.000733066059
+      X: -82.7359467
+      Y: 103.178162
+      Z: -0.00840550102
     }
     Rotation {
-      Pitch: 0.000710339635
-      Yaw: 38.9899139
-      Roll: 89.9990768
+      Pitch: 0.000614717
+      Yaw: 32.5398102
+      Roll: 90.6207199
     }
     Scale {
-      X: 0.371736497
-      Y: 0.0847670063
+      X: 0.371736526
+      Y: 0.0847670212
       Z: 1.16995311
     }
   }
@@ -20029,7 +20037,7 @@ Objects {
     }
     Rotation {
       Pitch: 0.000478113216
-      Yaw: 11.9842625
+      Yaw: 14.9697762
       Roll: 89.998909
     }
     Scale {
@@ -20918,13 +20926,13 @@ Objects {
       Z: -5.14904423e-05
     }
     Rotation {
-      Yaw: 86.8679428
+      Yaw: 88.199028
       Roll: 90.0000076
     }
     Scale {
       X: 0.381982774
       Y: 0.0847670063
-      Z: 1.49888885
+      Z: 1.46906614
     }
   }
   ParentId: 6587274825986467603

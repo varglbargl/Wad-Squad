@@ -588,19 +588,19 @@
         Name: "Decal Sci-fi Details 01"
         Transform {
           Location {
-            X: 25.7011719
-            Y: -0.380371094
-            Z: 25.6314697
+            X: 25.7008781
+            Y: -0.380478799
+            Z: 25.9280357
           }
           Rotation {
             Pitch: 6.83018879e-06
-            Yaw: -90.4007187
-            Roll: 89.9999161
+            Yaw: -90.4007263
+            Roll: 89.9999084
           }
           Scale {
-            X: 0.279126853
-            Y: 0.722510576
-            Z: 0.0674815848
+            X: 0.27912885
+            Y: 0.648980439
+            Z: 0.067482233
           }
         }
         ParentId: 8956151835352299458
@@ -718,7 +718,7 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         Light {
-          Intensity: 26.3816452
+          Intensity: 100
           Color {
             R: 1
             G: 0.862450361
@@ -732,14 +732,14 @@
           Light {
             Temperature: 6500
             LocalLight {
-              AttenuationRadius: 3709.29199
+              AttenuationRadius: 4481.854
               SpotLight {
                 SourceRadius: 20
                 SoftSourceRadius: 20
                 FallOffExponent: 8
                 UseFallOffExponent: true
                 InnerConeAngle: 30
-                OuterConeAngle: 36.0135422
+                OuterConeAngle: 33.3263702
                 Profile {
                   Value: "mc:espotlightprofile:flashlight"
                 }

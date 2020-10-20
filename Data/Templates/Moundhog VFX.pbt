@@ -146,7 +146,7 @@
           Transient: true
           Pitch: -200
           Volume: 1
-          Falloff: 1000
+          Falloff: 2000
           Radius: 500
           EnableOcclusion: true
           StartTime: 0.1
@@ -182,7 +182,7 @@
           AutoPlay: true
           Transient: true
           Volume: 5
-          Falloff: 1500
+          Falloff: 2000
           Radius: 500
           EnableOcclusion: true
           IsSpatializationEnabled: true

@@ -8,15 +8,6 @@
   }
 }
 Assets {
-  Id: 17481560565727335353
-  Name: "Tree Oak 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_tree_oak_001"
-  }
-}
-Assets {
   Id: 14811576902580597152
   Name: "Craftsman Chair 01"
   PlatformAssetType: 1

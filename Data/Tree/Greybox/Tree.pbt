@@ -87,15 +87,14 @@ Objects {
   Transform {
     Location {
       X: 5985
-      Y: 255
-      Z: 10
+      Y: 399.999939
     }
     Rotation {
     }
     Scale {
-      X: 72.2000046
-      Y: 27.3000011
-      Z: 4.1
+      X: 71
+      Y: 28
+      Z: 4
     }
   }
   ParentId: 8602953674852076896
@@ -136,16 +135,16 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 4710
-      Y: -6540
-      Z: 55
+      X: 4700
+      Y: -6500
+      Z: 100
     }
     Rotation {
     }
     Scale {
-      X: 97.9000092
-      Y: 108.6
-      Z: 3.2
+      X: 96.9999847
+      Y: 110.000008
+      Z: 2
     }
   }
   ParentId: 8602953674852076896
@@ -186,19 +185,18 @@ Objects {
   Name: "Wedge - Convex"
   Transform {
     Location {
-      X: 1185
-      Y: -1110
-      Z: 10.4472656
+      X: 1300
+      Y: -1000
     }
     Rotation {
       Pitch: 90
-      Yaw: 90
-      Roll: 179.999878
+      Yaw: -4.76364136
+      Roll: 85.2362366
     }
     Scale {
       X: 4
-      Y: 27.5
-      Z: 27.5
+      Y: 29
+      Z: 29
     }
   }
   ParentId: 8602953674852076896

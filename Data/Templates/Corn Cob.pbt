@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 14156765746674601090
+  Id: 2511337052234903376
   Name: "Corn Cob"
   PlatformAssetType: 5
   TemplateAsset {
@@ -15,18 +15,12 @@
             Z: 1.53142619
           }
         }
-        ParentId: 16039410964371494086
+        ParentId: 17197934167274947219
         ChildIds: 16085816648965202732
         ChildIds: 17857114676846503757
         ChildIds: 13314568953261731146
         ChildIds: 11664966469930116132
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:PickupSound"
-            AssetReference {
-              Id: 14730907764784267358
-            }
-          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -259,15 +253,6 @@
             }
           }
         }
-      }
-    }
-    Assets {
-      Id: 14730907764784267358
-      Name: "Cartoon Food Eat Bite Short 01 SFX"
-      PlatformAssetType: 7
-      PrimaryAsset {
-        AssetType: "AudioAssetRef"
-        AssetId: "sfx_cartoon_food_eat_bite_short_01_Cue_ref"
       }
     }
     Assets {
