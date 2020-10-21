@@ -21,7 +21,7 @@
           Overrides {
             Name: "cs:PickupSound"
             AssetReference {
-              Id: 2598055505856649991
+              Id: 15505835984092039490
             }
           }
         }
@@ -2485,12 +2485,12 @@
       }
     }
     Assets {
-      Id: 2598055505856649991
-      Name: "Creepy Horror Piano Sampled Instrument 01 SFX"
+      Id: 15505835984092039490
+      Name: "Frame Drum Sampled Instrument 01 SFX"
       PlatformAssetType: 10
       PrimaryAsset {
         AssetType: "AudioBlueprintAssetRef"
-        AssetId: "sfxabp_sampled_creepy_horror_piano_ref"
+        AssetId: "sfxabp_sampled_framedrum_01_ref"
       }
     }
     Assets {

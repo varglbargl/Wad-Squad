@@ -1,6 +1,392 @@
 ﻿Name: "Garden"
 RootId: 3092004872852450116
 Objects {
+  Id: 12468124387419902680
+  Name: "Hay Decals"
+  Transform {
+    Location {
+      X: 3661.08252
+      Y: -1513.78735
+      Z: 0.448669434
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Hay Decals"
+  }
+}
+Objects {
+  Id: 12868440985306010542
+  Name: "Fancy Park Bench"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 11618102644068318541
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fancy Park Bench"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 4229.646
+            Y: 3499.99976
+            Z: 0.448699951
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90.000145
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 6.4
+            Y: 6.4
+            Z: 6.4
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11353176820593630742
+    }
+  }
+}
+Objects {
+  Id: 11702863399313234829
+  Name: "Bonsai Table"
+  Transform {
+    Location {
+      X: 864.73584
+      Y: -6811.5459
+      Z: -135
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Bonsai Table"
+  }
+}
+Objects {
+  Id: 8839463387531056375
+  Name: "Toolbox"
+  Transform {
+    Location {
+      X: 3329.646
+      Y: 5131.2168
+      Z: 95
+    }
+    Rotation {
+      Yaw: 80.4079361
+    }
+    Scale {
+      X: 1.2749356
+      Y: 1.2749356
+      Z: 1.2749356
+    }
+  }
+  ParentId: 3092004872852450116
+  ChildIds: 396371749850067475
+  ChildIds: 11647145640997731370
+  ChildIds: 9336104872771689757
+  ChildIds: 9630556579291540467
+  ChildIds: 4458813356587558374
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 4458813356587558374
+  Name: "Sci-fi Chest Hinge 01"
+  Transform {
+    Location {
+      X: -53.2836914
+      Y: 6.12524414
+      Z: 88.6272278
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -90
+      Roll: 44.9999313
+    }
+    Scale {
+      X: 1.60990417
+      Y: 1.32939672
+      Z: 1.32939672
+    }
+  }
+  ParentId: 8839463387531056375
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17611921055401184409
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9630556579291540467
+  Name: "Scifi Cockpit Siderail 01"
+  Transform {
+    Location {
+      X: 38.8101807
+      Y: 23.6958
+      Z: 92.9209
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 2.26270151
+      Y: 1.00000036
+      Z: 1
+    }
+  }
+  ParentId: 8839463387531056375
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11024977997119225113
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9336104872771689757
+  Name: "Sci-fi Chest Common Lid 01"
+  Transform {
+    Location {
+      X: 32.4530029
+      Y: -47.6687
+      Z: 117.893555
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.2
+      Y: 1.90091085
+      Z: 1.30000007
+    }
+  }
+  ParentId: 8839463387531056375
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.078
+        G: 0.078
+        B: 0.078
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2966412212117305711
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11647145640997731370
+  Name: "Sci-fi Base Breakout Box 01"
+  Transform {
+    Location {
+      X: -66.7894287
+      Y: 5.53613281
+      Z: 60
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 0.2
+      Y: 0.5
+      Z: 0.2
+    }
+  }
+  ParentId: 8839463387531056375
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.47300002
+        G: 0.47300002
+        B: 0.47300002
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15667862985963017110
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 396371749850067475
+  Name: "Street Utility Box 02"
+  Transform {
+    Location {
+      X: 48.8101807
+      Y: 12.3112793
+    }
+    Rotation {
+      Roll: -90
+    }
+    Scale {
+      X: 3.91129661
+      Y: 6.68427372
+      Z: 6.4
+    }
+  }
+  ParentId: 8839463387531056375
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 0.00999999
+        B: 0.00999999
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10135110228746641342
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 7030007948608344877
   Name: "Pipes"
   Transform {

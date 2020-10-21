@@ -3,7 +3,12 @@
 function UTILS.traverseHierarchy(node, callback)
   if not Object.IsValid(node) then return end
 
-  callback(node)
+  local shouldBreak = callback(node)
+
+  if shouldBreak then
+    print("Breaking! " .. shouldBreak)
+    return
+  end
 
   for _, item in ipairs(node:GetChildren()) do
     if item:GetChildren() then

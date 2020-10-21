@@ -10,9 +10,9 @@
         Name: "Glasses"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.76018554
+            Y: 0.76018554
+            Z: 0.76018554
           }
         }
         ParentId: 4781671109827199097
@@ -38,9 +38,9 @@
         Name: "Arm"
         Transform {
           Location {
-            X: -11.1640625
-            Y: -109.937988
-            Z: 26.5140686
+            X: -15.0000639
+            Y: 104.999809
+            Z: 25
           }
           Rotation {
           }
@@ -68,8 +68,13 @@
         Name: "Cylinder"
         Transform {
           Location {
+            X: -2.1081543
+            Y: 0.623046875
+            Z: 1.5140686
           }
           Rotation {
+            Yaw: 179.999954
+            Roll: 6.83018834e-06
           }
           Scale {
             X: 0.0430254377
@@ -121,14 +126,14 @@
         Name: "Text 06: J"
         Transform {
           Location {
-            X: 25.888916
-            Y: 176.428711
-            Z: -21.5140686
+            X: -27.9970703
+            Y: -175.805664
+            Z: -20
           }
           Rotation {
             Pitch: 90
-            Yaw: 16.6992588
-            Roll: -67.0023499
+            Yaw: -18.434967
+            Roll: 77.8634
           }
           Scale {
             X: 0.578872263
@@ -201,9 +206,9 @@
         Name: "Arm"
         Transform {
           Location {
-            X: -11.1640625
-            Y: 104.105469
-            Z: 26.5140686
+            X: -15.0000639
+            Y: -110.000259
+            Z: 25
           }
           Rotation {
           }
@@ -231,8 +236,13 @@
         Name: "Cylinder"
         Transform {
           Location {
+            X: -2.10766602
+            Y: 1.57910156
+            Z: 1.5140686
           }
           Rotation {
+            Yaw: 179.999954
+            Roll: 6.83018834e-06
           }
           Scale {
             X: 0.0430254377
@@ -284,13 +294,14 @@
         Name: "Text 06: J"
         Transform {
           Location {
-            X: 89.4470215
-            Y: -153.975586
-            Z: -21.5140686
+            X: -91.5546875
+            Y: 155.554688
+            Z: -19.9999695
           }
           Rotation {
             Pitch: 90
-            Roll: 59.1945076
+            Yaw: -26.565033
+            Roll: -147.370483
           }
           Scale {
             X: 0.578872263
@@ -363,14 +374,14 @@
         Name: "Ring"
         Transform {
           Location {
-            X: -14.1359863
-            Y: 57.8422852
-            Z: 15
+            X: -14.1361456
+            Y: -62.1578064
+            Z: 15.0000038
           }
           Rotation {
-            Pitch: 59.9999504
-            Yaw: -89.9999695
-            Roll: -89.9999695
+            Pitch: 59.9998894
+            Yaw: 89.9999924
+            Roll: -89.999939
           }
           Scale {
             X: 1
@@ -419,13 +430,13 @@
         Name: "Ring - Quarter Thick"
         Transform {
           Location {
-            X: -14.1359863
-            Y: -2.15771484
+            X: -14.1361456
+            Y: -2.15754795
           }
           Rotation {
-            Pitch: 44.9999733
-            Yaw: 89.9999466
-            Roll: 89.9999619
+            Pitch: 44.999958
+            Yaw: -90.000061
+            Roll: 89.9999466
           }
           Scale {
             X: 0.5
@@ -474,14 +485,14 @@
         Name: "Ring"
         Transform {
           Location {
-            X: -14.1359863
-            Y: -62.1577148
-            Z: 15
+            X: -14.136467
+            Y: 57.8427086
+            Z: 15.0000038
           }
           Rotation {
-            Pitch: 59.9999695
-            Yaw: 90
-            Roll: 90
+            Pitch: 59.9999084
+            Yaw: -90
+            Roll: 89.9999847
           }
           Scale {
             X: 1
@@ -530,12 +541,13 @@
         Name: "Lense - Half"
         Transform {
           Location {
-            X: -14.1359863
-            Y: 57.8422852
-            Z: 15
+            X: -14.1361456
+            Y: -62.1578064
+            Z: 15.0000038
           }
           Rotation {
-            Pitch: 90
+            Yaw: -90
+            Roll: 90
           }
           Scale {
             X: 0.900000036
@@ -587,12 +599,13 @@
         Name: "Lense - Half"
         Transform {
           Location {
-            X: -14.1359863
-            Y: -62.1577148
-            Z: 15
+            X: -14.136467
+            Y: 57.8427086
+            Z: 15.0000038
           }
           Rotation {
-            Pitch: 90
+            Yaw: -89.9999695
+            Roll: 90.0000763
           }
           Scale {
             X: 0.900000036

@@ -17,48 +17,12 @@ Assets {
   }
 }
 Assets {
-  Id: 17611921055401184409
-  Name: "Sci-fi Chest Hinge 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_scf_crate_hinge_001_ref"
-  }
-}
-Assets {
-  Id: 17482597059335089102
-  Name: "Table Assembled"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_table_001"
-  }
-}
-Assets {
   Id: 17177425172148499381
   Name: "Metal Steel Brushed"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_stainless-steel_001_uv"
-  }
-}
-Assets {
-  Id: 15946795211297078556
-  Name: "Branches Cluster Small"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_gen_branches_small_001"
-  }
-}
-Assets {
-  Id: 15667862985963017110
-  Name: "Sci-fi Base Breakout Box 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_scf_base_breakout_001_ref"
   }
 }
 Assets {
@@ -80,15 +44,6 @@ Assets {
   }
 }
 Assets {
-  Id: 14755858463341567438
-  Name: "Branches Cluster Medium"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_gen_branches_medium_001"
-  }
-}
-Assets {
   Id: 14163900403650610806
   Name: "Craftsman End Table"
   PlatformAssetType: 1
@@ -98,30 +53,12 @@ Assets {
   }
 }
 Assets {
-  Id: 13965151855829557526
-  Name: "Bark Birch 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_bark_birch_001_uv"
-  }
-}
-Assets {
   Id: 13282259600726273799
   Name: "Cylinder"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_002"
-  }
-}
-Assets {
-  Id: 11024977997119225113
-  Name: "Scifi Cockpit Siderail 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_scf_ship_cockpit_siderail_001_ref"
   }
 }
 Assets {
@@ -152,15 +89,6 @@ Assets {
   }
 }
 Assets {
-  Id: 10135110228746641342
-  Name: "Street Utility Box 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_urb_st_post_lights_utility_box_002"
-  }
-}
-Assets {
   Id: 9708141689872640486
   Name: "Decal Letters 01"
   PlatformAssetType: 14
@@ -179,30 +107,12 @@ Assets {
   }
 }
 Assets {
-  Id: 9449645021085694247
-  Name: "Wicker Basket 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_fan_wicker_001_uv"
-  }
-}
-Assets {
   Id: 7369632945904869019
   Name: "Bone Human Skull 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bones_human_skull_01_ref"
-  }
-}
-Assets {
-  Id: 5023017391281500780
-  Name: "Counter - Combined"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_urb_counter_combined_001"
   }
 }
 Assets {
@@ -224,30 +134,12 @@ Assets {
   }
 }
 Assets {
-  Id: 2966412212117305711
-  Name: "Sci-fi Chest Common Lid 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_scf_crate_small_lid_001_ref"
-  }
-}
-Assets {
   Id: 2678246725600216788
   Name: "Chain Ceiling Anchor"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_chain_top_001"
-  }
-}
-Assets {
-  Id: 1026770612723859066
-  Name: "Stone Block Standard"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_fantasy_block_01"
   }
 }
 Assets {

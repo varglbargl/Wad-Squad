@@ -697,12 +697,11 @@ Objects {
   Name: "Hex Nut"
   Transform {
     Location {
-      X: 634.484
-      Y: 2927.6333
-      Z: 0.000203450516
+      X: 446.696777
+      Y: 2808.15063
     }
     Rotation {
-      Yaw: -32.4208374
+      Yaw: -32.4209
     }
     Scale {
       X: 2.58969641

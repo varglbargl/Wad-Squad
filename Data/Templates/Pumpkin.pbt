@@ -15,8 +15,16 @@
             Z: 1.76112425
           }
         }
-        ParentId: 8550528528358557726
+        ParentId: 4143190547811381072
         ChildIds: 13407154707347180420
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PickupSound"
+            AssetReference {
+              Id: 15505835984092039490
+            }
+          }
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1606,6 +1614,15 @@
           DecalBP {
           }
         }
+      }
+    }
+    Assets {
+      Id: 15505835984092039490
+      Name: "Frame Drum Sampled Instrument 01 SFX"
+      PlatformAssetType: 10
+      PrimaryAsset {
+        AssetType: "AudioBlueprintAssetRef"
+        AssetId: "sfxabp_sampled_framedrum_01_ref"
       }
     }
     Assets {

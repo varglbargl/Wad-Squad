@@ -8,6 +8,15 @@
   }
 }
 Assets {
+  Id: 17611921055401184409
+  Name: "Sci-fi Chest Hinge 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_scf_crate_hinge_001_ref"
+  }
+}
+Assets {
   Id: 17485881147669499682
   Name: "Cube - Rounded - bottom aligned"
   PlatformAssetType: 1
@@ -23,6 +32,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_urb_pipes_straight_001_ref"
+  }
+}
+Assets {
+  Id: 15667862985963017110
+  Name: "Sci-fi Base Breakout Box 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_scf_base_breakout_001_ref"
   }
 }
 Assets {
@@ -62,6 +80,24 @@ Assets {
   }
 }
 Assets {
+  Id: 11024977997119225113
+  Name: "Scifi Cockpit Siderail 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_scf_ship_cockpit_siderail_001_ref"
+  }
+}
+Assets {
+  Id: 10135110228746641342
+  Name: "Street Utility Box 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_st_post_lights_utility_box_002"
+  }
+}
+Assets {
   Id: 9693133565758539692
   Name: "2D Basic Shapes Decal"
   PlatformAssetType: 14
@@ -86,6 +122,15 @@ Assets {
   PrimaryAsset {
     AssetType: "DecalBlueprintAssetRef"
     AssetId: "dcl_liquid"
+  }
+}
+Assets {
+  Id: 2966412212117305711
+  Name: "Sci-fi Chest Common Lid 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_scf_crate_small_lid_001_ref"
   }
 }
 Assets {

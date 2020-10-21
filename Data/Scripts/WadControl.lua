@@ -102,7 +102,7 @@ function rollThatWad(deltaTime)
     local lateralWadImpulse = cameraRight * impulseToApply.y
     local combinedWadImpulse = forwardWadImpulse + lateralWadImpulse
     local normalizedWadImpulse = combinedWadImpulse:GetNormalized()
-    finalWadImpulse = normalizedWadImpulse * moveSpeed * wadSize ^ 0.7
+    finalWadImpulse = normalizedWadImpulse * moveSpeed * wadSize ^ 0.75
 
     local forwardWadTorque = cameraRight * torqueToApply.y
     local lateralWadTorque = cameraForward * torqueToApply.x
@@ -137,6 +137,7 @@ function handleGrabberOverlap (grabber, trigger)
 
   if trigger:IsA("Trigger") and trigger.name == "Pickup Sphere" or trigger.name == "Pickup Box" then
     local item = Utils.findItem(trigger.parent)
+    if not item then return end
     local itemVisible = (item.visibility ~= Visibility.FORCE_OFF)
     -- I can't believe I could have just been doing this all along.
     local itemSize = trigger:GetWorldScale().size * 1.3
@@ -219,11 +220,11 @@ function handleGrabberOverlap (grabber, trigger)
       -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)
       -- clientItem:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.1))
       if grabber.name == "Undergrab" then
-        Utils.lerpNSlurp(clientItem, WAD, 0.55, 40, 0.5 * (itemSize / wadSize))
-        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.55, 60, 0.8 * (itemSize / wadSize)) end
+        Utils.lerpNSlurp(clientItem, WAD, 0.3, 40 * (itemSize / wadSize), 0.8 * (itemSize / wadSize))
+        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.3, 60 * (itemSize / wadSize), 1 * (itemSize / wadSize)) end
       else
-        Utils.lerpNSlurp(clientItem, WAD, 0.4, 50, 0.7 * (itemSize / wadSize))
-        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.4, 60, 0.9 * (itemSize / wadSize)) end
+        Utils.lerpNSlurp(clientItem, WAD, 0.2, 50 * (itemSize / wadSize), 1.2 * (itemSize / wadSize))
+        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.2, 60 * (itemSize / wadSize), 1.5 * (itemSize / wadSize)) end
       end
 
       wadSize = wadSize + itemSize / 50
