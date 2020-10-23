@@ -121,6 +121,12 @@
               SubObjectId: 15714075669346606607
             }
           }
+          Overrides {
+            Name: "cs:ClientGameManager"
+            ObjectReference {
+              SelfId: 11037948862679624164
+            }
+          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -240,7 +246,6 @@
           }
           DisableDistanceFieldLighting: true
           DisableReceiveDecals: true
-          EnableCameraCollision: true
           StaticMesh {
             Physics {
             }

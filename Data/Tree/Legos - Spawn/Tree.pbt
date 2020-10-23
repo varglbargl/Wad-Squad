@@ -109,11 +109,6 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2712966399887071100
-      value {
-      }
-    }
-    ParameterOverrideMap {
       key: 3904724142486713440
       value {
         Overrides {
@@ -136,86 +131,6 @@ Objects {
             Roll: -84.394043
           }
         }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4349383110582499961
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 5082770300029676226
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 5890061324899285651
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 6084032111409122732
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 7271749144946505324
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 7443485648787955973
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 7729311329554784622
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 7778193490302631360
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 10204460105020227487
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 11228858704133075527
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 11763447379534244833
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 12404833063074664706
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 13452854609709270452
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 13683139219424790313
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 13963323470830761031
-      value {
-      }
-    }
-    ParameterOverrideMap {
-      key: 17858726958911578724
-      value {
       }
     }
     TemplateAsset {

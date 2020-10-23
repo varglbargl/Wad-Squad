@@ -289,8 +289,8 @@ Objects {
   Name: "Gear"
   Transform {
     Location {
-      X: -425.794678
-      Y: -2143.48682
+      X: -509.117432
+      Y: -2211.57471
     }
     Rotation {
     }

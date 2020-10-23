@@ -9,6 +9,7 @@ local HITBOX_SPHERE = script:GetCustomProperty("HitboxSphere")
 local HITBOX_CUBE = script:GetCustomProperty("HitboxCube")
 local MESH = script:GetCustomProperty("Mesh"):WaitForObject()
 local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
+local CLIENT_GAME_MANAGER = script:GetCustomProperty("ClientGameManager"):WaitForObject()
 
 local delay = 0.005
 local moveSpeed = 650
@@ -91,10 +92,7 @@ function rollThatWad(deltaTime)
   local finalWadImpulse = nil
   local finalWadTorque = nil
 
-  -- local simulatedGravity = Vector3.Lerp(Vector3.New(0, 0, currentWadAngularVelocity.z), simulatedMass, deltaTime)
-
   if impulseToApply.x == 0 and impulseToApply.y == 0 then
-    -- finalWadImpulse = simulatedGravity
     finalWadImpulse = Vector3.UP * currentWadVelocity
     finalWadTorque = Vector3.ZERO
   else
@@ -190,7 +188,7 @@ function handleGrabberOverlap (grabber, trigger)
 
       local itemColor = item.clientUserData["Color"]
 
-      if (itemColor) then
+      if itemColor then
         Utils.traverseHierarchy(clientItem, function(node)
           if not node:GetCustomProperty("SkipMod") and node:IsA("CoreMesh") or node:IsA("Light") then
             node:SetColor(itemColor)

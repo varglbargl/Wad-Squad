@@ -10,13 +10,19 @@
         Name: "Sanvich"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.3
+            Y: 0.3
+            Z: 0.3
           }
         }
-        ParentId: 4781671109827199097
-        ChildIds: 5369984264814360519
+        ParentId: 280905557327166263
+        ChildIds: 17523824237835579986
+        ChildIds: 3553828681395285070
+        ChildIds: 7106360037475610807
+        ChildIds: 5533959665991436171
+        ChildIds: 7914611689890983359
+        ChildIds: 18409350366207861659
+        ChildIds: 6691366500678184792
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -28,14 +34,16 @@
         }
       }
       Objects {
-        Id: 5369984264814360519
-        Name: "Geo - Client Context"
+        Id: 17523824237835579986
+        Name: "Olive"
         Transform {
           Location {
-            X: -3.48772337e-05
-            Y: 2.17982711e-06
+            X: 55.8719482
+            Y: 1.41621399
+            Z: 142.445877
           }
           Rotation {
+            Roll: -0.948058724
           }
           Scale {
             X: 1
@@ -44,41 +52,6 @@
           }
         }
         ParentId: 7896147809097179294
-        ChildIds: 17523824237835579986
-        ChildIds: 3553828681395285070
-        ChildIds: 7106360037475610807
-        ChildIds: 5533959665991436171
-        ChildIds: 7914611689890983359
-        ChildIds: 18409350366207861659
-        ChildIds: 6691366500678184792
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 17523824237835579986
-        Name: "Olive"
-        Transform {
-          Location {
-            X: 55.8720703
-            Y: 1.41621017
-            Z: 142.445877
-          }
-          Rotation {
-            Roll: -0.948058903
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 5369984264814360519
         ChildIds: 6872950537808856015
         ChildIds: 15234174544271129022
         ChildIds: 3668589339633277717
@@ -317,13 +290,13 @@
         Name: "Bread - Top"
         Transform {
           Location {
-            X: -5.12792969
-            Y: -50.9146614
+            X: -5.12799072
+            Y: -50.9146576
             Z: 100.706139
           }
           Rotation {
             Pitch: 0.108012609
-            Yaw: 1.82386037e-10
+            Yaw: 2.34496339e-10
             Roll: -0.304820687
           }
           Scale {
@@ -332,12 +305,12 @@
             Z: 1
           }
         }
-        ParentId: 5369984264814360519
-        ChildIds: 649041477471110880
+        ParentId: 7896147809097179294
         ChildIds: 18323290581177965550
         ChildIds: 6309167725640773667
         ChildIds: 1783120178725304009
         ChildIds: 6458992402712430821
+        ChildIds: 649041477471110880
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -349,87 +322,17 @@
         }
       }
       Objects {
-        Id: 649041477471110880
-        Name: "Wedge"
-        Transform {
-          Location {
-            X: -39
-            Y: -12
-            Z: 20
-          }
-          Rotation {
-            Pitch: -90
-            Yaw: 0.0394511633
-            Roll: -0.0393066406
-          }
-          Scale {
-            X: 0.4
-            Y: 4
-            Z: 3
-          }
-        }
-        ParentId: 3553828681395285070
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 14295650898991336118
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 3
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 2
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 0.332000017
-              G: 0.307330936
-              B: 0.162679985
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 9256376963641243765
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
-        }
-      }
-      Objects {
         Id: 18323290581177965550
         Name: "Prism - 8-Sided Half"
         Transform {
           Location {
-            X: -39
-            Y: -127
-            Z: 20
+            X: -39.0000191
+            Y: -126.999985
+            Z: 20.0000019
           }
           Rotation {
             Yaw: -179.999756
+            Roll: -2.12282067e-08
           }
           Scale {
             X: 1.1
@@ -493,11 +396,13 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 111
-            Y: 193
-            Z: 20
+            X: 110.999977
+            Y: 193.000031
+            Z: 19.9999962
           }
           Rotation {
+            Yaw: 5.2110212e-11
+            Roll: -2.54444394e-14
           }
           Scale {
             X: 2.99999976
@@ -553,11 +458,13 @@
         Name: "Cube"
         Transform {
           Location {
-            X: -44
-            Y: 73
+            X: -43.9999733
+            Y: 73.0000153
             Z: 20
           }
           Rotation {
+            Yaw: 5.2110212e-11
+            Roll: -2.54444394e-14
           }
           Scale {
             X: 0.1
@@ -613,14 +520,14 @@
         Name: "Pipe - Quarter Thin"
         Transform {
           Location {
-            X: 11
-            Y: -127.071274
-            Z: -3.21123219
+            X: 10.9999552
+            Y: -127.071266
+            Z: -3.21123528
           }
           Rotation {
             Pitch: 1.268448
-            Yaw: -119.992065
-            Roll: 1.25555718
+            Yaw: -119.99205
+            Roll: 1.25555754
           }
           Scale {
             X: 2.2
@@ -672,18 +579,89 @@
         }
       }
       Objects {
+        Id: 649041477471110880
+        Name: "Wedge"
+        Transform {
+          Location {
+            X: -39.0000229
+            Y: -11.9999838
+            Z: 20.0000019
+          }
+          Rotation {
+            Pitch: -90
+            Yaw: 70.3040924
+            Roll: -70.3070068
+          }
+          Scale {
+            X: 0.4
+            Y: 4
+            Z: 3
+          }
+        }
+        ParentId: 3553828681395285070
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 14295650898991336118
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 3
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.332000017
+              G: 0.307330936
+              B: 0.162679985
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 9256376963641243765
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
+          }
+        }
+      }
+      Objects {
         Id: 7106360037475610807
         Name: "Lettuce"
         Transform {
           Location {
-            X: 86.2216797
+            X: 86.2215576
             Y: 154.371536
             Z: 100.129524
           }
           Rotation {
-            Pitch: 89.4970856
-            Yaw: -89.9813232
-            Roll: -179.482513
+            Pitch: 89.4979706
+            Yaw: -89.9828339
+            Roll: -179.483353
           }
           Scale {
             X: 0.045969408
@@ -691,7 +669,7 @@
             Z: 3.26426315
           }
         }
-        ParentId: 5369984264814360519
+        ParentId: 7896147809097179294
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -747,14 +725,14 @@
         Name: "Cheese"
         Transform {
           Location {
-            X: -44.1279297
+            X: -44.1279907
             Y: -69.0800781
             Z: 86.7102432
           }
           Rotation {
-            Pitch: -89.1032104
-            Yaw: 89.9899597
-            Roll: -85.0469742
+            Pitch: -89.1027679
+            Yaw: 89.9897385
+            Roll: -85.0467224
           }
           Scale {
             X: 0.130976871
@@ -762,7 +740,7 @@
             Z: 3.39779949
           }
         }
-        ParentId: 5369984264814360519
+        ParentId: 7896147809097179294
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -805,8 +783,8 @@
         Name: "Tomatoes"
         Transform {
           Location {
-            X: 57.5388184
-            Y: -5.59230423
+            X: 57.5386963
+            Y: -5.59230042
             Z: 68.8650818
           }
           Rotation {
@@ -817,7 +795,7 @@
             Z: 1
           }
         }
-        ParentId: 5369984264814360519
+        ParentId: 7896147809097179294
         ChildIds: 11703401967292713658
         ChildIds: 4114105547705484051
         ChildIds: 10279580179716744256
@@ -1015,8 +993,8 @@
         Name: "Ham"
         Transform {
           Location {
-            X: -13.9909668
-            Y: 37.0371742
+            X: -13.9910278
+            Y: 37.037178
             Z: 42.8000793
           }
           Rotation {
@@ -1027,7 +1005,7 @@
             Z: 1
           }
         }
-        ParentId: 5369984264814360519
+        ParentId: 7896147809097179294
         ChildIds: 1673364737026336604
         ChildIds: 650779127924387667
         ChildIds: 8322875248318709633
@@ -1329,7 +1307,7 @@
         Name: "Bread- Bottom"
         Transform {
           Location {
-            X: 5.87207031
+            X: 5.87194824
             Y: -69.833786
           }
           Rotation {
@@ -1340,7 +1318,7 @@
             Z: 1
           }
         }
-        ParentId: 5369984264814360519
+        ParentId: 7896147809097179294
         ChildIds: 2966550727979698908
         ChildIds: 12786757038083773153
         ChildIds: 10743870164543595459
@@ -1362,13 +1340,13 @@
         Transform {
           Location {
             X: -50
-            Y: 6.25
+            Y: 6.25001907
             Z: 19.8794403
           }
           Rotation {
             Pitch: -90
-            Yaw: 0.0394511633
-            Roll: -0.0393066406
+            Yaw: -0.0198895074
+            Roll: 0.0200292021
           }
           Scale {
             X: 0.4
@@ -1433,7 +1411,7 @@
         Transform {
           Location {
             X: -50
-            Y: -108.75
+            Y: -108.749985
             Z: 19.8794403
           }
           Rotation {
@@ -1502,7 +1480,7 @@
         Transform {
           Location {
             X: 100
-            Y: 211.25
+            Y: 211.250015
             Z: 19.8794403
           }
           Rotation {
@@ -1561,11 +1539,11 @@
         Name: "Pipe - Quarter Thin"
         Transform {
           Location {
-            Y: -108.75
+            Y: -108.749985
           }
           Rotation {
             Pitch: -0.127642572
-            Yaw: -119.999916
+            Yaw: -119.999939
             Roll: -0.137451157
           }
           Scale {
@@ -1623,7 +1601,7 @@
         Transform {
           Location {
             X: -55
-            Y: 91.25
+            Y: 91.2500153
             Z: 20.1630955
           }
           Rotation {
@@ -1733,12 +1711,12 @@
       }
     }
     Assets {
-      Id: 9256376963641243765
-      Name: "Wedge"
+      Id: 7440098882693208513
+      Name: "Prism - 8-Sided Half"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_wedge_001"
+        AssetId: "sm_half_octagon_001"
       }
     }
     Assets {
@@ -1748,15 +1726,6 @@
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "mi_food_generic_cheese_001_uv"
-      }
-    }
-    Assets {
-      Id: 7440098882693208513
-      Name: "Prism - 8-Sided Half"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_half_octagon_001"
       }
     }
     Assets {
@@ -1784,6 +1753,15 @@
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_half-pipe_002"
+      }
+    }
+    Assets {
+      Id: 9256376963641243765
+      Name: "Wedge"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_wedge_001"
       }
     }
     Assets {

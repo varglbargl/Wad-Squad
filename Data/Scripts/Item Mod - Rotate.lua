@@ -1,6 +1,11 @@
 ﻿local Utils = require(script:GetCustomProperty("Utils"))
 
 local SPEED = script:GetCustomProperty("Speed")
-local item = Utils.findItem(script.parent)
 
-item:RotateContinuous(SPEED)
+function runScript(item)
+  print("Rotating " .. item.name)
+
+  item:RotateContinuous(SPEED)
+end
+
+runScript(Utils.findItem(script.parent))

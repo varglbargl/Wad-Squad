@@ -168,7 +168,7 @@ Objects {
 }
 Objects {
   Id: 14226203837193257169
-  Name: "Load Chunk 1"
+  Name: "Chunk 1"
   Transform {
     Location {
       X: -69.6645737
@@ -191,6 +191,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Load Chunk 1"
+    FilePartitionName: "Chunk 1"
   }
 }

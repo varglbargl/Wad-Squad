@@ -23,7 +23,7 @@ Objects {
   UnregisteredParameters {
     Overrides {
       Name: "cs:Activate"
-      Bool: true
+      Bool: false
     }
     Overrides {
       Name: "cs:SizeBoost"

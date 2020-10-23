@@ -6,7 +6,7 @@ Objects {
   Transform {
     Location {
       X: -10440.7773
-      Y: -406.856934
+      Y: 1141.85498
       Z: 81.9999084
     }
     Rotation {
@@ -87,48 +87,6 @@ Objects {
     DisableDistanceFieldLighting: true
     DisableCastShadows: true
     DisableReceiveDecals: true
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 8743805055054327090
-  Name: "Tree Redwood Bare Big"
-  Transform {
-    Location {
-      X: -8009.6626
-      Y: -10716.252
-      Z: 424.324097
-    }
-    Rotation {
-      Pitch: 0.001591434
-      Yaw: -90.0111694
-      Roll: 8.02919674
-    }
-    Scale {
-      X: 5.07254791
-      Y: 5.07254791
-      Z: 5.07254791
-    }
-  }
-  ParentId: 11789853748847975752
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 16393128389192616686
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -564,12 +522,12 @@ Objects {
   Name: "Tree Redwood Big"
   Transform {
     Location {
-      X: -10485.9326
-      Y: -15018.8965
+      X: -9088.49805
+      Y: -13989.1699
       Z: 135
     }
     Rotation {
-      Yaw: 14.9849548
+      Yaw: 14.984992
     }
     Scale {
       X: 6

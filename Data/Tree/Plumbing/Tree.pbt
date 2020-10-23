@@ -1,6 +1,2096 @@
 ﻿Name: "Plumbing"
 RootId: 5775154100793075744
 Objects {
+  Id: 7726657402065580874
+  Name: "Plumbing Bit"
+  Transform {
+    Location {
+      X: -4004.23633
+      Y: -5105.73242
+      Z: -26.1620483
+    }
+    Rotation {
+      Yaw: 93.0175552
+    }
+    Scale {
+      X: 1.2
+      Y: 1.2
+      Z: 1.2
+    }
+  }
+  ParentId: 5775154100793075744
+  ChildIds: 11885088077904501789
+  ChildIds: 4418799450809835723
+  ChildIds: 6173076133576419263
+  ChildIds: 444895395175002295
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 444895395175002295
+  Name: "Pipe Base"
+  Transform {
+    Location {
+      X: -14.0106497
+      Y: -76.6757355
+      Z: -138.546585
+    }
+    Rotation {
+      Yaw: 86.9824066
+    }
+    Scale {
+      X: 0.791945
+      Y: 0.791945
+      Z: 0.791945
+    }
+  }
+  ParentId: 7726657402065580874
+  ChildIds: 1010596518945070417
+  ChildIds: 11404462516158892541
+  ChildIds: 12824272796691865868
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 12824272796691865868
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -0.101806641
+      Y: -0.641601563
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.191604212
+      Y: 0.191604212
+      Z: 0.0208651107
+    }
+  }
+  ParentId: 444895395175002295
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Blur"
+      Float: 0.470522
+    }
+    Overrides {
+      Name: "bp:Sides"
+      Int: 16
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 9693133565758539692
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 11404462516158892541
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+      X: 0.20922862
+      Y: -0.310913056
+      Z: 83.8789749
+    }
+    Rotation {
+      Yaw: -25.9382019
+    }
+    Scale {
+      X: 1.89715719
+      Y: 1.89715719
+      Z: 1.89715719
+    }
+  }
+  ParentId: 444895395175002295
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1010596518945070417
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+      X: 0.488769531
+      Y: -0.556030273
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88836741
+      Y: 1.88836741
+      Z: 1.79745817
+    }
+  }
+  ParentId: 444895395175002295
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6173076133576419263
+  Name: "Pipe Base with FX"
+  Transform {
+    Location {
+      X: -11.8932228
+      Y: 59.2485542
+      Z: -138.546585
+    }
+    Rotation {
+      Yaw: 86.9824066
+    }
+    Scale {
+      X: 0.791945
+      Y: 0.791945
+      Z: 0.791945
+    }
+  }
+  ParentId: 7726657402065580874
+  ChildIds: 14030331048434871676
+  ChildIds: 9785037657106236376
+  ChildIds: 15134994944366303587
+  ChildIds: 9442280774664529464
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 9442280774664529464
+  Name: "Water Jet VFX"
+  Transform {
+    Location {
+      X: -0.595703125
+      Y: 1.50817871
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88848722
+      Y: 1.88848722
+      Z: 1.88848722
+    }
+  }
+  ParentId: 6173076133576419263
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 10
+    }
+    Overrides {
+      Name: "bp:Angle Max"
+      Float: 11.8302479
+    }
+    Overrides {
+      Name: "bp:Angle Min"
+      Float: 4.07878876
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 1.73031962
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.36
+        G: 0.923708498
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 0.3
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 15763739372691970393
+    }
+    TeamSettings {
+    }
+    Vfx {
+    }
+  }
+}
+Objects {
+  Id: 15134994944366303587
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -0.101806641
+      Y: -0.641601563
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.191604212
+      Y: 0.191604212
+      Z: 0.0208651107
+    }
+  }
+  ParentId: 6173076133576419263
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Blur"
+      Float: 0.470522
+    }
+    Overrides {
+      Name: "bp:Sides"
+      Int: 16
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 9693133565758539692
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 9785037657106236376
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+      X: 0.209228516
+      Y: -0.310913086
+      Z: 83.8789673
+    }
+    Rotation {
+      Yaw: 11.6174269
+    }
+    Scale {
+      X: 1.89714718
+      Y: 1.89714718
+      Z: 1.89714718
+    }
+  }
+  ParentId: 6173076133576419263
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14030331048434871676
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+      X: 0.488769531
+      Y: -0.556030273
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88836741
+      Y: 1.88836741
+      Z: 1.79745817
+    }
+  }
+  ParentId: 6173076133576419263
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4418799450809835723
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 0.810752511
+      Y: 0.810752511
+      Z: 0.810752511
+    }
+  }
+  ParentId: 7726657402065580874
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.26207495
+            Y: 1.26207495
+            Z: 1.26207495
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -11.9461155
+            Y: -8.15517235
+            Z: -0.532226563
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 11885088077904501789
+  Name: "Plumbing Piece"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7726657402065580874
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9613085516545401601
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Plumbing Piece"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.998393953
+            Y: 8.73862882e-06
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -4.26886771e-07
+          }
+        }
+        Overrides {
+          Name: "cs:PickupFX"
+          ObjectReference {
+            SelfId: 9442280774664529464
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2453553432646913317
+    }
+  }
+}
+Objects {
+  Id: 6481857984717799844
+  Name: "Plumbing Bit"
+  Transform {
+    Location {
+      X: -4019.23633
+      Y: -4515.73242
+      Z: 28.8379517
+    }
+    Rotation {
+      Yaw: -0.114379883
+    }
+    Scale {
+      X: 1.49999988
+      Y: 1.49999988
+      Z: 1.49999988
+    }
+  }
+  ParentId: 5775154100793075744
+  ChildIds: 99410624208031409
+  ChildIds: 12797201446524442703
+  ChildIds: 7104685823380608398
+  ChildIds: 16379123429755138322
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16379123429755138322
+  Name: "Pipe Base"
+  Transform {
+    Location {
+      X: -12.5537167
+      Y: -58.6539345
+      Z: -138.546585
+    }
+    Rotation {
+      Yaw: 86.9824066
+    }
+    Scale {
+      X: 0.791945
+      Y: 0.791945
+      Z: 0.791945
+    }
+  }
+  ParentId: 6481857984717799844
+  ChildIds: 4088767049243417510
+  ChildIds: 7159532311787022485
+  ChildIds: 6248277489561420241
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 6248277489561420241
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -0.101806641
+      Y: -0.641601563
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.191604212
+      Y: 0.191604212
+      Z: 0.0208651107
+    }
+  }
+  ParentId: 16379123429755138322
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Blur"
+      Float: 0.470522
+    }
+    Overrides {
+      Name: "bp:Sides"
+      Int: 16
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 9693133565758539692
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 7159532311787022485
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+      X: 0.20922862
+      Y: -0.310913056
+      Z: 83.8789749
+    }
+    Rotation {
+      Yaw: -25.9382019
+    }
+    Scale {
+      X: 1.89715719
+      Y: 1.89715719
+      Z: 1.89715719
+    }
+  }
+  ParentId: 16379123429755138322
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4088767049243417510
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+      X: 0.488769531
+      Y: -0.556030273
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88836741
+      Y: 1.88836741
+      Z: 1.79745817
+    }
+  }
+  ParentId: 16379123429755138322
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7104685823380608398
+  Name: "Pipe Base with FX"
+  Transform {
+    Location {
+      X: -11.8932228
+      Y: 59.2485542
+      Z: -138.546585
+    }
+    Rotation {
+      Yaw: 86.9824066
+    }
+    Scale {
+      X: 0.791945
+      Y: 0.791945
+      Z: 0.791945
+    }
+  }
+  ParentId: 6481857984717799844
+  ChildIds: 10627782434786356084
+  ChildIds: 4783789873741037778
+  ChildIds: 3862673512157812231
+  ChildIds: 2942356907852046875
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2942356907852046875
+  Name: "Water Jet VFX"
+  Transform {
+    Location {
+      X: -0.595703125
+      Y: 1.50817871
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88848722
+      Y: 1.88848722
+      Z: 1.88848722
+    }
+  }
+  ParentId: 7104685823380608398
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 10
+    }
+    Overrides {
+      Name: "bp:Angle Max"
+      Float: 11.8302479
+    }
+    Overrides {
+      Name: "bp:Angle Min"
+      Float: 4.07878876
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 1.73031962
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.36
+        G: 0.923708498
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 0.3
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 15763739372691970393
+    }
+    TeamSettings {
+    }
+    Vfx {
+    }
+  }
+}
+Objects {
+  Id: 3862673512157812231
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -0.101806641
+      Y: -0.641601563
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.191604212
+      Y: 0.191604212
+      Z: 0.0208651107
+    }
+  }
+  ParentId: 7104685823380608398
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Blur"
+      Float: 0.470522
+    }
+    Overrides {
+      Name: "bp:Sides"
+      Int: 16
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 9693133565758539692
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 4783789873741037778
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+      X: 0.209228516
+      Y: -0.310913086
+      Z: 83.8789673
+    }
+    Rotation {
+      Yaw: 11.6174269
+    }
+    Scale {
+      X: 1.89714718
+      Y: 1.89714718
+      Z: 1.89714718
+    }
+  }
+  ParentId: 7104685823380608398
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10627782434786356084
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+      X: 0.488769531
+      Y: -0.556030273
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88836741
+      Y: 1.88836741
+      Z: 1.79745817
+    }
+  }
+  ParentId: 7104685823380608398
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12797201446524442703
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 0.810752511
+      Y: 0.810752511
+      Z: 0.810752511
+    }
+  }
+  ParentId: 6481857984717799844
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.26207495
+            Y: 1.26207495
+            Z: 1.26207495
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10.5623474
+            Z: -3.53307533
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 99410624208031409
+  Name: "Plumbing Piece"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6481857984717799844
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9613085516545401601
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Plumbing Piece"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.99895364
+            Y: 2.83221607e-06
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:PickupFX"
+          ObjectReference {
+            SelfId: 2942356907852046875
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4609752764272142885
+    }
+  }
+}
+Objects {
+  Id: 3473547784713311257
+  Name: "Plumbing Bit"
+  Transform {
+    Location {
+      X: -4049.23633
+      Y: 1054.26733
+      Z: -11.1620483
+    }
+    Rotation {
+      Yaw: -90.1143494
+    }
+    Scale {
+      X: 1.49999988
+      Y: 1.49999988
+      Z: 1.49999988
+    }
+  }
+  ParentId: 5775154100793075744
+  ChildIds: 18267917408445790627
+  ChildIds: 4955683889011927594
+  ChildIds: 800691777262918142
+  ChildIds: 2359910497406154234
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2359910497406154234
+  Name: "Pipe Base"
+  Transform {
+    Location {
+      X: -12.5537167
+      Y: -58.6539345
+      Z: -138.546585
+    }
+    Rotation {
+      Yaw: 86.9824066
+    }
+    Scale {
+      X: 0.791945
+      Y: 0.791945
+      Z: 0.791945
+    }
+  }
+  ParentId: 3473547784713311257
+  ChildIds: 7175401497565301068
+  ChildIds: 9458333822779915986
+  ChildIds: 5384115210658953364
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 5384115210658953364
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -0.101806641
+      Y: -0.641601563
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.191604212
+      Y: 0.191604212
+      Z: 0.0208651107
+    }
+  }
+  ParentId: 2359910497406154234
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Blur"
+      Float: 0.470522
+    }
+    Overrides {
+      Name: "bp:Sides"
+      Int: 16
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 9693133565758539692
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 9458333822779915986
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+      X: 0.20922862
+      Y: -0.310913056
+      Z: 83.8789749
+    }
+    Rotation {
+      Yaw: -25.9382019
+    }
+    Scale {
+      X: 1.89715719
+      Y: 1.89715719
+      Z: 1.89715719
+    }
+  }
+  ParentId: 2359910497406154234
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7175401497565301068
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+      X: 0.488769531
+      Y: -0.556030273
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88836741
+      Y: 1.88836741
+      Z: 1.79745817
+    }
+  }
+  ParentId: 2359910497406154234
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 800691777262918142
+  Name: "Pipe Base with FX"
+  Transform {
+    Location {
+      X: -11.8932228
+      Y: 59.2485542
+      Z: -138.546585
+    }
+    Rotation {
+      Yaw: 86.9824066
+    }
+    Scale {
+      X: 0.791945
+      Y: 0.791945
+      Z: 0.791945
+    }
+  }
+  ParentId: 3473547784713311257
+  ChildIds: 13940750709049564115
+  ChildIds: 13374715545972211051
+  ChildIds: 7172313810830071981
+  ChildIds: 2157004652690795167
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2157004652690795167
+  Name: "Water Jet VFX"
+  Transform {
+    Location {
+      X: -0.595703125
+      Y: 1.50817871
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88848722
+      Y: 1.88848722
+      Z: 1.88848722
+    }
+  }
+  ParentId: 800691777262918142
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 10
+    }
+    Overrides {
+      Name: "bp:Angle Max"
+      Float: 11.8302479
+    }
+    Overrides {
+      Name: "bp:Angle Min"
+      Float: 4.07878876
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 1.73031962
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.36
+        G: 0.923708498
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 0.3
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 15763739372691970393
+    }
+    TeamSettings {
+    }
+    Vfx {
+    }
+  }
+}
+Objects {
+  Id: 7172313810830071981
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -0.101806641
+      Y: -0.641601563
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.191604212
+      Y: 0.191604212
+      Z: 0.0208651107
+    }
+  }
+  ParentId: 800691777262918142
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Blur"
+      Float: 0.470522
+    }
+    Overrides {
+      Name: "bp:Sides"
+      Int: 16
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 9693133565758539692
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 13374715545972211051
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+      X: 0.209228516
+      Y: -0.310913086
+      Z: 83.8789673
+    }
+    Rotation {
+      Yaw: 11.6174269
+    }
+    Scale {
+      X: 1.89714718
+      Y: 1.89714718
+      Z: 1.89714718
+    }
+  }
+  ParentId: 800691777262918142
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13940750709049564115
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+      X: 0.488769531
+      Y: -0.556030273
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88836741
+      Y: 1.88836741
+      Z: 1.79745817
+    }
+  }
+  ParentId: 800691777262918142
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4955683889011927594
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 0.810752511
+      Y: 0.810752511
+      Z: 0.810752511
+    }
+  }
+  ParentId: 3473547784713311257
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.26207495
+            Y: 1.26207495
+            Z: 1.26207495
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10.5623474
+            Z: -3.53307533
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 18267917408445790627
+  Name: "Plumbing Piece"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3473547784713311257
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9613085516545401601
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Plumbing Piece"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.99895364
+            Y: 2.83221607e-06
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:PickupFX"
+          ObjectReference {
+            SelfId: 2157004652690795167
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4609752764272142885
+    }
+  }
+}
+Objects {
+  Id: 5901588576722587718
+  Name: "Plumbing Bit"
+  Transform {
+    Location {
+      X: -3637.11719
+      Y: 1081.79236
+      Z: 48.8379517
+    }
+    Rotation {
+      Yaw: 89.8856277
+    }
+    Scale {
+      X: 1.49999988
+      Y: 1.49999988
+      Z: 1.49999988
+    }
+  }
+  ParentId: 5775154100793075744
+  ChildIds: 268823153722923588
+  ChildIds: 8871126885505954515
+  ChildIds: 5528020075945087470
+  ChildIds: 2954702848207897212
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2954702848207897212
+  Name: "Pipe Base"
+  Transform {
+    Location {
+      X: -12.5537167
+      Y: -58.6539345
+      Z: -138.546585
+    }
+    Rotation {
+      Yaw: 86.9824066
+    }
+    Scale {
+      X: 0.791945
+      Y: 0.791945
+      Z: 0.791945
+    }
+  }
+  ParentId: 5901588576722587718
+  ChildIds: 287616316983360396
+  ChildIds: 13241386382381555279
+  ChildIds: 13928522300906325459
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 13928522300906325459
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -0.101806641
+      Y: -0.641601563
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.191604212
+      Y: 0.191604212
+      Z: 0.0208651107
+    }
+  }
+  ParentId: 2954702848207897212
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Blur"
+      Float: 0.470522
+    }
+    Overrides {
+      Name: "bp:Sides"
+      Int: 16
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 9693133565758539692
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 13241386382381555279
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+      X: 0.20922862
+      Y: -0.310913056
+      Z: 83.8789749
+    }
+    Rotation {
+      Yaw: -25.9382019
+    }
+    Scale {
+      X: 1.89715719
+      Y: 1.89715719
+      Z: 1.89715719
+    }
+  }
+  ParentId: 2954702848207897212
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 287616316983360396
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+      X: 0.488769531
+      Y: -0.556030273
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88836741
+      Y: 1.88836741
+      Z: 1.79745817
+    }
+  }
+  ParentId: 2954702848207897212
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5528020075945087470
+  Name: "Pipe Base with FX"
+  Transform {
+    Location {
+      X: -11.8932228
+      Y: 59.2485542
+      Z: -138.546585
+    }
+    Rotation {
+      Yaw: 86.9824066
+    }
+    Scale {
+      X: 0.791945
+      Y: 0.791945
+      Z: 0.791945
+    }
+  }
+  ParentId: 5901588576722587718
+  ChildIds: 15875395325445126226
+  ChildIds: 16759934573292133410
+  ChildIds: 9128141239851882628
+  ChildIds: 11283602056178291318
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 11283602056178291318
+  Name: "Water Jet VFX"
+  Transform {
+    Location {
+      X: -0.595703125
+      Y: 1.50817871
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88848722
+      Y: 1.88848722
+      Z: 1.88848722
+    }
+  }
+  ParentId: 5528020075945087470
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 10
+    }
+    Overrides {
+      Name: "bp:Angle Max"
+      Float: 11.8302479
+    }
+    Overrides {
+      Name: "bp:Angle Min"
+      Float: 4.07878876
+    }
+    Overrides {
+      Name: "bp:Life"
+      Float: 1.73031962
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.36
+        G: 0.923708498
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 0.3
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 15763739372691970393
+    }
+    TeamSettings {
+    }
+    Vfx {
+    }
+  }
+}
+Objects {
+  Id: 9128141239851882628
+  Name: "2D Basic Shapes Decal"
+  Transform {
+    Location {
+      X: -0.101806641
+      Y: -0.641601563
+      Z: 89.8728943
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.191604212
+      Y: 0.191604212
+      Z: 0.0208651107
+    }
+  }
+  ParentId: 5528020075945087470
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Stroke Width"
+      Float: 0
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Blur"
+      Float: 0.470522
+    }
+    Overrides {
+      Name: "bp:Sides"
+      Int: 16
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 9693133565758539692
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 16759934573292133410
+  Name: "Urban Pipe Coupling 04"
+  Transform {
+    Location {
+      X: 0.209228516
+      Y: -0.310913086
+      Z: 83.8789673
+    }
+    Rotation {
+      Yaw: 11.6174269
+    }
+    Scale {
+      X: 1.89714718
+      Y: 1.89714718
+      Z: 1.89714718
+    }
+  }
+  ParentId: 5528020075945087470
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13467939812857306969
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15875395325445126226
+  Name: "Urban Pipe Straight"
+  Transform {
+    Location {
+      X: 0.488769531
+      Y: -0.556030273
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.88836741
+      Y: 1.88836741
+      Z: 1.79745817
+    }
+  }
+  ParentId: 5528020075945087470
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15897705887741699672
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8871126885505954515
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 0.810752511
+      Y: 0.810752511
+      Z: 0.810752511
+    }
+  }
+  ParentId: 5901588576722587718
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.26207495
+            Y: 1.26207495
+            Z: 1.26207495
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10.5623474
+            Z: -3.53307533
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 268823153722923588
+  Name: "Plumbing Piece"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5901588576722587718
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9613085516545401601
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Plumbing Piece"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.99895364
+            Y: 2.83221607e-06
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:PickupFX"
+          ObjectReference {
+            SelfId: 11283602056178291318
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4609752764272142885
+    }
+  }
+}
+Objects {
   Id: 1417896287468871528
   Name: "Plumbing Bit"
   Transform {

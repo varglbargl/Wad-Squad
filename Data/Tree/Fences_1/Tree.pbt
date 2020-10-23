@@ -52,15 +52,15 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: 107.240791
+            Z: 128.363312
           }
         }
       }
@@ -382,15 +382,15 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: 107.240791
+            Z: 128.363312
           }
         }
       }
@@ -712,15 +712,15 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: 107.240791
+            Z: 128.363312
           }
         }
       }
@@ -763,6 +763,21 @@ Objects {
           Name: "ma:Shared_BaseMaterial:utile"
           Float: 0.2
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: 49.9999924
+            Z: 24.9999962
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.2
+            Z: 1.4
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -780,6 +795,21 @@ Objects {
           Name: "ma:Shared_BaseMaterial:utile"
           Float: 0.2
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: -49.9999924
+            Z: 24.9999962
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.2
+            Z: 1.4
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -796,6 +826,21 @@ Objects {
         Overrides {
           Name: "ma:Shared_BaseMaterial:utile"
           Float: 0.2
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: 149.999985
+            Z: 24.9999962
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.2
+            Z: 1.4
+          }
         }
       }
     }
@@ -820,6 +865,19 @@ Objects {
             X: 0.0999
             Y: 0.156230807
             Z: 1.19
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: 99.9999847
+            Z: 54.9999962
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: 82.4999619
           }
         }
       }
@@ -847,6 +905,13 @@ Objects {
             Z: 1.19
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: 99.9999847
+            Z: 5.53778076
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -870,6 +935,12 @@ Objects {
             X: 0.0999
             Y: 0.177831009
             Z: 1.19
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: -99.9999847
           }
         }
       }
@@ -922,6 +993,12 @@ Objects {
             Z: 1.19
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 60
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -947,6 +1024,13 @@ Objects {
             Z: 1.19
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: -99.9999847
+            Z: 49.9999924
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -963,6 +1047,21 @@ Objects {
         Overrides {
           Name: "ma:Shared_BaseMaterial:utile"
           Float: 0.2
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: -150.000061
+            Z: 24.9999962
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.1
+            Y: 0.2
+            Z: 1.4
+          }
         }
       }
     }
@@ -995,11 +1094,13 @@ Objects {
   Name: "Garden Fance"
   Transform {
     Location {
-      X: -257.78949
+      X: -212.904343
       Y: 9765.76855
     }
     Rotation {
-      Yaw: 7.01141357
+      Pitch: -7.46920776
+      Yaw: 2.25823426
+      Roll: 1.34543754e-08
     }
     Scale {
       X: 1.18000007
@@ -1042,15 +1143,17 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: 107.240791
+            X: 7.54727153e-05
+            Y: 0.000613665325
+            Z: 128.363312
           }
         }
       }
@@ -1372,15 +1475,17 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: 107.240791
+            X: -7.54725188e-05
+            Y: -0.000613665383
+            Z: 128.363342
           }
         }
       }
@@ -1704,17 +1809,17 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 4.1672738e-06
-            Y: 4.67239806e-06
-            Z: 107.240776
+            X: -2.49092746
+            Y: -0.101492822
+            Z: 128.215668
           }
         }
       }
@@ -2036,15 +2141,17 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: 107.240791
+            X: -1.47482615e-05
+            Y: -0.000308792514
+            Z: 128.363342
           }
         }
       }
@@ -2367,17 +2474,17 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -8.20826699e-06
-            Y: -1.24260532e-05
-            Z: 107.240791
+            X: -2.87988
+            Y: 0.342662483
+            Z: 128.1633
           }
         }
       }
@@ -2698,15 +2805,15 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: 107.240791
+            Z: 128.363342
           }
         }
       }
@@ -2981,12 +3088,12 @@ Objects {
   Name: "Garden Fance"
   Transform {
     Location {
-      Y: -3090.29199
+      Y: -3090.29224
     }
     Rotation {
-      Pitch: 7.36320972
-      Yaw: 5.21830797
-      Roll: -0.484130859
+      Pitch: -2.44934082
+      Yaw: 5.30094385
+      Roll: -0.48059082
     }
     Scale {
       X: 1.18
@@ -3029,17 +3136,17 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 3.23279437e-06
-            Y: -0.000223618452
-            Z: 107.240791
+            X: 2.70703268
+            Y: 0.176474199
+            Z: 128.188416
           }
         }
       }
@@ -3314,10 +3421,12 @@ Objects {
   Name: "Garden Fance"
   Transform {
     Location {
+      X: -163.216034
       Y: -1786.96436
     }
     Rotation {
-      Yaw: -3.74081421
+      Pitch: -17.1352844
+      Yaw: 7.50226164
     }
     Scale {
       X: 1.18
@@ -3360,15 +3469,15 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: 107.240791
+            Z: 128.363342
           }
         }
       }
@@ -3643,10 +3752,14 @@ Objects {
   Name: "Garden Fance"
   Transform {
     Location {
-      Y: -455.844727
+      X: -137.682709
+      Y: -443.213196
+      Z: -0.000182395263
     }
     Rotation {
-      Yaw: 4.44022751
+      Pitch: -9.85253906
+      Yaw: -9.76702881
+      Roll: -0.488067627
     }
     Scale {
       X: 1.18
@@ -3689,15 +3802,15 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: 107.240791
+            Z: 128.363342
           }
         }
       }
@@ -3972,10 +4085,12 @@ Objects {
   Name: "Garden Fance"
   Transform {
     Location {
-      Y: 869.031738
+      Y: 880.329285
     }
     Rotation {
-      Pitch: -2.87802124
+      Pitch: -5.81774902
+      Yaw: -4.34893799
+      Roll: 0.441666633
     }
     Scale {
       X: 1.18
@@ -4018,16 +4133,16 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 9.35268872e-07
-            Z: 107.240799
+            X: -1.06057644
+            Z: 128.336716
           }
         }
       }
@@ -4348,15 +4463,15 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.379244208
-            Y: 10.3625517
-            Z: 3.62493181
+            X: 0.379244894
+            Y: 10.1120129
+            Z: 3.06382227
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            Z: 107.240791
+            Z: 128.363342
           }
         }
       }

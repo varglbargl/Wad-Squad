@@ -177,10 +177,10 @@ Objects {
       Z: 818.999939
     }
     Rotation {
-      Yaw: -2.04905609e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
-      X: 17.4999981
+      X: 16.9804268
       Y: 3.49999952
       Z: 2.1
     }
@@ -254,10 +254,10 @@ Objects {
       Z: 811.999939
     }
     Rotation {
-      Yaw: -2.04905609e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
-      X: 17.5
+      X: 16.9804287
       Y: 2.79999971
       Z: 3.36
     }
@@ -453,14 +453,14 @@ Objects {
   Name: "Counter - Combined"
   Transform {
     Location {
-      X: -1725.09131
+      X: -1672.83789
       Y: -1104.4541
       Z: 818.999939
     }
     Rotation {
     }
     Scale {
-      X: 17.4999981
+      X: 16.9804268
       Y: 3.49999952
       Z: 2.1
     }
@@ -529,14 +529,14 @@ Objects {
   Name: "Counter - Combined"
   Transform {
     Location {
-      X: -1725.09131
+      X: -1672.83789
       Y: -1468.4541
       Z: 811.999939
     }
     Rotation {
     }
     Scale {
-      X: 17.5
+      X: 16.9804287
       Y: 2.79999971
       Z: 3.36
     }

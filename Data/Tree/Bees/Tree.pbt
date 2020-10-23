@@ -1,6 +1,127 @@
 ﻿Name: "Bees"
 RootId: 8319386543174339870
 Objects {
+  Id: 2151229652893641298
+  Name: "Honey Bee"
+  Transform {
+    Location {
+      X: -3154.63525
+      Y: 4853.11084
+      Z: 873.22406
+    }
+    Rotation {
+      Yaw: 44.3078117
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8319386543174339870
+  ChildIds: 840911403242329430
+  ChildIds: 7136667360373487036
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 7136667360373487036
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 2151229652893641298
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.000813802064
+            Y: -10.9667969
+            Z: 10.5107622
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.766548514
+            Y: 1.83325
+            Z: 0.882672906
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -10.4462891
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 840911403242329430
+  Name: "Honey Bee"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2151229652893641298
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15150143337005922378
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Honey Bee"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2672850210028433424
+    }
+  }
+}
+Objects {
   Id: 7752967228798203077
   Name: "Bee Circle"
   Transform {

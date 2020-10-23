@@ -1,6 +1,128 @@
 ﻿Name: "Spiders"
 RootId: 10202916011836753189
 Objects {
+  Id: 13276194330594019881
+  Name: "Spider"
+  Transform {
+    Location {
+      X: 464.667969
+      Y: -2585.21973
+      Z: 1300
+    }
+    Rotation {
+      Yaw: 119.423286
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10202916011836753189
+  ChildIds: 10341165706322392383
+  ChildIds: 10399191079576999209
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10399191079576999209
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 13276194330594019881
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 3.4
+            Y: 2.2
+            Z: 1.30000007
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 23.9344902
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 47.7555313
+            Y: 22.1757
+            Z: 30.1111336
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 10341165706322392383
+  Name: "Spider"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13276194330594019881
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3607404891378414081
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Spider"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 110.000031
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4659540241900482464
+    }
+  }
+}
+Objects {
   Id: 6830433684789889453
   Name: "Spider"
   Transform {
@@ -132,7 +254,7 @@ Objects {
   Name: "Spider"
   Transform {
     Location {
-      X: -950
+      X: -983.333313
       Y: 4993.50635
       Z: 423.199646
     }

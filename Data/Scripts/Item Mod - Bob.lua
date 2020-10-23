@@ -2,7 +2,7 @@
 local WAVELENGTH = script:GetCustomProperty("Wavelength")
 local DIRECTION = script:GetCustomProperty("Direction")
 
-local speed = 5 / FREQUENCY
+local speed = 5 / FREQUENCY * (math.random(90, 110) / 100)
 local zenith = DIRECTION:GetNormalized() * WAVELENGTH
 local startPosition = script.parent:GetPosition()
 

@@ -3548,6 +3548,35 @@ Objects {
   }
 }
 Objects {
+  Id: 15580096465559057863
+  Name: "Grassy Ground"
+  Transform {
+    Location {
+      X: 2733.3335
+      Y: 2233.3335
+      Z: 85.4486847
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15764376009576159070
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Grassy Ground"
+  }
+}
+Objects {
   Id: 14383419372897064754
   Name: "Yard"
   Transform {
@@ -3571,65 +3600,5 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Yard"
-  }
-}
-Objects {
-  Id: 10176613551094026796
-  Name: "Ground"
-  Transform {
-    Location {
-      X: 5056.5
-      Y: 231.000122
-      Z: 85.4486847
-    }
-    Rotation {
-    }
-    Scale {
-      X: 300
-      Y: 300
-      Z: 1
-    }
-  }
-  ParentId: 15764376009576159070
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 1479234746801052129
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 20
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 20
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    DisableDistanceFieldLighting: true
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
   }
 }

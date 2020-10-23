@@ -5,15 +5,9 @@
   TextAsset {
     CustomParameters {
       Overrides {
-        Name: "cs:LoadChunk1"
-        ObjectReference {
-          SelfId: 14226203837193257169
-        }
-      }
-      Overrides {
-        Name: "cs:LoadChunk2"
-        ObjectReference {
-          SelfId: 5771214282835980510
+        Name: "cs:Utils"
+        AssetReference {
+          Id: 18302965560194460405
         }
       }
     }

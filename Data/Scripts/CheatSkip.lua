@@ -1,8 +1,15 @@
 ﻿local ACTIVATE = script:GetCustomProperty("Activate")
 local SIZE_BOOST = script:GetCustomProperty("SizeBoost")
 
-if ACTIVATE then
+local cheatsAllowed = script.parent:GetCustomProperty("Allow")
+
+if cheatsAllowed then
+  print("Cheats allowed.")
+end
+
+if cheatsAllowed and ACTIVATE then
   Task.Wait(2)
+  print("Activating skip: " .. script.name)
 
   local player = Game.GetLocalPlayer()
   local wad = player.clientUserData["Wad"]

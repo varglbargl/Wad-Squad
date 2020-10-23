@@ -221,12 +221,12 @@ Objects {
   Name: "Magnifying Glass"
   Transform {
     Location {
-      X: 172.884033
-      Y: -1503.17908
+      X: 397.116089
+      Y: -1505.55054
       Z: -24.9996338
     }
     Rotation {
-      Yaw: 5.69278049
+      Yaw: 100.333908
     }
     Scale {
       X: 1
@@ -812,13 +812,13 @@ Objects {
   Name: "Hammer"
   Transform {
     Location {
-      X: -165.799316
-      Y: -344.762207
+      X: -134.211182
+      Y: -28.3566895
     }
     Rotation {
       Pitch: 90
-      Yaw: 18.4349556
-      Roll: -89.6814
+      Yaw: -9.46234131
+      Roll: 30.6021328
     }
     Scale {
       X: 0.566555321

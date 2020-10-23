@@ -2,8 +2,6 @@
 
 local PRIMARY_ONLY = script:GetCustomProperty("PrimaryOnly")
 
-local item = Utils.findItem(script.parent)
-
 local colors = nil
 
 if PRIMARY_ONLY then
@@ -25,10 +23,15 @@ else
 end
 
 local randomColor = colors[math.random(1, #colors)]
-item.clientUserData["Color"] = randomColor
 
-Utils.traverseHierarchy(item, function(node)
-  if not node:GetCustomProperty("SkipMod") and node:IsA("CoreMesh") or node:IsA("Light") then
-    node:SetColor(randomColor)
-  end
-end)
+function runScript(item)
+  item.clientUserData["Color"] = randomColor
+
+  Utils.traverseHierarchy(item, function(node)
+    if not node:GetCustomProperty("SkipMod") and node:IsA("CoreMesh") or node:IsA("Light") then
+      node:SetColor(randomColor)
+    end
+  end)
+end
+
+runScript(Utils.findItem(script.parent))

@@ -71,11 +71,11 @@ Assets {
   }
 }
 Assets {
-  Id: 11251994733772007315
-  Name: "Invisible"
+  Id: 4167375343833664852
+  Name: "Brick Multicolor 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_invisible_001"
+    AssetId: "mi_brick_multicolor_old_001_uv"
   }
 }

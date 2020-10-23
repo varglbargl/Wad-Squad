@@ -131,7 +131,7 @@ Objects {
   Name: "Spider Throne"
   Transform {
     Location {
-      X: -950
+      X: -983.333313
       Y: 5091.81738
       Z: 222.539673
     }

@@ -211,8 +211,37 @@ Objects {
   }
 }
 Objects {
+  Id: 16621570904588849661
+  Name: "Birbs"
+  Transform {
+    Location {
+      X: 4164.58887
+      Y: -23215.002
+      Z: 99.7142
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 4089793586574305372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Birbs"
+  }
+}
+Objects {
   Id: 5771214282835980510
-  Name: "Load Chunk 2"
+  Name: "Chunk 2"
   Transform {
     Location {
       X: 3129.70459
@@ -236,6 +265,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Load Chunk 2"
+    FilePartitionName: "Chunk 2"
   }
 }

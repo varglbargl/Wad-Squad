@@ -1,9 +1,10 @@
 ﻿local Utils = require(script:GetCustomProperty("Utils"))
 
-local LOAD_CHUNK_1 = script:GetCustomProperty("LoadChunk1"):WaitForObject()
-local LOAD_CHUNK_2 = script:GetCustomProperty("LoadChunk2"):WaitForObject()
+local CHUNK_1 = script:GetCustomProperty("Chunk1"):WaitForObject()
+local CHUNK_2 = script:GetCustomProperty("Chunk2"):WaitForObject()
 
 local CHUNK_LOADER_2 = script:GetCustomProperty("ChunkLoader2"):WaitForObject()
+local CHUNK_UNLOADER_1 = script:GetCustomProperty("ChunkUnloader1"):WaitForObject()
 
 local unloadedChunks = {}
 
@@ -35,7 +36,7 @@ function handleJoined(player)
   Task.Spawn(function() tellServerAboutWad() end)
 
   -- regenerateAllItems()
-  unloadChunk(LOAD_CHUNK_2)
+  unloadChunk(CHUNK_2)
 end
 
 function handleLeft(player)
@@ -63,27 +64,43 @@ end
 --   regenerateAllItems()
 -- end
 
-function loadItem(item)
+function loadItem(itemInfo)
+  local item = World.SpawnAsset(itemInfo.sourceTemplateId)
+  local scripts = itemInfo.parent:GetChildren()
 
+  item.name = itemInfo.name
+  item.parent = itemInfo.parent
+
+  for _, script in ipairs(scripts) do
+    if script.context and script.context.runScript then
+      script.context.runScript(item)
+    end
+  end
+
+  item:SetPosition(itemInfo.position)
+  item:SetRotation(itemInfo.rotation)
+  item:SetScale(itemInfo.scale)
 end
 
-function unloadItem(item)
+function unloadItem(item, itemParent, chunk)
+  local itemInfo = {
+    name = item.name,
+    parent = itemParent,
+    sourceTemplateId = item.sourceTemplateId,
+    position = item:GetPosition(),
+    rotation = item:GetRotation(),
+    scale = item:GetScale()
+  }
 
+  table.insert(unloadedChunks[chunk], itemInfo)
+  item:Destroy()
 end
 
 function loadChunk(chunk)
   if not unloadedChunks[chunk] then return end
 
   for node, item in pairs(unloadedChunks[chunk]) do
-    local itemInfo = unloadedChunks[chunk][node]
-
-    local item = World.SpawnAsset(itemInfo.sourceTemplateId)
-
-    item.parent = node.parent
-
-    item:SetPosition(itemInfo.position)
-    item:SetRotation(itemInfo.rotation)
-    item:SetScale(itemInfo.scale)
+    loadItem(unloadedChunks[chunk][node])
 
     Task.Wait()
   end
@@ -95,34 +112,28 @@ function unloadChunk(chunk)
   unloadedChunks[chunk] = {}
   Utils.traverseHierarchy(chunk, function(node)
     if node.name == "Pickup Sphere" or node.name == "Pickup Box" then
-      local item = Utils.findItem(node.parent)
-
-      local itemInfo = {
-        name = item.name,
-        parent = node.parent,
-        sourceTemplateId = item.sourceTemplateId,
-        position = item:GetPosition(),
-        rotation = item:GetRotation(),
-        scale = item:GetScale()
-      }
-
-      unloadedChunks[chunk][node] = itemInfo
-      item:Destroy()
+      unloadItem(Utils.findItem(node.parent), node.parent, chunk)
     end
   end)
 end
 
--- on player joined/left functions need to be defined before calling event:Connect()
-Game.playerJoinedEvent:Connect(handleJoined)
-Game.playerLeftEvent:Connect(handleLeft)
-
 local chunkLoaderTwoEvent = nil
+local chunkUnloaderOneEvent = nil
+
+function unloadChunkOne()
+  print("Attempting to unload chunk 1")
+  chunkUnloaderOneEvent:Disconnect()
+  unloadChunk(CHUNK_1)
+end
 
 function loadChunkTwo()
   print("Attempting to load chunk 2")
   chunkLoaderTwoEvent:Disconnect()
-  loadChunk(LOAD_CHUNK_2)
+  loadChunk(CHUNK_2)
+  chunkUnloaderOneEvent = CHUNK_UNLOADER_1.endOverlapEvent:Connect(unloadChunkOne)
 end
 
--- Events.Connect("WadExists", handleWadExists)
 chunkLoaderTwoEvent = CHUNK_LOADER_2.beginOverlapEvent:Connect(loadChunkTwo)
+
+Game.playerJoinedEvent:Connect(handleJoined)
+Game.playerLeftEvent:Connect(handleLeft)

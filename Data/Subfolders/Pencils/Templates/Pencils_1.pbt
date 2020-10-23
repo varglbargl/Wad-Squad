@@ -10,19 +10,13 @@
         Name: "Colored Pencil"
         Transform {
           Scale {
-            X: 0.999999762
-            Y: 0.999999762
-            Z: 0.999999762
+            X: 0.825665295
+            Y: 0.825665295
+            Z: 0.825665295
           }
         }
-        ParentId: 3839838480872649496
-        ChildIds: 2415184560588203617
-        ChildIds: 3229460681943504927
-        ChildIds: 8248391504313953575
-        ChildIds: 9488800643561304609
-        ChildIds: 5935341060925185632
-        ChildIds: 5717481214759247270
-        ChildIds: 4826951969735899529
+        ParentId: 4559269403430794768
+        ChildIds: 5269300176102615950
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -34,8 +28,8 @@
         }
       }
       Objects {
-        Id: 2415184560588203617
-        Name: "Group"
+        Id: 5269300176102615950
+        Name: "ClientContext"
         Transform {
           Location {
           }
@@ -48,6 +42,38 @@
           }
         }
         ParentId: 6290473005303567542
+        ChildIds: 2415184560588203617
+        ChildIds: 3229460681943504927
+        ChildIds: 8248391504313953575
+        ChildIds: 9488800643561304609
+        ChildIds: 5935341060925185632
+        ChildIds: 5717481214759247270
+        ChildIds: 4826951969735899529
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
+        Id: 2415184560588203617
+        Name: "Group"
+        Transform {
+          Location {
+            X: 0.001953125
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5269300176102615950
         ChildIds: 12207173352220807751
         ChildIds: 2083412558560913890
         ChildIds: 7179941513189632542
@@ -631,10 +657,12 @@
         Name: "Pipe - 8-Sided Thin"
         Transform {
           Location {
-            Z: 32.954895
+            X: 0.0009765625
+            Y: 0.001953125
+            Z: 32.9550781
           }
           Rotation {
-            Yaw: -93.627655
+            Yaw: -93.6276245
           }
           Scale {
             X: 1
@@ -642,7 +670,7 @@
             Z: 10.555
           }
         }
-        ParentId: 6290473005303567542
+        ParentId: 5269300176102615950
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -684,20 +712,22 @@
         Name: "Cone"
         Transform {
           Location {
-            X: 0.0910644531
-            Y: 1.43408203
-            Z: 625.725098
+            X: 0.0908203125
+            Y: 1.43359375
+            Z: 625.728516
           }
           Rotation {
-            Yaw: -129.066498
+            Pitch: 1.36603776e-05
+            Yaw: -129.066437
+            Roll: 9.72787529e-06
           }
           Scale {
             X: 0.416640192
             Y: 0.416640192
-            Z: 1.87337244
+            Z: 1.87337232
           }
         }
-        ParentId: 6290473005303567542
+        ParentId: 5269300176102615950
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -739,12 +769,12 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: -3.09594727
-            Y: -0.690429688
-            Z: -485.737854
+            X: -3.09667969
+            Y: -0.689453125
+            Z: -485.734375
           }
           Rotation {
-            Yaw: -93.627655
+            Yaw: -93.6276245
           }
           Scale {
             X: 0.27653715
@@ -752,7 +782,7 @@
             Z: 0.27653715
           }
         }
-        ParentId: 6290473005303567542
+        ParentId: 5269300176102615950
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -794,12 +824,12 @@
         Name: "Cone"
         Transform {
           Location {
-            X: 0.106689453
-            Y: 0.130371094
-            Z: 558.049805
+            X: 0.10546875
+            Y: 0.130859375
+            Z: 558.052734
           }
           Rotation {
-            Yaw: -93.627655
+            Yaw: -93.6276245
           }
           Scale {
             X: 1.02003419
@@ -807,7 +837,7 @@
             Z: 1.49287057
           }
         }
-        ParentId: 6290473005303567542
+        ParentId: 5269300176102615950
         UnregisteredParameters {
           Overrides {
             Name: "cs:SkipMod"
@@ -850,10 +880,10 @@
         Name: "Pipe - 8-Sided Thin"
         Transform {
           Location {
-            Z: -478.902771
+            Z: -478.902344
           }
           Rotation {
-            Yaw: -93.627655
+            Yaw: -93.6276245
           }
           Scale {
             X: 0.929112256
@@ -861,7 +891,7 @@
             Z: 0.331836
           }
         }
-        ParentId: 6290473005303567542
+        ParentId: 5269300176102615950
         UnregisteredParameters {
           Overrides {
             Name: "cs:SkipMod"
@@ -904,9 +934,9 @@
         Name: "Sig"
         Transform {
           Location {
-            X: 20
-            Y: 35
-            Z: -190
+            X: 20.0009766
+            Y: 34.9980469
+            Z: -189.998047
           }
           Rotation {
           }
@@ -916,7 +946,7 @@
             Z: 1
           }
         }
-        ParentId: 6290473005303567542
+        ParentId: 5269300176102615950
         ChildIds: 11778420020501346405
         ChildIds: 16463231887288412373
         ChildIds: 15333360251035509047

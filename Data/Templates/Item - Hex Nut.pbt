@@ -7,7 +7,7 @@
       RootId: 4822603087812204496
       Objects {
         Id: 4822603087812204496
-        Name: "Hex Nut"
+        Name: "Item - Hex Nut"
         Transform {
           Scale {
             X: 2.0260179
@@ -47,7 +47,6 @@
             TeamInt: 2
             IsEnemyCollisionEnabled: true
           }
-          EnableCameraCollision: true
           StaticMesh {
             Physics {
             }

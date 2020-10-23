@@ -119,10 +119,10 @@ Objects {
     Location {
       X: 3329.646
       Y: 5131.2168
-      Z: 95
+      Z: 90
     }
     Rotation {
-      Yaw: 80.4079361
+      Yaw: 80.4079056
     }
     Scale {
       X: 1.2749356
@@ -334,15 +334,16 @@ Objects {
   Name: "Street Utility Box 02"
   Transform {
     Location {
-      X: 48.8101807
-      Y: 12.3112793
+      X: 48.8102226
+      Y: 12.3113146
+      Z: 19.6088352
     }
     Rotation {
       Roll: -90
     }
     Scale {
-      X: 3.91129661
-      Y: 6.68427372
+      X: 3.9
+      Y: 5.59999895
       Z: 6.4
     }
   }
@@ -351,16 +352,18 @@ Objects {
     Overrides {
       Name: "ma:Shared_Detail1:color"
       Color {
-        R: 1
-        G: 0.00999999
-        B: 0.00999999
+        R: 0.423
+        G: 0.0308789816
+        B: 0.0308789816
         A: 1
       }
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 1
+        R: 0.423
+        G: 0.0308789816
+        B: 0.0308789816
         A: 1
       }
     }
