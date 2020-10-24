@@ -66,7 +66,7 @@ Objects {
   ChildIds: 14014634292883708635
   ChildIds: 12118207366696194357
   ChildIds: 16329408817464611092
-  ChildIds: 3453267165188472698
+  ChildIds: 11586841263601099918
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -79,13 +79,20 @@ Objects {
   }
 }
 Objects {
-  Id: 3453267165188472698
-  Name: "Backdraft (1991) on VHS"
+  Id: 11586841263601099918
+  Name: "Bone Human Scattered 01"
   Transform {
+    Location {
+      X: 8925
+      Y: 4960
+      Z: 200
+    }
+    Rotation {
+    }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 2.89999986
+      Y: 2.89999986
+      Z: 2.89999986
     }
   }
   ParentId: 4781671109827199097
@@ -95,34 +102,18 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 10811934779178156488
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Backdraft (1991) on VHS"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 7830
-            Y: 11230
-            Z: 210
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -90
-            Yaw: 26.565033
-            Roll: 18.4349251
-          }
-        }
-      }
+  CoreMesh {
+    MeshAsset {
+      Id: 3171138598806206196
     }
-    TemplateAsset {
-      Id: 8561269675338807618
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
     }
   }
 }
@@ -5934,16 +5925,13 @@ Objects {
   Name: "Yard"
   Transform {
     Location {
-      X: 5221.5
-      Y: 711
-      Z: 148.5
     }
     Rotation {
     }
     Scale {
-      X: 0.3
-      Y: 0.3
-      Z: 0.3
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 7085708660934895409

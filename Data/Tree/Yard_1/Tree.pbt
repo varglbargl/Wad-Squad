@@ -5,16 +5,13 @@ Objects {
   Name: "Pool"
   Transform {
     Location {
-      X: -17405
-      Y: -2370
-      Z: -495
     }
     Rotation {
     }
     Scale {
-      X: 3.33333325
-      Y: 3.33333325
-      Z: 3.33333325
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 12276776014136101490
@@ -34,16 +31,16 @@ Objects {
   Name: "Patio"
   Transform {
     Location {
-      X: 9058.02051
-      Y: 6112.4248
-      Z: 276.240784
+      X: 7938.90625
+      Y: 2544.72754
+      Z: 231.372238
     }
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 12276776014136101490
@@ -63,16 +60,16 @@ Objects {
   Name: "Garden (5-25cm)"
   Transform {
     Location {
-      X: -33483.168
-      Y: -9829.01
-      Z: -39.7683716
+      X: -4823.45117
+      Y: -2237.70313
+      Z: 136.569489
     }
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 12276776014136101490
@@ -92,16 +89,16 @@ Objects {
   Name: "Spidertown (5-8cm)"
   Transform {
     Location {
-      X: -37155
-      Y: -6710
-      Z: 155
+      X: -5925
+      Y: -1302.00024
+      Z: 195
     }
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 12276776014136101490
@@ -121,12 +118,8 @@ Objects {
   Name: "Sandbox (1-5cm)"
   Transform {
     Location {
-      X: -30650.5898
-      Y: -5043.38477
-      Z: -5
     }
     Rotation {
-      Yaw: -90
     }
     Scale {
       X: 1

@@ -5,12 +5,8 @@ Objects {
   Name: "Gold Ring"
   Transform {
     Location {
-      X: -1349.0199
-      Y: 1690.16992
-      Z: 585
     }
     Rotation {
-      Yaw: 44.9999695
     }
     Scale {
       X: 1
@@ -37,13 +33,17 @@ Objects {
   Name: "Item Mod - Random Color"
   Transform {
     Location {
+      X: -3561.13037
+      Y: -376.410248
+      Z: 322.5
     }
     Rotation {
+      Yaw: -45.0000305
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 18378500637296493349
@@ -81,25 +81,25 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1.26158142
-            Y: 0.808241248
-            Z: 0.263325244
+            X: 0.378474444
+            Y: 0.24247238
+            Z: 0.0789975747
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
             Pitch: -5.72146606
-            Yaw: -0.518035889
-            Roll: 0.189172953
+            Yaw: -45.5180969
+            Roll: 0.189172715
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -16.6478367
-            Y: -0.0170520935
-            Z: 14.5758057
+            X: -3564.66553
+            Y: -372.882324
+            Z: 326.872742
           }
         }
         Overrides {
@@ -146,15 +146,25 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            Z: 3.76841211
+            X: -3561.13037
+            Y: -376.410248
+            Z: 323.630524
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: 82.5275
-            Yaw: 0.000261075387
-            Roll: 0.000183636381
+            Pitch: 82.5274429
+            Yaw: -44.9997559
+            Roll: 0.000170688509
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.3
+            Z: 0.3
           }
         }
       }
@@ -169,9 +179,6 @@ Objects {
   Name: "Bolts"
   Transform {
     Location {
-      X: 2544.25049
-      Y: -1371.47437
-      Z: 624.389099
     }
     Rotation {
     }
@@ -198,9 +205,6 @@ Objects {
   Name: "Nuts"
   Transform {
     Location {
-      X: 2359.31299
-      Y: -1456.04626
-      Z: 577.107544
     }
     Rotation {
     }
@@ -227,9 +231,6 @@ Objects {
   Name: "Checkers"
   Transform {
     Location {
-      X: 1555.97852
-      Y: 1054.33252
-      Z: 586.948242
     }
     Rotation {
     }
@@ -252,42 +253,10 @@ Objects {
   }
 }
 Objects {
-  Id: 15270268861375473225
-  Name: "Legos - Exit"
-  Transform {
-    Location {
-      X: 3107.85547
-      Y: -2210.21753
-      Z: 575
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14226203837193257169
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Legos - Exit"
-  }
-}
-Objects {
   Id: 18280386327441766706
   Name: "Matches"
   Transform {
     Location {
-      X: -293.82019
-      Y: -1634.82886
-      Z: 650
     }
     Rotation {
     }
@@ -314,9 +283,6 @@ Objects {
   Name: "Gems"
   Transform {
     Location {
-      X: -564.020325
-      Y: -129.829102
-      Z: 640
     }
     Rotation {
     }
@@ -339,13 +305,13 @@ Objects {
   }
 }
 Objects {
-  Id: 4230289196277075066
-  Name: "Legos - Spawn"
+  Id: 16511199560603994960
+  Name: "Legos"
   Transform {
     Location {
-      X: -1857.35364
-      Y: 1468.50256
-      Z: 575
+      X: -3637.25342
+      Y: -218.441681
+      Z: 306.720825
     }
     Rotation {
     }
@@ -364,7 +330,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Legos - Spawn"
+    FilePartitionName: "Legos"
   }
 }
 Objects {
@@ -372,9 +338,6 @@ Objects {
   Name: "Tacks"
   Transform {
     Location {
-      X: -2834.0188
-      Y: 1460.17029
-      Z: 610
     }
     Rotation {
     }
@@ -401,9 +364,6 @@ Objects {
   Name: "Candies"
   Transform {
     Location {
-      X: -2865.44336
-      Y: 968.601868
-      Z: 595
     }
     Rotation {
     }
@@ -430,8 +390,6 @@ Objects {
   Name: "Ants"
   Transform {
     Location {
-      X: 196.281296
-      Y: 160.602203
     }
     Rotation {
     }

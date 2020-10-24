@@ -32,7 +32,7 @@
           }
           Overrides {
             Name: "cs:Chirp"
-            Bool: false
+            Bool: true
           }
           Overrides {
             Name: "cs:PickupSound"
@@ -137,7 +137,7 @@
           Overrides {
             Name: "cs:UpperBeak"
             ObjectReference {
-              SubObjectId: 5024403690834609831
+              SubObjectId: 10947259628353394514
             }
           }
           Overrides {
@@ -370,7 +370,7 @@
           }
         }
         ParentId: 10567497876705855415
-        ChildIds: 5024403690834609831
+        ChildIds: 10947259628353394514
         ChildIds: 52631924424656732
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -383,6 +383,33 @@
         }
       }
       Objects {
+        Id: 10947259628353394514
+        Name: "Upper Beak"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 9959524798769549799
+        ChildIds: 5024403690834609831
+        ChildIds: 3111845985355314989
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
         Id: 5024403690834609831
         Name: "Upper Beak"
         Transform {
@@ -392,11 +419,74 @@
           }
           Scale {
             X: 0.946500421
-            Y: 0.228144497
+            Y: 0.228144512
             Z: 0.595
           }
         }
-        ParentId: 9959524798769549799
+        ParentId: 10947259628353394514
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 132672053610873933
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.626000047
+              G: 0.315520555
+              B: 0.0325519554
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 6729186258246543420
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 3111845985355314989
+        Name: "Upper Beak"
+        Transform {
+          Location {
+            X: -31.1480427
+            Y: 0.000149831219
+            Z: -7.83839278e-06
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+            Roll: 1.70754765e-06
+          }
+          Scale {
+            X: 0.414440542
+            Y: 0.14185138
+            Z: 0.594998419
+          }
+        }
+        ParentId: 10947259628353394514
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"

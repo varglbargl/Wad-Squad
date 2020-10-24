@@ -5,19 +5,19 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 1979.45605
-      Y: 566.646484
-      Z: 265.61084
+      X: -4309.62939
+      Y: -2138.22803
+      Z: 414
     }
     Rotation {
       Pitch: 90
-      Yaw: 2.27672967e-06
-      Roll: 7.10640325e-06
+      Yaw: 14.0362635
+      Roll: 104.03627
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -159,19 +159,19 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 1979.45508
-      Y: 362.533203
-      Z: 205.61084
+      X: -4370.86377
+      Y: -2138.22754
+      Z: 396
     }
     Rotation {
       Pitch: 90
-      Yaw: 2.27672967e-06
-      Roll: 7.10640325e-06
+      Yaw: 14.0362635
+      Roll: 104.03627
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -313,19 +313,19 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 1979.46973
-      Y: 986.644531
-      Z: 265.61084
+      X: -4183.63
+      Y: -2138.23193
+      Z: 414
     }
     Rotation {
       Pitch: 90
-      Yaw: 2.27672967e-06
-      Roll: 7.10640325e-06
+      Yaw: 14.0362635
+      Roll: 104.03627
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -467,19 +467,19 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 1979.45605
-      Y: 782.53125
-      Z: 205.61084
+      X: -4244.86426
+      Y: -2138.22803
+      Z: 396
     }
     Rotation {
       Pitch: 90
-      Yaw: 2.27672967e-06
-      Roll: 7.10640325e-06
+      Yaw: 14.0362635
+      Roll: 104.03627
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -621,19 +621,19 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 1979.4624
-      Y: 1396.64258
-      Z: 265.61084
+      X: -4060.63086
+      Y: -2138.22974
+      Z: 414
     }
     Rotation {
       Pitch: 90
-      Yaw: 2.27672967e-06
-      Roll: 7.10640325e-06
+      Yaw: 14.0362635
+      Roll: 104.03627
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -775,19 +775,19 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 1979.45605
-      Y: 1192.5332
-      Z: 205.61084
+      X: -4121.86377
+      Y: -2138.22803
+      Z: 396
     }
     Rotation {
       Pitch: 90
-      Yaw: 2.27672967e-06
-      Roll: 7.10640325e-06
+      Yaw: 14.0362635
+      Roll: 104.03627
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -929,19 +929,19 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 1979.46436
-      Y: 1586.64258
-      Z: 205.61084
+      X: -4003.63086
+      Y: -2138.23047
+      Z: 396
     }
     Rotation {
       Pitch: 90
-      Yaw: 2.27672967e-06
-      Roll: 7.10640325e-06
+      Yaw: 14.0362635
+      Roll: 104.03627
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -1083,19 +1083,19 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 1979.46533
-      Y: 1790.75098
-      Z: 265.61084
+      X: -3942.39844
+      Y: -2138.23047
+      Z: 414
     }
     Rotation {
       Pitch: 90
-      Yaw: 2.27672967e-06
-      Roll: 7.10640325e-06
+      Yaw: 14.0362635
+      Roll: 104.03627
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -1237,15 +1237,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: -1002.44238
-      Y: 3308.3418
+      X: -3487.12109
+      Y: -1243.65845
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -1379,15 +1381,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 184.17627
-      Y: 1443.15137
+      X: -4046.67822
+      Y: -1599.64392
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -1521,15 +1525,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: -275.294434
-      Y: 2493.44141
+      X: -3731.59106
+      Y: -1461.80273
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -1663,16 +1669,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: -423.724121
-      Y: 2989.10352
-      Z: -0.000122070313
+      X: -3582.89282
+      Y: -1417.27368
+      Z: 334.316711
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -1806,15 +1813,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: -148.342285
-      Y: 2827.04785
+      X: -3631.50952
+      Y: -1499.88843
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -1948,15 +1957,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: -20.1035156
-      Y: -605.75
+      X: -4661.34863
+      Y: -1538.36011
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -2090,15 +2101,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 839.060547
-      Y: 1196.16992
+      X: -4120.77246
+      Y: -1796.10925
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -2232,15 +2245,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: -163.400879
-      Y: 2106.38379
+      X: -3847.7085
+      Y: -1495.37085
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -2374,15 +2389,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 724.812
-      Y: 1790.75977
+      X: -3942.39551
+      Y: -1761.83472
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -2516,15 +2533,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 724.810547
-      Y: 252.173828
+      X: -4403.97119
+      Y: -1761.83423
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -2658,15 +2677,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 520.914063
-      Y: 707.424805
+      X: -4267.396
+      Y: -1700.66528
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -2800,15 +2821,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 82.6757813
-      Y: 467.615234
+      X: -4339.33887
+      Y: -1569.19385
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -2942,15 +2965,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: 182.421875
-      Y: 204.602539
+      X: -4418.24268
+      Y: -1599.11768
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918
@@ -3084,13 +3109,17 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
+      X: -4479.62354
+      Y: -1544.39111
+      Z: 334.316742
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 14959720485651162918

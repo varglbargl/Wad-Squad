@@ -76,7 +76,7 @@ end
 function rollThatWad(deltaTime)
   deltaTime = deltaTime or delay
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.UP * (wadSize ^ 0.85 - 1.8) * -gravityForce * deltaTime
+  local simulatedMass = Vector3.UP * (wadSize ^ 0.9 - 1.8) * -gravityForce * deltaTime
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -100,7 +100,7 @@ function rollThatWad(deltaTime)
     local lateralWadImpulse = cameraRight * impulseToApply.y
     local combinedWadImpulse = forwardWadImpulse + lateralWadImpulse
     local normalizedWadImpulse = combinedWadImpulse:GetNormalized()
-    finalWadImpulse = normalizedWadImpulse * moveSpeed * wadSize ^ 0.75
+    finalWadImpulse = normalizedWadImpulse * moveSpeed * wadSize ^ 0.8
 
     local forwardWadTorque = cameraRight * torqueToApply.y
     local lateralWadTorque = cameraForward * torqueToApply.x
@@ -141,6 +141,8 @@ function handleGrabberOverlap (grabber, trigger)
     local itemSize = trigger:GetWorldScale().size * 1.3
     item.clientUserData["Size"] = itemSize
 
+    print(itemSize * 2)
+
     -- all grabbable props must be visible
     if not itemVisible then return end
 
@@ -163,7 +165,6 @@ function handleGrabberOverlap (grabber, trigger)
 
     if not tooBigh and not tooSmol then
       item.visibility = Visibility.FORCE_OFF
-      local realObjectPosition = item:GetWorldPosition()
       local clientItem = World.SpawnAsset(item.sourceTemplateId, {position = item:GetWorldPosition(), rotation = item:GetWorldRotation(), scale = item:GetWorldScale()})
       local hitbox = nil
 
@@ -214,9 +215,7 @@ function handleGrabberOverlap (grabber, trigger)
         hitboxGrabIndex = (hitboxGrabIndex + 1) % maxHitboxes
       end
 
-      -- a thing i just wish wasn't broken
-      -- clientItem:MoveTo(Vector3.Lerp(clientItem:GetWorldPosition(), WAD:GetWorldPosition(), 0.2), 0.5, false)
-      -- clientItem:SetWorldPosition(Vector3.Lerp(realObjectPosition, WAD:GetWorldPosition(), 0.1))
+      -- pull the grabbed item in a little because the grabber hitbox is bigger than the wad
       if grabber.name == "Undergrab" then
         Utils.lerpNSlurp(clientItem, WAD, 0.3, 40 * (itemSize / wadSize), 0.8 * (itemSize / wadSize))
         if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.3, 60 * (itemSize / wadSize), 1 * (itemSize / wadSize)) end
@@ -225,14 +224,16 @@ function handleGrabberOverlap (grabber, trigger)
         if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.2, 60 * (itemSize / wadSize), 1.5 * (itemSize / wadSize)) end
       end
 
-      wadSize = wadSize + itemSize / 50
+      -- whatever feels right, I guess.
+      wadSize = wadSize + itemSize / 48
 
+      -- increase size of the wad and the grabber
       updateWadSize(wadSize)
 
-      -- Update the UI with new item and size
+      -- update the UI with new item and size
       UI_MANAGER.context.pickedUpItem(item, WAD)
 
-      local pickupSound = clientItem:GetCustomProperty("PickupSound")
+      local pickupSound = item:GetCustomProperty("PickupSound")
       local pickupFX = item:GetCustomProperty("PickupFX")
 
       if pickupSound then

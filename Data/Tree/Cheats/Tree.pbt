@@ -23,11 +23,11 @@ Objects {
   UnregisteredParameters {
     Overrides {
       Name: "cs:Activate"
-      Bool: false
+      Bool: true
     }
     Overrides {
       Name: "cs:SizeBoost"
-      Float: 5
+      Float: 3
     }
   }
   Collidable_v2 {

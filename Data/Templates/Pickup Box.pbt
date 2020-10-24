@@ -11,8 +11,8 @@
         Transform {
           Scale {
             X: 1
-            Y: 1
-            Z: 1
+            Y: 3.535
+            Z: 3.535
           }
         }
         ParentId: 12992235084320586803

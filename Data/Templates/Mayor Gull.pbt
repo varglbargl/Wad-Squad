@@ -7,7 +7,7 @@
       RootId: 557379332661874033
       Objects {
         Id: 557379332661874033
-        Name: "Seagull"
+        Name: "Seagull Mayor"
         Transform {
           Scale {
             X: 4.20000029
@@ -137,7 +137,7 @@
           Overrides {
             Name: "cs:UpperBeak"
             ObjectReference {
-              SubObjectId: 751712374306792105
+              SubObjectId: 5361373154181865910
             }
           }
           Overrides {
@@ -371,8 +371,8 @@
           }
         }
         ParentId: 5290920380550852338
-        ChildIds: 751712374306792105
         ChildIds: 13980763407209949758
+        ChildIds: 5361373154181865910
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -384,8 +384,8 @@
         }
       }
       Objects {
-        Id: 751712374306792105
-        Name: "Upper Beak"
+        Id: 13980763407209949758
+        Name: "Lower Beak"
         Transform {
           Location {
           }
@@ -394,7 +394,7 @@
           Scale {
             X: 0.946500421
             Y: 0.228144497
-            Z: 0.595
+            Z: -0.595
           }
         }
         ParentId: 13355589271531607962
@@ -442,8 +442,38 @@
         }
       }
       Objects {
-        Id: 13980763407209949758
-        Name: "Lower Beak"
+        Id: 5361373154181865910
+        Name: "Upper Beak"
+        Transform {
+          Location {
+            X: -0.873150766
+            Y: 0.000360950129
+            Z: 8.90313677e-05
+          }
+          Rotation {
+          }
+          Scale {
+            X: 0.948334754
+            Y: 0.948334754
+            Z: 0.948334754
+          }
+        }
+        ParentId: 13355589271531607962
+        ChildIds: 9984889385771331776
+        ChildIds: 16008585638936471249
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Folder {
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 9984889385771331776
+        Name: "Upper Beak"
         Transform {
           Location {
           }
@@ -451,11 +481,74 @@
           }
           Scale {
             X: 0.946500421
-            Y: 0.228144497
-            Z: -0.595
+            Y: 0.228144512
+            Z: 0.595
           }
         }
-        ParentId: 13355589271531607962
+        ParentId: 5361373154181865910
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 132672053610873933
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 0.626000047
+              G: 0.315520555
+              B: 0.0325519554
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 6729186258246543420
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          DisableReceiveDecals: true
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
+          }
+        }
+      }
+      Objects {
+        Id: 16008585638936471249
+        Name: "Upper Beak"
+        Transform {
+          Location {
+            X: -31.1480427
+            Y: 0.000149831219
+            Z: -7.83839278e-06
+          }
+          Rotation {
+            Yaw: -3.05175781e-05
+            Roll: 1.70754765e-06
+          }
+          Scale {
+            X: 0.414440542
+            Y: 0.14185138
+            Z: 0.594998419
+          }
+        }
+        ParentId: 5361373154181865910
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"

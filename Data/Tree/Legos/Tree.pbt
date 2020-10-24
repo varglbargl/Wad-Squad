@@ -1,24 +1,24 @@
-﻿Name: "Legos - Exit"
-RootId: 15270268861375473225
+﻿Name: "Legos"
+RootId: 16511199560603994960
 Objects {
   Id: 13669281475920116426
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -80.0429688
-      Y: -466.59082
-      Z: 130
+      X: -690.688
+      Y: -416.477936
+      Z: 51.7791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 8436530318313886327
   ChildIds: 3574667645378798420
   ChildIds: 11831236212737002148
@@ -162,20 +162,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -35.0429688
-      Y: 133.40918
-      Z: 130
+      X: -510.688
+      Y: -429.977936
+      Z: 51.7791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 2751226709724497550
   ChildIds: 4566641233049590279
   ChildIds: 12739228158143514654
@@ -325,20 +325,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -20.0429688
-      Y: 333.40918
-      Z: 130
+      X: -450.688
+      Y: -434.477936
+      Z: 51.7791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 4148199777352051207
   ChildIds: 113977858645969941
   ChildIds: 9509359018351254684
@@ -482,19 +482,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: 50.9716797
-      Y: -726.745605
+      X: -768.734375
+      Y: -455.782379
+      Z: 12.7791443
     }
     Rotation {
-      Yaw: -4.57776117
+      Yaw: -94.5777588
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 13084496202034563890
   ChildIds: 5524990651591747624
   ChildIds: 3915406500607937316
@@ -638,20 +639,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -49.0283203
-      Y: -716.745605
-      Z: 65
+      X: -765.734375
+      Y: -425.782379
+      Z: 32.2791443
     }
     Rotation {
-      Yaw: -4.57776117
+      Yaw: -94.5777588
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 8328982484889273553
   ChildIds: 9366977770122058154
   ChildIds: 2121383504044061347
@@ -795,20 +796,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -86.7451172
-      Y: -562.947754
-      Z: 65
+      X: -719.595215
+      Y: -414.467316
+      Z: 32.2791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 165032885805010822
   ChildIds: 2896810654284462820
   ChildIds: 2818513884560017315
@@ -954,19 +955,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -96.8779297
-      Y: -664.611816
+      X: -750.094238
+      Y: -411.427521
+      Z: 12.7791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 6535927753569106609
   ChildIds: 14010437305917509060
   ChildIds: 7422965908316460917
@@ -1112,20 +1114,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: 48.1220703
-      Y: 580.388184
-      Z: 65
+      X: -376.594727
+      Y: -454.927521
+      Z: 32.2791443
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 85.4221497
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 11997707352254507835
   ChildIds: 7851665016422481376
   ChildIds: 12209939846571425018
@@ -1271,19 +1273,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: 148.12207
-      Y: 575.388184
+      X: -378.094727
+      Y: -484.927643
+      Z: 12.7791443
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 85.4221497
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 8571858777584876135
   ChildIds: 8101016724681411846
   ChildIds: 7570967561765568394
@@ -1429,19 +1432,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: 348.12207
-      Y: 560.387695
+      X: -382.594727
+      Y: -544.926392
+      Z: 12.7791443
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 85.4221497
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 4634605140512642630
   ChildIds: 13786314986556010145
   ChildIds: 5429442777362225657
@@ -1587,20 +1591,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: 248.12207
-      Y: 565.387695
-      Z: 65
+      X: -381.094727
+      Y: -514.927
+      Z: 32.2791443
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 85.4221497
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 13269027670096805577
   ChildIds: 13730654230872145078
   ChildIds: 17373115481453748116
@@ -1746,20 +1750,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -71.8779297
-      Y: -364.611816
-      Z: 65
+      X: -660.094238
+      Y: -418.927521
+      Z: 32.2791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 339708380276739142
   ChildIds: 2580001915871253169
   ChildIds: 6247691039934226960
@@ -1905,20 +1909,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -56.8779297
-      Y: -164.611816
-      Z: 65
+      X: -600.094727
+      Y: -423.427521
+      Z: 32.2791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 12840461498034908787
   ChildIds: 11664245963249441392
   ChildIds: 13005801246282942887
@@ -2064,20 +2068,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -41.8779297
-      Y: 35.3881836
-      Z: 65
+      X: -540.094727
+      Y: -427.927521
+      Z: 32.2791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 8705218439683175982
   ChildIds: 10811270066678003846
   ChildIds: 12567541453006833566
@@ -2223,20 +2227,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -26.8779297
-      Y: 235.388184
-      Z: 65
+      X: -480.094727
+      Y: -432.427521
+      Z: 32.2791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 14325918942863803139
   ChildIds: 3406534355609155364
   ChildIds: 5977939901944415855
@@ -2382,20 +2386,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -11.8779297
-      Y: 435.388184
-      Z: 65
+      X: -420.094727
+      Y: -436.927521
+      Z: 32.2791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 5236504368952070284
   ChildIds: 1431487919065909274
   ChildIds: 9118457232740106343
@@ -2541,19 +2545,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -6.87792969
-      Y: 535.388184
+      X: -390.094727
+      Y: -438.427521
+      Z: 12.7791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 10565257167020076673
   ChildIds: 7021296133487057507
   ChildIds: 4582592481547122541
@@ -2699,19 +2704,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -21.8779297
-      Y: 335.388184
+      X: -450.094727
+      Y: -433.927521
+      Z: 12.7791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 13599257850703354145
   ChildIds: 3645071447470628957
   ChildIds: 16660904135839051405
@@ -2857,19 +2863,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -36.8779297
-      Y: 135.388184
+      X: -510.094727
+      Y: -429.427521
+      Z: 12.7791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 2050512119847972910
   ChildIds: 9206566705092449546
   ChildIds: 9700444110900950381
@@ -3015,19 +3022,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -51.8779297
-      Y: -64.6118164
+      X: -570.094727
+      Y: -424.927521
+      Z: 12.7791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 10389752402572662604
   ChildIds: 14252387061873487890
   ChildIds: 4258707283936586855
@@ -3173,19 +3181,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -66.8779297
-      Y: -264.611816
+      X: -630.094238
+      Y: -420.427521
+      Z: 12.7791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 17766015594006968080
   ChildIds: 13840607721726429344
   ChildIds: 173655508281212162
@@ -3331,19 +3340,20 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -81.8779297
-      Y: -464.611816
+      X: -690.094727
+      Y: -415.927521
+      Z: 12.7791443
     }
     Rotation {
-      Yaw: -94.5777512
+      Yaw: 175.422195
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
-  ParentId: 15270268861375473225
+  ParentId: 16511199560603994960
   ChildIds: 12325079384791319319
   ChildIds: 16095323838911600025
   ChildIds: 11048171674154516016
@@ -3475,6 +3485,2506 @@ Objects {
             X: 3.24756e-05
             Y: -0.000405602856
             Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 11415736884949448372
+  Name: "Neon Saw"
+  Transform {
+    Location {
+      X: 398.928223
+      Y: 1136.57227
+      Z: -3.05175781e-05
+    }
+    Rotation {
+      Yaw: -90
+      Roll: -0.874908447
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 11498378420213574562
+  ChildIds: 12347249141836329641
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 12347249141836329641
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11415736884949448372
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.45229566
+            Y: 0.464879811
+            Z: 0.179864943
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 37.9338531
+            Y: -10.4165325
+            Z: 67.7742767
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 5.52628517
+            Yaw: -41.6256409
+            Roll: -6.98986816
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 8799519862318369322
+            SubObjectId: 17854176661418375274
+            InstanceId: 11498378420213574562
+            TemplateId: 12941712970180513935
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 11498378420213574562
+  Name: "Neon Saw"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11415736884949448372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3904724142486713440
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Neon Saw"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 20.5375118
+            Y: 5.68720484
+            Z: 60.5244637
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 17.1174717
+            Yaw: 48.3365593
+            Roll: -84.394043
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 12941712970180513935
+    }
+  }
+}
+Objects {
+  Id: 304738270029228968
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: -84.3769531
+      Y: -9.46875
+      Z: 51.7791748
+    }
+    Rotation {
+      Yaw: 179.999969
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 17095489483256547177
+  ChildIds: 12639296777493576522
+  ChildIds: 14586329856392038677
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14586329856392038677
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 304738270029228968
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 12639296777493576522
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 304738270029228968
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 6927057689123046610
+            SubObjectId: 10866936507393779145
+            InstanceId: 17095489483256547177
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 17095489483256547177
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 304738270029228968
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 16585569091184106356
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: -24.3769531
+      Y: -9.46873474
+      Z: 51.7791748
+    }
+    Rotation {
+      Yaw: 179.999969
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 7522635613110884918
+  ChildIds: 10694949042257759526
+  ChildIds: 1487187049903419509
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 1487187049903419509
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16585569091184106356
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 10694949042257759526
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16585569091184106356
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 5828299052945236210
+            SubObjectId: 10866936507393779145
+            InstanceId: 7522635613110884918
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 7522635613110884918
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16585569091184106356
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 13726836177395911327
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: 35.6230469
+      Y: -9.46873474
+      Z: 51.7791748
+    }
+    Rotation {
+      Yaw: 179.999969
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 15839137944896238850
+  ChildIds: 7665536173735294146
+  ChildIds: 1407902198145113584
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 1407902198145113584
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13726836177395911327
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 7665536173735294146
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13726836177395911327
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 3980170723172927939
+            SubObjectId: 10866936507393779145
+            InstanceId: 15839137944896238850
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 15839137944896238850
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13726836177395911327
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 11210262580440439105
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: 95.6230469
+      Y: -9.46871948
+      Z: 51.7791748
+    }
+    Rotation {
+      Yaw: 179.999969
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 2549287843937691946
+  ChildIds: 1621533580651882097
+  ChildIds: 10674193701525919214
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10674193701525919214
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11210262580440439105
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 1621533580651882097
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11210262580440439105
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 499816028714223104
+            SubObjectId: 10866936507393779145
+            InstanceId: 2549287843937691946
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 2549287843937691946
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11210262580440439105
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 17951965069599637454
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: 125.623047
+      Y: -9.46871948
+      Z: 32.2791748
+    }
+    Rotation {
+      Yaw: 179.999969
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 343513315356940970
+  ChildIds: 12496766322892795141
+  ChildIds: 10683655084262022248
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10683655084262022248
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17951965069599637454
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 12496766322892795141
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17951965069599637454
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 14391401625487557187
+            SubObjectId: 10866936507393779145
+            InstanceId: 343513315356940970
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 343513315356940970
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17951965069599637454
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 3754440955180886539
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: 65.6230469
+      Y: -9.46873474
+      Z: 32.2791748
+    }
+    Rotation {
+      Yaw: 179.999969
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 3593887715578159587
+  ChildIds: 3410072109533772875
+  ChildIds: 11698269115186255315
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 11698269115186255315
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3754440955180886539
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 3410072109533772875
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3754440955180886539
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 11484808858397714463
+            SubObjectId: 10866936507393779145
+            InstanceId: 3593887715578159587
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 3593887715578159587
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3754440955180886539
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 5326939290536395034
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: 5.62304688
+      Y: -9.46873474
+      Z: 32.2791748
+    }
+    Rotation {
+      Yaw: 179.999969
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 12720898208749502941
+  ChildIds: 9107598389348216523
+  ChildIds: 3592277416245697393
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3592277416245697393
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5326939290536395034
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 9107598389348216523
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5326939290536395034
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 6531869758984785996
+            SubObjectId: 10866936507393779145
+            InstanceId: 12720898208749502941
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 12720898208749502941
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5326939290536395034
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 15453923875264550400
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: -54.3769531
+      Y: -9.46871948
+      Z: 32.2791748
+    }
+    Rotation {
+      Yaw: 179.999969
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 18040328344506202209
+  ChildIds: 18152094736085599361
+  ChildIds: 1802343929789958281
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 1802343929789958281
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15453923875264550400
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 18152094736085599361
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15453923875264550400
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 13509925098759535301
+            SubObjectId: 10866936507393779145
+            InstanceId: 18040328344506202209
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 18040328344506202209
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15453923875264550400
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 6182402500147180249
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: -99.3769531
+      Y: 5.53125
+      Z: 32.2791748
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 840194656527405239
+  ChildIds: 5784156311336582478
+  ChildIds: 7026658693658014499
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 7026658693658014499
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6182402500147180249
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 5784156311336582478
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6182402500147180249
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 4228965376140434783
+            SubObjectId: 10866936507393779145
+            InstanceId: 840194656527405239
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 840194656527405239
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6182402500147180249
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 4216977858208043413
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: -99.3769531
+      Y: 35.53125
+      Z: 12.7791748
+    }
+    Rotation {
+      Yaw: -90.0000534
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 6950239812612930280
+  ChildIds: 14520526995716001807
+  ChildIds: 14382436747825128209
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14382436747825128209
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4216977858208043413
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 14520526995716001807
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4216977858208043413
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 9826053693074183040
+            SubObjectId: 10866936507393779145
+            InstanceId: 6950239812612930280
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 6950239812612930280
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4216977858208043413
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 12684355748169355325
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: 155.623047
+      Y: -9.46873474
+      Z: 12.7791748
+    }
+    Rotation {
+      Yaw: -6.10351526e-05
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 661198529791639939
+  ChildIds: 6586734947757185216
+  ChildIds: 17871400995038678967
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17871400995038678967
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12684355748169355325
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 6586734947757185216
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12684355748169355325
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 15056339146396346694
+            SubObjectId: 10866936507393779145
+            InstanceId: 661198529791639939
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 661198529791639939
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12684355748169355325
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 6075970928795518152
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: 95.6230469
+      Y: -9.46871948
+      Z: 12.7791748
+    }
+    Rotation {
+      Yaw: -6.10351526e-05
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 5393954518464593763
+  ChildIds: 14535739955452915325
+  ChildIds: 14185471542659842006
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14185471542659842006
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6075970928795518152
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 14535739955452915325
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6075970928795518152
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 14519291076632971463
+            SubObjectId: 10866936507393779145
+            InstanceId: 5393954518464593763
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 5393954518464593763
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6075970928795518152
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 4388173967158183964
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: 35.6230469
+      Y: -9.46873474
+      Z: 12.7791748
+    }
+    Rotation {
+      Yaw: -6.10351526e-05
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 1527056184706951604
+  ChildIds: 5968363179812165902
+  ChildIds: 9362467428388147505
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 9362467428388147505
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4388173967158183964
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 5968363179812165902
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4388173967158183964
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 17819183078721918027
+            SubObjectId: 10866936507393779145
+            InstanceId: 1527056184706951604
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 1527056184706951604
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4388173967158183964
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 6626976577502361067
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: -24.3769531
+      Y: -9.46873474
+      Z: 12.7791748
+    }
+    Rotation {
+      Yaw: -6.10351526e-05
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 14405523063613270156
+  ChildIds: 16468214639384130128
+  ChildIds: 17508852160206888261
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17508852160206888261
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6626976577502361067
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 16468214639384130128
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6626976577502361067
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 9552897463908865838
+            SubObjectId: 10866936507393779145
+            InstanceId: 14405523063613270156
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 14405523063613270156
+  Name: "Item - Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6626976577502361067
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16957935951931341272
+    }
+  }
+}
+Objects {
+  Id: 12369859827094797545
+  Name: "Lego Brick"
+  Transform {
+    Location {
+      X: -84.3769531
+      Y: -9.46875
+      Z: 12.7791748
+    }
+    Rotation {
+      Yaw: -6.10351526e-05
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 16511199560603994960
+  ChildIds: 14656127293318179697
+  ChildIds: 16504624134724124996
+  ChildIds: 876722885163603474
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 876722885163603474
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 1.36603776e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12369859827094797545
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:PrimaryOnly"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 16504624134724124996
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12369859827094797545
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 1
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 13541257949511099350
+            SubObjectId: 10866936507393779145
+            InstanceId: 14656127293318179697
+            TemplateId: 16957935951931341272
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 40
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 14656127293318179697
+  Name: "Lego Brick"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12369859827094797545
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15626392067336189312
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lego Brick"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 25.6550083
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }

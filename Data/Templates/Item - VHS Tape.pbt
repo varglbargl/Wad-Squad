@@ -1,27 +1,32 @@
 ﻿Assets {
-  Id: 8561269675338807618
-  Name: "Backdraft (1991) on VHS"
+  Id: 16262185139105001288
+  Name: "Item - VHS Tape"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
       RootId: 10811934779178156488
       Objects {
         Id: 10811934779178156488
-        Name: "Backdraft (1991) on VHS"
+        Name: "VHS Tape"
         Transform {
           Scale {
-            X: 0.163799614
-            Y: 0.163799614
-            Z: 0.163799614
+            X: 0.20264335
+            Y: 0.20264335
+            Z: 0.20264335
           }
         }
-        ParentId: 4781671109827199097
-        ChildIds: 7870368042159782925
+        ParentId: 16207837498847709694
         ChildIds: 15188619149079723933
         UnregisteredParameters {
           Overrides {
             Name: "cs:RandomTitle"
-            Bool: false
+            Bool: true
+          }
+          Overrides {
+            Name: "cs:PickupSound"
+            AssetReference {
+              Id: 3124463971949195498
+            }
           }
         }
         Collidable_v2 {
@@ -35,57 +40,11 @@
         }
       }
       Objects {
-        Id: 7870368042159782925
-        Name: "Collision"
-        Transform {
-          Location {
-            X: 7.75656939
-            Y: 0.164739087
-            Z: -1.80186
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.997154951
-            Y: 8.01654625
-            Z: 3.94760132
-          }
-        }
-        ParentId: 10811934779178156488
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 11251994733772007315
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 17485881147669499682
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
-        }
-      }
-      Objects {
         Id: 15188619149079723933
         Name: "ClientContext"
         Transform {
           Location {
+            Z: -100
           }
           Rotation {
           }
@@ -158,7 +117,7 @@
         Transform {
           Location {
             X: -42.2641525
-            Y: -3.55927467
+            Y: -3.37445474
             Z: 224.609344
           }
           Rotation {
@@ -4864,21 +4823,12 @@
       }
     }
     Assets {
-      Id: 17485881147669499682
-      Name: "Cube - Rounded - bottom aligned"
-      PlatformAssetType: 1
+      Id: 3124463971949195498
+      Name: "Meta Retro Pickup 01 SFX"
+      PlatformAssetType: 7
       PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cube_rounded_001"
-      }
-    }
-    Assets {
-      Id: 11251994733772007315
-      Name: "Invisible"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_invisible_001"
+        AssetType: "AudioAssetRef"
+        AssetId: "sfx_meta_retro_pickup_01_Cue_ref"
       }
     }
     Assets {
@@ -5130,5 +5080,4 @@
     }
   }
   SerializationVersion: 65
-  DirectlyPublished: true
 }

@@ -5,19 +5,19 @@ Objects {
   Name: "Hammer"
   Transform {
     Location {
-      X: 2829.61743
-      Y: 1389.40808
-      Z: 741.568665
+      X: -3556.85522
+      Y: -1650.90039
+      Z: 369.470612
     }
     Rotation {
-      Pitch: 86.7157898
-      Yaw: -152.687469
-      Roll: 89.9996414
+      Pitch: 86.7153702
+      Yaw: 117.312096
+      Roll: 89.9991608
     }
     Scale {
-      X: 1.88851774
-      Y: 1.88851774
-      Z: 1.88851774
+      X: 0.566555321
+      Y: 0.566555321
+      Z: 0.566555321
     }
   }
   ParentId: 15606680952095223532
@@ -141,12 +141,8 @@ Objects {
   Name: "Dominos"
   Transform {
     Location {
-      X: 766.315491
-      Y: 3465.15894
-      Z: 1430
     }
     Rotation {
-      Yaw: 179.999939
     }
     Scale {
       X: 1
@@ -171,8 +167,6 @@ Objects {
   Name: "Chunk 1"
   Transform {
     Location {
-      X: -69.6645737
-      Y: -315.011322
     }
     Rotation {
     }
@@ -192,5 +186,34 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Chunk 1"
+  }
+}
+Objects {
+  Id: 12032100093040911948
+  Name: "Exit"
+  Transform {
+    Location {
+      X: -4726.7373
+      Y: -1804.54443
+      Z: 385.7099
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15606680952095223532
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Exit_1"
   }
 }

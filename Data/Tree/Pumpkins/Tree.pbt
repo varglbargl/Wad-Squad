@@ -465,12 +465,12 @@ Objects {
   Name: "Pumpkin"
   Transform {
     Location {
-      X: 463.478424
-      Y: -116.815552
-      Z: -67.5422668
+      X: 395.047333
+      Y: 158.882721
+      Z: -67.5423279
     }
     Rotation {
-      Yaw: -164.889542
+      Yaw: -164.889481
     }
     Scale {
       X: 1.80845225
@@ -1159,12 +1159,12 @@ Objects {
   Name: "Pumpkin"
   Transform {
     Location {
-      X: 442.648712
-      Y: -503.76889
+      X: 397.654694
+      Y: -175.806793
       Z: -87.5422668
     }
     Rotation {
-      Yaw: 42.0525475
+      Yaw: 42.0525627
     }
     Scale {
       X: 1.4
@@ -1506,9 +1506,9 @@ Objects {
   Name: "Pumpkin"
   Transform {
     Location {
-      X: 380.750458
-      Y: 502.194275
-      Z: -87.5422668
+      X: -43.0429077
+      Y: 251.048828
+      Z: -87.5423279
     }
     Rotation {
       Yaw: 121.261162
@@ -1853,12 +1853,12 @@ Objects {
   Name: "Pumpkin"
   Transform {
     Location {
-      X: 263.709595
-      Y: 234.631241
+      X: 505.91745
+      Y: -469.360413
       Z: -97.5422668
     }
     Rotation {
-      Yaw: -38.2049561
+      Yaw: -38.204895
     }
     Scale {
       X: 1.27499318
@@ -2200,9 +2200,9 @@ Objects {
   Name: "Pumpkin"
   Transform {
     Location {
-      X: -16.7436218
-      Y: 434.578644
-      Z: -67.5422668
+      X: 253.975281
+      Y: 493.770538
+      Z: -67.5423279
     }
     Rotation {
       Yaw: -85.6810608

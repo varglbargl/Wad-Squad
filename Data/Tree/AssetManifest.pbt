@@ -368,6 +368,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3171138598806206196
+  Name: "Bone Human Scattered 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_scatter_01_ref"
+  }
+}
+Assets {
   Id: 2971947114929493625
   Name: "Ceramic Tiles Square 01"
   PlatformAssetType: 2

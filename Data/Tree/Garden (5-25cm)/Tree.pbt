@@ -268,3 +268,35 @@ Objects {
     FilePartitionName: "Chunk 2"
   }
 }
+Objects {
+  Id: 11858432134105710824
+  Name: "Exit"
+  Transform {
+    Location {
+      X: 13765.9795
+      Y: -366.599121
+      Z: -166.209122
+    }
+    Rotation {
+      Pitch: 0.870213866
+      Yaw: 92.1960297
+      Roll: -19.6629944
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4089793586574305372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Exit"
+  }
+}

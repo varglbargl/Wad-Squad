@@ -5,17 +5,17 @@ Objects {
   Name: "Big Diamond"
   Transform {
     Location {
-      X: 785
-      Y: 1325
-      Z: 1455
+      X: -3709.63
+      Y: -847.41
+      Z: 775.5
     }
     Rotation {
-      Yaw: 179.999817
+      Yaw: 89.999794
     }
     Scale {
-      X: 1.9
-      Y: 1.9
-      Z: 1.9
+      X: 0.57
+      Y: 0.57
+      Z: 0.57
     }
   }
   ParentId: 15181117703393781608
@@ -171,17 +171,17 @@ Objects {
   Name: "Big Diamond"
   Transform {
     Location {
-      X: 785
-      Y: 1325
-      Z: 1455
+      X: -3709.63
+      Y: -847.41
+      Z: 775.5
     }
     Rotation {
-      Yaw: -120.000183
+      Yaw: 149.999802
     }
     Scale {
-      X: 1.9
-      Y: 1.9
-      Z: 1.9
+      X: 0.57
+      Y: 0.57
+      Z: 0.57
     }
   }
   ParentId: 15181117703393781608
@@ -337,17 +337,17 @@ Objects {
   Name: "Big Diamond"
   Transform {
     Location {
-      X: 785
-      Y: 1325
-      Z: 1455
+      X: -3709.63
+      Y: -847.41
+      Z: 775.5
     }
     Rotation {
-      Yaw: -60.0001831
+      Yaw: -150.000183
     }
     Scale {
-      X: 1.9
-      Y: 1.9
-      Z: 1.9
+      X: 0.57
+      Y: 0.57
+      Z: 0.57
     }
   }
   ParentId: 15181117703393781608
@@ -503,17 +503,17 @@ Objects {
   Name: "Big Diamond"
   Transform {
     Location {
-      X: 785
-      Y: 1325
-      Z: 1455
+      X: -3709.63
+      Y: -847.41
+      Z: 775.5
     }
     Rotation {
-      Yaw: -0.000213623047
+      Yaw: -90.0002136
     }
     Scale {
-      X: 1.9
-      Y: 1.9
-      Z: 1.9
+      X: 0.57
+      Y: 0.57
+      Z: 0.57
     }
   }
   ParentId: 15181117703393781608
@@ -669,17 +669,17 @@ Objects {
   Name: "Big Diamond"
   Transform {
     Location {
-      X: 785
-      Y: 1325
-      Z: 1455
+      X: -3709.63
+      Y: -847.41
+      Z: 775.5
     }
     Rotation {
-      Yaw: 59.9997673
+      Yaw: -30.0002441
     }
     Scale {
-      X: 1.9
-      Y: 1.9
-      Z: 1.9
+      X: 0.57
+      Y: 0.57
+      Z: 0.57
     }
   }
   ParentId: 15181117703393781608
@@ -835,17 +835,17 @@ Objects {
   Name: "Big Diamond"
   Transform {
     Location {
-      X: 785
-      Y: 1325
-      Z: 1455
+      X: -3709.63
+      Y: -847.41
+      Z: 775.5
     }
     Rotation {
-      Yaw: 119.999809
+      Yaw: 29.9998074
     }
     Scale {
-      X: 1.9
-      Y: 1.9
-      Z: 1.9
+      X: 0.57
+      Y: 0.57
+      Z: 0.57
     }
   }
   ParentId: 15181117703393781608
@@ -1001,17 +1001,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: 545
-      Y: 1155
-      Z: -6.10351563e-05
+      X: -3760.63
+      Y: -775.41
+      Z: 338.999969
     }
     Rotation {
-      Yaw: 119.999863
+      Yaw: 29.9998627
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -1194,17 +1194,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: 668.203125
-      Y: 1341.60327
-      Z: -6.10351563e-05
+      X: -3704.64893
+      Y: -812.371
+      Z: 338.999969
     }
     Rotation {
-      Yaw: 119.999809
+      Yaw: 29.9998074
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -1396,17 +1396,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: 891.411133
-      Y: 1354.99512
-      Z: -6.10351563e-05
+      X: -3700.63135
+      Y: -879.333374
+      Z: 338.999969
     }
     Rotation {
-      Yaw: 119.999809
+      Yaw: 29.9998074
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -1598,17 +1598,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: 1014.61426
-      Y: 1541.60474
-      Z: -6.10351563e-05
+      X: -3644.64844
+      Y: -916.294312
+      Z: 338.999969
     }
     Rotation {
-      Yaw: 119.999809
+      Yaw: 29.9998074
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -1800,17 +1800,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: 321.794922
-      Y: 1141.60547
-      Z: -6.10351563e-05
+      X: -3764.64819
+      Y: -708.448425
+      Z: 338.999969
     }
     Rotation {
-      Yaw: 119.999809
+      Yaw: 29.9998074
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -2002,15 +2002,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -380
-      Y: -115
+      X: -4141.63
+      Y: -497.910065
+      Z: 339
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -2202,15 +2204,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -480
-      Y: -315
+      X: -4201.63
+      Y: -467.910095
+      Z: 339
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -2402,15 +2406,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -380
-      Y: -515
+      X: -4261.63
+      Y: -497.910065
+      Z: 339
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -2602,15 +2608,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -480
-      Y: -715
+      X: -4321.63
+      Y: -467.910095
+      Z: 339
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -2802,15 +2810,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -380
-      Y: -915
+      X: -4381.63
+      Y: -497.910034
+      Z: 339
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -2996,15 +3006,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -480
-      Y: -1115
+      X: -4441.63
+      Y: -467.910034
+      Z: 339
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -3190,15 +3202,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -380
-      Y: -1315
+      X: -4501.63
+      Y: -497.910034
+      Z: 339
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608
@@ -3384,15 +3398,17 @@ Objects {
   Name: "Spinning Gem"
   Transform {
     Location {
-      X: -480
-      Y: -1515
+      X: -4561.63
+      Y: -467.910156
+      Z: 339
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 15181117703393781608

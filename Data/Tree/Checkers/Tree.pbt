@@ -5,19 +5,19 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -98.1755524
-      Y: -475.275
-      Z: 20.6525669
+      X: -3894.46387
+      Y: -1218.45691
+      Z: 329.280243
     }
     Rotation {
       Pitch: 6.83018879e-06
-      Yaw: 22.8530827
-      Roll: 47.6811943
+      Yaw: -67.1469421
+      Roll: 47.6811752
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -123,17 +123,18 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -361.34082
-      Y: -569.012756
-      Z: 29.4785557
+      X: -3922.58521
+      Y: -1139.50732
+      Z: 331.92804
     }
     Rotation {
-      Roll: 8.31510639
+      Yaw: -90
+      Roll: 8.31511497
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -239,19 +240,19 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -375.533112
-      Y: -298.00769
-      Z: 13.4568272
+      X: -3841.28369
+      Y: -1135.24963
+      Z: 327.121521
     }
     Rotation {
-      Pitch: 45.3764915
-      Yaw: -1.21543098e-06
-      Roll: -28.5429
+      Pitch: 45.3764839
+      Yaw: -90
+      Roll: -28.5429077
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -357,16 +358,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -249.470612
-      Y: -110.831642
-      Z: 11.0719805
+      X: -3785.13086
+      Y: -1173.06836
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -472,16 +474,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -150.934296
-      Y: -228.775177
-      Z: 11.0719805
+      X: -3820.51392
+      Y: -1202.62927
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -587,16 +590,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -80.3572769
-      Y: -83.54245
-      Z: 11.0719805
+      X: -3776.94409
+      Y: -1223.80237
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -702,16 +706,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 36.0578918
-      Y: -263.509094
-      Z: 11.0719805
+      X: -3830.93408
+      Y: -1258.72693
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -817,16 +822,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 134.794022
-      Y: -359.442566
-      Z: 11.0719805
+      X: -3859.71411
+      Y: -1288.34778
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -932,17 +938,18 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 331.979462
-      Y: -399.150452
+      X: -3871.62646
+      Y: -1347.50342
+      Z: 323.084473
     }
     Rotation {
-      Yaw: 5.68246492e-07
-      Roll: -38.8758087
+      Yaw: -90
+      Roll: -38.8757629
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -1048,16 +1055,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 298.151398
-      Y: -206.970261
-      Z: 11.0719805
+      X: -3813.97241
+      Y: -1337.35498
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -1163,16 +1171,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 191.11528
-      Y: -145.494827
-      Z: 11.0719805
+      X: -3795.52979
+      Y: -1305.24414
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -1278,16 +1287,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 438.4729
-      Y: -67.6978531
-      Z: 11.0719805
+      X: -3772.19067
+      Y: -1379.45142
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -1395,16 +1405,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 264.10083
-      Y: 388.950928
-      Z: 11.0719805
+      X: -3635.19604
+      Y: -1327.13977
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -1519,18 +1530,18 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 60.1506538
-      Y: 484.468536
-      Z: 4.63633204
+      X: -3606.54077
+      Y: -1265.95471
+      Z: 324.475372
     }
     Rotation {
-      Yaw: -1.2834542e-07
-      Roll: 17.2917919
+      Yaw: -90
+      Roll: 17.2918015
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -1645,16 +1656,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -113.250626
-      Y: 413.545746
-      Z: 11.0719805
+      X: -3627.81763
+      Y: -1213.93433
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -1769,16 +1781,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -360.613922
-      Y: 395.376
-      Z: 11.0719805
+      X: -3633.26855
+      Y: -1139.72534
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -1893,16 +1906,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -338.709656
-      Y: 178.580795
-      Z: 11.0719805
+      X: -3698.30713
+      Y: -1146.29663
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -2017,16 +2031,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -41.0937347
-      Y: 92.8141403
-      Z: 11.0719805
+      X: -3724.03711
+      Y: -1235.58142
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -2141,16 +2156,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 53.0208321
-      Y: -10.7194099
-      Z: 11.0719805
+      X: -3755.09717
+      Y: -1263.8158
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -2257,16 +2273,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 248.839157
-      Y: 198.9664
-      Z: 11.0719805
+      X: -3692.19141
+      Y: -1322.56128
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -2373,16 +2390,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 352.882111
-      Y: 279.409119
-      Z: 11.0719805
+      X: -3668.05859
+      Y: -1353.77417
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -2497,16 +2515,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: 55.0431671
-      Y: 194.641113
-      Z: 11.0719805
+      X: -3693.48901
+      Y: -1264.42249
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -2621,16 +2640,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -247.563416
-      Y: 295.838257
-      Z: 11.0719805
+      X: -3663.13
+      Y: -1173.6405
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357
@@ -2745,16 +2765,17 @@ Objects {
   Name: "Checker"
   Transform {
     Location {
-      X: -47.5634232
-      Y: 295.838196
-      Z: 11.0719805
+      X: -3663.13
+      Y: -1233.6405
+      Z: 326.406067
     }
     Rotation {
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 4630649500981423357

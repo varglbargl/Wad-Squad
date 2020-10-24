@@ -5,19 +5,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -432.699127
-      Y: -102.93045
-      Z: 9.59554
+      X: -3808.47974
+      Y: 208.326233
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: -90
-      Roll: 80.3408661
+      Yaw: -3.57632446
+      Roll: -96.0828247
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -160,19 +160,18 @@ Objects {
   Name: "Pentagrainbow"
   Transform {
     Location {
-      X: 4387.87207
-      Y: -1831.64063
-      Z: 79.6424332
+      X: -4327.09277
+      Y: -1237.84497
+      Z: 349.392731
     }
     Rotation {
-      Pitch: -2.89385533
-      Yaw: 2.69827116e-09
-      Roll: -1.06823883e-07
+      Pitch: -2.89385986
+      Yaw: -90
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -192,18 +191,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 2385.37134
-      Y: -1467.64648
-      Z: 9.59574318
+      X: -4217.89453
+      Y: -637.09491
+      Z: 328.378723
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -344,18 +344,18 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 2297.74072
-      Y: -1555.22949
-      Z: 9.59564209
+      X: -3683.80444
+      Y: -462.572
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Roll: -99.6586609
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -496,18 +496,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 980.776062
-      Y: -2308.06787
-      Z: 9.59564209
+      X: -4470.021
+      Y: -215.716187
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -648,18 +649,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1027.82922
-      Y: -2154.62354
-      Z: 9.59564209
+      X: -4423.9873
+      Y: -229.832153
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -800,18 +802,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1219.60156
-      Y: -2206.24463
-      Z: 9.59564209
+      X: -4439.47412
+      Y: -287.363953
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -952,18 +955,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 901.590637
-      Y: -1806.94153
-      Z: 9.59564209
+      X: -4319.68311
+      Y: -191.960571
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -1104,18 +1108,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1878.78796
-      Y: 604.641785
-      Z: 9.59564209
+      X: -3596.20801
+      Y: -485.11969
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -1256,18 +1261,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1960.24792
-      Y: 688.228943
-      Z: 9.59564209
+      X: -3571.13184
+      Y: -509.557678
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -1408,18 +1414,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 2456.4187
-      Y: -708.430969
-      Z: 9.59564209
+      X: -3939.73218
+      Y: -658.408875
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: -26.565033
+      Roll: -73.0936
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -1560,18 +1567,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 3581.41846
-      Y: 706.567383
-      Z: 9.59564209
+      X: -3565.63037
+      Y: -995.90863
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -1712,19 +1720,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1986.57715
-      Y: -91.1950684
-      Z: 57.2501221
+      X: -3804.95898
+      Y: -517.456421
+      Z: 342.675049
     }
     Rotation {
-      Pitch: -40.84021
-      Yaw: 3.6677211e-06
+      Pitch: -40.8401794
+      Yaw: -90
       Roll: -9.65887451
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -1867,19 +1875,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1862.0332
-      Y: -143.92041
-      Z: 55.6360474
+      X: -3820.77661
+      Y: -480.093262
+      Z: 342.190826
     }
     Rotation {
       Pitch: -57.3204346
-      Yaw: 1.5812376e-06
+      Yaw: -90
       Roll: -9.65881348
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -2022,19 +2030,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1980.91992
-      Y: -345.207275
-      Z: 52.5452271
+      X: -3881.16284
+      Y: -515.759277
+      Z: 341.26358
     }
     Rotation {
-      Pitch: -53.3661804
-      Yaw: 7.86955843e-06
+      Pitch: -53.3661499
+      Yaw: -89.9999695
       Roll: -9.65881348
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -2177,18 +2185,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -432.272736
-      Y: -388.196594
-      Z: 9.59564209
+      X: -3894.05957
+      Y: 208.198318
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -2329,18 +2338,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -1074.38062
-      Y: 2369.32935
-      Z: 9.59564209
+      X: -3066.80176
+      Y: 400.830811
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -2481,18 +2491,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -1337.41772
-      Y: 2245.99756
-      Z: 9.59564209
+      X: -3103.80127
+      Y: 479.741882
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -2633,18 +2644,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -1497.49048
-      Y: 1793.48608
-      Z: 9.59564209
+      X: -3239.55469
+      Y: 527.763733
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -2785,18 +2797,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 516.010315
-      Y: 527.501587
-      Z: 9.59564209
+      X: -3619.35
+      Y: -76.2865143
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -2939,18 +2952,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 454.869781
-      Y: 409.749298
-      Z: 9.59564209
+      X: -3654.67578
+      Y: -57.9443359
+      Z: 328.378693
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -3091,19 +3105,18 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -345.22937
-      Y: 49.8380508
-      Z: 9.59554
+      X: -3762.64917
+      Y: 182.085358
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: -90
-      Roll: 80.3414
+      Roll: -99.6586304
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -3246,19 +3259,18 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -616.539673
-      Y: 93.4651642
-      Z: 9.59554
+      X: -3749.56104
+      Y: 263.478455
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: 90
-      Roll: -99.6589661
+      Roll: -99.659
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -3400,19 +3412,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -506.091
-      Y: 136.653641
-      Z: 9.59554
+      X: -3736.60449
+      Y: 230.343781
+      Z: 328.378662
     }
     Rotation {
-      Pitch: -89.4482117
-      Yaw: -103.115814
-      Roll: 4.24329901
+      Pitch: -89.4478455
+      Yaw: 166.883759
+      Roll: 4.24369717
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -3555,19 +3567,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -348.576111
-      Y: 436.568146
-      Z: 13.7830601
+      X: -3646.63013
+      Y: 183.089386
+      Z: 329.634918
     }
     Rotation {
-      Pitch: -79.3129
-      Yaw: 43.2685928
+      Pitch: -79.3128662
+      Yaw: -46.7313843
       Roll: -95.8652039
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -3710,18 +3722,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -219.380188
-      Y: -419.498627
-      Z: 9.59554
+      X: -3903.4502
+      Y: 144.330551
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -3862,18 +3875,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1275.83691
-      Y: -974.344055
-      Z: 9.59554
+      X: -4069.90381
+      Y: -304.234558
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -4014,18 +4028,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1083.50781
-      Y: -1102.77332
-      Z: 9.59554
+      X: -4108.43262
+      Y: -246.535675
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -4166,18 +4181,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 1048.58643
-      Y: -141.436356
-      Z: 9.59554
+      X: -3820.03149
+      Y: -236.059296
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -4318,18 +4334,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 642.528137
-      Y: -338.065643
-      Z: 9.59554
+      X: -3879.02026
+      Y: -114.241898
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -4472,18 +4489,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 4.61521769
-      Y: -103.431786
-      Z: 9.59554
+      X: -3808.63013
+      Y: 77.1319733
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Roll: -9.6586
+      Yaw: 20.5560398
+      Roll: -120.214661
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -4624,19 +4642,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 293.507294
-      Y: 97.3518448
-      Z: 9.59554
+      X: -3748.39502
+      Y: -9.53562164
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: -165.96373
-      Roll: -120.963974
+      Yaw: -48.3664551
+      Roll: 31.4387207
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -4779,19 +4797,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -318.156158
-      Y: 194.299316
-      Z: 9.59554
+      X: -3719.31079
+      Y: 173.963394
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: -169.975
-      Roll: 169.975
+      Yaw: -14.0362549
+      Roll: -75.9637451
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -4934,19 +4952,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 136.187119
-      Y: -8.80127
-      Z: 9.59554
+      X: -3780.24097
+      Y: 37.6604156
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: 14.0362635
-      Roll: 34.0822716
+      Yaw: 26.565033
+      Roll: -68.4465
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -5088,19 +5106,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -98.4335785
-      Y: 92.4438477
-      Z: 9.59554
+      X: -3749.86743
+      Y: 108.046616
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: 14.0362635
-      Roll: -30.9636536
+      Yaw: 26.565033
+      Roll: -133.492447
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -5243,19 +5261,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -93.5739
-      Y: 209.881973
-      Z: 9.59554
+      X: -3714.63599
+      Y: 106.588684
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: -45
-      Roll: 112.500488
+      Yaw: 2.04540873
+      Roll: -24.5449524
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -5398,18 +5416,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 148.853455
-      Y: 289.029907
-      Z: 9.59554
+      X: -3690.8916
+      Y: 33.860527
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Roll: 5.67775631
+      Yaw: 26.565033
+      Roll: -110.887329
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -5552,19 +5571,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 131.73204
-      Y: 112.599266
-      Z: 9.59554
+      X: -3743.8208
+      Y: 38.9969292
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: -169.975
-      Roll: 169.975
+      Yaw: -14.0362549
+      Roll: -75.9637451
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -5707,19 +5726,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 299.808533
-      Y: -14.2740879
-      Z: 9.59554
+      X: -3781.88281
+      Y: -11.4260025
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: -169.975
-      Roll: 169.975
+      Yaw: -14.0362549
+      Roll: -75.9637451
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -5866,18 +5885,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 252.23793
-      Y: -178.271484
-      Z: 9.59554
+      X: -3831.08203
+      Y: 2.84518433
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Roll: -22.5003357
+      Yaw: 26.565033
+      Roll: -139.065338
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -6024,19 +6044,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: 46.4238472
-      Y: -263.431763
-      Z: 9.59554
+      X: -3856.63013
+      Y: 64.5893707
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: 3.57633519
-      Roll: -172.326187
+      Yaw: 7.12502289
+      Roll: 94.1251526
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -6178,19 +6198,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -423.290894
-      Y: 293.507477
-      Z: 9.59554
+      X: -3689.54834
+      Y: 205.503815
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: -26.565033
-      Roll: -119.684082
+      Yaw: 20.5560398
+      Roll: 103.194855
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -6333,19 +6353,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -203.576157
-      Y: -173.431778
-      Z: 9.59554
+      X: -3829.63013
+      Y: 139.589386
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: -169.975
-      Roll: 169.975
+      Yaw: -14.0362549
+      Roll: -75.9637451
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -6488,19 +6508,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -353.576141
-      Y: -173.431778
-      Z: 9.59554
+      X: -3829.63013
+      Y: 184.589386
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: 165.96373
-      Roll: -19.7142029
+      Yaw: -90
+      Roll: 146.249512
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -6639,19 +6659,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -203.576141
-      Y: -23.4318027
-      Z: 9.59554
+      X: -3784.63013
+      Y: 139.589386
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Yaw: -45
-      Roll: 104.825203
+      Yaw: 4.0856185
+      Roll: -34.2604675
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
@@ -6794,18 +6814,19 @@ Objects {
   Name: "Rainbow Candy"
   Transform {
     Location {
-      X: -3.57615
-      Y: 26.5681934
-      Z: 9.59554
+      X: -3769.63013
+      Y: 79.589386
+      Z: 328.378662
     }
     Rotation {
       Pitch: -90
-      Roll: 50.57267
+      Yaw: 5.71059704
+      Roll: -45.1379395
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
     }
   }
   ParentId: 1462763862631299047
