@@ -404,6 +404,18 @@ Objects {
       }
     }
     ParameterOverrideMap {
+      key: 16037026276849563067
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 20.1822891
+            Y: 0.70334053
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 17143241919897890140
       value {
         Overrides {
@@ -4530,9 +4542,10 @@ Objects {
     UseAsDefault: true
     InitialDistance: 150
     MinDistance: 300
-    MaxDistance: 600
+    MaxDistance: 300
     PositionOffset {
-      Z: 50
+      X: -30
+      Z: 10
     }
     RotationOffset {
     }

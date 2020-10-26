@@ -4,6 +4,7 @@ local CAMERA_CONTAINER = script:GetCustomProperty("CameraContainer"):WaitForObje
 
 local player = Game.GetLocalPlayer()
 local myWad = nil
+local cameraSizeAdjust = 1
 
 function wadCameraFollow()
   -- local wadSize = myWad:GetCustomProperty("Size")
@@ -20,8 +21,11 @@ function wadCameraFollow()
   CAMERA_CONTAINER:SetWorldRotation(playerRotation)
   CAMERA:SetRotationOffset(playerRotation)
 
-  if myWad.clientUserData["Size"] then
-    CAMERA:MoveTo(Vector3.New(-150, 0, 50) * myWad.clientUserData["Size"], 1, true)
+  if myWad.clientUserData["Size"] and myWad.clientUserData["Size"] > cameraSizeAdjust then
+    CAMERA:MoveTo(Vector3.New(-30, 0, 10) * myWad.clientUserData["Size"], 1, true)
+    cameraSizeAdjust = myWad.clientUserData["Size"]
+
+    CAMERA.currentDistance = 150 * cameraSizeAdjust
   end
 
   Task.Wait()

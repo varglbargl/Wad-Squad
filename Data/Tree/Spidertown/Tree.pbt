@@ -1,6 +1,55 @@
 ﻿Name: "Spidertown"
 RootId: 12109605343542789210
 Objects {
+  Id: 11821358591871620967
+  Name: "Invisible Spidertown Ceiling"
+  Transform {
+    Location {
+      X: -353.284668
+      Y: -70.0029297
+      Z: 535.640747
+    }
+    Rotation {
+      Pitch: -2.81438613
+    }
+    Scale {
+      X: 7.46881628
+      Y: 30.1806488
+      Z: 0.0981235281
+    }
+  }
+  ParentId: 12109605343542789210
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 11251994733772007315
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+    }
+    DisableDistanceFieldLighting: true
+    DisableCastShadows: true
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 12086503995615251396
   Name: "Ambience Cave Drips 01 SFX"
   Transform {

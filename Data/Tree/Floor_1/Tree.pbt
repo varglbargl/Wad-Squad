@@ -1,6 +1,35 @@
 ﻿Name: "Floor_1"
 RootId: 14389472051612327846
 Objects {
+  Id: 6131309074505093045
+  Name: "Wood Decals"
+  Transform {
+    Location {
+      X: 1.12188721
+      Y: -2709.19531
+      Z: -3.38513184
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1.19671619
+      Z: 1
+    }
+  }
+  ParentId: 14389472051612327846
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Wood Decals"
+  }
+}
+Objects {
   Id: 10273816771774561629
   Name: "Floorboards"
   Transform {
@@ -412,35 +441,6 @@ Objects {
       Physics {
       }
     }
-  }
-}
-Objects {
-  Id: 6131309074505093045
-  Name: "Wood Decals"
-  Transform {
-    Location {
-      X: 1.12188721
-      Y: -2709.19531
-      Z: -3.38513184
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1.19671619
-      Z: 1
-    }
-  }
-  ParentId: 14389472051612327846
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Wood Decals"
   }
 }
 Objects {
