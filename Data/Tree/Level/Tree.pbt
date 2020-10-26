@@ -46,6 +46,7 @@ Objects {
   ParentId: 15764376009576159070
   ChildIds: 11644041400775637754
   ChildIds: 15165194778326750562
+  ChildIds: 7483335700504436817
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -54,6 +55,35 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 7483335700504436817
+  Name: "Dining Room"
+  Transform {
+    Location {
+      X: 48976.6641
+      Y: -10805
+      Z: -1352.93701
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 13281013145643894029
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Dining Room"
   }
 }
 Objects {

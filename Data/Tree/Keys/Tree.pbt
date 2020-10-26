@@ -1099,6 +1099,68 @@ Objects {
         }
       }
     }
+    ParameterOverrideMap {
+      key: 3620648393410621908
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1.74682617
+            Y: 91.1130371
+            Z: 1.44407654
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -90
+            Yaw: 14.0362635
+            Roll: -104.036194
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9152680982653711338
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1.74682617
+            Y: -18.8869629
+            Z: 1.44407654
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -90
+            Yaw: 14.0362635
+            Roll: -104.036194
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12220427006204352000
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1.74682617
+            Y: 151.113037
+            Z: 1.44407654
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -90
+            Roll: 3.20353975e-05
+          }
+        }
+      }
+    }
     TemplateAsset {
       Id: 12192564221740801602
     }

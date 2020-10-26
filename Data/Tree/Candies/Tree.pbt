@@ -1722,7 +1722,7 @@ Objects {
     Location {
       X: -3804.95898
       Y: -517.456421
-      Z: 342.675049
+      Z: 346.411469
     }
     Rotation {
       Pitch: -40.8401794
@@ -1844,6 +1844,16 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 5159779983559511387
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 9826035003663494799
       value {
         Overrides {
@@ -1877,7 +1887,7 @@ Objects {
     Location {
       X: -3820.77661
       Y: -480.093262
-      Z: 342.190826
+      Z: 345.927246
     }
     Rotation {
       Pitch: -57.3204346
@@ -1999,6 +2009,16 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 5159779983559511387
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 9826035003663494799
       value {
         Overrides {
@@ -2032,7 +2052,7 @@ Objects {
     Location {
       X: -3881.16284
       Y: -515.759277
-      Z: 341.26358
+      Z: 345
     }
     Rotation {
       Pitch: -53.3661499
@@ -2153,6 +2173,16 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
+    ParameterOverrideMap {
+      key: 5159779983559511387
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
     ParameterOverrideMap {
       key: 9826035003663494799
       value {

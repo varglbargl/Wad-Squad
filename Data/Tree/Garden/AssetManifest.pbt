@@ -1,37 +1,10 @@
 ﻿Assets {
-  Id: 18440814011778038326
-  Name: "Metal Iron 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_iron_001"
-  }
-}
-Assets {
   Id: 17611921055401184409
   Name: "Sci-fi Chest Hinge 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_scf_crate_hinge_001_ref"
-  }
-}
-Assets {
-  Id: 17485881147669499682
-  Name: "Cube - Rounded - bottom aligned"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cube_rounded_001"
-  }
-}
-Assets {
-  Id: 15897705887741699672
-  Name: "Urban Pipe Straight"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_urb_pipes_straight_001_ref"
   }
 }
 Assets {
@@ -53,21 +26,21 @@ Assets {
   }
 }
 Assets {
-  Id: 13282259600726273799
-  Name: "Cylinder"
+  Id: 14476679536478096151
+  Name: "Fantasy Castle Pillar 02 - Base"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cylinder_002"
+    AssetId: "sm_ts_fan_cas_pillar_002_base"
   }
 }
 Assets {
-  Id: 12610149741243116648
-  Name: "Urban Pipe Coupling 05"
-  PlatformAssetType: 1
+  Id: 13542265519619239198
+  Name: "Bubble"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_urb_pipes_acc_coupling_005_ref"
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxmi_bubble"
   }
 }
 Assets {
@@ -89,21 +62,21 @@ Assets {
   }
 }
 Assets {
+  Id: 10914354925542967262
+  Name: "Fantasy Castle Pillar 02 - Mid"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_pillar_002_mid"
+  }
+}
+Assets {
   Id: 10135110228746641342
   Name: "Street Utility Box 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_urb_st_post_lights_utility_box_002"
-  }
-}
-Assets {
-  Id: 9693133565758539692
-  Name: "2D Basic Shapes Decal"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "dcl_basicShapes"
   }
 }
 Assets {
@@ -116,12 +89,39 @@ Assets {
   }
 }
 Assets {
-  Id: 5931224016695282927
-  Name: "Liquid Decal"
-  PlatformAssetType: 14
+  Id: 8384271535726202235
+  Name: "Stone Railing Curved 6m"
+  PlatformAssetType: 1
   PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "dcl_liquid"
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_railing_6m_bend_001"
+  }
+}
+Assets {
+  Id: 8063868133702323256
+  Name: "Sphere - Half Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hemisphere_002"
+  }
+}
+Assets {
+  Id: 6643758699994281865
+  Name: "Ring 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_torus_002"
+  }
+}
+Assets {
+  Id: 5783719702605736075
+  Name: "Stone Basic"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "stone_001"
   }
 }
 Assets {
@@ -134,20 +134,11 @@ Assets {
   }
 }
 Assets {
-  Id: 2193443187905391329
-  Name: "Large Wood Board 8m"
+  Id: 1550943640885000065
+  Name: "Lense - Half"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_large_board_6m"
-  }
-}
-Assets {
-  Id: 20253322222348443
-  Name: "Dirt 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "dirt_001"
+    AssetId: "sm_half_lense_001"
   }
 }

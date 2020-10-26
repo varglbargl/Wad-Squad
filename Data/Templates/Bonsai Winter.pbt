@@ -4,9 +4,9 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 7838542343433763980
+      RootId: 11615868341962312057
       Objects {
-        Id: 7838542343433763980
+        Id: 11615868341962312057
         Name: "Bonsai Winter"
         Transform {
           Scale {
@@ -16,40 +16,7 @@
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 11615868341962312057
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Folder {
-          IsFilePartition: true
-          FilePartitionName: "Bonsai Winter"
-        }
-      }
-      Objects {
-        Id: 11615868341962312057
-        Name: "Bonsai Winter"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7838542343433763980
-        ChildIds: 9370399531852505571
-        ChildIds: 5692913581969615395
-        ChildIds: 5529473889873117831
-        ChildIds: 11052058683766229807
-        ChildIds: 11674330358340843145
-        ChildIds: 1764342691261020899
-        ChildIds: 8466662174025410769
+        ChildIds: 7849814893229143650
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -61,16 +28,47 @@
         }
       }
       Objects {
+        Id: 7849814893229143650
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 11615868341962312057
+        ChildIds: 9370399531852505571
+        ChildIds: 5692913581969615395
+        ChildIds: 5529473889873117831
+        ChildIds: 11052058683766229807
+        ChildIds: 11674330358340843145
+        ChildIds: 1764342691261020899
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        NetworkContext {
+        }
+      }
+      Objects {
         Id: 9370399531852505571
         Name: "Cabinet - Upper Narrow"
         Transform {
           Location {
-            X: 18.902359
-            Y: 15.7040939
+            X: 18.9023438
+            Y: 15.7036133
+            Z: -10.4529572
           }
           Rotation {
-            Yaw: -89.3881073
-            Roll: -89.9998627
+            Yaw: -89.388092
+            Roll: -89.9997864
           }
           Scale {
             X: 0.683668375
@@ -78,7 +76,7 @@
             Z: 0.286829919
           }
         }
-        ParentId: 11615868341962312057
+        ParentId: 7849814893229143650
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -133,9 +131,9 @@
         Name: "Fantasy Chest Treasure Pile 01"
         Transform {
           Location {
-            X: -1.7031157
-            Y: -2.04788733
-            Z: 12.5401516
+            X: -1.703125
+            Y: -2.04785156
+            Z: 2.08718872
           }
           Rotation {
           }
@@ -145,7 +143,7 @@
             Z: 0.370672613
           }
         }
-        ParentId: 11615868341962312057
+        ParentId: 7849814893229143650
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -188,14 +186,14 @@
         Name: "Rock Pile 001"
         Transform {
           Location {
-            X: -16.0066929
-            Y: -6.0027833
-            Z: 16.0789146
+            X: -16.0067139
+            Y: -6.00268555
+            Z: 5.62594604
           }
           Rotation {
-            Pitch: -18.0967293
-            Yaw: -85.4277649
-            Roll: -1.82723832
+            Pitch: -18.0967102
+            Yaw: -85.4277039
+            Roll: -1.82724
           }
           Scale {
             X: 0.069613263
@@ -203,7 +201,7 @@
             Z: 0.069613263
           }
         }
-        ParentId: 11615868341962312057
+        ParentId: 7849814893229143650
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -238,9 +236,9 @@
         Name: "Tree"
         Transform {
           Location {
-            X: 5.59710884
-            Y: -5.17306185
-            Z: 17.3383026
+            X: 5.59710693
+            Y: -5.17297363
+            Z: 6.88534546
           }
           Rotation {
           }
@@ -250,7 +248,7 @@
             Z: 1.32195175
           }
         }
-        ParentId: 11615868341962312057
+        ParentId: 7849814893229143650
         ChildIds: 5051183066564983345
         ChildIds: 3556035773147241182
         Collidable_v2 {
@@ -1635,12 +1633,12 @@
         Name: "Snowman"
         Transform {
           Location {
-            X: -9.61437511
-            Y: -0.817481101
-            Z: 18.4750652
+            X: -9.61438
+            Y: -0.817382813
+            Z: 8.02211
           }
           Rotation {
-            Yaw: 10.8930302
+            Yaw: 10.8930559
           }
           Scale {
             X: 1
@@ -1648,7 +1646,7 @@
             Z: 1
           }
         }
-        ParentId: 11615868341962312057
+        ParentId: 7849814893229143650
         ChildIds: 16919217739348970889
         ChildIds: 8478938790741193590
         ChildIds: 16967354271334746818
@@ -2993,9 +2991,9 @@
         Name: "Gift"
         Transform {
           Location {
-            X: -5.32762671
-            Y: -4.67082214
-            Z: 19.2644825
+            X: -5.32763672
+            Y: -4.67077637
+            Z: 8.81152344
           }
           Rotation {
           }
@@ -3005,7 +3003,7 @@
             Z: 1
           }
         }
-        ParentId: 11615868341962312057
+        ParentId: 7849814893229143650
         ChildIds: 4242813994804725128
         ChildIds: 5888834173720935062
         ChildIds: 2220254159751563301
@@ -3279,60 +3277,6 @@
           }
         }
       }
-      Objects {
-        Id: 8466662174025410769
-        Name: "Snow Volume VFX"
-        Transform {
-          Location {
-            X: -2.41682577
-            Y: -6.10044861
-            Z: 41.6726151
-          }
-          Rotation {
-            Yaw: 179.999954
-          }
-          Scale {
-            X: 0.0970257819
-            Y: 0.0970257819
-            Z: 0.0970257819
-          }
-        }
-        ParentId: 11615868341962312057
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Particle Scale Multiplier"
-            Float: 0.3
-          }
-          Overrides {
-            Name: "bp:Curl Variance"
-            Float: 1
-          }
-          Overrides {
-            Name: "bp:Life"
-            Float: 1.26689696
-          }
-          Overrides {
-            Name: "bp:Gravity"
-            Float: -0.93406868
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 5459878536728989380
-          }
-          TeamSettings {
-          }
-          Vfx {
-            AutoPlay: true
-          }
-        }
-      }
     }
     Assets {
       Id: 17442548140875893525
@@ -3566,15 +3510,6 @@
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_coral_tube_small_01"
-      }
-    }
-    Assets {
-      Id: 5459878536728989380
-      Name: "Snow Volume VFX"
-      PlatformAssetType: 8
-      PrimaryAsset {
-        AssetType: "VfxBlueprintAssetRef"
-        AssetId: "fxbp_snow_volume"
       }
     }
     PrimaryAssetId {

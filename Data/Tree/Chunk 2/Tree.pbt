@@ -1,6 +1,64 @@
 ﻿Name: "Chunk 2"
 RootId: 5771214282835980510
 Objects {
+  Id: 12470371543835454645
+  Name: "Bonsai Trees"
+  Transform {
+    Location {
+      X: -3668.20068
+      Y: -24243.3535
+      Z: 3616.6665
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 5771214282835980510
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Bonsai Trees"
+  }
+}
+Objects {
+  Id: 5775154100793075744
+  Name: "Plumbing"
+  Transform {
+    Location {
+      X: 4995.92041
+      Y: 12575.7539
+      Z: 470.540161
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 5771214282835980510
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Plumbing"
+  }
+}
+Objects {
   Id: 2047775834839403399
   Name: "Gears"
   Transform {
@@ -56,6 +114,35 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Tools"
+  }
+}
+Objects {
+  Id: 16621570904588849661
+  Name: "Birbs"
+  Transform {
+    Location {
+      X: 1034.8844
+      Y: -16134.0342
+      Z: 104.945831
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 5771214282835980510
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Birbs"
   }
 }
 Objects {
@@ -692,7 +779,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Flower Pots"
+    FilePartitionName: "Flower Pots_1"
   }
 }
 Objects {

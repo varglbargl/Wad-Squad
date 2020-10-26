@@ -48,6 +48,10 @@ function handleKeyPress(player, keyCode)
     impulseToApply.y = impulseToApply.y + 1
     torqueToApply.x = torqueToApply.x - 1
   end
+  -- H
+  -- if keyCode == "ability_extra_35" then
+  --   CLIENT_GAME_MANAGER.context.restoreAllItems()
+  -- end
 end
 
 function handleKeyRelease(player, keyCode)
@@ -76,7 +80,7 @@ end
 function rollThatWad(deltaTime)
   deltaTime = deltaTime or delay
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.UP * (wadSize ^ 0.9 - 1.8) * -gravityForce * deltaTime
+  local simulatedMass = Vector3.UP * (wadSize ^ 0.865 - 1.8) * -gravityForce * deltaTime
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -100,7 +104,7 @@ function rollThatWad(deltaTime)
     local lateralWadImpulse = cameraRight * impulseToApply.y
     local combinedWadImpulse = forwardWadImpulse + lateralWadImpulse
     local normalizedWadImpulse = combinedWadImpulse:GetNormalized()
-    finalWadImpulse = normalizedWadImpulse * moveSpeed * wadSize ^ 0.8
+    finalWadImpulse = normalizedWadImpulse * moveSpeed * wadSize ^ 0.82
 
     local forwardWadTorque = cameraRight * torqueToApply.y
     local lateralWadTorque = cameraForward * torqueToApply.x
@@ -112,7 +116,7 @@ function rollThatWad(deltaTime)
   WAD:SetVelocity(Vector3.Lerp(currentWadVelocity, finalWadImpulse, deltaTime) + simulatedMass)
   WAD:SetAngularVelocity(Vector3.Lerp(currentWadAngularVelocity, finalWadTorque, deltaTime * 15))
 
-  UNDERGRAB:SetWorldPosition(WAD:GetWorldPosition() + Vector3.New(0, 0, -18.5 * wadSize))
+  UNDERGRAB:SetWorldPosition(WAD:GetWorldPosition() + Vector3.New(0, 0, -19 * wadSize))
 
   deltaTime = Task.Wait(delay)
 
@@ -137,14 +141,13 @@ function handleGrabberOverlap (grabber, trigger)
     local item = Utils.findItem(trigger.parent)
     if not item then return end
     local itemVisible = (item.visibility ~= Visibility.FORCE_OFF)
-    -- I can't believe I could have just been doing this all along.
-    local itemSize = trigger:GetWorldScale().size * 1.3
-    item.clientUserData["Size"] = itemSize
-
-    print(itemSize * 2)
 
     -- all grabbable props must be visible
     if not itemVisible then return end
+
+    -- I can't believe I could have just been doing this all along.
+    local itemSize = trigger:GetWorldScale().size * 1.3
+    item.clientUserData["Size"] = itemSize
 
     local wadSize = WAD.clientUserData["Size"]
     local tooBigh = itemSize > wadSize / 2
@@ -157,22 +160,21 @@ function handleGrabberOverlap (grabber, trigger)
       -- ALSO TODO: Fix the part where you can clip through triggers.
       WAD:SetVelocity(WAD:GetVelocity() * -1)
       WAD:SetAngularVelocity(WAD:GetAngularVelocity() * -1)
-      print(item.name .. " is too B I G H")
+      print(item.name .. " is too B I G H! You gotta be " .. itemSize * 4 .. "cm.")
       Utils.playSoundEffect(BOUNCE_OFF_SOUND)
     end
 
     if tooSmol then print(item.name .. " is too smol uwu") end
 
     if not tooBigh and not tooSmol then
-      item.visibility = Visibility.FORCE_OFF
-      local clientItem = World.SpawnAsset(item.sourceTemplateId, {position = item:GetWorldPosition(), rotation = item:GetWorldRotation(), scale = item:GetWorldScale()})
       local hitbox = nil
+      item:StopRotate()
 
-      if clientItem:IsA("CoreMesh") or item.collision == Collision.FORCE_OFF then
-        clientItem.collision = item.collision
+      if item:IsA("CoreMesh") or item.collision == Collision.FORCE_OFF then
+        item.collision = item.collision
       elseif not grabbedItems[itemGrabIndex] or itemSize > grabbedItems[itemGrabIndex]:GetWorldScale().size * 1.2 then
         local hitboxShape = nil
-        clientItem.collision = Collision.FORCE_OFF
+        item.collision = Collision.FORCE_OFF
 
         if trigger.name == "Pickup Sphere" then
           hitboxShape = HITBOX_SPHERE
@@ -184,25 +186,17 @@ function handleGrabberOverlap (grabber, trigger)
         hitbox.parent = WAD
       end
 
+      CLIENT_GAME_MANAGER.context.storeItem(item, item.parent, "grabbed")
+
       -- The big important part:
-      clientItem.parent = WAD
-
-      local itemColor = item.clientUserData["Color"]
-
-      if itemColor then
-        Utils.traverseHierarchy(clientItem, function(node)
-          if not node:GetCustomProperty("SkipMod") and node:IsA("CoreMesh") or node:IsA("Light") then
-            node:SetColor(itemColor)
-          end
-        end)
-      end
+      item.parent = WAD
 
       -- limit grabbed items to help with lag
       if grabbedItems[itemGrabIndex] then
         grabbedItems[itemGrabIndex]:Destroy()
       end
 
-      grabbedItems[itemGrabIndex] = clientItem
+      grabbedItems[itemGrabIndex] = item
       itemGrabIndex = (itemGrabIndex + 1) % maxGrabbed
 
       -- and severely limit hitboxes
@@ -217,10 +211,10 @@ function handleGrabberOverlap (grabber, trigger)
 
       -- pull the grabbed item in a little because the grabber hitbox is bigger than the wad
       if grabber.name == "Undergrab" then
-        Utils.lerpNSlurp(clientItem, WAD, 0.3, 40 * (itemSize / wadSize), 0.8 * (itemSize / wadSize))
+        Utils.lerpNSlurp(item, WAD, 0.3, 40 * (itemSize / wadSize), 0.8 * (itemSize / wadSize))
         if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.3, 60 * (itemSize / wadSize), 1 * (itemSize / wadSize)) end
       else
-        Utils.lerpNSlurp(clientItem, WAD, 0.2, 50 * (itemSize / wadSize), 1.2 * (itemSize / wadSize))
+        Utils.lerpNSlurp(item, WAD, 0.2, 50 * (itemSize / wadSize), 1.2 * (itemSize / wadSize))
         if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.2, 60 * (itemSize / wadSize), 1.5 * (itemSize / wadSize)) end
       end
 

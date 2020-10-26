@@ -15,7 +15,7 @@
             Z: 0.205484599
           }
         }
-        ParentId: 18381098894881272687
+        ParentId: 14350178127065618771
         ChildIds: 10736186029381582192
         UnregisteredParameters {
           Overrides {
@@ -50,7 +50,6 @@
           }
         }
         ParentId: 15150143337005922378
-        ChildIds: 7981040815250096387
         ChildIds: 11109921383225847799
         ChildIds: 5564611535135948679
         ChildIds: 15057629502648964084
@@ -66,35 +65,6 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         NetworkContext {
-        }
-      }
-      Objects {
-        Id: 7981040815250096387
-        Name: "Animation - Leg Move"
-        Transform {
-          Location {
-            X: -0.000813802064
-            Y: 218.048492
-          }
-          Rotation {
-          }
-          Scale {
-            X: 3.33333325
-            Y: 3.33333325
-            Z: 3.33333325
-          }
-        }
-        ParentId: 10736186029381582192
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Script {
-          ScriptAsset {
-            Id: 15739977563864071398
-          }
         }
       }
       Objects {

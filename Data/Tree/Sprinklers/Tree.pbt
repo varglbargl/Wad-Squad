@@ -135,6 +135,10 @@ Objects {
           Name: "bp:Velocity Max"
           Float: 0.55
         }
+        Overrides {
+          Name: "bp:Density"
+          Float: 0.12662892
+        }
       }
     }
     ParameterOverrideMap {

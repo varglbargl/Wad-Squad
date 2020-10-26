@@ -5,17 +5,17 @@ Objects {
   Name: "Scissors"
   Transform {
     Location {
-      X: -266.602386
-      Y: -156.994125
-      Z: -89.0500641
+      X: -266.602295
+      Y: -156.99408
+      Z: -88.86689
     }
     Rotation {
-      Yaw: 30.650589
+      Yaw: 30.6506233
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.7
+      Y: 0.7
+      Z: 0.7
     }
   }
   ParentId: 16750657907292722848
@@ -53,16 +53,16 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.0757548138
-            Y: 0.359215617
+            X: 0.104750685
+            Y: 0.257347435
             Z: 0.00810831785
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -1.95262349
-            Y: -2.20474553
+            X: -0.52630955
+            Y: -1.83987844
           }
         }
         Overrides {
@@ -125,17 +125,17 @@ Objects {
   Name: "Scissors"
   Transform {
     Location {
-      X: -193.023117
-      Y: -306.876526
-      Z: -89.0500336
+      X: -193.023071
+      Y: -306.876434
+      Z: -88.8668594
     }
     Rotation {
-      Yaw: -128.869202
+      Yaw: -128.869125
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.7
+      Y: 0.7
+      Z: 0.7
     }
   }
   ParentId: 16750657907292722848
@@ -173,16 +173,16 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.0757548138
-            Y: 0.359215617
+            X: 0.104750685
+            Y: 0.257347435
             Z: 0.00810831785
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -1.95262349
-            Y: -2.20474553
+            X: -3.41642046
+            Y: -2.04751444
           }
         }
         Overrides {
@@ -245,17 +245,17 @@ Objects {
   Name: "Scissors"
   Transform {
     Location {
-      X: -287.05603
-      Y: 9.25463
-      Z: -89.0500336
+      X: -287.055939
+      Y: 9.2545414
+      Z: -88.8668594
     }
     Rotation {
-      Yaw: 75.107048
+      Yaw: 75.1069794
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.7
+      Y: 0.7
+      Z: 0.7
     }
   }
   ParentId: 16750657907292722848
@@ -293,16 +293,16 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.0757548138
-            Y: 0.359215617
+            X: 0.104750685
+            Y: 0.257347435
             Z: 0.00810831785
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -1.95262349
-            Y: -2.20474553
+            X: -0.678973258
+            Y: -2.94325233
           }
         }
         Overrides {
@@ -367,15 +367,15 @@ Objects {
     Location {
       X: -78.5358124
       Y: -139.995407
-      Z: -89.0500336
+      Z: -88.8668594
     }
     Rotation {
-      Yaw: -156.965546
+      Yaw: -156.965576
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.8
+      Y: 0.8
+      Z: 0.8
     }
   }
   ParentId: 16750657907292722848
@@ -413,16 +413,16 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.0757548138
-            Y: 0.359215617
+            X: 0.104750685
+            Y: 0.257347435
             Z: 0.00810831785
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -1.95262349
-            Y: -2.20474553
+            X: -3.31792164
+            Y: -2.75542164
           }
         }
         Overrides {
@@ -485,17 +485,17 @@ Objects {
   Name: "Scissors"
   Transform {
     Location {
-      X: -171.054062
-      Y: -37.1283188
-      Z: -89.0500336
+      X: -171.054
+      Y: -37.1283836
+      Z: -88.8668594
     }
     Rotation {
       Yaw: -27.7778931
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.7
+      Y: 0.7
+      Z: 0.7
     }
   }
   ParentId: 16750657907292722848
@@ -533,16 +533,16 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.0757548138
-            Y: 0.359215617
+            X: 0.104750685
+            Y: 0.257347435
             Z: 0.00810831785
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -1.95262349
-            Y: -2.20474553
+            X: -1.51674283
+            Y: -0.798583269
           }
         }
         Overrides {
@@ -605,16 +605,17 @@ Objects {
   Name: "Scissors"
   Transform {
     Location {
-      X: 64.7381134
-      Y: -69.9824753
+      X: 64.7380905
+      Y: -69.9824448
+      Z: 0.183172569
     }
     Rotation {
-      Yaw: 107.709465
+      Yaw: 107.70948
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.7
+      Y: 0.7
+      Z: 0.7
     }
   }
   ParentId: 16750657907292722848
@@ -652,16 +653,16 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.0757548138
-            Y: 0.359215617
+            X: 0.104750685
+            Y: 0.257347435
             Z: 0.00810831785
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -1.95262349
-            Y: -2.20474553
+            X: -1.27765489
+            Y: -3.51303577
           }
         }
         Overrides {
@@ -724,17 +725,17 @@ Objects {
   Name: "Scissors"
   Transform {
     Location {
-      X: -196.009125
-      Y: 54.2158623
-      Z: -89.0500336
+      X: -196.009079
+      Y: 54.2158165
+      Z: -88.8668594
     }
     Rotation {
-      Yaw: 127.615929
+      Yaw: 127.615822
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.7
+      Y: 0.7
+      Z: 0.7
     }
   }
   ParentId: 16750657907292722848
@@ -772,16 +773,16 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.0757548138
-            Y: 0.359215617
+            X: 0.104750685
+            Y: 0.257347435
             Z: 0.00810831785
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -1.95262349
-            Y: -2.20474553
+            X: -1.76341414
+            Y: -3.66471148
           }
         }
         Overrides {
@@ -844,13 +845,14 @@ Objects {
   Name: "Scissors"
   Transform {
     Location {
+      Z: 0.183172569
     }
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 0.7
+      Y: 0.7
+      Z: 0.7
     }
   }
   ParentId: 16750657907292722848
@@ -888,16 +890,16 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 0.0757548138
-            Y: 0.359215617
+            X: 0.104750685
+            Y: 0.257347435
             Z: 0.00810831785
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -1.95262349
-            Y: -2.20474553
+            X: -0.911574125
+            Y: -1.16369545
           }
         }
         Overrides {

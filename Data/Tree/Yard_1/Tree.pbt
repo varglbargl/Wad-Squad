@@ -1,32 +1,6 @@
 ﻿Name: "Yard_1"
 RootId: 12276776014136101490
 Objects {
-  Id: 3588439357022347576
-  Name: "Pool"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 12276776014136101490
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Pool"
-  }
-}
-Objects {
   Id: 4893072624173428966
   Name: "Patio"
   Transform {
@@ -52,7 +26,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Patio"
+    FilePartitionName: "Patio_1"
   }
 }
 Objects {

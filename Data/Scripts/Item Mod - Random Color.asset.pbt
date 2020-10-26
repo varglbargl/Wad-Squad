@@ -14,6 +14,10 @@
         Name: "cs:PrimaryOnly"
         Bool: false
       }
+      Overrides {
+        Name: "cs:Value"
+        Float: 1
+      }
     }
   }
   SerializationVersion: 65

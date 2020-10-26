@@ -1,6 +1,6 @@
 ﻿Assets {
   Id: 16775666487599881200
-  Name: "Low Poly Rubber Ducky"
+  Name: "a"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {

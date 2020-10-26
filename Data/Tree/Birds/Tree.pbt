@@ -1,6 +1,270 @@
 ﻿Name: "Birds"
 RootId: 1277351036478192657
 Objects {
+  Id: 17010983252197787011
+  Name: "Seagull"
+  Transform {
+    Location {
+      X: -23013.0488
+      Y: -18265.7578
+      Z: 133.927658
+    }
+    Rotation {
+      Yaw: -22.1124878
+    }
+    Scale {
+      X: 7.42783546
+      Y: 7.42783546
+      Z: 7.42783546
+    }
+  }
+  ParentId: 1277351036478192657
+  ChildIds: 14785329225793701690
+  ChildIds: 5846659820066926802
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 5846659820066926802
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17010983252197787011
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.1
+            Y: 1.1
+            Z: 1.1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 14.0744629
+            Z: 28.5162506
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 14785329225793701690
+  Name: "Seagull"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17010983252197787011
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5024403690834609831
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8583348692792336463
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 20.7343693
+            Z: -38.9046822
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14477246386612179014
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Seagull"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.000814626226
+            Y: 0.000591323478
+            Z: 3.51625061
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7592470653715769541
+    }
+  }
+}
+Objects {
+  Id: 2311690014885543304
+  Name: "Seagull"
+  Transform {
+    Location {
+      X: -23138.3418
+      Y: -9746.77734
+      Z: 162.659149
+    }
+    Rotation {
+      Yaw: 87.2671204
+    }
+    Scale {
+      X: 8.61957359
+      Y: 8.61957359
+      Z: 8.61957359
+    }
+  }
+  ParentId: 1277351036478192657
+  ChildIds: 11187250846723647696
+  ChildIds: 15075781188850846888
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15075781188850846888
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2311690014885543304
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.1
+            Y: 1.1
+            Z: 1.1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 14.0744629
+            Z: 28.5162506
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 11187250846723647696
+  Name: "Seagull"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2311690014885543304
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14477246386612179014
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Seagull"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.000814626226
+            Y: 0.000591323478
+            Z: 3.51625061
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: true
+        }
+        Overrides {
+          Name: "cs:Peck"
+          Bool: false
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7592470653715769541
+    }
+  }
+}
+Objects {
   Id: 671521349646321864
   Name: "Seagull"
   Transform {
@@ -21,6 +285,7 @@ Objects {
   ParentId: 1277351036478192657
   ChildIds: 7692013364019870226
   ChildIds: 7887826096147791113
+  ChildIds: 17714856200097026099
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -29,6 +294,33 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 17714856200097026099
+  Name: "Item Mod - Bob"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.448762417
+      Y: 0.448762417
+      Z: 0.448762417
+    }
+  }
+  ParentId: 671521349646321864
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5779258749086545758
+    }
   }
 }
 Objects {
@@ -146,6 +438,7 @@ Objects {
   ParentId: 1277351036478192657
   ChildIds: 15771212816821542221
   ChildIds: 5304024429432251317
+  ChildIds: 14446039488508545138
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -154,6 +447,39 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 14446039488508545138
+  Name: "Item Mod - Bob"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.413449675
+      Y: 0.413449675
+      Z: 0.413449675
+    }
+  }
+  ParentId: 3048236678210053334
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Frequency"
+      Int: 4
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5779258749086545758
+    }
   }
 }
 Objects {
@@ -271,6 +597,7 @@ Objects {
   ParentId: 1277351036478192657
   ChildIds: 13312291292535337
   ChildIds: 1628035168554209828
+  ChildIds: 7520274820012955917
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -279,6 +606,43 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 7520274820012955917
+  Name: "Item Mod - Bob"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.448762417
+      Y: 0.448762417
+      Z: 0.448762417
+    }
+  }
+  ParentId: 7981658426650189909
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Wavelength"
+      Int: 45
+    }
+    Overrides {
+      Name: "cs:Frequency"
+      Int: 4
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5779258749086545758
+    }
   }
 }
 Objects {
@@ -2212,16 +2576,16 @@ Objects {
   Transform {
     Location {
       X: 4769.05566
-      Y: 8073.11182
-      Z: 396.920105
+      Y: 8150.9082
+      Z: 495.426056
     }
     Rotation {
-      Yaw: 16.5955391
+      Yaw: 16.5955982
     }
     Scale {
-      X: 8.36656094
-      Y: 8.36656094
-      Z: 8.36656094
+      X: 10.0999966
+      Y: 10.0999966
+      Z: 10.0999966
     }
   }
   ParentId: 1277351036478192657

@@ -6,7 +6,7 @@ local CHUNK_2 = script:GetCustomProperty("Chunk2"):WaitForObject()
 local CHUNK_LOADER_2 = script:GetCustomProperty("ChunkLoader2"):WaitForObject()
 local CHUNK_UNLOADER_1 = script:GetCustomProperty("ChunkUnloader1"):WaitForObject()
 
-local unloadedChunks = {}
+local unloadedChunks = {grabbed = {}}
 
 local WAD = script:GetCustomProperty("Wad")
 local CAMERA_FOLLOW = script:GetCustomProperty("CameraFollow"):WaitForObject()
@@ -50,39 +50,38 @@ function tellServerAboutWad()
 end
 
 -- TODO: How does this work now?
--- function regenerateAllItems()
+function restoreAllItems()
+  for _, chunk in pairs(unloadedChunks) do
+    for _, item in ipairs(chunk) do
+      loadItem(item)
+      Task.Wait()
+    end
+  end
 
---   Task.Wait(30)
+  unloadedChunks = {grabbed = {}}
 
---   Utils.traverseHierarchy(ITEMS, function(item)
---     if item:GetCustomProperty("Size") and item.visibility == Visibility.FORCE_OFF then
---       item.visibility = Visibility.INHERIT
---     end
---   end)
-
---   print("Items regenerated!")
---   regenerateAllItems()
--- end
+  print("Items restored!")
+end
 
 function loadItem(itemInfo)
-  local item = World.SpawnAsset(itemInfo.sourceTemplateId)
   local scripts = itemInfo.parent:GetChildren()
+  local item = World.SpawnAsset(itemInfo.sourceTemplateId, {
+    parent = itemInfo.parent,
+    position = itemInfo.position,
+    rotation = itemInfo.rotation,
+    scale = itemInfo.scale
+  })
 
   item.name = itemInfo.name
-  item.parent = itemInfo.parent
 
   for _, script in ipairs(scripts) do
     if script.context and script.context.runScript then
       script.context.runScript(item)
     end
   end
-
-  item:SetPosition(itemInfo.position)
-  item:SetRotation(itemInfo.rotation)
-  item:SetScale(itemInfo.scale)
 end
 
-function unloadItem(item, itemParent, chunk)
+function storeItem(item, itemParent, chunk)
   local itemInfo = {
     name = item.name,
     parent = itemParent,
@@ -93,16 +92,15 @@ function unloadItem(item, itemParent, chunk)
   }
 
   table.insert(unloadedChunks[chunk], itemInfo)
-  item:Destroy()
 end
 
 function loadChunk(chunk)
   if not unloadedChunks[chunk] then return end
 
-  for node, item in pairs(unloadedChunks[chunk]) do
-    loadItem(unloadedChunks[chunk][node])
+  for _, item in ipairs(unloadedChunks[chunk]) do
+    loadItem(item)
 
-    Task.Wait()
+    -- Task.Wait(0.01)
   end
 
   table.remove(unloadedChunks[chunk])
@@ -112,7 +110,13 @@ function unloadChunk(chunk)
   unloadedChunks[chunk] = {}
   Utils.traverseHierarchy(chunk, function(node)
     if node.name == "Pickup Sphere" or node.name == "Pickup Box" then
-      unloadItem(Utils.findItem(node.parent), node.parent, chunk)
+      local itemToUnload = Utils.findItem(node.parent)
+
+      if Object.IsValid(itemToUnload) then
+        storeItem(itemToUnload, node.parent, chunk)
+        itemToUnload:Destroy()
+        -- Task.Wait()
+      end
     end
   end)
 end

@@ -5,19 +5,19 @@ Objects {
   Name: "Wad Stopper"
   Transform {
     Location {
-      X: 100.118942
-      Y: 391.24353
-      Z: 256.61557
+      X: 225.036011
+      Y: 238.631531
+      Z: 309.132416
     }
     Rotation {
-      Pitch: 9.04062939
-      Yaw: -115.069199
-      Roll: -5.81784058
+      Pitch: 10.0619135
+      Yaw: -104.985596
+      Roll: -2.52255249
     }
     Scale {
-      X: 4.63217497
-      Y: 4.63217497
-      Z: 4.63217497
+      X: 3.63118458
+      Y: 3.63118458
+      Z: 3.63118458
     }
   }
   ParentId: 11858432134105710824
@@ -59,6 +59,15 @@ Objects {
       }
     }
     ParameterOverrideMap {
+      key: 3945394699384787111
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 7850039474666247473
       value {
         Overrides {
@@ -85,6 +94,15 @@ Objects {
             Y: 0.866899967
             Z: 0.866899967
           }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17479186517724089539
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
         }
       }
     }
@@ -115,8 +133,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 12.499999
-            Z: 228.451843
+            X: 18.7020721
+            Y: 1.12552857
+            Z: 190.049118
           }
         }
         Overrides {
@@ -191,9 +210,9 @@ Objects {
   Name: "Wad Stopper"
   Transform {
     Location {
-      X: -2549.35986
-      Y: -143.248077
-      Z: 117.391914
+      X: -2431.30469
+      Y: -119.74955
+      Z: 196.459442
     }
     Rotation {
       Pitch: 13.8751116
@@ -201,9 +220,9 @@ Objects {
       Roll: 1.1537708
     }
     Scale {
-      X: 4.63217497
-      Y: 4.63217497
-      Z: 4.63217497
+      X: 3.63118434
+      Y: 3.63118434
+      Z: 3.63118434
     }
   }
   ParentId: 11858432134105710824
@@ -367,19 +386,19 @@ Objects {
   Name: "Wad Stopper"
   Transform {
     Location {
-      X: 1322.17126
-      Y: -47.2896309
-      Z: 8.37033558
+      X: 1323.85864
+      Y: -9.87325
+      Z: 113.08316
     }
     Rotation {
       Pitch: 16.6317558
       Yaw: -91.2039185
-      Roll: 7.58871031
+      Roll: 7.58876133
     }
     Scale {
-      X: 4.63217497
-      Y: 4.63217497
-      Z: 4.63217497
+      X: 3.63118434
+      Y: 3.63118434
+      Z: 3.63118434
     }
   }
   ParentId: 11858432134105710824
@@ -543,9 +562,9 @@ Objects {
   Name: "Wad Stopper"
   Transform {
     Location {
-      X: -1366.69
-      Y: 359.342133
-      Z: 196.216049
+      X: -1163.41602
+      Y: 231.115417
+      Z: 238.75383
     }
     Rotation {
       Pitch: 11.161293
@@ -553,9 +572,9 @@ Objects {
       Roll: 2.91109681
     }
     Scale {
-      X: 4.63217497
-      Y: 4.63217497
-      Z: 4.63217497
+      X: 3.63118434
+      Y: 3.63118434
+      Z: 3.63118434
     }
   }
   ParentId: 11858432134105710824

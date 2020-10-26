@@ -30,6 +30,330 @@ Objects {
   }
 }
 Objects {
+  Id: 2128673240478767651
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -3379.09619
+      Y: -17.6386719
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 196529515263058465
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11250905756629806467
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -3453.5
+      Y: -94.9980469
+      Z: 25
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 4.25700045
+      Y: 4.25700045
+      Z: 5.247
+    }
+  }
+  ParentId: 196529515263058465
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 6578736306511128408
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -1593.32544
+      Y: -17.6386719
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 196529515263058465
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7229075897811156074
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -1671.5
+      Y: -94.9990234
+      Z: 25
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 4.25700045
+      Y: 4.25700045
+      Z: 5.247
+    }
+  }
+  ParentId: 196529515263058465
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 13909980057755603255
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 160.294434
+      Y: -17.6386719
+      Z: 40.0009766
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 4.1
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 196529515263058465
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 1036667544276205529
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: 85.75
+      Y: -95
+      Z: 25
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 4.25700045
+      Y: 4.25700045
+      Z: 5.247
+    }
+  }
+  ParentId: 196529515263058465
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
   Id: 17189965076626763784
   Name: "Deck Stairs"
   Transform {
@@ -1008,6 +1332,8 @@ Objects {
   ChildIds: 9435629852606698667
   ChildIds: 302401653569303136
   ChildIds: 17435355535514734091
+  ChildIds: 7421640678589196348
+  ChildIds: 5972483917751073275
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1016,6 +1342,100 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 5972483917751073275
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -3149.99976
+      Y: 0.000295062026
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
+  }
+}
+Objects {
+  Id: 7421640678589196348
+  Name: "Craftsman Porch Fence Post 01"
+  Transform {
+    Location {
+      X: -1349.99988
+      Y: 0.000267373282
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 4.3
+      Y: 4.3
+      Z: 5.3
+    }
+  }
+  ParentId: 9858589202030577287
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 461796175785413307
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4104324993237339157
+    SubobjectId: 14371695380909714499
+    InstanceId: 2275901482220386584
+    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -2605,10 +3025,22 @@ Objects {
   ChildIds: 5326175622032131070
   ChildIds: 3532072791347603017
   ChildIds: 5203561586968981479
-  ChildIds: 3067959510028165042
-  ChildIds: 6025000169250785826
   ChildIds: 14916321720233096072
-  ChildIds: 15580100814717010500
+  ChildIds: 6723077585634053644
+  ChildIds: 2777321608976936675
+  ChildIds: 15520071919124527058
+  ChildIds: 14675926814420049177
+  ChildIds: 8657728790166532240
+  ChildIds: 16561525424199599651
+  ChildIds: 6600380609003198875
+  ChildIds: 9713580598743376504
+  ChildIds: 5603340944109509201
+  ChildIds: 226887888165129974
+  ChildIds: 17025228795739495448
+  ChildIds: 9660059513174140639
+  ChildIds: 17719232998805473342
+  ChildIds: 4525517548068255928
+  ChildIds: 2068119795222868133
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2620,24 +3052,909 @@ Objects {
   }
 }
 Objects {
-  Id: 15580100814717010500
+  Id: 2068119795222868133
   Name: "Large Wood Beam 8m"
   Transform {
     Location {
-      X: 3314.12646
-      Y: -3230.625
+      X: -2030.87354
+      Y: 2454.375
+      Z: 3704.99902
     }
     Rotation {
-      Pitch: 90
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
     }
     Scale {
-      X: 4.1
-      Y: 3
-      Z: 3
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
     }
   }
   ParentId: 8265514594823059014
   UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4525517548068255928
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -700.873535
+      Y: 2454.375
+      Z: 3704.99902
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17719232998805473342
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 1084.89722
+      Y: 2454.37695
+      Z: 3704.99805
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9660059513174140639
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 2838.51709
+      Y: 2454.37793
+      Z: 3704.99658
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17025228795739495448
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -1555.87354
+      Y: 2454.375
+      Z: 3704.99902
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 226887888165129974
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 229.897217
+      Y: 2454.37695
+      Z: 3704.99805
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5603340944109509201
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 1983.51709
+      Y: 2454.37793
+      Z: 3704.99658
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9713580598743376504
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -1130.87354
+      Y: 2454.375
+      Z: 3704.99902
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6600380609003198875
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 654.897217
+      Y: 2454.37695
+      Z: 3704.99805
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16561525424199599651
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 2408.51709
+      Y: 2454.37793
+      Z: 3704.99658
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8657728790166532240
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 3304.12646
+      Y: 2454.37793
+      Z: 3704.99658
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14675926814420049177
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: 1550.50659
+      Y: 2454.37695
+      Z: 3704.99805
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15520071919124527058
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -235.26416
+      Y: 2454.375
+      Z: 3704.99902
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -89.999939
+      Roll: -89.999939
+    }
+    Scale {
+      X: 7.9
+      Y: 4.5
+      Z: 1.7
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2777321608976936675
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -2510.87354
+      Y: -3410.625
+      Z: 3279.99902
+    }
+    Rotation {
+      Roll: 89.999939
+    }
+    Scale {
+      X: 7.70000219
+      Y: 4.20000029
+      Z: 4.20000029
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13840443032411406179
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6723077585634053644
+  Name: "Large Wood Beam 8m"
+  Transform {
+    Location {
+      X: -2510.87402
+      Y: 1866.73633
+      Z: 3259.70947
+    }
+    Rotation {
+      Roll: 89.999939
+    }
+    Scale {
+      X: 7.70000219
+      Y: 4.20000029
+      Z: 4.20000029
+    }
+  }
+  ParentId: 8265514594823059014
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2680,90 +3997,24 @@ Objects {
   }
   ParentId: 8265514594823059014
   UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
       }
     }
-  }
-}
-Objects {
-  Id: 6025000169250785826
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -2011.16797
-      Y: -1612.98633
-    }
-    Rotation {
-      Pitch: 90
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 4.1
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 8265514594823059014
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13840443032411406179
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
       }
     }
-  }
-}
-Objects {
-  Id: 3067959510028165042
-  Name: "Large Wood Beam 8m"
-  Transform {
-    Location {
-      X: -2011.16797
-      Y: 192.013672
-    }
-    Rotation {
-      Pitch: 90
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 4.1
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 8265514594823059014
-  UnregisteredParameters {
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2806,6 +4057,24 @@ Objects {
   }
   ParentId: 8265514594823059014
   UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2847,6 +4116,24 @@ Objects {
   }
   ParentId: 8265514594823059014
   UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2888,6 +4175,24 @@ Objects {
   }
   ParentId: 8265514594823059014
   UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2929,6 +4234,24 @@ Objects {
   }
   ParentId: 8265514594823059014
   UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.483
+        G: 0.341976792
+        B: 0.241016984
+        A: 1
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -4890,14 +6213,14 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -5347.41895
+      X: -5376.49
       Y: -2846.02246
       Z: 0.0271606445
     }
     Rotation {
       Pitch: 90
-      Yaw: -90
-      Roll: 180
+      Yaw: 7.12502289
+      Roll: -82.8749695
     }
     Scale {
       X: 2.87017751
@@ -5049,14 +6372,14 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -4097.41895
+      X: -4133.91797
       Y: -2846.02246
       Z: 0.0271606445
     }
     Rotation {
-      Pitch: 90
-      Yaw: 90
-      Roll: 7.62939453e-06
+      Pitch: 85.4953156
+      Yaw: -0.000305175781
+      Roll: -89.9993896
     }
     Scale {
       X: 2.87017751
@@ -5206,14 +6529,14 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -5847.41895
+      X: -5813.69189
       Y: -2846.02246
       Z: 0.0271606445
     }
     Rotation {
-      Pitch: 84.7356262
-      Yaw: -5.24450684
-      Roll: -105.618599
+      Pitch: 89.5082092
+      Yaw: -79.4361572
+      Roll: -179.834015
     }
     Scale {
       X: 2.87017751

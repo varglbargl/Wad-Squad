@@ -7,12 +7,12 @@
       RootId: 7850039474666247473
       Objects {
         Id: 7850039474666247473
-        Name: "Size Blocker"
+        Name: "Wad Stopper"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 1.11582601
+            Y: 1.11582601
+            Z: 1.11582601
           }
         }
         ParentId: 7000483169040515601
@@ -86,7 +86,6 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         Text {
-          Text: "XXcm"
           Color {
             R: 1
             G: 1
@@ -397,7 +396,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              G: 5
+              R: 5
               A: 1
             }
           }

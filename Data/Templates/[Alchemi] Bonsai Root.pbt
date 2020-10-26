@@ -4,10 +4,10 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 17010602079020818779
+      RootId: 13521147445337759328
       Objects {
-        Id: 17010602079020818779
-        Name: "[Alchemi] Bonsai Root"
+        Id: 13521147445337759328
+        Name: "Bonsai Root"
         Transform {
           Scale {
             X: 5.74
@@ -16,12 +16,7 @@
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 3578019452509644242
-        ChildIds: 15711977449945846106
-        ChildIds: 11308502911423902817
-        ChildIds: 2787081933010574092
-        ChildIds: 17964629804342648357
-        ChildIds: 16152880617658771839
+        ChildIds: 15933905220925867240
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -29,8 +24,37 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "[Alchemi] Bonsai Root_1"
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 15933905220925867240
+        Name: "ClientContext"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13521147445337759328
+        ChildIds: 3578019452509644242
+        ChildIds: 15711977449945846106
+        ChildIds: 11308502911423902817
+        ChildIds: 2787081933010574092
+        ChildIds: 17964629804342648357
+        ChildIds: 16152880617658771839
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        NetworkContext {
         }
       }
       Objects {
@@ -38,12 +62,13 @@
         Name: "Cabinet - Upper Narrow"
         Transform {
           Location {
-            X: 18.9023438
-            Y: 15.7041016
+            X: 18.902359
+            Y: 15.7040939
+            Z: -9.05921268
           }
           Rotation {
-            Yaw: -89.3881226
-            Roll: -89.9998779
+            Yaw: -89.3881073
+            Roll: -89.9998627
           }
           Scale {
             X: 0.683668375
@@ -51,7 +76,7 @@
             Z: 0.286829919
           }
         }
-        ParentId: 17010602079020818779
+        ParentId: 15933905220925867240
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -106,9 +131,9 @@
         Name: "Fantasy Chest Treasure Pile 01"
         Transform {
           Location {
-            X: -1.703125
-            Y: -2.04785156
-            Z: 12.5401611
+            X: -1.7031157
+            Y: -2.04788733
+            Z: 3.48093915
           }
           Rotation {
           }
@@ -118,7 +143,7 @@
             Z: 0.370672613
           }
         }
-        ParentId: 17010602079020818779
+        ParentId: 15933905220925867240
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -161,14 +186,14 @@
         Name: "Rock 03"
         Transform {
           Location {
-            X: -0.5546875
+            X: -0.55480957
             Y: -3.15722656
-            Z: 17.980835
+            Z: 8.92163086
           }
           Rotation {
-            Pitch: 13.6340542
-            Yaw: 88.7578583
-            Roll: 90.1048126
+            Pitch: 13.6340408
+            Yaw: 88.7578659
+            Roll: 90.1047897
           }
           Scale {
             X: 0.0733047426
@@ -176,7 +201,7 @@
             Z: 0.0858929753
           }
         }
-        ParentId: 17010602079020818779
+        ParentId: 15933905220925867240
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -214,19 +239,19 @@
         Name: "Tree Oak Stump 01"
         Transform {
           Location {
-            X: 0.158203125
-            Y: -1.88671875
-            Z: 19.1235352
+            X: 0.158222154
+            Y: -1.88677275
+            Z: 10.0643148
           }
           Rotation {
           }
           Scale {
             X: 0.028544832
-            Y: 0.0311976206
+            Y: 0.0311976187
             Z: 0.0334451124
           }
         }
-        ParentId: 17010602079020818779
+        ParentId: 15933905220925867240
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -253,9 +278,9 @@
         Name: "Bush Leafy Tall 01"
         Transform {
           Location {
-            X: 0.212890625
-            Y: -3.82226563
-            Z: 30.5495605
+            X: 0.212918431
+            Y: -3.82220316
+            Z: 21.4903507
           }
           Rotation {
           }
@@ -265,7 +290,7 @@
             Z: 0.170692638
           }
         }
-        ParentId: 17010602079020818779
+        ParentId: 15933905220925867240
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -294,9 +319,9 @@
         Name: "Rock Pile 001"
         Transform {
           Location {
-            X: -17.0175781
-            Y: -4.78808594
-            Z: 15.6108398
+            X: -17.0175362
+            Y: -4.78803492
+            Z: 6.5516243
           }
           Rotation {
           }
@@ -306,7 +331,7 @@
             Z: 0.069613263
           }
         }
-        ParentId: 17010602079020818779
+        ParentId: 15933905220925867240
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }

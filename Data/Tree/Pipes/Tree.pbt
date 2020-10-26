@@ -87,14 +87,14 @@ Objects {
   Name: "Urban Pipe Coupling 05"
   Transform {
     Location {
-      X: -555.94873
+      X: -585.019775
       Y: 142.403809
       Z: 152.538773
     }
     Rotation {
-      Pitch: -1.95196545
+      Pitch: -1.95196533
       Yaw: 1.33479574e-08
-      Roll: -4.21521139
+      Roll: -4.21521
     }
     Scale {
       X: 1.76421857
@@ -129,14 +129,14 @@ Objects {
   Name: "Urban Pipe Straight"
   Transform {
     Location {
-      X: -557.639404
+      X: -586.710449
       Y: 146.534668
       Z: 97.5410233
     }
     Rotation {
-      Pitch: -3.60366225
+      Pitch: -3.60366821
       Yaw: 0.121962331
-      Roll: -4.22122288
+      Roll: -4.22122192
     }
     Scale {
       X: 1.71502507

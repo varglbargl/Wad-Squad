@@ -21,7 +21,7 @@ function UTILS.findItem(container)
   local siblings = container:GetChildren()
 
   for _, child in ipairs(siblings) do
-    if child:IsA("Folder") or child:IsA("CoreMesh") and child.sourceTemplateId then
+    if child:IsA("Folder") or child:IsA("CoreMesh") then
       return child
     end
   end

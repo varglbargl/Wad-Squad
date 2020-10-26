@@ -122,6 +122,24 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 2545543628915797204
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 220
+            Y: -24.9995117
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -90
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 7814566350784719305
       value {
         Overrides {
@@ -136,6 +154,26 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9701769748010954730
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -22
+            Y: 257
+            Z: 300
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -134.999985
+            Roll: -89.999939
           }
         }
       }

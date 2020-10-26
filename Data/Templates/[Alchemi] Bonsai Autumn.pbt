@@ -4,10 +4,10 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 2899934249578619069
+      RootId: 14454639034267177384
       Objects {
-        Id: 2899934249578619069
-        Name: "[Alchemi] Bonsai Autumn"
+        Id: 14454639034267177384
+        Name: "Autumn Bonsai"
         Transform {
           Scale {
             X: 5.74
@@ -16,12 +16,7 @@
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 8440024215740022381
-        ChildIds: 14127091759988369363
-        ChildIds: 4350155715594589251
-        ChildIds: 10776893604143296653
-        ChildIds: 1377039579221878834
-        ChildIds: 4711988009583730050
+        ChildIds: 2321734642485585750
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -29,8 +24,38 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         Folder {
-          IsFilePartition: true
-          FilePartitionName: "[Alchemi] Bonsai Autumn_1"
+          IsGroup: true
+        }
+      }
+      Objects {
+        Id: 2321734642485585750
+        Name: "ClientContext"
+        Transform {
+          Location {
+            Z: 17.0731926
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 14454639034267177384
+        ChildIds: 8440024215740022381
+        ChildIds: 14127091759988369363
+        ChildIds: 4350155715594589251
+        ChildIds: 10776893604143296653
+        ChildIds: 1377039579221878834
+        ChildIds: 4711988009583730050
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        NetworkContext {
         }
       }
       Objects {
@@ -38,11 +63,12 @@
         Name: "Falling Leaves Volume VFX"
         Transform {
           Location {
-            X: -19.9199219
-            Y: -10.6464844
-            Z: 90.8787842
+            X: -19.9199238
+            Y: -10.6465654
+            Z: 73.4571915
           }
           Rotation {
+            Yaw: 3.25688781e-12
           }
           Scale {
             X: 0.69566381
@@ -50,7 +76,7 @@
             Z: 0.69566381
           }
         }
-        ParentId: 2899934249578619069
+        ParentId: 2321734642485585750
         UnregisteredParameters {
           Overrides {
             Name: "bp:Leaf Scale"
@@ -110,12 +136,12 @@
         Name: "Tree Birch Bare 02"
         Transform {
           Location {
-            X: 9.44140625
-            Y: 1.31835938
-            Z: 15.4993896
+            X: 9.44143772
+            Y: 1.31835604
+            Z: -1.92220342
           }
           Rotation {
-            Yaw: -50.4422607
+            Yaw: -50.442276
           }
           Scale {
             X: 0.0766753256
@@ -123,7 +149,7 @@
             Z: 0.0743392259
           }
         }
-        ParentId: 2899934249578619069
+        ParentId: 2321734642485585750
         UnregisteredParameters {
           Overrides {
             Name: "ma:Nature_Trunk:id"
@@ -165,8 +191,9 @@
         Name: "Cabinet - Upper Narrow"
         Transform {
           Location {
-            X: 19.5332031
-            Y: 15.1396484
+            X: 19.5332127
+            Y: 15.1396046
+            Z: -17.4216042
           }
           Rotation {
             Yaw: -89.3881226
@@ -178,7 +205,7 @@
             Z: 0.286829919
           }
         }
-        ParentId: 2899934249578619069
+        ParentId: 2321734642485585750
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -233,11 +260,12 @@
         Name: "Fantasy Chest Treasure Pile 01"
         Transform {
           Location {
-            X: -1.07226563
-            Y: -2.61230469
-            Z: 12.5401611
+            X: -1.07226312
+            Y: -2.61238956
+            Z: -4.88145161
           }
           Rotation {
+            Yaw: 3.25688781e-12
           }
           Scale {
             X: 0.510477424
@@ -245,7 +273,7 @@
             Z: 0.370672613
           }
         }
-        ParentId: 2899934249578619069
+        ParentId: 2321734642485585750
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -290,20 +318,20 @@
           Location {
             X: -13.5976563
             Y: -5.265625
-            Z: 16.8671875
+            Z: -0.554397583
           }
           Rotation {
-            Pitch: 24.8148956
-            Yaw: 31.4294834
-            Roll: 5.17342551e-06
+            Pitch: 24.814888
+            Yaw: 31.4295
+            Roll: 6.58435965e-06
           }
           Scale {
-            X: 0.0558973067
-            Y: -0.0136740413
+            X: 0.0558973029
+            Y: -0.0136740403
             Z: 0.0655078739
           }
         }
-        ParentId: 2899934249578619069
+        ParentId: 2321734642485585750
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
@@ -341,14 +369,14 @@
         Name: "Rock 03"
         Transform {
           Location {
-            X: 5.62109375
-            Y: 2.06542969
-            Z: 16.5153809
+            X: 5.62110472
+            Y: 2.06541061
+            Z: -0.906212568
           }
           Rotation {
-            Pitch: 19.6476936
-            Yaw: -78.3227
-            Roll: -86.0246429
+            Pitch: 19.647686
+            Yaw: -78.32267
+            Roll: -86.0246277
           }
           Scale {
             X: 0.0282901824
@@ -356,7 +384,7 @@
             Z: 0.0282901824
           }
         }
-        ParentId: 2899934249578619069
+        ParentId: 2321734642485585750
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }

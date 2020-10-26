@@ -107,15 +107,6 @@ Assets {
   }
 }
 Assets {
-  Id: 1538208180143166038
-  Name: "Wispy Fog Volume VFX"
-  PlatformAssetType: 8
-  PrimaryAsset {
-    AssetType: "VfxBlueprintAssetRef"
-    AssetId: "fxbp_fog_volume_vfx"
-  }
-}
-Assets {
   Id: 1490857703873336751
   Name: "Small Open Crate"
   PlatformAssetType: 1

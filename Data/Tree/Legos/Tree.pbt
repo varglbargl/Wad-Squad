@@ -5,12 +5,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -690.688
-      Y: -416.477936
-      Z: 51.7791443
+      X: -1228.76855
+      Y: -1476.77759
+      Z: 51.7791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -162,12 +162,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -510.688
-      Y: -429.977936
-      Z: 51.7791443
+      X: -1048.48584
+      Y: -1485.72754
+      Z: 51.7791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -325,12 +325,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -450.688
-      Y: -434.477936
-      Z: 51.7791443
+      X: -988.391113
+      Y: -1488.71069
+      Z: 51.7791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -482,12 +482,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -768.734375
-      Y: -455.782379
-      Z: 12.7791443
+      X: -1305.79785
+      Y: -1518.04077
+      Z: 12.7791138
     }
     Rotation {
-      Yaw: -94.5777588
+      Yaw: -93.1305237
     }
     Scale {
       X: 0.3
@@ -639,12 +639,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -765.734375
-      Y: -425.782379
-      Z: 32.2791443
+      X: -1303.55469
+      Y: -1487.97461
+      Z: 32.2791138
     }
     Rotation {
-      Yaw: -94.5777588
+      Yaw: -93.1305237
     }
     Scale {
       X: 0.3
@@ -796,12 +796,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -719.595215
-      Y: -414.467316
-      Z: 32.2791443
+      X: -1257.71973
+      Y: -1475.49792
+      Z: 32.2791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -955,12 +955,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -750.094238
-      Y: -411.427521
-      Z: 12.7791443
+      X: -1288.28418
+      Y: -1473.22888
+      Z: 12.7791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -1114,12 +1114,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -376.594727
-      Y: -454.927521
-      Z: 32.2791443
+      X: -913.805176
+      Y: -1507.28259
+      Z: 32.2791138
     }
     Rotation {
-      Yaw: 85.4221497
+      Yaw: 86.869
     }
     Scale {
       X: 0.3
@@ -1273,12 +1273,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -378.094727
-      Y: -484.927643
-      Z: 12.7791443
+      X: -914.547852
+      Y: -1537.31091
+      Z: 12.7791138
     }
     Rotation {
-      Yaw: 85.4221497
+      Yaw: 86.869
     }
     Scale {
       X: 0.3
@@ -1432,12 +1432,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -382.594727
-      Y: -544.926392
-      Z: 12.7791443
+      X: -917.529785
+      Y: -1597.40393
+      Z: 12.7791138
     }
     Rotation {
-      Yaw: 85.4221497
+      Yaw: 86.869
     }
     Scale {
       X: 0.3
@@ -1591,12 +1591,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -381.094727
-      Y: -514.927
-      Z: 32.2791443
+      X: -916.788086
+      Y: -1567.37622
+      Z: 32.2791138
     }
     Rotation {
-      Yaw: 85.4221497
+      Yaw: 86.869
     }
     Scale {
       X: 0.3
@@ -1750,12 +1750,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -660.094238
-      Y: -418.927521
-      Z: 32.2791443
+      X: -1198.12402
+      Y: -1478.45398
+      Z: 32.2791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -1909,12 +1909,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -600.094727
-      Y: -423.427521
-      Z: 32.2791443
+      X: -1138.02979
+      Y: -1481.4375
+      Z: 32.2791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -2068,12 +2068,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -540.094727
-      Y: -427.927521
-      Z: 32.2791443
+      X: -1077.93457
+      Y: -1484.4209
+      Z: 32.2791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -2227,12 +2227,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -480.094727
-      Y: -432.427521
-      Z: 32.2791443
+      X: -1017.83936
+      Y: -1487.40356
+      Z: 32.2791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -2386,12 +2386,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -420.094727
-      Y: -436.927521
-      Z: 32.2791443
+      X: -957.745117
+      Y: -1490.38733
+      Z: 32.2791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -2545,12 +2545,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -390.094727
-      Y: -438.427521
-      Z: 12.7791443
+      X: -927.717773
+      Y: -1491.12891
+      Z: 12.7791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -2704,12 +2704,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -450.094727
-      Y: -433.927521
-      Z: 12.7791443
+      X: -987.812
+      Y: -1488.14587
+      Z: 12.7791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -2863,12 +2863,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -510.094727
-      Y: -429.427521
-      Z: 12.7791443
+      X: -1047.90723
+      Y: -1485.16223
+      Z: 12.7791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -3022,12 +3022,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -570.094727
-      Y: -424.927521
-      Z: 12.7791443
+      X: -1108.00098
+      Y: -1482.17883
+      Z: 12.7791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -3181,12 +3181,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -630.094238
-      Y: -420.427521
-      Z: 12.7791443
+      X: -1168.09473
+      Y: -1479.1958
+      Z: 12.7791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.869064
     }
     Scale {
       X: 0.3
@@ -3340,12 +3340,12 @@ Objects {
   Name: "Lego Brick"
   Transform {
     Location {
-      X: -690.094727
-      Y: -415.927521
-      Z: 12.7791443
+      X: -1228.19
+      Y: -1476.2124
+      Z: 12.7791138
     }
     Rotation {
-      Yaw: 175.422195
+      Yaw: 176.86908
     }
     Scale {
       X: 0.3
@@ -3499,8 +3499,8 @@ Objects {
   Name: "Neon Saw"
   Transform {
     Location {
-      X: 398.928223
-      Y: 1136.57227
+      X: -152.021484
+      Y: 50.4403534
       Z: -3.05175781e-05
     }
     Rotation {

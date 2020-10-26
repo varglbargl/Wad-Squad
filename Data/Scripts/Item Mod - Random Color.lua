@@ -1,6 +1,7 @@
 ﻿local Utils = require(script:GetCustomProperty("Utils"))
 
 local PRIMARY_ONLY = script:GetCustomProperty("PrimaryOnly")
+local VALUE = script:GetCustomProperty("Value")
 
 local colors = nil
 
@@ -29,7 +30,7 @@ function runScript(item)
 
   Utils.traverseHierarchy(item, function(node)
     if not node:GetCustomProperty("SkipMod") and node:IsA("CoreMesh") or node:IsA("Light") then
-      node:SetColor(randomColor)
+      node:SetColor(randomColor * VALUE)
     end
   end)
 end

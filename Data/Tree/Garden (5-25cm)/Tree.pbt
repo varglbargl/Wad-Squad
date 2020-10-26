@@ -182,13 +182,13 @@ Objects {
   }
 }
 Objects {
-  Id: 5775154100793075744
-  Name: "Plumbing"
+  Id: 16898129221628889418
+  Name: "Pipe Bases"
   Transform {
     Location {
-      X: 8125.625
-      Y: 5494.78564
-      Z: 465.308533
+      X: 1610.70471
+      Y: 8530.21289
+      Z: -340.328979
     }
     Rotation {
     }
@@ -207,36 +207,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Plumbing"
-  }
-}
-Objects {
-  Id: 16621570904588849661
-  Name: "Birbs"
-  Transform {
-    Location {
-      X: 4164.58887
-      Y: -23215.002
-      Z: 99.7142
-    }
-    Rotation {
-    }
-    Scale {
-      X: 3.33333325
-      Y: 3.33333325
-      Z: 3.33333325
-    }
-  }
-  ParentId: 4089793586574305372
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Birbs"
+    FilePartitionName: "Pipe Bases"
   }
 }
 Objects {

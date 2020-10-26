@@ -585,18 +585,6 @@ Objects {
   ParentId: 7000483169040515601
   TemplateInstance {
     ParameterOverrideMap {
-      key: 1993258957397297549
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:color"
-          Color {
-            R: 5
-            A: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
       key: 7850039474666247473
       value {
         Overrides {
@@ -614,14 +602,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.11582601
-            Y: 1.11582601
-            Z: 1.11582601
           }
         }
       }

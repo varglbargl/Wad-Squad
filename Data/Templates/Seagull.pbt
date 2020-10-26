@@ -142,7 +142,7 @@
           }
           Overrides {
             Name: "cs:AnimationFrequency"
-            Float: 3
+            Float: 4
           }
         }
         Collidable_v2 {

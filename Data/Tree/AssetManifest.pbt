@@ -80,21 +80,12 @@ Assets {
   }
 }
 Assets {
-  Id: 14568125993563449440
-  Name: "Underwater Post Process"
-  PlatformAssetType: 20
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "fxbp_post_process_water"
-  }
-}
-Assets {
-  Id: 14476679536478096151
-  Name: "Fantasy Castle Pillar 02 - Base"
+  Id: 14322581174715889896
+  Name: "Chest Small Opened"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_pillar_002_base"
+    AssetId: "sm_chest_002"
   }
 }
 Assets {
@@ -107,30 +98,12 @@ Assets {
   }
 }
 Assets {
-  Id: 13542265519619239198
-  Name: "Bubble"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxmi_bubble"
-  }
-}
-Assets {
   Id: 13282259600726273799
   Name: "Cylinder"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_002"
-  }
-}
-Assets {
-  Id: 12095835209017042614
-  Name: "Cube"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cube_002"
   }
 }
 Assets {
@@ -170,15 +143,6 @@ Assets {
   }
 }
 Assets {
-  Id: 10914354925542967262
-  Name: "Fantasy Castle Pillar 02 - Mid"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_pillar_002_mid"
-  }
-}
-Assets {
   Id: 10857055917345919521
   Name: "Cone - Concave"
   PlatformAssetType: 1
@@ -188,39 +152,12 @@ Assets {
   }
 }
 Assets {
-  Id: 10185185126137181949
-  Name: "Wedge - Concave"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_wedge_curved_concave_001"
-  }
-}
-Assets {
   Id: 10184847056121543272
   Name: "Basic Material"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_basic_pbr_material_001"
-  }
-}
-Assets {
-  Id: 9875190888854944490
-  Name: "Prism - 6-Sided Polished"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prism_hexagon_hq_001"
-  }
-}
-Assets {
-  Id: 9825684335820985729
-  Name: "Metal Basic Steel"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "steel_001"
   }
 }
 Assets {
@@ -239,33 +176,6 @@ Assets {
   PrimaryAsset {
     AssetType: "DecalBlueprintAssetRef"
     AssetId: "dcl_basicShapes"
-  }
-}
-Assets {
-  Id: 8828784660932940028
-  Name: "Decal Sci-fi Details 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_scf_details_001_ref"
-  }
-}
-Assets {
-  Id: 8384271535726202235
-  Name: "Stone Railing Curved 6m"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_railing_6m_bend_001"
-  }
-}
-Assets {
-  Id: 8063868133702323256
-  Name: "Sphere - Half Thin"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_hemisphere_002"
   }
 }
 Assets {
@@ -305,30 +215,12 @@ Assets {
   }
 }
 Assets {
-  Id: 6669114002000057967
-  Name: "Plane 1m - One Sided"
+  Id: 5934322225461766596
+  Name: "Road Cone 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_plane_1m_001"
-  }
-}
-Assets {
-  Id: 6643758699994281865
-  Name: "Ring 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_torus_002"
-  }
-}
-Assets {
-  Id: 5783719702605736075
-  Name: "Stone Basic"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "stone_001"
+    AssetId: "sm_traffic_cone_001"
   }
 }
 Assets {
@@ -341,12 +233,12 @@ Assets {
   }
 }
 Assets {
-  Id: 4846662083301446138
-  Name: "Craftsman Part - Stair Balust"
+  Id: 4684035951821962341
+  Name: "Baseball Bat"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "urb_sub_craftsman_part_stair_001_balust"
+    AssetId: "sm_weap_modern_bat_001"
   }
 }
 Assets {
@@ -377,39 +269,12 @@ Assets {
   }
 }
 Assets {
-  Id: 2971947114929493625
-  Name: "Ceramic Tiles Square 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_ceramic_tile_square_001"
-  }
-}
-Assets {
   Id: 2678246725600216788
   Name: "Chain Ceiling Anchor"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_chain_top_001"
-  }
-}
-Assets {
-  Id: 1794493300960258535
-  Name: "Wedge - Convex"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_wedge_curved_convex_001"
-  }
-}
-Assets {
-  Id: 1550943640885000065
-  Name: "Lense - Half"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_half_lense_001"
   }
 }
 Assets {

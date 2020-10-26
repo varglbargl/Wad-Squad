@@ -44,5 +44,7 @@ local titles = {
 }
 
 if ACTIVATED then
-  TITLE.text = titles[math.random(1, #titles)]
+  local newTitle = titles[math.random(1, #titles)]
+  TITLE.text = newTitle
+  script.parent.parent.name = newTitle .. " on VHS"
 end
