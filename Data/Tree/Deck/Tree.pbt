@@ -1,6 +1,295 @@
 ﻿Name: "Deck"
 RootId: 196529515263058465
 Objects {
+  Id: 15617326038710828183
+  Name: "Exit Ramp"
+  Transform {
+    Location {
+      X: -5901.45
+      Y: -2132.89063
+      Z: 764.949829
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 196529515263058465
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Exit Ramp"
+  }
+}
+Objects {
+  Id: 11020907991851696396
+  Name: "Picnic Table"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 196529515263058465
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12306080997457443953
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Picnic Table"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 2974.26221
+            Y: 2354.22852
+            Z: 43.0003662
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 8.5505228
+            Y: 8.5505228
+            Z: 8.5505228
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 12421208585973494963
+    }
+  }
+}
+Objects {
+  Id: 14809922630628956038
+  Name: "Barbeque"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 196529515263058465
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3004924247750596899
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7185762831223367713
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8652876172649815204
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10032257227474600602
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Barbeque"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 957.012207
+            Y: -4604.16602
+            Z: 42.6672363
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 8.70654583
+            Y: 8.70654583
+            Z: 8.70654583
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11258674057169788209
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11565643735005789836
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14125631907147337255
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16037026276849563067
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 20.1822891
+            Y: 0.70334053
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17143241919897890140
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 5364466818030435923
+    }
+  }
+}
+Objects {
+  Id: 1285186359016732682
+  Name: "Picnic Table"
+  Transform {
+    Location {
+      X: 2234.26221
+      Y: 9399.22852
+      Z: 1068.00037
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 8.5505228
+      Y: 8.5505228
+      Z: 8.5505228
+    }
+  }
+  ParentId: 196529515263058465
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12306080997457443953
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Picnic Table"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1770
+            Y: 2835
+            Z: 43.0003662
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 179.999954
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 8.5505228
+            Y: 8.5505228
+            Z: 8.5505228
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 12421208585973494963
+    }
+  }
+}
+Objects {
   Id: 1665447141293347660
   Name: "Ditch"
   Transform {
@@ -358,16 +647,16 @@ Objects {
   Name: "Deck Stairs"
   Transform {
     Location {
-      X: 4776.48926
-      Y: -709.829285
-      Z: -900
+      X: 4738.55029
+      Y: -669.677246
+      Z: -935
     }
     Rotation {
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 1.03487492
+      Y: 1.03487492
+      Z: 1.03487492
     }
   }
   ParentId: 196529515263058465
@@ -395,10 +684,10 @@ Objects {
       Y: -1049.81055
     }
     Rotation {
-      Yaw: -89.9999847
+      Yaw: -90
     }
     Scale {
-      X: 8.89726
+      X: 8.51453114
       Y: 4.60153961
       Z: 4.70000029
     }
@@ -462,12 +751,12 @@ Objects {
   Name: "Craftsman Porch Fence Post 01"
   Transform {
     Location {
-      X: 1506.99512
-      Y: -4506.93359
-      Z: 100.000916
+      X: 1506.995
+      Y: -4394.86621
+      Z: 100.000885
     }
     Rotation {
-      Yaw: -90.0000153
+      Yaw: -90
     }
     Scale {
       X: 4.25700045
@@ -573,6 +862,61 @@ Objects {
   ParentId: 17189965076626763784
   TemplateInstance {
     ParameterOverrideMap {
+      key: 2695042943239018869
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -7.2071476
+            Y: 127.067673
+            Z: 280.000031
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 87.8810349
+            Yaw: -4.76358032
+            Roll: -94.7633057
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7527012348027242588
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -199.180557
+            Y: 127.067673
+            Z: 422
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7786824198077965300
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -347.207092
+            Y: 52.067688
+            Z: 1065.00037
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -37
+            Yaw: 5.09982442e-07
+            Roll: 179.999954
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 11072521076370304172
       value {
         Overrides {
@@ -598,6 +942,38 @@ Objects {
             X: 1
             Y: 1
             Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11789769280490336576
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 192.792969
+            Y: 127.067673
+            Z: 140.000015
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12952506905225499921
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 360.800903
+            Y: 127.067673
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 88.8219681
+            Roll: -89.9993286
           }
         }
       }

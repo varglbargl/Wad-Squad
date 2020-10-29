@@ -3607,6 +3607,254 @@ Objects {
   }
 }
 Objects {
+  Id: 17149370810057763325
+  Name: "Table Saw"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15764376009576159070
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10168228433512318985
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Table Saw"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -5405
+            Y: 2758.54785
+            Z: 1075
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.16420162
+            Y: 1.16420162
+            Z: 1.16420162
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12638723458863558790
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15552747994023452413
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15739022410819096528
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2979921497049182247
+    }
+  }
+}
+Objects {
+  Id: 16236285497942867476
+  Name: "Moundhog"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15764376009576159070
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1420978674881812787
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Moundhog"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1890.01
+            Y: -11189.999
+            Z: 120
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4388860446912945076
+    }
+  }
+}
+Objects {
+  Id: 13130517707376070952
+  Name: "Moundhog"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15764376009576159070
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1420978674881812787
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Moundhog"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -5173.11523
+            Y: -5344.12842
+            Z: 251.68988
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.899999857
+            Y: 0.899999857
+            Z: 0.899999857
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4105729592059083651
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5794715425047713933
+      value {
+        Overrides {
+          Name: "cs:Force"
+          Float: 16
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8131205970773532333
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -10.2749672
+            Y: 1.48495674
+            Z: 12.0820408
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -30.1665344
+            Yaw: -66.7486267
+            Roll: -42.0341492
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.157423496
+            Y: 0.157423496
+            Z: 0.157423496
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4388860446912945076
+    }
+  }
+}
+Objects {
+  Id: 8063852604038436876
+  Name: "Static Level"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15764376009576159070
+  ChildIds: 14383419372897064754
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  NetworkContext {
+    Type: RuntimeStatic
+  }
+}
+Objects {
   Id: 14383419372897064754
   Name: "Yard"
   Transform {
@@ -3620,7 +3868,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15764376009576159070
+  ParentId: 8063852604038436876
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

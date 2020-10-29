@@ -2,7 +2,7 @@
 RootId: 12276776014136101490
 Objects {
   Id: 4893072624173428966
-  Name: "Patio"
+  Name: "Patio (25-50cm)"
   Transform {
     Location {
       X: 7938.90625
@@ -26,7 +26,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Patio_1"
+    FilePartitionName: "Patio (25-50cm)"
   }
 }
 Objects {
@@ -89,7 +89,7 @@ Objects {
 }
 Objects {
   Id: 15606680952095223532
-  Name: "Sandbox (1-5cm)"
+  Name: "Sandbox (2-5cm)"
   Transform {
     Location {
     }
@@ -110,6 +110,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Sandbox (1-5cm)"
+    FilePartitionName: "Sandbox (2-5cm)"
   }
 }

@@ -20,8 +20,7 @@
         ChildIds: 3402082073602017913
         ChildIds: 11022965024400044812
         ChildIds: 13922809535200260785
-        ChildIds: 7489353676962596651
-        ChildIds: 10629473638286746111
+        ChildIds: 1164662432721638468
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -114,10 +113,6 @@
             Float: 1
           }
           Overrides {
-            Name: "bp:Brightness"
-            Float: 1
-          }
-          Overrides {
             Name: "bp:Background Clouds"
             Bool: true
           }
@@ -185,10 +180,6 @@
             Float: 0
           }
           Overrides {
-            Name: "bp:Intensity"
-            Float: 3
-          }
-          Overrides {
             Name: "bp:Lower Hemisphere Color"
             Color {
               R: 0.0666259378
@@ -220,11 +211,15 @@
           Overrides {
             Name: "bp:Tint Color"
             Color {
-              R: 0.502886474
-              G: 0.48514995
-              B: 0.752942204
+              R: 0.669526875
+              G: 0.652470052
+              B: 0.91
               A: 1
             }
+          }
+          Overrides {
+            Name: "bp:Intensity"
+            Float: 2
           }
         }
         Collidable_v2 {
@@ -506,51 +501,8 @@
         }
       }
       Objects {
-        Id: 7489353676962596651
+        Id: 1164662432721638468
         Name: "AutoExposure Post Process"
-        Transform {
-          Location {
-            X: -6834.01953
-            Y: -1296.80762
-            Z: -4011.93359
-          }
-          Rotation {
-            Roll: -11.3628759
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4452677962421968428
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Max Brightness"
-            Float: 1
-          }
-          Overrides {
-            Name: "bp:Speed Up"
-            Float: 1
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 1029412034706570307
-          }
-          TeamSettings {
-          }
-        }
-      }
-      Objects {
-        Id: 10629473638286746111
-        Name: "Radial Blur Post Process"
         Transform {
           Location {
           }
@@ -566,27 +518,7 @@
         UnregisteredParameters {
           Overrides {
             Name: "bp:Blend Weight"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Brightness Shift"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Clear Radius"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Center Area Contrast"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Blur Distance"
-            Float: 0
-          }
-          Overrides {
-            Name: "bp:Effect Strength"
-            Float: 0
+            Float: 0.5
           }
         }
         Collidable_v2 {
@@ -597,7 +529,7 @@
         }
         Blueprint {
           BlueprintAsset {
-            Id: 537661418043671163
+            Id: 1029412034706570307
           }
           TeamSettings {
           }
@@ -665,15 +597,6 @@
       PrimaryAsset {
         AssetType: "BlueprintAssetRef"
         AssetId: "fxbp_post_process_auto_exposure"
-      }
-    }
-    Assets {
-      Id: 537661418043671163
-      Name: "Radial Blur Post Process"
-      PlatformAssetType: 20
-      PrimaryAsset {
-        AssetType: "BlueprintAssetRef"
-        AssetId: "fxbp_ppm_radial_blur"
       }
     }
     PrimaryAssetId {

@@ -813,9 +813,9 @@
         Name: "2D Basic Shapes Decal"
         Transform {
           Location {
-            X: -33.9179688
-            Y: -0.00048828125
-            Z: 89.2105713
+            X: -31.4206219
+            Y: -0.000626963039
+            Z: 81.5551529
           }
           Rotation {
             Pitch: 20.0231705
@@ -823,9 +823,9 @@
             Roll: -0.000183105469
           }
           Scale {
-            X: 0.265667349
-            Y: 0.247047037
-            Z: 0.269813299
+            X: 0.222429082
+            Y: 0.206840038
+            Z: 0.441902459
           }
         }
         ParentId: 15199952586169908909
@@ -2473,26 +2473,26 @@
         Name: "2D Basic Shapes Decal"
         Transform {
           Location {
-            X: 86.4720383
-            Y: -0.295053184
-            Z: 60.1987267
+            X: 91.1410904
+            Y: -0.405576587
+            Z: 38.4247
           }
           Rotation {
-            Pitch: 20.0231705
-            Yaw: -0.000183105469
-            Roll: -0.000183105469
+            Pitch: 12.4799643
+            Yaw: -0.0118408203
+            Roll: 0.356944263
           }
           Scale {
-            X: 0.17085579
-            Y: 0.451753974
-            Z: 0.710385382
+            X: 0.0930008888
+            Y: 0.496983379
+            Z: 0.454005092
           }
         }
         ParentId: 9638503088899042714
         UnregisteredParameters {
           Overrides {
             Name: "bp:Blur"
-            Float: 0.143238187
+            Float: 0.263816446
           }
           Overrides {
             Name: "bp:Stroke Width"
@@ -2534,26 +2534,26 @@
         Name: "2D Basic Shapes Decal"
         Transform {
           Location {
-            X: 122.827187
-            Y: -0.295103133
-            Z: 57.801384
+            X: 116.850525
+            Y: -0.707165122
+            Z: 48.3016243
           }
           Rotation {
-            Pitch: 20.0231705
-            Yaw: -0.000152587891
-            Roll: -0.000183105469
+            Pitch: 2.37155771
+            Yaw: 88.8521881
+            Roll: 17.3768444
           }
           Scale {
-            X: 0.288063347
-            Y: 0.449656188
-            Z: 0.707086
+            X: 0.605089784
+            Y: 0.323621452
+            Z: 0.32533282
           }
         }
         ParentId: 9638503088899042714
         UnregisteredParameters {
           Overrides {
             Name: "bp:Blur"
-            Float: 0.530811131
+            Float: 0.298267365
           }
           Overrides {
             Name: "bp:Stroke Width"
@@ -2574,7 +2574,7 @@
           }
           Overrides {
             Name: "bp:Sides"
-            Int: 32
+            Int: 3
           }
           Overrides {
             Name: "bp:Sort Order"

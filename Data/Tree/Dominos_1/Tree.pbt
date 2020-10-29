@@ -1,6 +1,139 @@
 ﻿Name: "Dominos_1"
 RootId: 3642746188604673888
 Objects {
+  Id: 17874556797374924277
+  Name: "Domino"
+  Transform {
+    Location {
+      X: -4161.13184
+      Y: -2201.64966
+      Z: 567.835449
+    }
+    Rotation {
+      Pitch: -89.3769226
+      Yaw: 7.99889231
+      Roll: -54.0031128
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: -0.3
+    }
+  }
+  ParentId: 3642746188604673888
+  ChildIds: 797715436077941968
+  ChildIds: 8169208647068417513
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 8169208647068417513
+  Name: "Item Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17874556797374924277
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.3
+            Y: 0.900000036
+            Z: 1.9
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 5180597240167821758
+            SubObjectId: 2927526047626853448
+            InstanceId: 797715436077941968
+            TemplateId: 11050752117790028570
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 797715436077941968
+  Name: "Domino"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17874556797374924277
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8900810354533633298
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Domino"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 45
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11050752117790028570
+    }
+  }
+}
+Objects {
   Id: 2727039102662106109
   Name: "Domino"
   Transform {

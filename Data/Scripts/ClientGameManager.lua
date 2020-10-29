@@ -1,9 +1,5 @@
 ﻿local Utils = require(script:GetCustomProperty("Utils"))
 
-local CHUNK_1 = script:GetCustomProperty("Chunk1"):WaitForObject()
-local CHUNK_2 = script:GetCustomProperty("Chunk2"):WaitForObject()
-
-local CHUNK_LOADER_2 = script:GetCustomProperty("ChunkLoader2"):WaitForObject()
 local CHUNK_UNLOADER_1 = script:GetCustomProperty("ChunkUnloader1"):WaitForObject()
 
 local unloadedChunks = {grabbed = {}}
@@ -11,16 +7,24 @@ local unloadedChunks = {grabbed = {}}
 local WAD = script:GetCustomProperty("Wad")
 local CAMERA_FOLLOW = script:GetCustomProperty("CameraFollow"):WaitForObject()
 local ITEMS = script:GetCustomProperty("Items"):WaitForObject()
-local UI_MANAGER = script:GetCustomProperty("UIManager")
+local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
 
 local clientPlayer = Game.GetLocalPlayer()
 local clientWad = nil
 local spawnHeight = 600
 
+local chunk1 = ITEMS:FindDescendantsByName("Chunk 1")
+local chunk2 = ITEMS:FindDescendantsByName("Chunk 2")
+local chunk3 = ITEMS:FindDescendantsByName("Chunk 3")
+
+
 function handleJoined(player)
   if player.id ~= clientPlayer.id then return end
 
   print(player.name .. " joined the new WAD SQUAD")
+
+  unloadChunk(chunk2, "chunk2")
+  unloadChunk(chunk3, "chunk3")
 
   clientWad = World.SpawnAsset(WAD, {position = player:GetWorldPosition() + Vector3.New(0, 0, spawnHeight)})
   clientWad.clientUserData["Size"] = 1
@@ -34,9 +38,6 @@ function handleJoined(player)
   Task.Spawn(function() wadControl.context.issueWad(player) end)
 
   Task.Spawn(function() tellServerAboutWad() end)
-
-  -- regenerateAllItems()
-  unloadChunk(CHUNK_2)
 end
 
 function handleLeft(player)
@@ -49,7 +50,6 @@ function tellServerAboutWad()
   tellServerAboutWad()
 end
 
--- TODO: How does this work now?
 function restoreAllItems()
   for _, chunk in pairs(unloadedChunks) do
     for _, item in ipairs(chunk) do
@@ -81,7 +81,12 @@ function loadItem(itemInfo)
   end
 end
 
-function storeItem(item, itemParent, chunk)
+function pickUpItem(item, wadSize)
+  UI_MANAGER.context.displayItem(item)
+  UI_MANAGER.context.updateScore(wadSize)
+end
+
+function storeItem(item, itemParent, chunkName)
   local itemInfo = {
     name = item.name,
     parent = itemParent,
@@ -91,53 +96,49 @@ function storeItem(item, itemParent, chunk)
     scale = item:GetScale()
   }
 
-  table.insert(unloadedChunks[chunk], itemInfo)
+  table.insert(unloadedChunks[chunkName], itemInfo)
 end
 
-function loadChunk(chunk)
-  if not unloadedChunks[chunk] then return end
+function loadChunk(chunkName)
+  if not unloadedChunks[chunkName] then return end
 
-  for _, item in ipairs(unloadedChunks[chunk]) do
+  for _, item in ipairs(unloadedChunks[chunkName]) do
     loadItem(item)
-
-    -- Task.Wait(0.01)
   end
 
-  table.remove(unloadedChunks[chunk])
+  unloadedChunks[chunkName] = nil
 end
 
-function unloadChunk(chunk)
-  unloadedChunks[chunk] = {}
-  Utils.traverseHierarchy(chunk, function(node)
-    if node.name == "Pickup Sphere" or node.name == "Pickup Box" then
-      local itemToUnload = Utils.findItem(node.parent)
+function unloadChunk(chunks, chunkName)
+  unloadedChunks[chunkName] = {}
 
-      if Object.IsValid(itemToUnload) then
-        storeItem(itemToUnload, node.parent, chunk)
-        itemToUnload:Destroy()
-        -- Task.Wait()
+  for _, chunk in ipairs(chunks) do
+    Utils.traverseHierarchy(chunk, function(node)
+      if node.name == "Pickup Sphere" or node.name == "Pickup Box" then
+        local itemToUnload = Utils.findItem(node.parent)
+
+        if Object.IsValid(itemToUnload) then
+          storeItem(itemToUnload, node.parent, chunkName)
+          itemToUnload:Destroy()
+          return true
+        end
       end
-    end
-  end)
+    end)
+  end
 end
 
-local chunkLoaderTwoEvent = nil
 local chunkUnloaderOneEvent = nil
 
 function unloadChunkOne()
-  print("Attempting to unload chunk 1")
+  print("Attempting to unload chunk1")
   chunkUnloaderOneEvent:Disconnect()
-  unloadChunk(CHUNK_1)
+  unloadChunk(chunk1, "chunk1")
 end
 
-function loadChunkTwo()
-  print("Attempting to load chunk 2")
-  chunkLoaderTwoEvent:Disconnect()
-  loadChunk(CHUNK_2)
-  chunkUnloaderOneEvent = CHUNK_UNLOADER_1.endOverlapEvent:Connect(unloadChunkOne)
-end
+chunkUnloaderOneEvent = CHUNK_UNLOADER_1.endOverlapEvent:Connect(unloadChunkOne)
 
-chunkLoaderTwoEvent = CHUNK_LOADER_2.beginOverlapEvent:Connect(loadChunkTwo)
+Events.Connect("LoadChunk", loadChunk)
+Events.Connect("StoreItem", storeItem)
 
 Game.playerJoinedEvent:Connect(handleJoined)
 Game.playerLeftEvent:Connect(handleLeft)

@@ -1,6 +1,506 @@
 ﻿Name: "Birbs"
 RootId: 16621570904588849661
 Objects {
+  Id: 202218572013349358
+  Name: "Bird"
+  Transform {
+    Location {
+      X: 1883.88074
+      Y: 8799.44141
+      Z: 28.6530457
+    }
+    Rotation {
+      Yaw: 16.3955631
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16621570904588849661
+  ChildIds: 9018944332187907468
+  ChildIds: 15750749752986962056
+  ChildIds: 16232370460696255814
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16232370460696255814
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+      X: -0.0264161639
+      Y: 0.351332933
+      Z: -45.136795
+    }
+    Rotation {
+      Yaw: -16.3955784
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 202218572013349358
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Speed"
+      Vector {
+        Z: 2
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 15750749752986962056
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 202218572013349358
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.1
+            Y: 1.1
+            Z: 1.1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 14.0744629
+            Z: 28.5162506
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 9018944332187907468
+  Name: "Bluebird"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 202218572013349358
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14477246386612179014
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bluebird"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 3.51625061
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1669534811726059103
+    }
+  }
+}
+Objects {
+  Id: 15725676190062534937
+  Name: "Bird"
+  Transform {
+    Location {
+      X: 1621.13599
+      Y: 1554.91504
+      Z: -6.10351563e-05
+    }
+    Rotation {
+      Yaw: -9.34539795
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16621570904588849661
+  ChildIds: 8108102579348240741
+  ChildIds: 17164834886239320300
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17164834886239320300
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15725676190062534937
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.1
+            Y: 1.1
+            Z: 1.1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 14.0744629
+            Z: 28.5162506
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 8108102579348240741
+  Name: "Bluebird"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15725676190062534937
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14477246386612179014
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bluebird"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 3.51625061
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1669534811726059103
+    }
+  }
+}
+Objects {
+  Id: 11304268303232657087
+  Name: "Bird"
+  Transform {
+    Location {
+      X: 1331.59253
+      Y: 1778.39014
+      Z: -6.10351563e-05
+    }
+    Rotation {
+      Yaw: 108.376419
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16621570904588849661
+  ChildIds: 8491979421792949560
+  ChildIds: 16063340416036936364
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16063340416036936364
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11304268303232657087
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.1
+            Y: 1.1
+            Z: 1.1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 14.0744629
+            Z: 28.5162506
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 8491979421792949560
+  Name: "Bluebird"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11304268303232657087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14477246386612179014
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bluebird"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 3.51625061
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1669534811726059103
+    }
+  }
+}
+Objects {
+  Id: 3504299184705829141
+  Name: "Bird"
+  Transform {
+    Location {
+      X: 383.123779
+      Y: 775.741211
+      Z: -0.000122070313
+    }
+    Rotation {
+      Yaw: 16.3953705
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16621570904588849661
+  ChildIds: 1544245160730796779
+  ChildIds: 16667537588037123191
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16667537588037123191
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3504299184705829141
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.1
+            Y: 1.1
+            Z: 1.1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 14.0744629
+            Z: 28.5162506
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 1544245160730796779
+  Name: "Bluebird"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3504299184705829141
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14477246386612179014
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bluebird"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 3.51625061
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1669534811726059103
+    }
+  }
+}
+Objects {
   Id: 11696612101996949347
   Name: "Bird"
   Transform {
@@ -463,10 +963,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Chirp"
-          Bool: true
         }
       }
     }
@@ -947,12 +1443,12 @@ Objects {
   Name: "Bird"
   Transform {
     Location {
-      X: 506.49707
-      Y: 888.585938
+      X: 1615.21387
+      Y: 727.171875
       Z: -0.000122070313
     }
     Rotation {
-      Yaw: 16.3953037
+      Yaw: -143.182526
     }
     Scale {
       X: 1

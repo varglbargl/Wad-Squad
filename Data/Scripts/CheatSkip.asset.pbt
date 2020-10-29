@@ -12,6 +12,10 @@
         Name: "cs:SizeBoost"
         Float: 5
       }
+      Overrides {
+        Name: "cs:ChunkToLoad"
+        Int: 0
+      }
     }
   }
   SerializationVersion: 65

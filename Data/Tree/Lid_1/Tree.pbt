@@ -1,23 +1,26 @@
 ﻿Name: "Lid_1"
-RootId: 17231945153252431892
+RootId: 3822348364229802122
 Objects {
-  Id: 11421337427447233664
+  Id: 13082820814358383754
   Name: "Sci-fi Chair Armrest 01"
   Transform {
     Location {
-      X: 14.493886
-      Y: -3.7495091
-      Z: 0.000155448914
+      X: 4.34561539
+      Y: 0.401609659
+      Z: 0.000203833464
     }
     Rotation {
+      Pitch: 6.14717e-05
+      Yaw: 86.3788071
+      Roll: 4.96707871e-05
     }
     Scale {
       X: 3
-      Y: 3.70000076
-      Z: 2.9
+      Y: 3.70000148
+      Z: 2.90000129
     }
   }
-  ParentId: 17231945153252431892
+  ParentId: 3822348364229802122
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -52,15 +55,18 @@ Objects {
   }
 }
 Objects {
-  Id: 10613388688491018992
+  Id: 7694183654180953377
   Name: "Cylinder - Polished"
   Transform {
     Location {
-      X: -3.97341919
-      Y: 1.24957991
-      Z: 117.542038
+      X: -3.97336221
+      Y: 1.24937749
+      Z: 117.541962
     }
     Rotation {
+      Pitch: 6.14717e-05
+      Yaw: 86.3788223
+      Roll: 4.96707908e-05
     }
     Scale {
       X: 5.99999905
@@ -68,7 +74,7 @@ Objects {
       Z: 0.390094399
     }
   }
-  ParentId: 17231945153252431892
+  ParentId: 3822348364229802122
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -109,17 +115,17 @@ Objects {
   }
 }
 Objects {
-  Id: 12962258711546452803
+  Id: 4022371446744170658
   Name: "Cone - Hollow"
   Transform {
     Location {
-      X: -5.26016235
-      Y: 1.24991882
-      Z: 159.351868
+      X: -5.26010418
+      Y: 1.24994624
+      Z: 159.349731
     }
     Rotation {
-      Pitch: -3.4150944e-05
-      Yaw: -179.999954
+      Pitch: -3.05175781e-05
+      Yaw: 26.9973946
       Roll: 179.999954
     }
     Scale {
@@ -128,7 +134,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 17231945153252431892
+  ParentId: 3822348364229802122
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -177,7 +183,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3754306951665476168
+  Id: 4860486353537197749
   Name: "Cone - Truncated Hollow Wide Thin"
   Transform {
     Location {
@@ -195,7 +201,7 @@ Objects {
       Z: 0.920303464
     }
   }
-  ParentId: 17231945153252431892
+  ParentId: 3822348364229802122
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

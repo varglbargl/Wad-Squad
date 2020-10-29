@@ -6430,6 +6430,71 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 839148010060958333
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1264300229946779555
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2907331380138297884
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2924342544334310977
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3360628069500475277
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 3876682450171662789
       value {
         Overrides {
@@ -6456,6 +6521,175 @@ Objects {
             Y: 1.2
             Z: 1.2
           }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5259088660067348224
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5842755909847712981
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5890378400939994708
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6902662599779254215
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7864487564896627661
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8226659288910753573
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8582972687049812162
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9400383052909993294
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9440196399255468685
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11107486325506559905
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12835681763368769947
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12918045132458197985
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15571248655605506258
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
         }
       }
     }

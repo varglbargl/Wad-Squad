@@ -7,7 +7,7 @@
       RootId: 2376932385053280791
       Objects {
         Id: 2376932385053280791
-        Name: "Seed Packet"
+        Name: "Item - Seed Packet"
         Transform {
           Scale {
             X: 1
@@ -17,6 +17,8 @@
         }
         ParentId: 4781671109827199097
         ChildIds: 14619936719777826877
+        UnregisteredParameters {
+        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -66,7 +68,7 @@
           }
           Rotation {
             Pitch: 90
-            Yaw: -19.47122
+            Yaw: -19.4712219
             Roll: -19.4712524
           }
           Scale {
@@ -119,19 +121,19 @@
         Name: "Label"
         Transform {
           Location {
-            X: -10.3837891
-            Y: 0.596828222
-            Z: 0.901360631
+            X: -10.3836813
+            Y: 0.595847964
+            Z: 1.22319818
           }
           Rotation {
             Pitch: 0.150865212
             Yaw: 90.0012665
-            Roll: 8.67116796e-08
+            Roll: 9.33818143e-08
           }
           Scale {
-            X: 0.6
-            Y: 0.6
-            Z: 0.4
+            X: 0.600005507
+            Y: 0.600012183
+            Z: 0.0182103068
           }
         }
         ParentId: 14619936719777826877

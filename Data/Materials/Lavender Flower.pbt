@@ -1,6 +1,6 @@
 ﻿Assets {
   Id: 14434614547618671027
-  Name: "Lavender Flower"
+  Name: "Stable Flower"
   PlatformAssetType: 13
   SerializationVersion: 65
   CustomMaterialAsset {
@@ -14,6 +14,22 @@
           B: 0.013229995
           A: 1
         }
+      }
+      Overrides {
+        Name: "wind_weight"
+        Float: 0
+      }
+      Overrides {
+        Name: "wind_intensity"
+        Float: 0
+      }
+      Overrides {
+        Name: "wind_speed"
+        Float: 0
+      }
+      Overrides {
+        Name: "emissive_boost"
+        Float: 0
       }
     }
     Assets {

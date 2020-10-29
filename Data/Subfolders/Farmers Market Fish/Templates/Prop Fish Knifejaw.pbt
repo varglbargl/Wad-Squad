@@ -4,10 +4,10 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 15450214907374807842
+      RootId: 7545394659228549898
       Objects {
-        Id: 15450214907374807842
-        Name: "Prop Fish Knifejaw"
+        Id: 7545394659228549898
+        Name: "Knifejaw"
         Transform {
           Scale {
             X: 1
@@ -15,18 +15,16 @@
             Z: 1
           }
         }
-        ParentId: 1088265982249555558
+        ParentId: 12289293986469130928
         ChildIds: 13900522913963038768
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        NetworkContext {
+        Folder {
+          IsGroup: true
         }
       }
       Objects {
@@ -43,7 +41,7 @@
             Z: 0.501507938
           }
         }
-        ParentId: 15450214907374807842
+        ParentId: 7545394659228549898
         ChildIds: 17782949783155058253
         ChildIds: 11753125737800486765
         UnregisteredParameters {
@@ -147,9 +145,9 @@
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 7.57166433
+            Y: 7.57166433
+            Z: 7.57166433
           }
         }
         ParentId: 13900522913963038768

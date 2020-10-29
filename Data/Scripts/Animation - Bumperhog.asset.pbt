@@ -10,10 +10,6 @@
           Id: 16916440363316830103
         }
       }
-      Overrides {
-        Name: "cs:Force"
-        Float: 25
-      }
     }
   }
   SerializationVersion: 65

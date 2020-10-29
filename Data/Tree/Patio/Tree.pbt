@@ -1,6 +1,1280 @@
 ﻿Name: "Patio"
 RootId: 4136761900868238697
 Objects {
+  Id: 7217536515881745354
+  Name: "Grass Tall"
+  Transform {
+    Location {
+      X: -930
+      Y: 5400
+      Z: 5.00024414
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.60000014
+      Y: 3.60000014
+      Z: 4.4
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5739790186020624212
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17060827616353030323
+  Name: "Grass Tall"
+  Transform {
+    Location {
+      X: 11040
+      Y: -6475
+      Z: 5
+    }
+    Rotation {
+      Yaw: -30.0000057
+    }
+    Scale {
+      X: 4.99999952
+      Y: 4.99999952
+      Z: 4.99999952
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5739790186020624212
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12350951366675900209
+  Name: "Grass Tall"
+  Transform {
+    Location {
+      X: 10760
+      Y: -455
+      Z: 5.00024414
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 3.60000014
+      Y: 3.60000014
+      Z: 3.8
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5739790186020624212
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12763380688044926260
+  Name: "Grass Tall"
+  Transform {
+    Location {
+      X: 11275
+      Y: 2720
+      Z: 5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.60000014
+      Y: 3.60000014
+      Z: 4.89999962
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5739790186020624212
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14534430246378789779
+  Name: "Decal Dirt Patch"
+  Transform {
+    Location {
+      X: 9810
+      Y: 4040
+      Z: 5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 10.0999956
+      Y: 3.7
+      Z: 0.1
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14964967653464214432
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 12200615531256641708
+  Name: "Small Open Crate"
+  Transform {
+    Location {
+      X: 10665.7119
+      Y: -1473.87012
+      Z: 400
+    }
+    Rotation {
+      Pitch: -1.36603776e-05
+      Yaw: -179.999969
+      Roll: -179.999969
+    }
+    Scale {
+      X: 6.69999838
+      Y: 6.69999838
+      Z: 6.69999838
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1490857703873336751
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15162595398026856732
+  Name: "Small Open Crate"
+  Transform {
+    Location {
+      X: 10735
+      Y: -2760
+      Z: 400
+    }
+    Rotation {
+      Pitch: -1.36603776e-05
+      Yaw: 171.718124
+      Roll: -179.999969
+    }
+    Scale {
+      X: 6.69999838
+      Y: 6.69999838
+      Z: 6.69999838
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1490857703873336751
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17610575265925762294
+  Name: "Birdhouse"
+  Transform {
+    Location {
+      X: -6790
+      Y: -4365
+      Z: 10
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.2
+      Y: 1.2
+      Z: 1.2
+    }
+  }
+  ParentId: 4136761900868238697
+  ChildIds: 9020285002560099605
+  ChildIds: 4092937970950315671
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 4092937970950315671
+  Name: "Post"
+  Transform {
+    Location {
+      X: -5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17610575265925762294
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Post"
+  }
+}
+Objects {
+  Id: 9020285002560099605
+  Name: "House"
+  Transform {
+    Location {
+      X: 5
+      Y: 5
+      Z: 1045
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17610575265925762294
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "House"
+  }
+}
+Objects {
+  Id: 14712156857945184773
+  Name: "Spilt Milk"
+  Transform {
+    Location {
+      X: 6840
+      Y: 14735
+      Z: 70
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 0.001
+    }
+  }
+  ParentId: 4136761900868238697
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Wet"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Emissive"
+      Float: 2
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 5931224016695282927
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 8334139212888315545
+  Name: "Trash"
+  Transform {
+    Location {
+      X: 7914.24707
+      Y: 14253.9092
+      Z: 69.9998779
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Trash"
+  }
+}
+Objects {
+  Id: 12520269551632056267
+  Name: "Trash Can\'t"
+  Transform {
+    Location {
+      X: 7559.55762
+      Y: 14657.6797
+      Z: 687.959473
+    }
+    Rotation {
+      Yaw: 70.3988113
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4136761900868238697
+  ChildIds: 16087942404271881111
+  ChildIds: 3822348364229802122
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3822348364229802122
+  Name: "Lid"
+  Transform {
+    Location {
+      X: 644.632813
+      Y: 964.148926
+      Z: -354.306763
+    }
+    Rotation {
+      Yaw: -44.9999695
+      Roll: -179.999939
+    }
+    Scale {
+      X: 1.05
+      Y: 1.05
+      Z: 1.05
+    }
+  }
+  ParentId: 12520269551632056267
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Lid_1"
+  }
+}
+Objects {
+  Id: 16087942404271881111
+  Name: "Can"
+  Transform {
+    Location {
+      X: 703.722656
+      Y: 0.566894531
+      Z: -68.1287231
+    }
+    Rotation {
+      Pitch: -84.470314
+      Yaw: -179.999893
+      Roll: -179.999893
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12520269551632056267
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Can_1"
+  }
+}
+Objects {
+  Id: 14014634292883708635
+  Name: "Decal Dirt Patch"
+  Transform {
+    Location {
+      X: 8485.76172
+      Y: 8861.11426
+      Z: 70.0002441
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.04794216
+      Y: 3.04794216
+      Z: 0.02
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 14964967653464214432
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 11586841263601099918
+  Name: "Bone Human Scattered 01"
+  Transform {
+    Location {
+      X: 8455
+      Y: 8910
+      Z: 70
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.9
+      Y: 2.9
+      Z: 2.53230095
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3171138598806206196
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7914096246280550776
+  Name: "Beach Chairs"
+  Transform {
+    Location {
+      X: 2050.22705
+      Y: -4041.25
+      Z: -130
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Beach Chairs"
+  }
+}
+Objects {
+  Id: 15840695371752517533
+  Name: "Trash Can"
+  Transform {
+    Location {
+      X: 10290.9814
+      Y: 10161.0449
+      Z: 1.33576965
+    }
+    Rotation {
+      Pitch: -84.5668488
+      Yaw: 123.464554
+      Roll: 0.000378720608
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4136761900868238697
+  ChildIds: 14896278372054038972
+  ChildIds: 5510657526134764500
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 5510657526134764500
+  Name: "Can"
+  Transform {
+    Location {
+      X: -1208.52197
+      Y: 0.559570313
+      Z: 116.999268
+    }
+    Rotation {
+      Pitch: -84.4703064
+      Yaw: -179.999893
+      Roll: -179.999893
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15840695371752517533
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Can"
+  }
+}
+Objects {
+  Id: 14896278372054038972
+  Name: "Lid"
+  Transform {
+    Location {
+      X: -1342.30225
+      Y: -0.00537109375
+      Z: 121.104614
+    }
+    Rotation {
+      Pitch: -84.4703064
+      Yaw: -179.999893
+      Roll: -179.999893
+    }
+    Scale {
+      X: 1.05
+      Y: 1.05
+      Z: 1.05
+    }
+  }
+  ParentId: 15840695371752517533
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Lid"
+  }
+}
+Objects {
+  Id: 11539550816227122727
+  Name: "Trash Can\'t"
+  Transform {
+    Location {
+      X: 8150.36719
+      Y: 8925.85156
+      Z: 679.306763
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4136761900868238697
+  ChildIds: 7409649384093759697
+  ChildIds: 17231945153252431892
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17231945153252431892
+  Name: "Lid"
+  Transform {
+    Location {
+      X: 644.632813
+      Y: 964.148926
+      Z: -354.306763
+    }
+    Rotation {
+      Yaw: -44.9999695
+      Roll: -179.999939
+    }
+    Scale {
+      X: 1.05
+      Y: 1.05
+      Z: 1.05
+    }
+  }
+  ParentId: 11539550816227122727
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Lid_2"
+  }
+}
+Objects {
+  Id: 7409649384093759697
+  Name: "Can"
+  Transform {
+    Location {
+      X: 703.722656
+      Y: 0.566894531
+      Z: -68.1287231
+    }
+    Rotation {
+      Pitch: -84.470314
+      Yaw: -179.999893
+      Roll: -179.999893
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11539550816227122727
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Can_2"
+  }
+}
+Objects {
+  Id: 11250825086037202909
+  Name: "Bicycle"
+  Transform {
+    Location {
+      X: 10422.4844
+      Y: -372.344727
+      Z: 329.837585
+    }
+    Rotation {
+      Yaw: -13.9194832
+    }
+    Scale {
+      X: 2.40000033
+      Y: 2.40000033
+      Z: 2.40000033
+    }
+  }
+  ParentId: 4136761900868238697
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 488011019836055708
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1026752127468849667
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1937598151182045117
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4762916976267302482
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6291835486602398571
+      value {
+        Overrides {
+          Name: "ma:Shared_Detail2:color"
+          Color {
+            R: 0.989669561
+            G: 0.220000029
+            B: 1
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.821854353
+            B: 0.85
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Shared_Detail1:color"
+          Color {
+            R: 0.24476853
+            B: 0.480000019
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7292459769027831950
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8009847093211351905
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8596559273861103992
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8905017574093543209
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9344546207767026779
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12656359186947271196
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13012861622034660254
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13423610533432515135
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.139999986
+            G: 0.777880609
+            B: 1
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 18.6703186
+            Y: 6.11023788e-05
+            Z: -0.000173016218
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 4.63845778
+            Y: 15.2815924
+            Z: 15.2815924
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13475857069338694235
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13959849375361003862
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.0199999809
+            G: 0.883178651
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15220446676714055400
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bicycle"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 10275
+            Y: 3505
+            Z: 210
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -0.697265625
+            Yaw: -13.9211121
+            Roll: 10.1737528
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2.37390089
+            Y: 2.37390089
+            Z: 2.37390089
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16192550741211080862
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.92
+            G: 0.972980142
+            B: 1
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 18.4503384
+            Y: 6.7951587e-05
+            Z: -0.02873821
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -87.629
+            Yaw: -0.00143432617
+            Roll: 0.00168795115
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.107447252
+            Y: 0.107447252
+            Z: 0.432466239
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16314342403509735973
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:smart"
+          Bool: false
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 0.924503446
+            G: 0.43
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2134202940802111610
+    }
+  }
+}
+Objects {
+  Id: 15879042653478146029
+  Name: "Bicycle"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4136761900868238697
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15220446676714055400
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bicycle"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9952.48438
+            Y: 4247.39746
+            Z: 285
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -13.9197083
+            Roll: 10
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 3.20000029
+            Y: 3.20000029
+            Z: 3.20000029
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2134202940802111610
+    }
+  }
+}
+Objects {
   Id: 3241576675202175508
   Name: "Concrete"
   Transform {

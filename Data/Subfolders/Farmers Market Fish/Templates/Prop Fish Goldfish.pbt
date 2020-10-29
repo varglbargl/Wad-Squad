@@ -4,10 +4,10 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 4930643720530465512
+      RootId: 15141464574352451620
       Objects {
-        Id: 4930643720530465512
-        Name: "Prop Fish Goldfish"
+        Id: 15141464574352451620
+        Name: "Goldfish"
         Transform {
           Scale {
             X: 1
@@ -15,24 +15,16 @@
             Z: 1
           }
         }
-        ParentId: 1088265982249555558
+        ParentId: 582943275432150329
         ChildIds: 6482392930644398028
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:ClientScript"
-            ObjectReference {
-              SubObjectId: 10597625774314112618
-            }
-          }
-        }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        NetworkContext {
+        Folder {
+          IsGroup: true
         }
       }
       Objects {
@@ -40,6 +32,9 @@
         Name: "fish_scale_adjustment"
         Transform {
           Location {
+            X: -304.318909
+            Y: 0.000122070313
+            Z: -200.968506
           }
           Rotation {
           }
@@ -49,7 +44,7 @@
             Z: 0.18
           }
         }
-        ParentId: 4930643720530465512
+        ParentId: 15141464574352451620
         ChildIds: 10597625774314112618
         ChildIds: 15589718271705900209
         UnregisteredParameters {
@@ -149,13 +144,15 @@
         Name: "main_orient"
         Transform {
           Location {
+            X: 2298.91211
+            Z: 1090.66492
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 10.5451679
+            Y: 10.5451679
+            Z: 10.5451679
           }
         }
         ParentId: 6482392930644398028
@@ -393,7 +390,7 @@
           }
           Rotation {
             Pitch: 6.11247921
-            Yaw: -7.5510335
+            Yaw: -7.55102539
             Roll: 78.9964905
           }
           Scale {
@@ -1530,7 +1527,6 @@
           }
         }
         ParentId: 3768764691602264984
-        ChildIds: 5326479241187069062
         ChildIds: 12670483197076901522
         UnregisteredParameters {
           Overrides {
@@ -1562,55 +1558,6 @@
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 5326479241187069062
-        Name: "Heart - Polished"
-        Transform {
-          Location {
-            X: -31.7333984
-            Z: 16.9951115
-          }
-          Rotation {
-            Pitch: 75.3278122
-            Yaw: -179.999954
-            Roll: -179.999954
-          }
-          Scale {
-            X: 1.79050779
-            Y: 0.545213759
-            Z: 1.36327612
-          }
-        }
-        ParentId: 10693754778804917231
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 2243713383694498264
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 1472417143127626979
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
         }
       }
       Objects {

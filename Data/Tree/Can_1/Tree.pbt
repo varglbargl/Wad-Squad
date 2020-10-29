@@ -1,7 +1,7 @@
 ﻿Name: "Can_1"
-RootId: 7409649384093759697
+RootId: 16087942404271881111
 Objects {
-  Id: 2604187250658333477
+  Id: 13505016154262305135
   Name: "Cone - Truncated Hollow Wide Thin"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 1.00699639
     }
   }
-  ParentId: 7409649384093759697
+  ParentId: 16087942404271881111
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -44,6 +44,10 @@ Objects {
         B: 0.59800005
         A: 1
       }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.4
     }
   }
   Collidable_v2 {
@@ -69,7 +73,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9122711244939895106
+  Id: 8640687972624853052
   Name: "Cone - Truncated Hollow Wide Thin"
   Transform {
     Location {
@@ -88,7 +92,7 @@ Objects {
       Z: 1.22933924
     }
   }
-  ParentId: 7409649384093759697
+  ParentId: 16087942404271881111
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -137,7 +141,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15764882271464646299
+  Id: 15326315568240391162
   Name: "Cone - Truncated Hollow Wide Thin"
   Transform {
     Location {
@@ -156,7 +160,7 @@ Objects {
       Z: 22.000021
     }
   }
-  ParentId: 7409649384093759697
+  ParentId: 16087942404271881111
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

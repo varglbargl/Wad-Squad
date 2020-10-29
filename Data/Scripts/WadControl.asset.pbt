@@ -11,12 +11,6 @@
         }
       }
       Overrides {
-        Name: "cs:UIManager"
-        ObjectReference {
-          SelfId: 16230482950761357726
-        }
-      }
-      Overrides {
         Name: "cs:HitboxSphere"
         AssetReference {
           Id: 5008650052304615048

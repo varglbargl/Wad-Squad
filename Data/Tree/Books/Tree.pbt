@@ -1,6 +1,150 @@
 ﻿Name: "Books"
 RootId: 11357189319074412901
 Objects {
+  Id: 16235824050756330665
+  Name: "Book"
+  Transform {
+    Location {
+      X: 4158.96777
+      Y: 3975.90234
+      Z: 387.590942
+    }
+    Rotation {
+      Yaw: -55.5833435
+    }
+    Scale {
+      X: 1.24104297
+      Y: 1.24104297
+      Z: 1.24104297
+    }
+  }
+  ParentId: 11357189319074412901
+  ChildIds: 11038618713404548831
+  ChildIds: 4188822772494753547
+  ChildIds: 13599652878343224
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 13599652878343224
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+      X: -0.000244140625
+      Y: 0.000244140625
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16235824050756330665
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 4188822772494753547
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16235824050756330665
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.00048828125
+            Z: -1.52587891e-05
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.69844627
+            Y: 1.13728714
+            Z: 0.408451527
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 11038618713404548831
+  Name: "Book"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16235824050756330665
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7814566350784719305
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Book"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1957086823132265407
+    }
+  }
+}
+Objects {
   Id: 3549976546397509676
   Name: "Book"
   Transform {

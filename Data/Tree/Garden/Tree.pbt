@@ -1,6 +1,87 @@
 ﻿Name: "Garden"
 RootId: 3092004872852450116
 Objects {
+  Id: 2101339000519451770
+  Name: "Bee Sauce"
+  Transform {
+    Location {
+      X: -622.179199
+      Y: -1229.37329
+      Z: 145.000061
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3092004872852450116
+  ChildIds: 1986518889836106612
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 1986518889836106612
+  Name: "Bee Sauce"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2101339000519451770
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10043139054707938345
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bee Sauce"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 39.779541
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.3922832
+            Y: 1.3922832
+            Z: 1.3922832
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 12925169642315593811
+    }
+  }
+}
+Objects {
   Id: 10986549768865769596
   Name: "Birdbath"
   Transform {
@@ -983,9 +1064,16 @@ Objects {
   }
 }
 Objects {
-  Id: 2470355676460590255
+  Id: 9102400277411098894
   Name: "Ambience Nature Calm Forest Set 01 SFX"
   Transform {
+    Location {
+      X: -496.129395
+      Y: -1521.47388
+      Z: 905.820313
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
@@ -993,86 +1081,162 @@ Objects {
     }
   }
   ParentId: 3092004872852450116
-  WantsNetworking: true
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5341159740561491560
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Ambience Nature Calm Forest Set 01 SFX"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -496.129395
-            Y: -1521.47388
-            Z: 905.820313
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
+  ChildIds: 7476419305638057786
+  ChildIds: 12346851824311590658
+  ChildIds: 12835151288836648770
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 9102400277411098894
+    SubobjectId: 5341159740561491560
+    InstanceId: 2470355676460590255
+    TemplateId: 13406254572276603093
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 12835151288836648770
+  Name: "Ambience Nature Wind and Trees Set 01 SFX"
+  Transform {
+    Location {
+      X: -130.396545
+      Y: 8.22819519
+      Z: 66.734993
     }
-    ParameterOverrideMap {
-      key: 6020247343916752988
-      value {
-        Overrides {
-          Name: "Repeat"
-          Bool: true
-        }
-        Overrides {
-          Name: "EnableSpatialization"
-          Bool: false
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
+    Rotation {
     }
-    ParameterOverrideMap {
-      key: 9678863114808399908
-      value {
-        Overrides {
-          Name: "Repeat"
-          Bool: true
-        }
-      }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
     }
-    ParameterOverrideMap {
-      key: 11463192664781989988
-      value {
-        Overrides {
-          Name: "Repeat"
-          Bool: true
-        }
-        Overrides {
-          Name: "EnableSpatialization"
-          Bool: false
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
+  }
+  ParentId: 9102400277411098894
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 7724989921381923917
     }
-    TemplateAsset {
-      Id: 13406254572276603093
+    AudioBP {
+      AutoPlay: true
+      Repeat: true
+      Volume: 0.208399728
+      Falloff: 3600
+      Radius: 400
+      EnableOcclusion: true
+      IsSpatializationEnabled: true
+      IsAttenuationEnabled: true
     }
+  }
+  InstanceHistory {
+    SelfId: 12835151288836648770
+    SubobjectId: 9678863114808399908
+    InstanceId: 2470355676460590255
+    TemplateId: 13406254572276603093
+  }
+}
+Objects {
+  Id: 12346851824311590658
+  Name: "Ambience Nature Cicadas Set 01 SFX"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9102400277411098894
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 15234553642973347520
+    }
+    AudioBP {
+      AutoPlay: true
+      Repeat: true
+      Volume: 0.106072292
+      Falloff: 3600
+      Radius: 400
+      EnableOcclusion: true
+      IsAttenuationEnabled: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 12346851824311590658
+    SubobjectId: 11463192664781989988
+    InstanceId: 2470355676460590255
+    TemplateId: 13406254572276603093
+  }
+}
+Objects {
+  Id: 7476419305638057786
+  Name: "Ambience Nature Forest Birds Set 01 SFX"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9102400277411098894
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 15172180549504871240
+    }
+    AudioBP {
+      AutoPlay: true
+      Repeat: true
+      Volume: 0.697582424
+      Falloff: 3600
+      Radius: 400
+      EnableOcclusion: true
+      IsAttenuationEnabled: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 7476419305638057786
+    SubobjectId: 6020247343916752988
+    InstanceId: 2470355676460590255
+    TemplateId: 13406254572276603093
   }
 }
 Objects {

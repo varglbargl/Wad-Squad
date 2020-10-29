@@ -111,6 +111,18 @@
               Id: 6976203410648991936
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 20
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -206,6 +218,18 @@
               Id: 6976203410648991936
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 20
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -255,6 +279,18 @@
             AssetReference {
               Id: 6976203410648991936
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 20
           }
         }
         Collidable_v2 {
@@ -375,6 +411,18 @@
               Id: 6976203410648991936
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 20
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -402,19 +450,18 @@
         Name: "forksCurve"
         Transform {
           Location {
-            X: -21.2333031
-            Y: 0.527772844
-            Z: 142.663757
+            X: -20.8026962
+            Y: -0.166160256
+            Z: 142.000122
           }
           Rotation {
-            Pitch: 0.314789742
-            Yaw: 89.9996872
-            Roll: 16.3977451
+            Yaw: 89.9996414
+            Roll: 16.3978043
           }
           Scale {
-            X: 0.120514087
-            Y: 0.120514087
-            Z: 0.120514087
+            X: 0.124
+            Y: 0.124
+            Z: 0.124
           }
         }
         ParentId: 10390067687842859897
@@ -424,6 +471,18 @@
             AssetReference {
               Id: 6976203410648991936
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 20
           }
         }
         Collidable_v2 {
@@ -1446,6 +1505,18 @@
               Id: 6976203410648991936
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 20
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1478,7 +1549,6 @@
             Z: 141.088181
           }
           Rotation {
-            Pitch: 0.314789742
             Yaw: 89.9997253
             Roll: 16.3977985
           }
@@ -1495,6 +1565,18 @@
             AssetReference {
               Id: 6976203410648991936
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 20
           }
         }
         Collidable_v2 {
@@ -1545,6 +1627,18 @@
             AssetReference {
               Id: 6976203410648991936
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 20
           }
         }
         Collidable_v2 {
@@ -2537,6 +2631,18 @@
               Id: 6976203410648991936
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 20
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2583,6 +2689,18 @@
             AssetReference {
               Id: 6976203410648991936
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 20
           }
         }
         Collidable_v2 {
@@ -2633,6 +2751,18 @@
             AssetReference {
               Id: 6976203410648991936
             }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 2
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 20
           }
         }
         Collidable_v2 {
@@ -2812,6 +2942,18 @@
               Id: 6976203410648991936
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: false
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:utile"
+            Float: 30
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:vtile"
+            Float: 30
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2975,14 +3117,16 @@
         Name: "FlaskCap"
         Transform {
           Location {
-            X: 18.6701183
+            X: 18.670166
+            Y: -3.85909789e-06
+            Z: -2.57273168e-05
           }
           Rotation {
           }
           Scale {
-            X: 4.41651726
-            Y: 14.5504
-            Z: 14.5504
+            X: 4.60901165
+            Y: 15.1845779
+            Z: 15.1845779
           }
         }
         ParentId: 9728779523466850790

@@ -1,29 +1,29 @@
 ﻿Name: "Exit"
-RootId: 11858432134105710824
+RootId: 10154695304200025045
 Objects {
-  Id: 6411383392213222639
+  Id: 9487854863101144078
   Name: "Wad Stopper"
   Transform {
     Location {
-      X: 225.036011
-      Y: 238.631531
-      Z: 309.132416
+      X: -637.432678
+      Y: 168.446259
+      Z: 181.258469
     }
     Rotation {
-      Pitch: 10.0619135
-      Yaw: -104.985596
-      Roll: -2.52255249
+      Pitch: 9.72423553
+      Yaw: -91.2949829
+      Roll: -1.0475769
     }
     Scale {
-      X: 3.63118458
-      Y: 3.63118458
-      Z: 3.63118458
+      X: 6.66527796
+      Y: 6.66527796
+      Z: 6.66527796
     }
   }
-  ParentId: 11858432134105710824
-  ChildIds: 17556476063175476418
-  ChildIds: 7546374621573428721
-  ChildIds: 8393428666369373692
+  ParentId: 10154695304200025045
+  ChildIds: 6498440144450763514
+  ChildIds: 4159520104025347010
+  ChildIds: 14371979055350757601
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -35,7 +35,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8393428666369373692
+  Id: 14371979055350757601
   Name: "Size Blocker"
   Transform {
     Scale {
@@ -44,7 +44,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6411383392213222639
+  ParentId: 9487854863101144078
   TemplateInstance {
     ParameterOverrideMap {
       key: 1993258957397297549
@@ -112,7 +112,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7546374621573428721
+  Id: 4159520104025347010
   Name: "Pickup Box"
   Transform {
     Scale {
@@ -121,7 +121,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6411383392213222639
+  ParentId: 9487854863101144078
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
@@ -159,7 +159,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17556476063175476418
+  Id: 6498440144450763514
   Name: "SetSize"
   Transform {
     Location {
@@ -172,23 +172,23 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6411383392213222639
+  ParentId: 9487854863101144078
   UnregisteredParameters {
     Overrides {
       Name: "cs:Size"
       ObjectReference {
-        SelfId: 16582394228418180466
+        SelfId: 3832478260614299994
         SubObjectId: 4370332555789010836
-        InstanceId: 8393428666369373692
+        InstanceId: 14371979055350757601
         TemplateId: 17479637215308043289
       }
     }
     Overrides {
       Name: "cs:PickupBox"
       ObjectReference {
-        SelfId: 8207079052376395863
+        SelfId: 687785038027316884
         SubObjectId: 1516960025473174507
-        InstanceId: 7546374621573428721
+        InstanceId: 4159520104025347010
         TemplateId: 16607685206915228970
       }
     }
@@ -206,29 +206,29 @@ Objects {
   }
 }
 Objects {
-  Id: 3460863576227949483
+  Id: 7187055063576917979
   Name: "Wad Stopper"
   Transform {
     Location {
-      X: -2431.30469
-      Y: -119.74955
-      Z: 196.459442
+      X: 1527.54651
+      Y: -437.491486
+      Z: 296.874451
     }
     Rotation {
-      Pitch: 13.8751116
-      Yaw: -82.6134644
-      Roll: 1.1537708
+      Pitch: 14.7625923
+      Yaw: -118.453705
+      Roll: -1.33895874
     }
     Scale {
-      X: 3.63118434
-      Y: 3.63118434
-      Z: 3.63118434
+      X: 6.66527271
+      Y: 6.66527271
+      Z: 6.66527271
     }
   }
-  ParentId: 11858432134105710824
-  ChildIds: 1735913637264941185
-  ChildIds: 7105127284196705765
-  ChildIds: 5505839355718300879
+  ParentId: 10154695304200025045
+  ChildIds: 17923945476702289812
+  ChildIds: 11839871381871528593
+  ChildIds: 13058533689106849261
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -240,7 +240,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5505839355718300879
+  Id: 13058533689106849261
   Name: "Size Blocker"
   Transform {
     Scale {
@@ -249,7 +249,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3460863576227949483
+  ParentId: 7187055063576917979
   TemplateInstance {
     ParameterOverrideMap {
       key: 1993258957397297549
@@ -289,7 +289,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7105127284196705765
+  Id: 11839871381871528593
   Name: "Pickup Box"
   Transform {
     Scale {
@@ -298,7 +298,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3460863576227949483
+  ParentId: 7187055063576917979
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
@@ -335,7 +335,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1735913637264941185
+  Id: 17923945476702289812
   Name: "SetSize"
   Transform {
     Location {
@@ -348,23 +348,23 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3460863576227949483
+  ParentId: 7187055063576917979
   UnregisteredParameters {
     Overrides {
       Name: "cs:Size"
       ObjectReference {
-        SelfId: 3986528457668013101
+        SelfId: 4470341188529437856
         SubObjectId: 4370332555789010836
-        InstanceId: 5505839355718300879
+        InstanceId: 13058533689106849261
         TemplateId: 17479637215308043289
       }
     }
     Overrides {
       Name: "cs:PickupBox"
       ObjectReference {
-        SelfId: 14372770910833848437
+        SelfId: 10072680493054453665
         SubObjectId: 1516960025473174507
-        InstanceId: 7105127284196705765
+        InstanceId: 11839871381871528593
         TemplateId: 16607685206915228970
       }
     }
@@ -382,29 +382,29 @@ Objects {
   }
 }
 Objects {
-  Id: 4415162750117814999
+  Id: 13786894460593790428
   Name: "Wad Stopper"
   Transform {
     Location {
-      X: 1323.85864
-      Y: -9.87325
-      Z: 113.08316
+      X: -2746.98926
+      Y: -409.212097
+      Z: 388.445251
     }
     Rotation {
-      Pitch: 16.6317558
-      Yaw: -91.2039185
-      Roll: 7.58876133
+      Pitch: 4.43591404
+      Yaw: -55.9882202
+      Roll: 8.40154839
     }
     Scale {
-      X: 3.63118434
-      Y: 3.63118434
-      Z: 3.63118434
+      X: 6.66528
+      Y: 6.66528
+      Z: 6.66528
     }
   }
-  ParentId: 11858432134105710824
-  ChildIds: 16270940318965944445
-  ChildIds: 9446261990672972333
-  ChildIds: 3723779365125923576
+  ParentId: 10154695304200025045
+  ChildIds: 8247694432152889019
+  ChildIds: 2732869753010231505
+  ChildIds: 16710040055113940219
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -416,7 +416,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3723779365125923576
+  Id: 16710040055113940219
   Name: "Size Blocker"
   Transform {
     Scale {
@@ -425,183 +425,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4415162750117814999
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1993258957397297549
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:color"
-          Color {
-            R: 5
-            A: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 7850039474666247473
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Wad Stopper"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 228.451889
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17479637215308043289
-    }
-  }
-}
-Objects {
-  Id: 9446261990672972333
-  Name: "Pickup Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4415162750117814999
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Box"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 12.499999
-            Z: 228.451843
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.900000036
-            Y: 2.9
-            Z: 3.10000014
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 16270940318965944445
-  Name: "SetSize"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4415162750117814999
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Size"
-      ObjectReference {
-        SelfId: 6117058954977378830
-        SubObjectId: 4370332555789010836
-        InstanceId: 3723779365125923576
-        TemplateId: 17479637215308043289
-      }
-    }
-    Overrides {
-      Name: "cs:PickupBox"
-      ObjectReference {
-        SelfId: 8960871566981994192
-        SubObjectId: 1516960025473174507
-        InstanceId: 9446261990672972333
-        TemplateId: 16607685206915228970
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 6213630551292091443
-    }
-  }
-}
-Objects {
-  Id: 17617786069476177650
-  Name: "Wad Stopper"
-  Transform {
-    Location {
-      X: -1163.41602
-      Y: 231.115417
-      Z: 238.75383
-    }
-    Rotation {
-      Pitch: 11.161293
-      Yaw: -94.9568176
-      Roll: 2.91109681
-    }
-    Scale {
-      X: 3.63118434
-      Y: 3.63118434
-      Z: 3.63118434
-    }
-  }
-  ParentId: 11858432134105710824
-  ChildIds: 16984204235185505902
-  ChildIds: 1564102031855389532
-  ChildIds: 7301609274443126185
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 7301609274443126185
-  Name: "Size Blocker"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17617786069476177650
+  ParentId: 13786894460593790428
   TemplateInstance {
     ParameterOverrideMap {
       key: 1993258957397297549
@@ -651,7 +475,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1564102031855389532
+  Id: 2732869753010231505
   Name: "Pickup Box"
   Transform {
     Scale {
@@ -660,7 +484,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17617786069476177650
+  ParentId: 13786894460593790428
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
@@ -697,7 +521,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16984204235185505902
+  Id: 8247694432152889019
   Name: "SetSize"
   Transform {
     Location {
@@ -710,23 +534,23 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17617786069476177650
+  ParentId: 13786894460593790428
   UnregisteredParameters {
     Overrides {
       Name: "cs:Size"
       ObjectReference {
-        SelfId: 3406937816015667559
+        SelfId: 13779878746779876209
         SubObjectId: 4370332555789010836
-        InstanceId: 7301609274443126185
+        InstanceId: 16710040055113940219
         TemplateId: 17479637215308043289
       }
     }
     Overrides {
       Name: "cs:PickupBox"
       ObjectReference {
-        SelfId: 14139148092993111401
+        SelfId: 9842841054148481380
         SubObjectId: 1516960025473174507
-        InstanceId: 1564102031855389532
+        InstanceId: 2732869753010231505
         TemplateId: 16607685206915228970
       }
     }

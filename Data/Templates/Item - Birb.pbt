@@ -7,7 +7,7 @@
       RootId: 14477246386612179014
       Objects {
         Id: 14477246386612179014
-        Name: "Item - Birb"
+        Name: "Bluebird"
         Transform {
           Scale {
             X: 4.20000029
@@ -32,7 +32,7 @@
           }
           Overrides {
             Name: "cs:Chirp"
-            Bool: false
+            Bool: true
           }
           Overrides {
             Name: "cs:PickupSound"

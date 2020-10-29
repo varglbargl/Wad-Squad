@@ -8,57 +8,12 @@
   }
 }
 Assets {
-  Id: 17652528510237059402
-  Name: "Human Gal 2"
-  PlatformAssetType: 17
-  PrimaryAsset {
-    AssetType: "AnimatedMeshAssetRef"
-    AssetId: "npc_human_gal_basic_002_ref"
-  }
-}
-Assets {
-  Id: 17592032273720165889
-  Name: "Coral Branches Big"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_coral_branch_big_01"
-  }
-}
-Assets {
   Id: 17177425172148499381
   Name: "Metal Steel Brushed"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_stainless-steel_001_uv"
-  }
-}
-Assets {
-  Id: 16910278292812118833
-  Name: "Sun Light"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_SunLight"
-  }
-}
-Assets {
-  Id: 16511965466906697118
-  Name: "Coral Spikes Small"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_coral_spike_small_01"
-  }
-}
-Assets {
-  Id: 14964967653464214432
-  Name: "Decal Dirt Patch"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_dirt_patch_001"
   }
 }
 Assets {
@@ -80,15 +35,6 @@ Assets {
   }
 }
 Assets {
-  Id: 14322581174715889896
-  Name: "Chest Small Opened"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_chest_002"
-  }
-}
-Assets {
   Id: 14163900403650610806
   Name: "Craftsman End Table"
   PlatformAssetType: 1
@@ -104,42 +50,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_002"
-  }
-}
-Assets {
-  Id: 11515840070784317904
-  Name: "Skylight"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_Skylight"
-  }
-}
-Assets {
-  Id: 11374219730337700993
-  Name: "Coral Table 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_coral_table_01"
-  }
-}
-Assets {
-  Id: 10988486045141043269
-  Name: "Sun Halo"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_SunHalo"
-  }
-}
-Assets {
-  Id: 10950495339320142836
-  Name: "Cylinder - Chamfered"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cylinder_chamfer"
   }
 }
 Assets {
@@ -161,84 +71,12 @@ Assets {
   }
 }
 Assets {
-  Id: 9708141689872640486
-  Name: "Decal Letters 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_letters_001"
-  }
-}
-Assets {
-  Id: 9693133565758539692
-  Name: "2D Basic Shapes Decal"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "dcl_basicShapes"
-  }
-}
-Assets {
-  Id: 8062039067460960769
-  Name: "Motion Blur Post Process"
-  PlatformAssetType: 20
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "fxbp_post_process_advanced_motion_blur"
-  }
-}
-Assets {
-  Id: 7887238662729938253
-  Name: "Sky Dome"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_Sky"
-  }
-}
-Assets {
-  Id: 7384814362265622881
-  Name: "Coral Tubes Big"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_coral_tube_big_01"
-  }
-}
-Assets {
   Id: 7369632945904869019
   Name: "Bone Human Skull 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bones_human_skull_01_ref"
-  }
-}
-Assets {
-  Id: 5934322225461766596
-  Name: "Road Cone 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_traffic_cone_001"
-  }
-}
-Assets {
-  Id: 5117326109845707677
-  Name: "Plane"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_plane_4m_001"
-  }
-}
-Assets {
-  Id: 4684035951821962341
-  Name: "Baseball Bat"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_weap_modern_bat_001"
   }
 }
 Assets {
@@ -257,15 +95,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_curtain_02"
-  }
-}
-Assets {
-  Id: 3171138598806206196
-  Name: "Bone Human Scattered 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_scatter_01_ref"
   }
 }
 Assets {

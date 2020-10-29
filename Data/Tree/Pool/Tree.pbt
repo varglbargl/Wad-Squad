@@ -1,6 +1,253 @@
 ﻿Name: "Pool"
 RootId: 6303787268404808577
 Objects {
+  Id: 2072905022161106006
+  Name: "Wall Coral"
+  Transform {
+    Location {
+      X: 3243.3335
+      Y: -8675
+      Z: -985
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6303787268404808577
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Wall Coral"
+  }
+}
+Objects {
+  Id: 16834055890978645180
+  Name: "Liquid Decal"
+  Transform {
+    Location {
+      X: 1856.17627
+      Y: -1828.61194
+      Z: 187.730164
+    }
+    Rotation {
+      Yaw: 91.6941376
+    }
+    Scale {
+      X: 4.16153193
+      Y: 4.16153193
+      Z: 0.367875516
+    }
+  }
+  ParentId: 6303787268404808577
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Wet"
+      Float: 5
+    }
+    Overrides {
+      Name: "bp:Type"
+      Enum {
+        Value: "mc:eliquiddecaltype:1"
+      }
+    }
+    Overrides {
+      Name: "bp:color"
+      Color {
+        R: 0.89
+        G: 0.993443727
+        B: 1
+        A: 0.4
+      }
+    }
+    Overrides {
+      Name: "bp:Shape Index"
+      Int: 2
+    }
+    Overrides {
+      Name: "bp:Stain"
+      Bool: true
+    }
+    Overrides {
+      Name: "bp:Emissive"
+      Float: 0.1
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 5931224016695282927
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+}
+Objects {
+  Id: 669357321981335392
+  Name: "Bubble Stream VFX"
+  Transform {
+    Location {
+      X: 4887.47607
+      Y: -7273.13867
+      Z: -2059.07666
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.68305194
+      Y: 1.68305194
+      Z: 1.68305194
+    }
+  }
+  ParentId: 6303787268404808577
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Life"
+      Float: 3.75
+    }
+    Overrides {
+      Name: "bp:Particle Scale Multiplier"
+      Float: 40
+    }
+    Overrides {
+      Name: "bp:Wind Speed"
+      Vector {
+        X: 30
+      }
+    }
+    Overrides {
+      Name: "bp:Density"
+      Float: 0.3
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 6819246658081531387
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+}
+Objects {
+  Id: 13672999834809621243
+  Name: "Treasure Pile"
+  Transform {
+    Location {
+      X: 2471.73438
+      Y: -8055.35645
+      Z: -2102.7998
+    }
+    Rotation {
+      Yaw: -23.4932652
+    }
+    Scale {
+      X: 1.62188053
+      Y: 1.62188053
+      Z: 1.62188053
+    }
+  }
+  ParentId: 6303787268404808577
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 1851088153844372006
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17512052449164844187
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11165615238317241612
+  Name: "Treasure Pile"
+  Transform {
+    Location {
+      X: 4014.07666
+      Y: -8429.09375
+      Z: -2102.7998
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6303787268404808577
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 12972865578341707228
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9434161903014384267
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 8269349229419066422
   Name: "Diving Board"
   Transform {
@@ -1016,7 +1263,7 @@ Objects {
 }
 Objects {
   Id: 214098172651207671
-  Name: "Railing 2"
+  Name: "Rim"
   Transform {
     Location {
       X: 4750
@@ -1040,7 +1287,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Railing 2"
+    FilePartitionName: "Rim"
   }
 }
 Objects {

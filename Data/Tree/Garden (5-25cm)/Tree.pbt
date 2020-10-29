@@ -1,187 +1,6 @@
 ﻿Name: "Garden (5-25cm)"
 RootId: 4089793586574305372
 Objects {
-  Id: 5197187195817543837
-  Name: "Bird Nest"
-  Transform {
-    Location {
-      X: -2961.50708
-      Y: -10128.7109
-      Z: 7771.46875
-    }
-    Rotation {
-      Pitch: -1.15706813
-      Yaw: -30.1323299
-      Roll: 12.9913683
-    }
-    Scale {
-      X: 4.1046586
-      Y: 4.1046586
-      Z: 4.1046586
-    }
-  }
-  ParentId: 4089793586574305372
-  ChildIds: 1445202752241271867
-  ChildIds: 8994669089318398153
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 8994669089318398153
-  Name: "Pickup Box"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5197187195817543837
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Box"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.721140802
-            Y: 0.721140802
-            Z: 0.472415864
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -13.6801147
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 4.30273438
-            Y: 8.09228516
-            Z: 6.11715698
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16607685206915228970
-    }
-  }
-}
-Objects {
-  Id: 1445202752241271867
-  Name: "Item - Bird Nest"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5197187195817543837
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 4702240767131014181
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Bird Nest"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 1906190434718175542
-    }
-  }
-}
-Objects {
-  Id: 7097774065977511595
-  Name: "Corn"
-  Transform {
-    Location {
-      X: -3098.229
-      Y: -5841.06592
-      Z: 2354.19751
-    }
-    Rotation {
-    }
-    Scale {
-      X: 3.33333325
-      Y: 3.33333325
-      Z: 3.33333325
-    }
-  }
-  ParentId: 4089793586574305372
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Corn"
-  }
-}
-Objects {
-  Id: 13041022592263780380
-  Name: "Lemons"
-  Transform {
-    Location {
-      X: -2890.99438
-      Y: -10033.7285
-      Z: 3037.67114
-    }
-    Rotation {
-    }
-    Scale {
-      X: 3.64646125
-      Y: 3.64646125
-      Z: 3.64646125
-    }
-  }
-  ParentId: 4089793586574305372
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Lemons"
-  }
-}
-Objects {
   Id: 16898129221628889418
   Name: "Pipe Bases"
   Transform {
@@ -211,6 +30,202 @@ Objects {
   }
 }
 Objects {
+  Id: 6699687059065445284
+  Name: "Sprinkler Head"
+  Transform {
+    Location {
+      X: 7603.89551
+      Y: -19774.3223
+      Z: 2378.10181
+    }
+    Rotation {
+    }
+    Scale {
+      X: 6.69999838
+      Y: 6.69999838
+      Z: 6.69999838
+    }
+  }
+  ParentId: 4089793586574305372
+  ChildIds: 9749212011607278360
+  ChildIds: 16182851969599319807
+  ChildIds: 2301660018914807166
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2301660018914807166
+  Name: "Item Mod - Rotate"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.666666746
+      Y: 0.666666746
+      Z: 0.666666746
+    }
+  }
+  ParentId: 6699687059065445284
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 1810430461882432351
+    }
+  }
+}
+Objects {
+  Id: 16182851969599319807
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 0.666666746
+      Y: 0.666666746
+      Z: 0.666666746
+    }
+  }
+  ParentId: 6699687059065445284
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.441241831
+            Y: 0.441241831
+            Z: 0.441241831
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 22.1815643
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 9749212011607278360
+  Name: "Sprinkler Head"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6699687059065445284
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8603273462534455491
+      value {
+        Overrides {
+          Name: "bp:Angle Min"
+          Float: 55.2384148
+        }
+        Overrides {
+          Name: "bp:Angle Max"
+          Float: 64.5401688
+        }
+        Overrides {
+          Name: "bp:Velocity Min"
+          Float: 0.4
+        }
+        Overrides {
+          Name: "bp:Velocity Max"
+          Float: 0.55
+        }
+        Overrides {
+          Name: "bp:Density"
+          Float: 0.12662892
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18124628489835964995
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Sprinkler Head"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -0.846028805
+            Z: 5.47257614
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7329050911160183410
+    }
+  }
+}
+Objects {
+  Id: 3016994970949164777
+  Name: "Never Unload"
+  Transform {
+    Location {
+      X: 5546.78418
+      Y: -6479.40283
+      Z: -166.209122
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4089793586574305372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Never Unload"
+  }
+}
+Objects {
   Id: 5771214282835980510
   Name: "Chunk 2"
   Transform {
@@ -236,38 +251,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Chunk 2"
-  }
-}
-Objects {
-  Id: 11858432134105710824
-  Name: "Exit"
-  Transform {
-    Location {
-      X: 13765.9795
-      Y: -366.599121
-      Z: -166.209122
-    }
-    Rotation {
-      Pitch: 0.870213866
-      Yaw: 92.1960297
-      Roll: -19.6629944
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4089793586574305372
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Exit"
+    FilePartitionName: "Chunk 2_1"
   }
 }

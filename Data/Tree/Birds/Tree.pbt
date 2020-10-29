@@ -1,26 +1,26 @@
 ﻿Name: "Birds"
 RootId: 1277351036478192657
 Objects {
-  Id: 17010983252197787011
+  Id: 3537239548255423813
   Name: "Seagull"
   Transform {
     Location {
-      X: -23013.0488
-      Y: -18265.7578
-      Z: 133.927658
+      X: -1975.46057
+      Y: 30292.2188
+      Z: 1029.45862
     }
     Rotation {
-      Yaw: -22.1124878
+      Yaw: 24.9488602
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
-  ChildIds: 14785329225793701690
-  ChildIds: 5846659820066926802
+  ChildIds: 10299373742350595381
+  ChildIds: 8243399524743360300
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -32,7 +32,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5846659820066926802
+  Id: 8243399524743360300
   Name: "Pickup Sphere"
   Transform {
     Scale {
@@ -41,7 +41,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17010983252197787011
+  ParentId: 3537239548255423813
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
@@ -73,7 +73,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14785329225793701690
+  Id: 10299373742350595381
   Name: "Seagull"
   Transform {
     Scale {
@@ -82,146 +82,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17010983252197787011
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5024403690834609831
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 8583348692792336463
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 20.7343693
-            Z: -38.9046822
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 14477246386612179014
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Seagull"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 0.000814626226
-            Y: 0.000591323478
-            Z: 3.51625061
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7592470653715769541
-    }
-  }
-}
-Objects {
-  Id: 2311690014885543304
-  Name: "Seagull"
-  Transform {
-    Location {
-      X: -23138.3418
-      Y: -9746.77734
-      Z: 162.659149
-    }
-    Rotation {
-      Yaw: 87.2671204
-    }
-    Scale {
-      X: 8.61957359
-      Y: 8.61957359
-      Z: 8.61957359
-    }
-  }
-  ParentId: 1277351036478192657
-  ChildIds: 11187250846723647696
-  ChildIds: 15075781188850846888
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 15075781188850846888
-  Name: "Pickup Sphere"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2311690014885543304
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.1
-            Y: 1.1
-            Z: 1.1
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 14.0744629
-            Z: 28.5162506
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 11187250846723647696
-  Name: "Seagull"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2311690014885543304
+  ParentId: 3537239548255423813
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -253,10 +114,6 @@ Objects {
           Name: "cs:Chirp"
           Bool: true
         }
-        Overrides {
-          Name: "cs:Peck"
-          Bool: false
-        }
       }
     }
     TemplateAsset {
@@ -265,27 +122,26 @@ Objects {
   }
 }
 Objects {
-  Id: 671521349646321864
+  Id: 5038351705245365583
   Name: "Seagull"
   Transform {
     Location {
-      X: -6015.62793
-      Y: -25762.2832
-      Z: -1093.53894
+      X: 3328.23877
+      Y: 27704.7559
+      Z: 143.013657
     }
     Rotation {
-      Yaw: -124.828186
+      Yaw: 10.6006756
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
-  ChildIds: 7692013364019870226
-  ChildIds: 7887826096147791113
-  ChildIds: 17714856200097026099
+  ChildIds: 10363440113107798472
+  ChildIds: 4232968051038011379
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -297,34 +153,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17714856200097026099
-  Name: "Item Mod - Bob"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.448762417
-      Y: 0.448762417
-      Z: 0.448762417
-    }
-  }
-  ParentId: 671521349646321864
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5779258749086545758
-    }
-  }
-}
-Objects {
-  Id: 7887826096147791113
+  Id: 4232968051038011379
   Name: "Pickup Sphere"
   Transform {
     Scale {
@@ -333,7 +162,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 671521349646321864
+  ParentId: 5038351705245365583
   TemplateInstance {
     ParameterOverrideMap {
       key: 1516960025473174507
@@ -365,7 +194,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7692013364019870226
+  Id: 10363440113107798472
   Name: "Seagull"
   Transform {
     Scale {
@@ -374,7 +203,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 671521349646321864
+  ParentId: 5038351705245365583
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -405,457 +234,6 @@ Objects {
         Overrides {
           Name: "cs:Chirp"
           Bool: true
-        }
-        Overrides {
-          Name: "cs:Peck"
-          Bool: true
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7592470653715769541
-    }
-  }
-}
-Objects {
-  Id: 3048236678210053334
-  Name: "Seagull"
-  Transform {
-    Location {
-      X: -3877.20044
-      Y: -26569.5527
-      Z: -1057.0929
-    }
-    Rotation {
-      Yaw: -70.1796265
-    }
-    Scale {
-      X: 8.06224632
-      Y: 8.06224632
-      Z: 8.06224632
-    }
-  }
-  ParentId: 1277351036478192657
-  ChildIds: 15771212816821542221
-  ChildIds: 5304024429432251317
-  ChildIds: 14446039488508545138
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 14446039488508545138
-  Name: "Item Mod - Bob"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.413449675
-      Y: 0.413449675
-      Z: 0.413449675
-    }
-  }
-  ParentId: 3048236678210053334
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Frequency"
-      Int: 4
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5779258749086545758
-    }
-  }
-}
-Objects {
-  Id: 5304024429432251317
-  Name: "Pickup Sphere"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3048236678210053334
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.1
-            Y: 1.1
-            Z: 1.1
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 14.0744629
-            Z: 28.5162506
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 15771212816821542221
-  Name: "Seagull"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3048236678210053334
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14477246386612179014
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Seagull"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 0.000814626226
-            Y: 0.000591323478
-            Z: 3.51625061
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "cs:Chirp"
-          Bool: true
-        }
-        Overrides {
-          Name: "cs:Peck"
-          Bool: false
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7592470653715769541
-    }
-  }
-}
-Objects {
-  Id: 7981658426650189909
-  Name: "Seagull"
-  Transform {
-    Location {
-      X: -4794.12744
-      Y: -22664.8457
-      Z: -1120.4873
-    }
-    Rotation {
-      Yaw: 87.2671204
-    }
-    Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
-    }
-  }
-  ParentId: 1277351036478192657
-  ChildIds: 13312291292535337
-  ChildIds: 1628035168554209828
-  ChildIds: 7520274820012955917
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 7520274820012955917
-  Name: "Item Mod - Bob"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.448762417
-      Y: 0.448762417
-      Z: 0.448762417
-    }
-  }
-  ParentId: 7981658426650189909
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:Wavelength"
-      Int: 45
-    }
-    Overrides {
-      Name: "cs:Frequency"
-      Int: 4
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5779258749086545758
-    }
-  }
-}
-Objects {
-  Id: 1628035168554209828
-  Name: "Pickup Sphere"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7981658426650189909
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.1
-            Y: 1.1
-            Z: 1.1
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 14.0744629
-            Z: 28.5162506
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 13312291292535337
-  Name: "Seagull"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7981658426650189909
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14477246386612179014
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Seagull"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 0.000814626226
-            Y: 0.000591323478
-            Z: 3.51625061
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "cs:Chirp"
-          Bool: true
-        }
-        Overrides {
-          Name: "cs:Peck"
-          Bool: false
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7592470653715769541
-    }
-  }
-}
-Objects {
-  Id: 14046884993310084407
-  Name: "Seagull"
-  Transform {
-    Location {
-      X: 3366.32813
-      Y: -17547.4023
-      Z: 162.659149
-    }
-    Rotation {
-      Yaw: 87.2671204
-    }
-    Scale {
-      X: 8.61957359
-      Y: 8.61957359
-      Z: 8.61957359
-    }
-  }
-  ParentId: 1277351036478192657
-  ChildIds: 11972675692161574361
-  ChildIds: 12294288415724053842
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 12294288415724053842
-  Name: "Pickup Sphere"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14046884993310084407
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1516960025473174507
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pickup Sphere"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.1
-            Y: 1.1
-            Z: 1.1
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 14.0744629
-            Z: 28.5162506
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4673312574059639203
-    }
-  }
-}
-Objects {
-  Id: 11972675692161574361
-  Name: "Seagull"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14046884993310084407
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14477246386612179014
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Seagull"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 0.000814626226
-            Y: 0.000591323478
-            Z: 3.51625061
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "cs:Chirp"
-          Bool: true
-        }
-        Overrides {
-          Name: "cs:Peck"
-          Bool: false
         }
       }
     }
@@ -869,17 +247,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: 3924.96411
-      Y: -19849.7207
-      Z: 133.927658
+      X: 3924.70361
+      Y: -19850.4
+      Z: 143.014465
     }
     Rotation {
       Yaw: -22.1125488
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -994,17 +372,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: -2277.77661
-      Y: 535.431274
-      Z: 133.928467
+      X: -4295.89648
+      Y: -172.998047
+      Z: 143.015289
     }
     Rotation {
       Yaw: -127.562057
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -1115,17 +493,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: -4170.25684
-      Y: 3368.75317
-      Z: 133.927658
+      X: -4170.51758
+      Y: 3368.07617
+      Z: 143.014465
     }
     Rotation {
       Yaw: -154.77005
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -1236,17 +614,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: -2764.30981
-      Y: 6162.52441
-      Z: 133.927246
+      X: -2764.57031
+      Y: 6161.8457
+      Z: 143.014069
     }
     Rotation {
       Yaw: -167.842804
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -1357,17 +735,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: -3033.73364
-      Y: 9399.60059
-      Z: 133.927246
+      X: -4831.72852
+      Y: 9398.92188
+      Z: 143.014069
     }
     Rotation {
       Yaw: 172.200943
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -1478,17 +856,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: 1867.54224
-      Y: 12989.4072
-      Z: 133.927246
+      X: 1659.33594
+      Y: 12996.377
+      Z: 143.013657
     }
     Rotation {
       Yaw: 101.459061
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -1599,17 +977,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: 3871.54932
-      Y: 2026.49
-      Z: 133.926849
+      X: 4674.58
+      Y: 380.114746
+      Z: 143.013657
     }
     Rotation {
       Yaw: -65.4943237
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -1716,17 +1094,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: 1164.72
-      Y: 3537.41846
-      Z: 133.926849
+      X: 293.04361
+      Y: 1541.11243
+      Z: 143.013657
     }
     Rotation {
       Yaw: -121.720337
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -1837,17 +1215,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: 7892.93262
-      Y: 4685.55566
-      Z: 2352.37476
+      X: 7892.67578
+      Y: 4684.87939
+      Z: 2361.46143
     }
     Rotation {
       Yaw: -24.4424744
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -1958,17 +1336,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: -866.73175
-      Y: 4701.20898
-      Z: 133.927658
+      X: -866.992188
+      Y: 4700.53027
+      Z: 143.014465
     }
     Rotation {
       Yaw: -153.264816
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -2079,17 +1457,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: 660.353149
-      Y: 11146.7979
-      Z: 133.927658
+      X: 660.092773
+      Y: 11146.123
+      Z: 143.014465
     }
     Rotation {
       Yaw: 150.757416
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -2200,17 +1578,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: 722.706665
-      Y: 7723.62305
-      Z: 133.927658
+      X: 722.446289
+      Y: 7722.9458
+      Z: 143.014465
     }
     Rotation {
       Yaw: -177.201797
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -2325,17 +1703,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: 2772.6626
-      Y: 5491.68115
-      Z: 133.927658
+      X: 2371.13599
+      Y: 3981.48096
+      Z: 143.014465
     }
     Rotation {
       Yaw: -113.494263
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -2450,17 +1828,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: 4377.77
-      Y: 5736.36377
-      Z: 133.927658
+      X: 4366.40918
+      Y: 4726.43848
+      Z: 143.014465
     }
     Rotation {
       Yaw: -22.1125793
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657
@@ -2575,17 +1953,17 @@ Objects {
   Name: "Seagull Mayor"
   Transform {
     Location {
-      X: 4769.05566
-      Y: 8150.9082
-      Z: 495.426056
+      X: 4768.79883
+      Y: 8150.23096
+      Z: 504.512878
     }
     Rotation {
       Yaw: 16.5955982
     }
     Scale {
-      X: 10.0999966
-      Y: 10.0999966
-      Z: 10.0999966
+      X: 10.9473238
+      Y: 10.9473238
+      Z: 10.9473238
     }
   }
   ParentId: 1277351036478192657
@@ -2689,17 +2067,17 @@ Objects {
   Name: "Seagull"
   Transform {
     Location {
-      X: 5355.17578
-      Y: 7730.00293
-      Z: 3564.82983
+      X: 5354.91846
+      Y: 7729.32617
+      Z: 3573.91626
     }
     Rotation {
       Yaw: 76.2076645
     }
     Scale {
-      X: 7.42783546
-      Y: 7.42783546
-      Z: 7.42783546
+      X: 8.05098534
+      Y: 8.05098534
+      Z: 8.05098534
     }
   }
   ParentId: 1277351036478192657

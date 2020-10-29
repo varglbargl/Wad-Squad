@@ -10,9 +10,9 @@
         Name: "Wad Stopper"
         Transform {
           Scale {
-            X: 1.11582601
-            Y: 1.11582601
-            Z: 1.11582601
+            X: 0.991093457
+            Y: 0.991093457
+            Z: 0.991093457
           }
         }
         ParentId: 7000483169040515601
@@ -140,6 +140,14 @@
               B: 1
               A: 1
             }
+          }
+          Overrides {
+            Name: "ma:Sign_Face:utile"
+            Float: 10
+          }
+          Overrides {
+            Name: "ma:Sign_Face:vtile"
+            Float: 10
           }
         }
         Collidable_v2 {

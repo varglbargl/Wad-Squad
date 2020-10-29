@@ -18,11 +18,6 @@ local itemBackground = UI3D:FindDescendantByName("Item Background")
 itemNameBox.text = ""
 itemBackground.visibility = Visibility.FORCE_OFF
 
-function pickedUpItem(item, wad)
-  displayItem(item)
-  updateScore(wad.clientUserData["Size"])
-end
-
 function displayItem(item)
   if currentItem then currentItem:Destroy() end
 
@@ -72,16 +67,15 @@ end
 local wadSizeBox = UI2D:FindDescendantByName("Wad Size")
 wadSizeBox.text = "2cm"
 
-function updateScore(size)
-
+function updateScore(wadSize)
   local metricUnit = "cm"
 
-  if size >= 100 then
-    size = size / 100
+  if wadSize >= 100 then
+    wadSize = wadSize / 100
     metricUnit = "m"
   end
 
-  local formattedSize = string.format("%.2f", size * 2)
+  local formattedSize = string.format("%.2f", wadSize * 2)
 
   wadSizeBox.text = formattedSize .. metricUnit
 end
@@ -104,3 +98,6 @@ function sunBlink()
 end
 
 Task.Spawn(sunBlink)
+
+Events.Connect("DisplayItem", displayItem)
+Events.Connect("UpdateWadSize", updateScore)

@@ -841,6 +841,33 @@ Objects {
         }
       }
     }
+    ParameterOverrideMap {
+      key: 8804843363016196397
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12320773092218109482
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16416136729379377784
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
     TemplateAsset {
       Id: 17436914956528204940
     }
@@ -1046,6 +1073,8 @@ Objects {
       TeamInt: 2
       IsEnemyCollisionEnabled: true
     }
+    DisableDistanceFieldLighting: true
+    DisableCastShadows: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -1111,6 +1140,8 @@ Objects {
       TeamInt: 2
       IsEnemyCollisionEnabled: true
     }
+    DisableDistanceFieldLighting: true
+    DisableCastShadows: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -1549,7 +1580,7 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -666.501
+            X: -666.500854
             Y: 91.0004883
             Z: 199.5
           }
@@ -1560,6 +1591,14 @@ Objects {
             Pitch: -2.88977051
             Yaw: 1.42254157e-06
             Roll: 2.90809369
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.439950377
+            Y: 0.439950377
+            Z: 0.439950377
           }
         }
       }

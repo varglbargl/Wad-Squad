@@ -6,12 +6,11 @@ function UTILS.traverseHierarchy(node, callback)
   local shouldBreak = callback(node)
 
   if shouldBreak then
-    print("Breaking! " .. shouldBreak)
     return
   end
 
   for _, item in ipairs(node:GetChildren()) do
-    if item:GetChildren() then
+    if Object.IsValid(item) and item:GetChildren() then
       UTILS.traverseHierarchy(item, callback)
     end
   end
@@ -26,9 +25,6 @@ function UTILS.findItem(container)
     end
   end
 end
-
--- TODO: Google "music note pitch percentage" and finish this so SFX sound better
-local notes = {}
 
 function UTILS.playSoundEffect(sound, sfxPosition)
   local sfx = nil
@@ -50,7 +46,7 @@ end
 function UTILS.lerpNSlurp(object, targetObject, lerp, steps, time)
 
   -- defaults
-  steps = steps or 10
+  steps = steps or 20
   time = time or 0.5
   lerp = lerp or 0.2
 

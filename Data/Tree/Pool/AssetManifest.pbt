@@ -1,4 +1,13 @@
 ﻿Assets {
+  Id: 17512052449164844187
+  Name: "Hill 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hill_001"
+  }
+}
+Assets {
   Id: 14568125993563449440
   Name: "Underwater Post Process"
   PlatformAssetType: 20
@@ -14,6 +23,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_metal_basic_001"
+  }
+}
+Assets {
+  Id: 12972865578341707228
+  Name: "Gold Treasure 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_gold_treasure_002"
   }
 }
 Assets {
@@ -44,6 +62,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9434161903014384267
+  Name: "Hill 05"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hill_005"
+  }
+}
+Assets {
   Id: 8828784660932940028
   Name: "Decal Sci-fi Details 01"
   PlatformAssetType: 14
@@ -62,12 +89,30 @@ Assets {
   }
 }
 Assets {
+  Id: 6819246658081531387
+  Name: "Bubble Stream VFX"
+  PlatformAssetType: 8
+  PrimaryAsset {
+    AssetType: "VfxBlueprintAssetRef"
+    AssetId: "fxbp_bubble_stream"
+  }
+}
+Assets {
   Id: 6669114002000057967
   Name: "Plane 1m - One Sided"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_plane_1m_001"
+  }
+}
+Assets {
+  Id: 5931224016695282927
+  Name: "Liquid Decal"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "dcl_liquid"
   }
 }
 Assets {
@@ -86,6 +131,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_scf_crate_small_lid_001_ref"
+  }
+}
+Assets {
+  Id: 1851088153844372006
+  Name: "Gold Treasure 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_gold_treasure_001"
   }
 }
 Assets {

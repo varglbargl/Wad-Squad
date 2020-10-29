@@ -8,8 +8,6 @@ local UNDERGRAB = WAD:FindChildByName("Undergrab")
 local HITBOX_SPHERE = script:GetCustomProperty("HitboxSphere")
 local HITBOX_CUBE = script:GetCustomProperty("HitboxCube")
 local MESH = script:GetCustomProperty("Mesh"):WaitForObject()
-local UI_MANAGER = script:GetCustomProperty("UIManager"):WaitForObject()
-local CLIENT_GAME_MANAGER = script:GetCustomProperty("ClientGameManager"):WaitForObject()
 
 local delay = 0.005
 local moveSpeed = 650
@@ -80,7 +78,7 @@ end
 function rollThatWad(deltaTime)
   deltaTime = deltaTime or delay
   local wadSize = WAD.clientUserData["Size"] or 1
-  local simulatedMass = Vector3.UP * (wadSize ^ 0.865 - 1.8) * -gravityForce * deltaTime
+  local simulatedMass = Vector3.UP * (wadSize ^ 0.864 - 1.8) * -gravityForce * deltaTime
 
   local currentWadVelocity = WAD:GetVelocity()
   local currentWadAngularVelocity = WAD:GetAngularVelocity()
@@ -154,17 +152,21 @@ function handleGrabberOverlap (grabber, trigger)
     local tooSmol = itemSize < wadSize / 20
 
     if tooBigh then
+      print(item.name .. " is too B I G H! You gotta be " .. itemSize * 4 .. "cm.")
       -- TODO: Bounce off at the the angle at which you collided mirrored along
       -- the axis perpendicular to vector between wad and trigger
       -- OMG THAT SOUNDS LIKE SUCH A MATH NIGHTMARE
       -- ALSO TODO: Fix the part where you can clip through triggers.
       WAD:SetVelocity(WAD:GetVelocity() * -1)
       WAD:SetAngularVelocity(WAD:GetAngularVelocity() * -1)
-      print(item.name .. " is too B I G H! You gotta be " .. itemSize * 4 .. "cm.")
       Utils.playSoundEffect(BOUNCE_OFF_SOUND)
     end
 
-    if tooSmol then print(item.name .. " is too smol uwu") end
+    if tooSmol then
+      print(item.name .. " is too smol uwu")
+      Events.Broadcast("StoreItem", item, item.parent, "grabbed")
+      item:Destroy()
+    end
 
     if not tooBigh and not tooSmol then
       local hitbox = nil
@@ -186,7 +188,7 @@ function handleGrabberOverlap (grabber, trigger)
         hitbox.parent = WAD
       end
 
-      CLIENT_GAME_MANAGER.context.storeItem(item, item.parent, "grabbed")
+      Events.Broadcast("StoreItem", item, item.parent, "grabbed")
 
       -- The big important part:
       item.parent = WAD
@@ -211,8 +213,8 @@ function handleGrabberOverlap (grabber, trigger)
 
       -- pull the grabbed item in a little because the grabber hitbox is bigger than the wad
       if grabber.name == "Undergrab" then
-        Utils.lerpNSlurp(item, WAD, 0.3, 40 * (itemSize / wadSize), 0.8 * (itemSize / wadSize))
-        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.3, 60 * (itemSize / wadSize), 1 * (itemSize / wadSize)) end
+        Utils.lerpNSlurp(item, WAD, 0.4, 40 * (itemSize / wadSize), 0.8 * (itemSize / wadSize))
+        if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.4, 60 * (itemSize / wadSize), 1 * (itemSize / wadSize)) end
       else
         Utils.lerpNSlurp(item, WAD, 0.2, 50 * (itemSize / wadSize), 1.2 * (itemSize / wadSize))
         if hitbox then Utils.lerpNSlurp(hitbox, WAD, 0.2, 60 * (itemSize / wadSize), 1.5 * (itemSize / wadSize)) end
@@ -221,11 +223,20 @@ function handleGrabberOverlap (grabber, trigger)
       -- whatever feels right, I guess.
       wadSize = wadSize + itemSize / 48
 
-      -- increase size of the wad and the grabber
-      updateWadSize(wadSize)
+      -- increase size of the wad and the grabber and update score
+      Events.Broadcast("UpdateWadSize", wadSize)
 
       -- update the UI with new item and size
-      UI_MANAGER.context.pickedUpItem(item, WAD)
+      Events.Broadcast("DisplayItem", item)
+
+      -- check if next chunk should load
+      if wadSize * 2 >= 75 then
+        Events.Broadcast("LoadChunk", "chunk4")
+      elseif wadSize * 2 >= 25 then
+        Events.Broadcast("LoadChunk", "chunk3")
+      elseif wadSize * 2 >= 5 then
+        Events.Broadcast("LoadChunk", "chunk2")
+      end
 
       local pickupSound = item:GetCustomProperty("PickupSound")
       local pickupFX = item:GetCustomProperty("PickupFX")
@@ -244,15 +255,16 @@ function handleGrabberOverlap (grabber, trigger)
   end
 end
 
-function updateWadSize(wadSize)
-  GRABBER:SetWorldScale(Vector3.ONE * wadSize * 0.375)
-  UNDERGRAB:SetWorldScale(Vector3.ONE * wadSize * 0.2)
-  MESH:SetWorldScale(Vector3.ONE * wadSize * 0.3)
+function handleUpdateWadSize(newWadSize)
+  GRABBER:SetWorldScale(Vector3.ONE * newWadSize * 0.375)
+  UNDERGRAB:SetWorldScale(Vector3.ONE * newWadSize * 0.25)
+  MESH:SetWorldScale(Vector3.ONE * newWadSize * 0.3)
 
-  WAD.clientUserData["Size"] = wadSize
-  UI_MANAGER.context.updateScore(wadSize)
+  WAD.clientUserData["Size"] = newWadSize
 end
 
 -- handler params: Trigger_, Object_
 GRABBER.beginOverlapEvent:Connect(handleGrabberOverlap)
 UNDERGRAB.beginOverlapEvent:Connect(handleGrabberOverlap)
+
+Events.Connect("UpdateWadSize", handleUpdateWadSize)

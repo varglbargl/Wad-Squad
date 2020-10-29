@@ -43,24 +43,8 @@
         Float: 0.395559877
       }
       Overrides {
-        Name: "foam shape"
-        Float: 2.21143436
-      }
-      Overrides {
         Name: "foam shape max"
-        Float: 0.51108253
-      }
-      Overrides {
-        Name: "foam shape min"
-        Float: 0.280037224
-      }
-      Overrides {
-        Name: "foam shift"
         Float: 1
-      }
-      Overrides {
-        Name: "foam tightness"
-        Float: 20
       }
       Overrides {
         Name: "normal foam brightness"
@@ -77,6 +61,30 @@
       Overrides {
         Name: "reflection brightness"
         Float: 0.2
+      }
+      Overrides {
+        Name: "foam color"
+        Color {
+          G: 0.889166534
+          B: 0.97
+          A: 1
+        }
+      }
+      Overrides {
+        Name: "foam shape min"
+        Float: 0.3
+      }
+      Overrides {
+        Name: "foam shape"
+        Float: 2.50849104
+      }
+      Overrides {
+        Name: "u_tiles"
+        Float: 0.6
+      }
+      Overrides {
+        Name: "v_tiles"
+        Float: 0.6
       }
     }
     Assets {
