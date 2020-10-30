@@ -10,15 +10,22 @@ function wadCameraFollow()
   local wadPosition = myWad:GetWorldPosition()
 
 
-  CAMERA_CONTAINER:SetWorldPosition(Vector3.Lerp(CAMERA_CONTAINER:GetWorldPosition(), wadPosition, 0.1))
+  CAMERA_CONTAINER:MoveTo(wadPosition, 0.1)
   CAMERA_CONTAINER:SetWorldRotation(playerRotation)
   CAMERA:SetRotationOffset(playerRotation)
 
   if myWad.clientUserData["Size"] then
     CAMERA:MoveTo(Vector3.New(-30, 0, 10) * myWad.clientUserData["Size"], 1, true)
-    cameraSizeAdjust = myWad.clientUserData["Size"]
 
-    CAMERA.currentDistance = 150 * cameraSizeAdjust
+    if cameraSizeAdjust ~= myWad.clientUserData["Size"] then
+
+      CAMERA.currentDistance = CAMERA.currentDistance / cameraSizeAdjust * myWad.clientUserData["Size"]
+
+      CAMERA.minDistance = 150 * cameraSizeAdjust
+      CAMERA.maxDistance = 400 * cameraSizeAdjust
+
+      cameraSizeAdjust = myWad.clientUserData["Size"]
+    end
   end
 
   Task.Wait()

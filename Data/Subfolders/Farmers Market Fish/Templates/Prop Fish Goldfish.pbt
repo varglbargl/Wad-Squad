@@ -15,7 +15,7 @@
             Z: 1
           }
         }
-        ParentId: 582943275432150329
+        ParentId: 17256909798592002554
         ChildIds: 6482392930644398028
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -45,7 +45,6 @@
           }
         }
         ParentId: 15141464574352451620
-        ChildIds: 10597625774314112618
         ChildIds: 15589718271705900209
         UnregisteredParameters {
           Overrides {
@@ -102,41 +101,6 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         NetworkContext {
-        }
-      }
-      Objects {
-        Id: 10597625774314112618
-        Name: "FishAnimationClient"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6482392930644398028
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:root"
-            ObjectReference {
-              SubObjectId: 6482392930644398028
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Script {
-          ScriptAsset {
-            Id: 124456741877757591
-          }
         }
       }
       Objects {

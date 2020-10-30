@@ -5195,12 +5195,12 @@ Objects {
   Name: "Pipe Base with FX"
   Transform {
     Location {
-      X: -2082.42285
-      Y: -5337.45264
-      Z: 62.7093735
+      X: -2046.61182
+      Y: -5360.01709
+      Z: 15.5292206
     }
     Rotation {
-      Yaw: 86.8680267
+      Yaw: 176.868027
     }
     Scale {
       X: 1.18791723
@@ -5429,12 +5429,12 @@ Objects {
   Name: "Pipe Base"
   Transform {
     Location {
-      X: -2083.7666
-      Y: -5514.3042
-      Z: 62.7093735
+      X: -1869.76025
+      Y: -5361.36084
+      Z: 15.5292206
     }
     Rotation {
-      Yaw: 86.8680267
+      Yaw: 176.868027
     }
     Scale {
       X: 1.18791723

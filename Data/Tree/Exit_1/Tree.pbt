@@ -376,14 +376,14 @@ Objects {
   Name: "Wad Stopper"
   Transform {
     Location {
-      X: 1325.19299
-      Y: 19.7300205
-      Z: 195.929413
+      X: 1396.04626
+      Y: -267.184143
+      Z: 297.310059
     }
     Rotation {
-      Pitch: 16.6317558
-      Yaw: -91.2039185
-      Roll: 7.58876848
+      Pitch: 16.0688457
+      Yaw: -106.793518
+      Roll: 2.37461042
     }
     Scale {
       X: 3.63118434

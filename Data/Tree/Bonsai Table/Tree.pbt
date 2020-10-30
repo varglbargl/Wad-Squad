@@ -433,14 +433,6 @@ Objects {
             Yaw: -44.9999695
           }
         }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 8.68
-            Y: 8.68
-            Z: 8.68
-          }
-        }
       }
     }
     TemplateAsset {

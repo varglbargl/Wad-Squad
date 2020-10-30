@@ -7,7 +7,7 @@
       RootId: 11345938155938431782
       Objects {
         Id: 11345938155938431782
-        Name: "Item - Old Console"
+        Name: "Old Console"
         Transform {
           Scale {
             X: 1.73724198
@@ -40,6 +40,9 @@
         Name: "Art"
         Transform {
           Location {
+            X: -6.4090942e-05
+            Y: -4.8960268e-05
+            Z: -83.5631714
           }
           Rotation {
           }
@@ -432,6 +435,7 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -821,6 +825,7 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {

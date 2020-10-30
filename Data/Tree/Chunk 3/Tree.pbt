@@ -176,33 +176,6 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 4549919460423095787
-      value {
-        Overrides {
-          Name: "DisableDistanceFieldLighting"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 6344435508917496593
-      value {
-        Overrides {
-          Name: "DisableDistanceFieldLighting"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 8723616191223886069
-      value {
-        Overrides {
-          Name: "DisableDistanceFieldLighting"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
       key: 11345938155938431782
       value {
         Overrides {
@@ -218,28 +191,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17745141490947133466
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -6.4090942e-05
-            Y: -4.8960268e-05
-            Z: -83.5631714
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 18195720124392013690
-      value {
-        Overrides {
-          Name: "DisableDistanceFieldLighting"
-          Bool: true
         }
       }
     }

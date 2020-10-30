@@ -17,6 +17,6 @@ if cheatsAllowed and ACTIVATE then
 
   wad:SetWorldPosition(script:GetWorldPosition() + Vector3.UP * 20 * SIZE_BOOST)
 
-  if SIZE_BOOST > 0 then Events.Broadcast("UpdateWadSize", SIZE_BOOST) end
+  if SIZE_BOOST > 0 then Events.Broadcast("UpdateWadSize", SIZE_BOOST / 2) end
   if CHUNK_TO_LOAD > 0 then Events.Broadcast("LoadChunk", "chunk" .. CHUNK_TO_LOAD) end
 end

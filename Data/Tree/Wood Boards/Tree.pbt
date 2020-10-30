@@ -1,6 +1,140 @@
 ﻿Name: "Wood Boards"
 RootId: 12967190499576405297
 Objects {
+  Id: 10674145453736569568
+  Name: "Board"
+  Transform {
+    Location {
+      X: 4566.17188
+      Y: 4890.36182
+    }
+    Rotation {
+      Pitch: 90
+      Roll: -87.3169861
+    }
+    Scale {
+      X: 0.8
+      Y: 0.8
+      Z: 0.8
+    }
+  }
+  ParentId: 12967190499576405297
+  ChildIds: 9575890105826766238
+  ChildIds: 12894207826416618847
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 12894207826416618847
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10674145453736569568
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1.2
+            Z: 9.2
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -5.96046448e-07
+            Y: -4.05311584e-05
+            Z: 21.0896015
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 9575890105826766238
+  Name: "Wood 2x4"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10674145453736569568
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3887622878996563620
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 50.0001831
+            Y: 75
+            Z: -549.99939
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 90
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17782923543926153415
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Wood 2x4"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 10844463955611351122
+    }
+  }
+}
+Objects {
   Id: 427141542323382982
   Name: "Board"
   Transform {
@@ -92,6 +226,27 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 3887622878996563620
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 50
+            Y: 75.0000763
+            Z: -549.99939
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 3.50766802
+            Y: 3.50766802
+            Z: 3.50766802
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 17782923543926153415
       value {
         Overrides {
@@ -120,8 +275,8 @@ Objects {
   Name: "Board"
   Transform {
     Location {
-      X: 343.910156
-      Y: 4466.73
+      X: 932.942383
+      Y: 3351.98193
     }
     Rotation {
       Pitch: 90
@@ -207,6 +362,25 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
+    ParameterOverrideMap {
+      key: 3887622878996563620
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 50.0001831
+            Y: 75
+            Z: -549.99939
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 90
+          }
+        }
+      }
+    }
     ParameterOverrideMap {
       key: 17782923543926153415
       value {
@@ -322,6 +496,27 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
+    ParameterOverrideMap {
+      key: 3887622878996563620
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 50.000145
+            Y: 74.9999237
+            Z: -549.99939
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 3.45501232
+            Y: 3.45501232
+            Z: 3.45501232
+          }
+        }
+      }
+    }
     ParameterOverrideMap {
       key: 17782923543926153415
       value {
@@ -553,6 +748,27 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 3887622878996563620
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 50.0002289
+            Y: 74.9999619
+            Z: -549.99939
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 3.80000067
+            Y: 5.51489973
+            Z: 3.79999924
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 17782923543926153415
       value {
         Overrides {
@@ -667,6 +883,27 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 3887622878996563620
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 50.0001526
+            Y: 75.0001144
+            Z: -549.999146
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 4.7159605
+            Y: 4.7159605
+            Z: 4.7159605
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 17782923543926153415
       value {
         Overrides {
@@ -780,6 +1017,27 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
+    ParameterOverrideMap {
+      key: 3887622878996563620
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 50.0001907
+            Y: 75.0002441
+            Z: -549.999451
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 4.78248
+            Y: 4.78248
+            Z: 4.78248
+          }
+        }
+      }
+    }
     ParameterOverrideMap {
       key: 17782923543926153415
       value {

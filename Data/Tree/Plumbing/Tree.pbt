@@ -129,12 +129,12 @@ Objects {
   Name: "Plumbing Bit"
   Transform {
     Location {
-      X: -4019.23633
-      Y: -4515.73242
-      Z: 28.8379517
+      X: -3912.18018
+      Y: -4431.72656
+      Z: -18.3421936
     }
     Rotation {
-      Yaw: -0.114379883
+      Yaw: 89.885582
     }
     Scale {
       X: 1.49999988

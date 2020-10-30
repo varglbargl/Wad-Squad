@@ -1,6 +1,156 @@
 ﻿Name: "Garden"
 RootId: 3092004872852450116
 Objects {
+  Id: 12859885782421975199
+  Name: "Invisible Ramp"
+  Transform {
+    Location {
+      X: 279.646
+      Y: -1030.00024
+      Z: -5
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 2.69999981
+      Y: 4.20000124
+      Z: 1.4
+    }
+  }
+  ParentId: 3092004872852450116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 11251994733772007315
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9256376963641243765
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17536650382572966530
+  Name: "Witch\'s Book"
+  Transform {
+    Location {
+      X: -4230
+      Y: -5500
+      Z: 137.529327
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 1.60000014
+      Y: 1.60000014
+      Z: 1.60000014
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5661376503267414604
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:vtile"
+          Float: 8
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:utile"
+          Float: 0.2
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5751125532144064646
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Witch\'s Book"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 90
+            Roll: 180
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 309.646
+            Y: -1030.00024
+            Z: 2.52914429
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.60000014
+            Y: 1.60000014
+            Z: 1.60000014
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8978218310101357214
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1112.74316
+            Y: 54.4958496
+            Z: 48.1170807
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.0374867581
+            Y: 0.000374867552
+            Z: 0.0374867581
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17884679603165529694
+    }
+  }
+}
+Objects {
   Id: 2101339000519451770
   Name: "Bee Sauce"
   Transform {
@@ -1244,9 +1394,8 @@ Objects {
   Name: "Invisible Ramp"
   Transform {
     Location {
-      X: 1044.646
-      Y: -1860.00024
-      Z: -10
+      X: 1029.646
+      Y: -1850.00024
     }
     Rotation {
       Yaw: 89.9999542

@@ -254,7 +254,7 @@ Objects {
   Name: "Watering Can - Red"
   Transform {
     Location {
-      X: -1143.99902
+      X: -1927.33069
       Y: 2387.16138
       Z: 150
     }

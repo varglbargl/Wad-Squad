@@ -3829,32 +3829,6 @@ Objects {
   }
 }
 Objects {
-  Id: 8063852604038436876
-  Name: "Static Level"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15764376009576159070
-  ChildIds: 14383419372897064754
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  NetworkContext {
-    Type: RuntimeStatic
-  }
-}
-Objects {
   Id: 14383419372897064754
   Name: "Yard"
   Transform {
@@ -3868,7 +3842,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8063852604038436876
+  ParentId: 15764376009576159070
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

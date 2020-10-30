@@ -255,8 +255,8 @@ Objects {
   Name: "Goldfish"
   Transform {
     Location {
-      X: 147.834961
-      Y: -2723.26953
+      X: 65.121582
+      Y: -2508.94043
       Z: 249.552551
     }
     Rotation {
@@ -336,7 +336,7 @@ Objects {
 }
 Objects {
   Id: 15329792202944787715
-  Name: "Prop Fish Goldfish"
+  Name: "Goldfish"
   Transform {
     Scale {
       X: 1
@@ -687,7 +687,7 @@ Objects {
 }
 Objects {
   Id: 7998367394145735299
-  Name: "Prop Fish Knifejaw"
+  Name: "Knifejaw"
   Transform {
     Scale {
       X: 1

@@ -5,9 +5,9 @@ Objects {
   Name: "Wad Stopper"
   Transform {
     Location {
-      X: -637.432678
-      Y: 168.446259
-      Z: 181.258469
+      X: -493.34
+      Y: 166.562225
+      Z: 179.607498
     }
     Rotation {
       Pitch: 9.72423553

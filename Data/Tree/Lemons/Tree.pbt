@@ -5,8 +5,8 @@ Objects {
   Name: "Lemon"
   Transform {
     Location {
-      X: 434.970581
-      Y: 473.308167
+      X: -360.395477
+      Y: 464.214203
       Z: -802.552185
     }
     Rotation {

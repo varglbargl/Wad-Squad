@@ -140,12 +140,12 @@ Objects {
     Location {
       X: -3919.11572
       Y: -2199.80811
-      Z: 570
+      Z: 570.73
     }
     Rotation {
-      Pitch: -79.1611
-      Yaw: 2.24493861
-      Roll: -3.8274231
+      Pitch: -74.8795471
+      Yaw: 1.1484971
+      Roll: -2.75823975
     }
     Scale {
       X: 0.3
@@ -252,14 +252,6 @@ Objects {
           Name: "Rotation"
           Rotator {
             Roll: 1.60082504e-06
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
           }
         }
       }
@@ -802,7 +794,7 @@ Objects {
     Location {
       X: -2949.98389
       Y: -1807.97534
-      Z: 603.805237
+      Z: 606.860168
     }
     Rotation {
       Yaw: 78.7494354
@@ -933,7 +925,7 @@ Objects {
     Location {
       X: -2919.98657
       Y: -2077.91943
-      Z: 603.805237
+      Z: 606.860168
     }
     Rotation {
       Yaw: 78.7493515
@@ -1197,7 +1189,7 @@ Objects {
     Location {
       X: -3316.70752
       Y: -914.941956
-      Z: 660.91333
+      Z: 663.968262
     }
     Rotation {
       Pitch: 2.71798491
@@ -1330,7 +1322,7 @@ Objects {
     Location {
       X: -3227.87207
       Y: -914.941833
-      Z: 646.517944
+      Z: 649.572876
     }
     Rotation {
       Pitch: 2.71798491
@@ -1729,7 +1721,7 @@ Objects {
     Location {
       X: -2990.00049
       Y: -2199.98584
-      Z: 603.805237
+      Z: 608.700928
     }
     Rotation {
       Yaw: 22.4997826
@@ -1860,7 +1852,7 @@ Objects {
     Location {
       X: -2945.00586
       Y: -2154.98535
-      Z: 579
+      Z: 580.840759
     }
     Rotation {
       Yaw: 67.499939
@@ -2122,7 +2114,7 @@ Objects {
     Location {
       X: -2998.21362
       Y: -915.110107
-      Z: 603.805237
+      Z: 606.860168
     }
     Rotation {
       Yaw: 179.999863
@@ -2384,7 +2376,7 @@ Objects {
     Location {
       X: -3618.00146
       Y: -2169.9873
-      Z: 579
+      Z: 577.168945
     }
     Rotation {
       Yaw: 11.2502489
@@ -2515,7 +2507,7 @@ Objects {
     Location {
       X: -2956.62622
       Y: -1547.91284
-      Z: 603.805237
+      Z: 606.860168
     }
     Rotation {
       Yaw: 89.9999313
@@ -2646,7 +2638,7 @@ Objects {
     Location {
       X: -3528.00488
       Y: -2169.99829
-      Z: 603.805237
+      Z: 606.860168
     }
     Rotation {
       Yaw: -11.2503357
@@ -2777,7 +2769,7 @@ Objects {
     Location {
       X: -2934.13062
       Y: -1457.91443
-      Z: 603.805237
+      Z: 606.860168
     }
     Rotation {
       Yaw: 67.5001831
@@ -3039,7 +3031,7 @@ Objects {
     Location {
       X: -3797.97339
       Y: -2199.99463
-      Z: 579
+      Z: 577.112305
     }
     Rotation {
       Yaw: -11.2503967
@@ -3148,14 +3140,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
       }
     }
     TemplateAsset {
@@ -3170,7 +3154,7 @@ Objects {
     Location {
       X: -3707.98193
       Y: -2199.98926
-      Z: 579
+      Z: 577.203247
     }
     Rotation {
       Yaw: 11.2502489
@@ -3432,7 +3416,7 @@ Objects {
     Location {
       X: -3243.05078
       Y: -2169.99121
-      Z: 603.805237
+      Z: 608.700928
     }
     Rotation {
       Yaw: 11.2502499
@@ -3563,7 +3547,7 @@ Objects {
     Location {
       X: -2956.62964
       Y: -1180.41284
-      Z: 603.805237
+      Z: 606.860168
     }
     Rotation {
       Yaw: 89.9999313
@@ -4218,7 +4202,7 @@ Objects {
     Location {
       X: -3070.56372
       Y: -2199.99072
-      Z: 603.805237
+      Z: 606.860168
     }
     Rotation {
       Yaw: -11.2503357
