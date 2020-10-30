@@ -875,7 +875,7 @@ Objects {
 }
 Objects {
   Id: 1579764252028645994
-  Name: "Item - Water Gun"
+  Name: "ClientContext"
   Transform {
     Scale {
       X: 1
@@ -884,54 +884,34 @@ Objects {
     }
   }
   ParentId: 280905557327166263
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 5859712415406842656
-      value {
-        Overrides {
-          Name: "DisableDistanceFieldLighting"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 8675115552562860570
-      value {
-        Overrides {
-          Name: "DisableDistanceFieldLighting"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11946753133872246056
+      key: 8287887171582279701
       value {
         Overrides {
           Name: "Name"
-          String: "Item - Water Gun"
+          String: "Manti Soaker"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -608.906738
-            Y: -529.492676
+            X: -608.906616
+            Y: -529.492615
             Z: 255.689514
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: -6.89868164
-            Yaw: 24.6828918
-            Roll: -83.4214478
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 5.02697897
-            Y: 1.19946742
-            Z: 1.64487565
+            Pitch: -6.89866829
+            Yaw: 24.6828651
+            Roll: -83.4214172
           }
         }
       }

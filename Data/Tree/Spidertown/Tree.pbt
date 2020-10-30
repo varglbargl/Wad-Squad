@@ -984,27 +984,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -1070,27 +1070,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -1156,27 +1156,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -1242,27 +1242,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -1328,27 +1328,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -1447,27 +1447,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -1533,27 +1533,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -1619,27 +1619,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -1704,27 +1704,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -1790,27 +1790,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -1875,27 +1875,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -1977,27 +1977,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -2063,27 +2063,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -2149,27 +2149,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -2235,27 +2235,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -2321,27 +2321,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -2440,27 +2440,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -2526,27 +2526,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -2612,27 +2612,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -2697,27 +2697,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -2783,27 +2783,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -2868,27 +2868,27 @@ Objects {
         Overrides {
           Name: "ma:Font.Faces:color"
           Color {
-            R: 0.565401
-            G: 0.620120585
-            B: 0.687000036
+            R: 0.350598
+            G: 0.384528905
+            B: 0.426000029
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Sides:color"
           Color {
-            R: 0.27429
-            G: 0.384593636
-            B: 0.446
+            R: 0.18142502
+            G: 0.254383683
+            B: 0.295000017
             A: 1
           }
         }
         Overrides {
           Name: "ma:Font.Bevel:color"
           Color {
-            R: 0.376267
-            G: 0.509731233
-            B: 0.587
+            R: 0.266015
+            G: 0.360372156
+            B: 0.415000021
             A: 1
           }
         }
@@ -3027,27 +3027,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -3126,27 +3126,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -3225,27 +3225,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -3324,27 +3324,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -3423,27 +3423,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -3561,27 +3561,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -3660,27 +3660,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -3759,27 +3759,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -3858,27 +3858,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -3956,27 +3956,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -4108,27 +4108,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -4207,27 +4207,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -4306,27 +4306,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -4405,27 +4405,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -4504,27 +4504,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -4603,27 +4603,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -4702,27 +4702,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -4801,27 +4801,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -4900,27 +4900,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -4999,27 +4999,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -5098,27 +5098,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -5197,27 +5197,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -5296,27 +5296,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -5395,27 +5395,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -5494,27 +5494,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -5592,27 +5592,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -5691,27 +5691,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -5789,27 +5789,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -5887,27 +5887,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -6029,27 +6029,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -6128,27 +6128,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -6227,27 +6227,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -6326,27 +6326,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -6425,27 +6425,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -6524,27 +6524,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -6623,27 +6623,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -6722,27 +6722,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -6820,27 +6820,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -6918,27 +6918,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -7015,27 +7015,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -7201,27 +7201,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -7300,27 +7300,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -7399,27 +7399,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -7498,27 +7498,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -7597,27 +7597,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -7696,27 +7696,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -7795,27 +7795,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -7894,27 +7894,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -7993,27 +7993,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -8091,27 +8091,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -8190,27 +8190,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -8288,27 +8288,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -8386,27 +8386,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -8528,27 +8528,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -8627,27 +8627,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -8726,27 +8726,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -8825,27 +8825,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -8924,27 +8924,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -9023,27 +9023,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -9122,27 +9122,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -9221,27 +9221,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -9319,27 +9319,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -9417,27 +9417,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -9602,27 +9602,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -9701,27 +9701,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -9800,27 +9800,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -9899,27 +9899,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -9998,27 +9998,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -10097,27 +10097,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -10196,27 +10196,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -10295,27 +10295,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -10394,27 +10394,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -10492,27 +10492,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -10671,27 +10671,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -10770,27 +10770,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -10869,27 +10869,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -10968,27 +10968,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -11067,27 +11067,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -11166,27 +11166,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -11265,27 +11265,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -11364,27 +11364,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -11463,27 +11463,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -11562,27 +11562,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -11661,27 +11661,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -11760,27 +11760,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -11858,27 +11858,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -11956,27 +11956,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -12108,27 +12108,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -12207,27 +12207,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -12306,27 +12306,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -12405,27 +12405,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -12504,27 +12504,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -12603,27 +12603,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -12702,27 +12702,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -12801,27 +12801,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -12900,27 +12900,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -12999,27 +12999,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -13098,27 +13098,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -13197,27 +13197,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -13296,27 +13296,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -13395,27 +13395,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -13493,27 +13493,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -13591,27 +13591,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -13737,27 +13737,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -13836,27 +13836,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -13935,27 +13935,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -14034,27 +14034,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -14133,27 +14133,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -14232,27 +14232,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -14331,27 +14331,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -14430,27 +14430,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -14528,27 +14528,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -14626,27 +14626,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -14809,27 +14809,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -14908,27 +14908,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -15007,27 +15007,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -15106,27 +15106,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -15205,27 +15205,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -15304,27 +15304,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -15403,27 +15403,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -15501,27 +15501,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -15643,27 +15643,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -15742,27 +15742,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -15841,27 +15841,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -15940,27 +15940,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -16039,27 +16039,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -16138,27 +16138,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -16237,27 +16237,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -16335,27 +16335,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -16433,27 +16433,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -16577,27 +16577,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -16676,27 +16676,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -16775,27 +16775,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -16874,27 +16874,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -16973,27 +16973,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -17072,27 +17072,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -17171,27 +17171,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -17269,27 +17269,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -17368,27 +17368,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -17466,27 +17466,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -17564,27 +17564,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -17705,27 +17705,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -17804,27 +17804,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -17903,27 +17903,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -18002,27 +18002,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -18101,27 +18101,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -18200,27 +18200,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -18299,27 +18299,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -18397,27 +18397,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -18495,27 +18495,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -18678,27 +18678,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -18777,27 +18777,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -18876,27 +18876,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -18975,27 +18975,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -19074,27 +19074,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -19173,27 +19173,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -19272,27 +19272,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -19370,27 +19370,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -19516,27 +19516,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -19615,27 +19615,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -19714,27 +19714,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -19813,27 +19813,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -19912,27 +19912,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -20011,27 +20011,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -20110,27 +20110,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -20209,27 +20209,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -20308,27 +20308,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -20407,27 +20407,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -20506,27 +20506,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -20604,27 +20604,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -20702,27 +20702,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -20850,27 +20850,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -20949,27 +20949,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -21048,27 +21048,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -21147,27 +21147,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -21246,27 +21246,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -21345,27 +21345,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -21444,27 +21444,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -21543,27 +21543,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -21642,27 +21642,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -21741,27 +21741,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -21840,27 +21840,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -21938,27 +21938,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -22037,27 +22037,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -22135,27 +22135,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -22233,27 +22233,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -22374,27 +22374,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -22473,27 +22473,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -22572,27 +22572,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -22671,27 +22671,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -22770,27 +22770,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -22869,27 +22869,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -22968,27 +22968,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -23066,27 +23066,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -23164,27 +23164,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -23349,27 +23349,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -23448,27 +23448,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -23547,27 +23547,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -23646,27 +23646,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -23745,27 +23745,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -23844,27 +23844,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -23943,27 +23943,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -24042,27 +24042,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -24141,27 +24141,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -24239,27 +24239,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -24382,27 +24382,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -24481,27 +24481,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -24580,27 +24580,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -24679,27 +24679,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -24778,27 +24778,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -24877,27 +24877,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -24976,27 +24976,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -25075,27 +25075,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -25173,27 +25173,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -25271,27 +25271,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -25414,27 +25414,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -25513,27 +25513,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -25612,27 +25612,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -25711,27 +25711,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -25810,27 +25810,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -25909,27 +25909,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -26008,27 +26008,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -26107,27 +26107,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -26205,27 +26205,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -26303,27 +26303,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -26444,27 +26444,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -26543,27 +26543,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -26642,27 +26642,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -26741,27 +26741,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -26840,27 +26840,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -26939,27 +26939,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -27038,27 +27038,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -27136,27 +27136,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }
@@ -27234,27 +27234,27 @@ Objects {
     Overrides {
       Name: "ma:Font.Faces:color"
       Color {
-        R: 0.565401
-        G: 0.620120585
-        B: 0.687000036
+        R: 0.350598
+        G: 0.384528905
+        B: 0.426000029
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Sides:color"
       Color {
-        R: 0.27429
-        G: 0.384593636
-        B: 0.446
+        R: 0.18142502
+        G: 0.254383683
+        B: 0.295000017
         A: 1
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:color"
       Color {
-        R: 0.376267
-        G: 0.509731233
-        B: 0.587
+        R: 0.266015
+        G: 0.360372156
+        B: 0.415000021
         A: 1
       }
     }

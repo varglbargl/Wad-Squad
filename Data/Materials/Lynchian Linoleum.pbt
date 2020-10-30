@@ -1,6 +1,6 @@
 ﻿Assets {
   Id: 16663001673341662745
-  Name: "Custom Wallpaper Chevron 01"
+  Name: "Lynchian Linoleum"
   PlatformAssetType: 13
   SerializationVersion: 65
   CustomMaterialAsset {

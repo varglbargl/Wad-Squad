@@ -16,7 +16,7 @@
           }
         }
         ParentId: 7370867232669186716
-        ChildIds: 13900522913963038768
+        ChildIds: 13061276513806150469
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -28,69 +28,51 @@
         }
       }
       Objects {
-        Id: 13900522913963038768
-        Name: "fish_scale_adjustment"
+        Id: 13061276513806150469
+        Name: "Geo"
         Transform {
           Location {
+            X: -40
+            Z: -175
           }
           Rotation {
           }
           Scale {
-            X: 0.501507938
-            Y: 0.501507938
-            Z: 0.501507938
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ParentId: 7545394659228549898
-        ChildIds: 11753125737800486765
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:SwimCycleSpeedAdjustment"
-            Float: 1
-          }
-          Overrides {
-            Name: "cs:main_orientation"
-            ObjectReference {
-              SubObjectId: 11753125737800486765
-            }
-          }
-          Overrides {
-            Name: "cs:main_pivot"
-            ObjectReference {
-              SubObjectId: 17403141124426977746
-            }
-          }
-          Overrides {
-            Name: "cs:head_pivot"
-            ObjectReference {
-              SubObjectId: 3089460524283196481
-            }
-          }
-          Overrides {
-            Name: "cs:body01_pivot"
-            ObjectReference {
-              SubObjectId: 15302072100315957836
-            }
-          }
-          Overrides {
-            Name: "cs:body02_pivot"
-            ObjectReference {
-              SubObjectId: 14627671814454529572
-            }
-          }
-          Overrides {
-            Name: "cs:tail_pivot"
-            ObjectReference {
-              SubObjectId: 4088070289092709690
-            }
-          }
-          Overrides {
-            Name: "cs:tailTip_pivot"
-            ObjectReference {
-              SubObjectId: 17571389553490379526
-            }
-          }
-        }
+        ChildIds: 17976333424600565112
+        ChildIds: 5372948262748598863
+        ChildIds: 10943769187620099635
+        ChildIds: 11712288284612484419
+        ChildIds: 11841614219547473571
+        ChildIds: 15749635043481713058
+        ChildIds: 10265926247082282088
+        ChildIds: 2244397226133954480
+        ChildIds: 17420233406477861695
+        ChildIds: 7365656962894095089
+        ChildIds: 8544979699513119956
+        ChildIds: 4689342552243021952
+        ChildIds: 6184267358262380048
+        ChildIds: 7982151444921901518
+        ChildIds: 2822871386760987084
+        ChildIds: 10799060977474886299
+        ChildIds: 3111958965001541842
+        ChildIds: 2724858138611811171
+        ChildIds: 10151259678773993281
+        ChildIds: 3745804673858300004
+        ChildIds: 2287219433646765913
+        ChildIds: 7933780344371412115
+        ChildIds: 6825251770990237903
+        ChildIds: 2221449063242543828
+        ChildIds: 8544812768989964129
+        ChildIds: 6412077697217207011
+        ChildIds: 10141052626308348450
+        ChildIds: 3514778546889552261
+        ChildIds: 8749871330360093957
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
         }
@@ -101,147 +83,26 @@
         }
       }
       Objects {
-        Id: 11753125737800486765
-        Name: "main_orient"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 7.57166433
-            Y: 7.57166433
-            Z: 7.57166433
-          }
-        }
-        ParentId: 13900522913963038768
-        ChildIds: 17403141124426977746
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 17403141124426977746
-        Name: "main_translate"
-        Transform {
-          Location {
-            X: 75
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 11753125737800486765
-        ChildIds: 3089460524283196481
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:useRotation"
-            Bool: false
-          }
-          Overrides {
-            Name: "cs:curveMax"
-            Float: 10
-          }
-          Overrides {
-            Name: "cs:curveOffset"
-            String: ".25"
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
-        Id: 3089460524283196481
-        Name: "head_pivot"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 17403141124426977746
-        ChildIds: 17976333424600565112
-        ChildIds: 5372948262748598863
-        ChildIds: 10943769187620099635
-        ChildIds: 11712288284612484419
-        ChildIds: 11841614219547473571
-        ChildIds: 15749635043481713058
-        ChildIds: 10265926247082282088
-        ChildIds: 15302072100315957836
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:useRotation"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:curveMax"
-            Float: 8
-          }
-          Overrides {
-            Name: "cs:curveOffset"
-            String: "-0.1"
-          }
-          Overrides {
-            Name: "cs:yawTurnOffsetValue"
-            Float: 60
-          }
-          Overrides {
-            Name: "cs:pitchTurnOffsetValue"
-            Float: -35
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 17976333424600565112
         Name: "Eyes"
         Transform {
           Location {
-            X: -28.5528183
-            Z: 2.30933022
+            X: 216.370819
+            Y: 0.000640869141
+            Z: 183.769104
           }
           Rotation {
-            Pitch: -3.6449585
-            Yaw: 1.47574474e-05
+            Pitch: -3.64495754
+            Yaw: 1.96765959e-05
             Roll: 89.9999084
           }
           Scale {
-            X: 0.137466699
-            Y: 0.137466848
-            Z: 0.12375576
+            X: 0.521995485
+            Y: 0.521996
+            Z: 0.469931602
           }
         }
-        ParentId: 3089460524283196481
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -275,22 +136,22 @@
         Name: "2D Basic Shapes Decal"
         Transform {
           Location {
-            X: -26.5618496
-            Y: -10.5676088
-            Z: 3.13164115
+            X: 223.931351
+            Y: -40.1272888
+            Z: 186.891602
           }
           Rotation {
             Pitch: 1.20375931
             Yaw: -161.542633
-            Roll: 82.1729202
+            Roll: 82.1728821
           }
           Scale {
-            X: 0.0535432249
-            Y: 0.0535432249
-            Z: 0.0535432249
+            X: 0.203317031
+            Y: 0.203317031
+            Z: 0.203317031
           }
         }
-        ParentId: 3089460524283196481
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "bp:Corner Rounding"
@@ -337,22 +198,22 @@
         Name: "2D Basic Shapes Decal"
         Transform {
           Location {
-            X: -26.5618496
-            Y: 10.8893814
-            Z: 3.13165402
+            X: 223.931183
+            Y: 41.3503723
+            Z: 186.891663
           }
           Rotation {
-            Pitch: -5.76464844
-            Yaw: -15.6233521
-            Roll: 81.9993362
+            Pitch: -5.76463842
+            Yaw: -15.6233854
+            Roll: 81.9993
           }
           Scale {
-            X: 0.0535432249
-            Y: 0.0535432249
-            Z: 0.0535432249
+            X: 0.203317031
+            Y: 0.203317031
+            Z: 0.203317031
           }
         }
-        ParentId: 3089460524283196481
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "bp:Corner Rounding"
@@ -399,21 +260,22 @@
         Name: "Jaw Upper"
         Transform {
           Location {
-            X: -14.814271
-            Z: -4.40130234
+            X: 268.539734
+            Y: 0.000671386719
+            Z: 158.28717
           }
           Rotation {
-            Pitch: 84.8598404
-            Yaw: -179.999908
-            Roll: 0.000125350402
+            Pitch: 84.8596191
+            Yaw: -179.999893
+            Roll: 0.000124623664
           }
           Scale {
-            X: 0.324367344
-            Y: 0.101693518
-            Z: 0.171407133
+            X: 1.231704
+            Y: 0.386155754
+            Z: 0.650875807
           }
         }
-        ParentId: 3089460524283196481
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -468,21 +330,22 @@
         Name: "Jaw Lower"
         Transform {
           Location {
-            X: -15.1356335
-            Z: -9.44836903
+            X: 267.319427
+            Y: 0.000671386719
+            Z: 139.122192
           }
           Rotation {
             Pitch: 78.9807129
-            Yaw: 3.76892021e-05
+            Yaw: 6.11428e-05
             Roll: -179.999756
           }
           Scale {
-            X: 0.324367344
-            Y: 0.101693518
-            Z: 0.171407133
+            X: 1.231704
+            Y: 0.386155754
+            Z: 0.650875807
           }
         }
-        ParentId: 3089460524283196481
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -537,21 +400,22 @@
         Name: "Head"
         Transform {
           Location {
-            X: -37.8862801
-            Z: -4.42978811
+            X: 180.929321
+            Y: 0.000671386719
+            Z: 158.179016
           }
           Rotation {
-            Pitch: 83.9413834
-            Yaw: 1.54289359e-11
-            Roll: 179.999954
+            Pitch: 83.9412155
+            Yaw: -2.15118871e-05
+            Roll: 179.999924
           }
           Scale {
-            X: 0.762520075
-            Y: 0.239060327
-            Z: 0.636257768
+            X: 2.89547968
+            Y: 0.907771885
+            Z: 2.41603
           }
         }
-        ParentId: 3089460524283196481
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -603,19 +467,20 @@
         Name: "Joint Sphere"
         Transform {
           Location {
-            X: -37.9749336
-            Z: -4.95945358
+            X: 180.592773
+            Y: 0.000885009766
+            Z: 156.167725
           }
           Rotation {
             Pitch: 83.4983139
           }
           Scale {
-            X: 0.73637867
-            Y: 0.225348622
-            Z: 0.229799271
+            X: 2.7962141
+            Y: 0.855705142
+            Z: 0.872605324
           }
         }
-        ParentId: 3089460524283196481
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -657,90 +522,26 @@
         }
       }
       Objects {
-        Id: 15302072100315957836
-        Name: "body01_pivot"
-        Transform {
-          Location {
-            X: -29.2887096
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 3089460524283196481
-        ChildIds: 2244397226133954480
-        ChildIds: 17420233406477861695
-        ChildIds: 7365656962894095089
-        ChildIds: 8544979699513119956
-        ChildIds: 4689342552243021952
-        ChildIds: 6184267358262380048
-        ChildIds: 7982151444921901518
-        ChildIds: 2822871386760987084
-        ChildIds: 10799060977474886299
-        ChildIds: 3111958965001541842
-        ChildIds: 2724858138611811171
-        ChildIds: 10151259678773993281
-        ChildIds: 3745804673858300004
-        ChildIds: 2287219433646765913
-        ChildIds: 7933780344371412115
-        ChildIds: 14627671814454529572
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:useRotation"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:curveMax"
-            Float: 6
-          }
-          Overrides {
-            Name: "cs:curveOffset"
-            String: ".50"
-          }
-          Overrides {
-            Name: "cs:yawTurnOffsetValue"
-            Float: -40
-          }
-          Overrides {
-            Name: "cs:pitchTurnOffsetValue"
-            Float: 20
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 2244397226133954480
         Name: "Fin Spine"
         Transform {
           Location {
-            X: -30.703125
-            Y: -0.59375
-            Z: 46.0823364
+            X: 96.9899
+            Y: -2.2543335
+            Z: 349.986145
           }
           Rotation {
             Pitch: 0.000198075475
-            Yaw: 89.999527
-            Roll: 38.3486748
+            Yaw: 89.9995
+            Roll: 38.348629
           }
           Scale {
-            X: 0.0341462865
-            Y: 0.0341443568
-            Z: 0.140825242
+            X: 0.129661992
+            Y: 0.129654676
+            Z: 0.534748673
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -787,22 +588,22 @@
         Name: "Fin Spine"
         Transform {
           Location {
-            X: -38.4375
-            Y: -0.59375
-            Z: 45.8477173
+            X: 67.6209183
+            Y: -2.25439453
+            Z: 349.095276
           }
           Rotation {
             Pitch: 0.000136603776
-            Yaw: 89.9995728
-            Roll: 38.5684624
+            Yaw: 89.9995422
+            Roll: 38.5684128
           }
           Scale {
-            X: 0.0341462754
-            Y: 0.0341459699
-            Z: 0.145606712
+            X: 0.129661947
+            Y: 0.1296608
+            Z: 0.552905142
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -849,22 +650,22 @@
         Name: "Fin Spine "
         Transform {
           Location {
-            X: -44.5751953
-            Y: -0.59375
-            Z: 45.0044556
+            X: 44.3142128
+            Y: -2.25441742
+            Z: 345.893188
           }
           Rotation {
-            Pitch: 9.56226431e-05
-            Yaw: 89.9995422
-            Roll: 39.67313
+            Pitch: 8.87924543e-05
+            Yaw: 89.9995499
+            Roll: 39.6730919
           }
           Scale {
-            X: 0.038136147
-            Y: 0.0381365195
-            Z: 0.164098069
+            X: 0.144812495
+            Y: 0.14481391
+            Z: 0.62312144
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -911,22 +712,22 @@
         Name: "Fin Spine"
         Transform {
           Location {
-            X: -52.359375
-            Y: -0.59375
-            Z: 42.6572571
+            X: 14.755785
+            Y: -2.25424385
+            Z: 336.980286
           }
           Rotation {
             Pitch: 3.4150944e-05
-            Yaw: 89.9996338
-            Roll: 38.3307
+            Yaw: 89.9996185
+            Roll: 38.3306427
           }
           Scale {
-            X: 0.0466732644
-            Y: 0.0466732644
-            Z: 0.174732372
+            X: 0.17723006
+            Y: 0.17723006
+            Z: 0.663502574
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -973,22 +774,22 @@
         Name: "Fin Spine"
         Transform {
           Location {
-            X: -61.6713867
-            Y: -0.59375
-            Z: 42.6431274
+            X: -20.6039848
+            Y: -2.25432014
+            Z: 336.926636
           }
           Rotation {
             Pitch: 8.19622655e-05
-            Yaw: 89.9993744
-            Roll: 39.6661377
+            Yaw: 89.9993591
+            Roll: 39.6661034
           }
           Scale {
-            X: 0.0481985509
-            Y: 0.0481982827
-            Z: 0.157027945
+            X: 0.183021963
+            Y: 0.183020949
+            Z: 0.596274436
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1035,22 +836,22 @@
         Name: "Fin Spine"
         Transform {
           Location {
-            X: -68.1474609
-            Y: -0.59375
-            Z: 39.9663086
+            X: -45.1954079
+            Y: -2.25447464
+            Z: 326.762085
           }
           Rotation {
             Pitch: 8.87924543e-05
-            Yaw: 89.9991074
-            Roll: 43.642
+            Yaw: 89.9991
+            Roll: 43.6419945
           }
           Scale {
-            X: 0.0426441133
-            Y: 0.0426439419
-            Z: 0.149797857
+            X: 0.161930367
+            Y: 0.161929727
+            Z: 0.56881994
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1097,22 +898,22 @@
         Name: "Fin Spine"
         Transform {
           Location {
-            X: -74.9956055
-            Y: -0.59375
-            Z: 38.0191956
+            X: -71.1996765
+            Y: -2.2544632
+            Z: 319.368408
           }
           Rotation {
             Pitch: 8.19622655e-05
-            Yaw: 89.9991608
-            Roll: 47.3130074
+            Yaw: 89.9991455
+            Roll: 47.3129616
           }
           Scale {
-            X: 0.0399270691
-            Y: 0.0399252884
-            Z: 0.137887716
+            X: 0.151613072
+            Y: 0.151606306
+            Z: 0.523594141
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1159,22 +960,22 @@
         Name: "Fin Spine"
         Transform {
           Location {
-            X: -83.8769531
-            Y: -0.59375
-            Z: 37.0938721
+            X: -104.924271
+            Y: -2.25431824
+            Z: 315.854736
           }
           Rotation {
-            Pitch: 0.000177584909
-            Yaw: 89.9992
-            Roll: 55.9815216
+            Pitch: 0.000184415097
+            Yaw: 89.9991684
+            Roll: 55.9814835
           }
           Scale {
-            X: 0.0355844758
-            Y: 0.0355821699
-            Z: 0.09118817
+            X: 0.135123163
+            Y: 0.135114402
+            Z: 0.346264303
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1221,22 +1022,22 @@
         Name: "Dorsal Fin 01"
         Transform {
           Location {
-            X: -64.450592
-            Y: -0.458854556
-            Z: 37.5261841
+            X: -31.1573219
+            Y: -1.74232864
+            Z: 317.496277
           }
           Rotation {
             Pitch: 2.04905664e-05
-            Yaw: -90.0014343
-            Roll: -12.2709351
+            Yaw: -90.0014191
+            Roll: -12.2709694
           }
           Scale {
-            X: 0.14035812
-            Y: 1.11358619
-            Z: 0.314765483
+            X: 0.532974899
+            Y: 4.22856522
+            Z: 1.19524336
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1280,21 +1081,22 @@
         Name: "Body"
         Transform {
           Location {
-            X: -42.5849609
-            Z: 0.0527954102
+            X: 51.8716965
+            Y: 0.000129699707
+            Z: 175.2005
           }
           Rotation {
             Pitch: 90
-            Yaw: 14.0362635
-            Roll: 104.03627
+            Yaw: 26.565033
+            Roll: 116.565025
           }
           Scale {
-            X: 0.982837915
-            Y: 1.048
-            Z: 0.992901206
+            X: 3.73208165
+            Y: 3.97951818
+            Z: 3.77029443
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1340,20 +1142,21 @@
         Name: "Body"
         Transform {
           Location {
-            X: -61.0004883
-            Z: 0.0527954102
+            X: -18.0565205
+            Y: 0.000238418579
+            Z: 175.2005
           }
           Rotation {
             Pitch: 90
-            Roll: 90.0000076
+            Roll: 89.9999924
           }
           Scale {
-            X: 0.947
-            Y: 1.048
-            Z: 0.88875103
+            X: 3.59599614
+            Y: 3.97951818
+            Z: 3.37481
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1399,22 +1202,22 @@
         Name: "Pectoral Fin"
         Transform {
           Location {
-            X: -40.9165039
-            Y: -17.0351563
-            Z: -19.2129059
+            X: 58.2072754
+            Y: -64.686615
+            Z: 102.043762
           }
           Rotation {
-            Pitch: -17.082428
-            Yaw: 29.9951591
-            Roll: -111.994324
+            Pitch: -17.0824184
+            Yaw: 29.9951668
+            Roll: -111.994301
           }
           Scale {
-            X: 0.500897
-            Y: 0.204410747
-            Z: 0.0894760638
+            X: 1.90203118
+            Y: 0.776198745
+            Z: 0.339763016
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -1452,22 +1255,22 @@
         Name: "Pectoral Fin"
         Transform {
           Location {
-            X: -40.9165039
-            Y: 17.4423828
-            Z: -19.2129059
+            X: 58.2073174
+            Y: 66.2332535
+            Z: 102.043762
           }
           Rotation {
             Pitch: -19.0744019
-            Yaw: -30.1525879
-            Roll: 110.357101
+            Yaw: -30.1526
+            Roll: 110.357109
           }
           Scale {
-            X: 0.500897
-            Y: 0.204410747
-            Z: 0.0894760638
+            X: 1.90203118
+            Y: 0.776198745
+            Z: 0.339763016
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -1505,22 +1308,22 @@
         Name: "Pelvic Fin"
         Transform {
           Location {
-            X: -49.7875977
-            Y: 5.35644531
-            Z: -46.3874512
+            X: 24.5216541
+            Y: 20.3400478
+            Z: -1.14477539
           }
           Rotation {
-            Pitch: 46.6273651
-            Yaw: -18.0189819
-            Roll: 83.4827423
+            Pitch: 46.6273308
+            Yaw: -18.0189934
+            Roll: 83.4827
           }
           Scale {
-            X: 0.390457302
-            Y: 0.190304503
-            Z: 0.0758097321
+            X: 1.48266411
+            Y: 0.722633839
+            Z: 0.28786853
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -1558,22 +1361,22 @@
         Name: "Pelvic Fin"
         Transform {
           Location {
-            X: -49.7875977
-            Y: -5.88964844
-            Z: -46.3874512
+            X: 24.5213566
+            Y: -22.3642769
+            Z: -1.14477539
           }
           Rotation {
             Pitch: 49.2379112
-            Yaw: 19.9577408
+            Yaw: 19.9577198
             Roll: -86.2511902
           }
           Scale {
-            X: 0.390457302
-            Y: 0.190304503
-            Z: 0.0758097321
+            X: 1.48266411
+            Y: 0.722633839
+            Z: 0.28786853
           }
         }
-        ParentId: 15302072100315957836
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -1607,76 +1410,26 @@
         }
       }
       Objects {
-        Id: 14627671814454529572
-        Name: "body02_pivot"
-        Transform {
-          Location {
-            X: -96.6904297
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 15302072100315957836
-        ChildIds: 6825251770990237903
-        ChildIds: 2221449063242543828
-        ChildIds: 8544812768989964129
-        ChildIds: 4088070289092709690
-        ChildIds: 8749871330360093957
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:useRotation"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:curveMax"
-            Float: 8
-          }
-          Overrides {
-            Name: "cs:curveOffset"
-            String: ".9"
-          }
-          Overrides {
-            Name: "cs:yawTurnOffsetValue"
-            Float: -60
-          }
-          Overrides {
-            Name: "cs:pitchTurnOffsetValue"
-            Float: 25
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 6825251770990237903
         Name: "Body 02"
         Transform {
           Location {
-            X: -0.737943172
-            Z: -0.399920166
+            X: -156.382019
+            Y: 0.000518798828
+            Z: 173.481384
           }
           Rotation {
             Pitch: 90
+            Yaw: 180
+            Roll: 180
           }
           Scale {
-            X: 0.665635943
-            Y: 0.192964047
-            Z: 0.459617972
+            X: 2.52758622
+            Y: 0.732732773
+            Z: 1.74528444
           }
         }
-        ParentId: 14627671814454529572
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1720,22 +1473,22 @@
         Name: "Dorsal Fin 02"
         Transform {
           Location {
-            X: -12.9936523
-            Y: -0.458984375
-            Z: 19.8031616
+            X: -202.919983
+            Y: -1.74235535
+            Z: 250.197571
           }
           Rotation {
             Pitch: 0.00011611321
             Yaw: -90.0012512
-            Roll: -37.6985283
+            Roll: -37.6984901
           }
           Scale {
-            X: 0.140360758
-            Y: 0.563968301
-            Z: 0.419385225
+            X: 0.532984912
+            Y: 2.14152884
+            Z: 1.5925107
           }
         }
-        ParentId: 14627671814454529572
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1779,19 +1532,22 @@
         Name: "Joint Sphere"
         Transform {
           Location {
-            X: -23.8891602
-            Z: -0.551315308
+            X: -244.292831
+            Y: 0.000396728516
+            Z: 172.906494
           }
           Rotation {
             Pitch: 90
+            Yaw: 180
+            Roll: 180
           }
           Scale {
-            X: 0.325
-            Y: 0.084
-            Z: 0.084
+            X: 1.2341063
+            Y: 0.318969
+            Z: 0.318969
           }
         }
-        ParentId: 14627671814454529572
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:smart"
@@ -1833,74 +1589,25 @@
         }
       }
       Objects {
-        Id: 4088070289092709690
-        Name: "tail_pivot"
-        Transform {
-          Location {
-            X: -23.8891659
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 14627671814454529572
-        ChildIds: 6412077697217207011
-        ChildIds: 17571389553490379526
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:useRotation"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:curveMax"
-            Float: 15
-          }
-          Overrides {
-            Name: "cs:curveOffset"
-            String: "1.2"
-          }
-          Overrides {
-            Name: "cs:yawTurnOffsetValue"
-            Float: -60
-          }
-          Overrides {
-            Name: "cs:pitchTurnOffsetValue"
-            Float: 15
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 6412077697217207011
         Name: "Tail"
         Transform {
           Location {
-            X: -19.3609524
-            Z: -1.01295316
+            X: -317.810577
+            Y: 0.000274658203
+            Z: 171.153564
           }
           Rotation {
-            Yaw: -90
-            Roll: 89.9999924
+            Yaw: -89.9999771
+            Roll: 89.9999542
           }
           Scale {
-            X: 0.125
-            Y: 0.406
-            Z: 0.39232254
+            X: 0.474656284
+            Y: 1.54168355
+            Z: 1.48974693
           }
         }
-        ParentId: 4088070289092709690
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1942,76 +1649,26 @@
         }
       }
       Objects {
-        Id: 17571389553490379526
-        Name: "tailTip_pivot"
-        Transform {
-          Location {
-            X: -35.8991394
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4088070289092709690
-        ChildIds: 10141052626308348450
-        ChildIds: 3514778546889552261
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:useRotation"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:curveMax"
-            Float: 25
-          }
-          Overrides {
-            Name: "cs:curveOffset"
-            String: "1.66"
-          }
-          Overrides {
-            Name: "cs:yawTurnOffsetValue"
-            Float: -60
-          }
-          Overrides {
-            Name: "cs:pitchTurnOffsetValue"
-            Float: 15
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-      }
-      Objects {
         Id: 10141052626308348450
         Name: "Tail Fin"
         Transform {
           Location {
-            X: 18.1430664
-            Y: -0.576171875
-            Z: -0.549591064
+            X: -311.716125
+            Y: -2.18768311
+            Z: 172.913086
           }
           Rotation {
-            Pitch: 2.73207552e-05
-            Yaw: -89.999939
-            Roll: -48.5959473
+            Pitch: 2.04905664e-05
+            Yaw: -89.9999237
+            Roll: -48.5959167
           }
           Scale {
-            X: 0.384951
-            Y: 0.404800802
-            Z: 0.504541
+            X: 1.46175528
+            Y: 1.53713
+            Z: 1.9158684
           }
         }
-        ParentId: 17571389553490379526
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2045,22 +1702,22 @@
         Name: "Tail Fin"
         Transform {
           Location {
-            X: 18.1430664
-            Y: -0.576171875
-            Z: -0.549591064
+            X: -311.716125
+            Y: -2.18768311
+            Z: 172.913086
           }
           Rotation {
-            Pitch: 0.000129773587
-            Yaw: -89.9998169
-            Roll: -135.308334
+            Pitch: 0.000136603776
+            Yaw: -89.9998093
+            Roll: -135.308365
           }
           Scale {
-            X: 0.384951
-            Y: 0.404800802
-            Z: 0.504541
+            X: 1.46175528
+            Y: 1.53713
+            Z: 1.9158684
           }
         }
-        ParentId: 17571389553490379526
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -2094,22 +1751,22 @@
         Name: "Dorsal Fin 02"
         Transform {
           Location {
-            X: -8.63867188
-            Y: -0.458984375
-            Z: -20.1408081
+            X: -186.383026
+            Y: -1.74232483
+            Z: 98.5203247
           }
           Rotation {
-            Pitch: -9.15527344e-05
+            Pitch: -8.87924543e-05
             Yaw: 90.0012741
-            Roll: 142.301544
+            Roll: 142.301575
           }
           Scale {
-            X: 0.140360758
-            Y: 0.563968301
-            Z: 0.419385225
+            X: 0.532984912
+            Y: 2.14152884
+            Z: 1.5925107
           }
         }
-        ParentId: 14627671814454529572
+        ParentId: 13061276513806150469
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"

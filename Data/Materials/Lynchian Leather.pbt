@@ -1,6 +1,6 @@
 ﻿Assets {
   Id: 5180460742839504330
-  Name: "Custom Leather Tufted 01"
+  Name: "Lynchian Leather"
   PlatformAssetType: 13
   SerializationVersion: 65
   CustomMaterialAsset {

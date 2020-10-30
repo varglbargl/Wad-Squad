@@ -10,9 +10,9 @@
         Name: "Bee Sauce"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 1.3922832
+            Y: 1.3922832
+            Z: 1.3922832
           }
         }
         ParentId: 2101339000519451770
@@ -120,15 +120,15 @@
           Overrides {
             Name: "ma:Shared_Detail2:color"
             Color {
-              R: 0.820000052
-              G: 0.325827867
+              R: 30
+              G: 11.9205322
               A: 1
             }
           }
           Overrides {
             Name: "ma:Shared_Detail2:id"
             AssetReference {
-              Id: 7973146829096915658
+              Id: 9899561308220459402
             }
           }
         }
@@ -269,6 +269,15 @@
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_prop_fantasy_bottle_001"
+      }
+    }
+    Assets {
+      Id: 9899561308220459402
+      Name: "Emissive Container Liquid"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "fxmi_emissive_cutoff_liquid"
       }
     }
     PrimaryAssetId {

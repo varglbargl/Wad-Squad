@@ -530,12 +530,21 @@ Assets {
   }
 }
 Assets {
-  Id: 12782940202352343062
-  Name: "Wallpaper Chevron 01"
+  Id: 12958418888698964831
+  Name: "Frosted Glass No Distortion"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_gen_wallpaper_004"
+    AssetId: "fxma_frosted_glass_nodistortion"
+  }
+}
+Assets {
+  Id: 12778498549590517687
+  Name: "Bricks Rough Stone Floor 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_brick_stone_floor_rough_001"
   }
 }
 Assets {
@@ -800,15 +809,6 @@ Assets {
   }
 }
 Assets {
-  Id: 10567192068688216948
-  Name: "Craftsman Stairs 01 L"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_urb_sub_craftsman_stairs_001_L"
-  }
-}
-Assets {
   Id: 10468241206327713435
   Name: "Concrete Sidewalk"
   PlatformAssetType: 2
@@ -977,6 +977,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cone_truncated_hollow_004"
+  }
+}
+Assets {
+  Id: 9032936026866967627
+  Name: "Metal Iron Rusted 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_iron_002"
   }
 }
 Assets {
@@ -1331,6 +1340,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5092098195458113160
+  Name: "Metal Old Beaten Gold 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_gold_002"
+  }
+}
+Assets {
   Id: 5038771864148966082
   Name: "Wallpaper Chevron 02"
   PlatformAssetType: 2
@@ -1382,15 +1400,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_urb_cabinet_topper_corner_001"
-  }
-}
-Assets {
-  Id: 4291393536411848060
-  Name: "Wood 2x4 4m"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_two-by-four_3m"
   }
 }
 Assets {
@@ -1574,15 +1583,6 @@ Assets {
   }
 }
 Assets {
-  Id: 2971947114929493625
-  Name: "Ceramic Tiles Square 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_ceramic_tile_square_001"
-  }
-}
-Assets {
   Id: 2778433983973648323
   Name: "Craftsman Wall Interior 01 Cap"
   PlatformAssetType: 1
@@ -1625,15 +1625,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ring_faceted_001"
-  }
-}
-Assets {
-  Id: 2330135510676938803
-  Name: "Fire Hydrant"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_fire_hydrant_001"
   }
 }
 Assets {
@@ -1697,6 +1688,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_urb_counter_corner_001"
+  }
+}
+Assets {
+  Id: 884462330746487990
+  Name: "Grass and Soil"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_grass_003_uv"
   }
 }
 Assets {

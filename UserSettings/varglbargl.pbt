@@ -15483,6 +15483,7 @@
   ObjectStates {
     key: 2106668132454366082
     value {
+      IsLocked: true
     }
   }
   ObjectStates {
@@ -53226,6 +53227,11 @@
     }
   }
   ObjectStates {
+    key: 7090616081793819112
+    value {
+    }
+  }
+  ObjectStates {
     key: 7090736603959472456
     value {
     }
@@ -58032,6 +58038,11 @@
   }
   ObjectStates {
     key: 7754324447218632966
+    value {
+    }
+  }
+  ObjectStates {
+    key: 7755995656602087931
     value {
     }
   }
@@ -94778,6 +94789,11 @@
     }
   }
   ObjectStates {
+    key: 12618166762418270253
+    value {
+    }
+  }
+  ObjectStates {
     key: 12619416598953005212
     value {
     }
@@ -99592,7 +99608,6 @@
   ObjectStates {
     key: 13281013145643894029
     value {
-      IsLocked: true
     }
   }
   ObjectStates {
@@ -116568,7 +116583,6 @@
   ObjectStates {
     key: 15580096465559057863
     value {
-      IsLocked: true
     }
   }
   ObjectStates {

@@ -4,63 +4,18 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 11946753133872246056
-      Objects {
-        Id: 11946753133872246056
-        Name: "Cube"
-        Transform {
-          Scale {
-            X: 0.748351693
-            Y: 0.178561226
-            Z: 0.244868144
-          }
-        }
-        ParentId: 4781671109827199097
-        ChildIds: 8287887171582279701
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 11251994733772007315
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 12095835209017042614
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
-        }
-      }
+      RootId: 8287887171582279701
       Objects {
         Id: 8287887171582279701
         Name: "ClientContext"
         Transform {
-          Location {
-          }
-          Rotation {
-          }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 5.02697897
+            Y: 1.19946742
+            Z: 1.64487565
           }
         }
-        ParentId: 11946753133872246056
+        ParentId: 280905557327166263
         ChildIds: 8701437219337325489
         ChildIds: 10812983400162747393
         ChildIds: 11315287725927006605
@@ -128,7 +83,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10586119519769808895
+              Id: 132672053610873933
             }
           }
           Overrides {
@@ -185,7 +140,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10586119519769808895
+              Id: 132672053610873933
             }
           }
           Overrides {
@@ -610,6 +565,7 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -672,6 +628,7 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2504,30 +2461,21 @@
       }
     }
     Assets {
-      Id: 12095835209017042614
-      Name: "Cube"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cube_002"
-      }
-    }
-    Assets {
-      Id: 11251994733772007315
-      Name: "Invisible"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_invisible_001"
-      }
-    }
-    Assets {
       Id: 18414108763371669528
       Name: "Capsule"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_capsule_001"
+      }
+    }
+    Assets {
+      Id: 132672053610873933
+      Name: "Plastic Matte"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "plastic_matte_001"
       }
     }
     Assets {
@@ -2672,6 +2620,15 @@
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "Text_045"
+      }
+    }
+    Assets {
+      Id: 12095835209017042614
+      Name: "Cube"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_cube_002"
       }
     }
     Assets {

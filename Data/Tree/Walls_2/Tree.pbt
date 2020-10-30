@@ -2181,16 +2181,16 @@ Objects {
   Name: "Wall 01 Window Glass 01"
   Transform {
     Location {
-      X: 398.645752
-      Y: -0.422322154
-      Z: 408.038544
+      X: 398.638062
+      Y: -0.42227754
+      Z: 282.910248
     }
     Rotation {
     }
     Scale {
       X: 1.72507131
       Y: 0.00330352783
-      Z: 0.900000036
+      Z: 4.39205027
     }
   }
   ParentId: 5363450309862090845
@@ -2249,7 +2249,6 @@ Objects {
   }
   ParentId: 5330399191935999994
   ChildIds: 13087889733241789482
-  ChildIds: 4965864129379451687
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -2295,73 +2294,20 @@ Objects {
   }
 }
 Objects {
-  Id: 4965864129379451687
-  Name: "Wall 01 Window Glass 02"
-  Transform {
-    Location {
-      X: 496.057495
-      Y: -0.422229677
-      Z: 408.038544
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1.72507131
-      Y: 0.00330352783
-      Z: 0.900000036
-    }
-  }
-  ParentId: 11907882503397704391
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 10766975867019021707
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17925326465180611494
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 4965864129379451687
-    SubobjectId: 13505646594599543665
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
   Id: 13087889733241789482
   Name: "Wall 01 Window Glass 01"
   Transform {
     Location {
-      X: 299.999756
-      Y: -0.422333598
-      Z: 408.038544
+      X: -6.09143496
+      Y: -0.422320396
+      Z: 286.703064
     }
     Rotation {
     }
     Scale {
-      X: 1.72507131
-      Y: 0.00330352783
-      Z: 0.900000036
+      X: 14.41677
+      Y: 0.0033080671
+      Z: 4.3524704
     }
   }
   ParentId: 11907882503397704391
@@ -2419,8 +2365,6 @@ Objects {
     }
   }
   ParentId: 5330399191935999994
-  ChildIds: 528717206450158522
-  ChildIds: 13418195162390377674
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -2461,112 +2405,6 @@ Objects {
   InstanceHistory {
     SelfId: 7724145434446642066
     SubobjectId: 10715845002366294980
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 13418195162390377674
-  Name: "Wall 01 Window Glass 02"
-  Transform {
-    Location {
-      X: 496.057495
-      Y: -0.422229677
-      Z: 408.038544
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1.72507131
-      Y: 0.00330352783
-      Z: 0.900000036
-    }
-  }
-  ParentId: 7724145434446642066
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 10766975867019021707
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17925326465180611494
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 13418195162390377674
-    SubobjectId: 5021786745691247772
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
-}
-Objects {
-  Id: 528717206450158522
-  Name: "Wall 01 Window Glass 01"
-  Transform {
-    Location {
-      X: 299.999756
-      Y: -0.422333598
-      Z: 408.038544
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1.72507131
-      Y: 0.00330352783
-      Z: 0.900000036
-    }
-  }
-  ParentId: 7724145434446642066
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 10766975867019021707
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17925326465180611494
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 528717206450158522
-    SubobjectId: 17929279161341090796
     InstanceId: 2275901482220386584
     TemplateId: 7889523534815795225
   }

@@ -5,12 +5,12 @@ Objects {
   Name: "Tree Oak 01"
   Transform {
     Location {
-      X: -10440.7773
+      X: -10830.8838
       Y: -2720
-      Z: 81.9999084
+      Z: 228.459869
     }
     Rotation {
-      Yaw: -65.2398605
+      Yaw: -65.2398682
     }
     Scale {
       X: 7.890903
@@ -349,9 +349,9 @@ Objects {
   Name: "Tree Redwood Big"
   Transform {
     Location {
-      X: 705
-      Y: -20985.002
-      Z: 135
+      X: 8800
+      Y: -15200
+      Z: 82.3345947
     }
     Rotation {
       Yaw: 69.7778854
@@ -385,92 +385,13 @@ Objects {
   }
 }
 Objects {
-  Id: 4220429782994684239
-  Name: "Tree Redwood Big"
-  Transform {
-    Location {
-      X: 6798.48975
-      Y: -37647.4375
-      Z: 135
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1.7
-      Y: 1.7
-      Z: 1.7
-    }
-  }
-  ParentId: 11789853748847975752
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8699268061173968020
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 4644302338258136415
-  Name: "Tree Redwood Big"
-  Transform {
-    Location {
-      X: 14548.5039
-      Y: -30239.6973
-      Z: 135
-    }
-    Rotation {
-      Yaw: 69.7778854
-    }
-    Scale {
-      X: 3
-      Y: 3
-      Z: 3
-    }
-  }
-  ParentId: 11789853748847975752
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8699268061173968020
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
   Id: 1032758771315186614
   Name: "Tree Redwood Big"
   Transform {
     Location {
-      X: -9088.49805
-      Y: -13989.1699
-      Z: 135
+      X: -6848.0752
+      Y: -16795.5391
+      Z: 43.7646484
     }
     Rotation {
       Yaw: 14.984992

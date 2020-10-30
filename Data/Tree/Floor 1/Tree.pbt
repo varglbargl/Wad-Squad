@@ -20,12 +20,6 @@ Objects {
   ParentId: 15843593894138464450
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Building_Floor:id"
-      AssetReference {
-        Id: 11202476423476479788
-      }
-    }
-    Overrides {
       Name: "ma:Building_Floor:smart"
       Bool: false
     }
