@@ -1738,12 +1738,12 @@ Objects {
   Name: "Beach Ball"
   Transform {
     Location {
-      X: 9370.21875
-      Y: -6774.77344
+      X: 8896.27539
+      Y: -6443.75586
       Z: 225.933167
     }
     Rotation {
-      Yaw: -120.000023
+      Yaw: -120.000031
     }
     Scale {
       X: 0.900000036
@@ -1955,7 +1955,7 @@ Objects {
     Location {
       X: 8028.94531
       Y: 723.677
-      Z: 78.8291931
+      Z: 80.6816406
     }
     Rotation {
       Yaw: 87.2671204
@@ -2852,7 +2852,7 @@ Objects {
     Location {
       X: 77.543457
       Y: 3063.8645
-      Z: 72.1470947
+      Z: 75.4004822
     }
     Rotation {
       Yaw: 87.2671204

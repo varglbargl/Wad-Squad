@@ -1,6 +1,6 @@
 ﻿Assets {
   Id: 5380849509973895020
-  Name: "Custom Sand 01"
+  Name: "Pumpskin"
   PlatformAssetType: 13
   SerializationVersion: 65
   CustomMaterialAsset {

@@ -1,6 +1,35 @@
 ﻿Name: "Patio (25-50cm)"
 RootId: 4893072624173428966
 Objects {
+  Id: 9800484597718047675
+  Name: "Fences"
+  Transform {
+    Location {
+      X: -28130.8125
+      Y: -25617.6523
+      Z: 76.0112
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.23087502
+      Y: 2.23087502
+      Z: 2.23087502
+    }
+  }
+  ParentId: 4893072624173428966
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Fences_1"
+  }
+}
+Objects {
   Id: 17613061612004109615
   Name: "Chunk 2"
   Transform {

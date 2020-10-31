@@ -4964,7 +4964,7 @@ Objects {
     Location {
       X: -5031.13
       Y: -752.910095
-      Z: 372
+      Z: 373.81311
     }
     Rotation {
       Pitch: 4.98092222
@@ -5201,7 +5201,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Worker Ant"
+          String: "Summoner Ant"
         }
         Overrides {
           Name: "Position"
@@ -5338,7 +5338,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Worker Ant"
+          String: "Summoner Ant"
         }
         Overrides {
           Name: "Position"
@@ -5475,7 +5475,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Worker Ant"
+          String: "Summoner Ant"
         }
         Overrides {
           Name: "Position"
@@ -5612,7 +5612,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Worker Ant"
+          String: "Summoner Ant"
         }
         Overrides {
           Name: "Position"
@@ -5749,7 +5749,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Worker Ant"
+          String: "Summoner Ant"
         }
         Overrides {
           Name: "Position"
@@ -5886,7 +5886,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Worker Ant"
+          String: "Summoner Ant"
         }
         Overrides {
           Name: "Position"
@@ -6023,7 +6023,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Worker Ant"
+          String: "Summoner Ant"
         }
         Overrides {
           Name: "Position"
@@ -6160,7 +6160,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Worker Ant"
+          String: "Summoner Ant"
         }
         Overrides {
           Name: "Position"
@@ -6297,7 +6297,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Worker Ant"
+          String: "Summoner Ant"
         }
         Overrides {
           Name: "Position"
@@ -6499,7 +6499,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Worker Ant"
+          String: "Summoner Ant"
         }
         Overrides {
           Name: "Position"

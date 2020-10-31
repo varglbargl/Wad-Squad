@@ -1,6 +1,6 @@
 ﻿Assets {
   Id: 6213630551292091443
-  Name: "SetSize"
+  Name: "WadBlockerLabel"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {

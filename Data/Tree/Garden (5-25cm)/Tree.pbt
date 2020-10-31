@@ -150,11 +150,11 @@ Objects {
       value {
         Overrides {
           Name: "bp:Angle Min"
-          Float: 55.2384148
+          Float: 55
         }
         Overrides {
           Name: "bp:Angle Max"
-          Float: 64.5401688
+          Float: 65
         }
         Overrides {
           Name: "bp:Velocity Min"
@@ -162,11 +162,11 @@ Objects {
         }
         Overrides {
           Name: "bp:Velocity Max"
-          Float: 0.55
+          Float: 0.5
         }
         Overrides {
           Name: "bp:Density"
-          Float: 0.12662892
+          Float: 0.1
         }
       }
     }
@@ -197,15 +197,76 @@ Objects {
   }
 }
 Objects {
-  Id: 3016994970949164777
-  Name: "Never Unload"
+  Id: 7097774065977511595
+  Name: "Corn"
   Transform {
     Location {
-      X: 5546.78418
-      Y: -6479.40283
+      X: -3098.229
+      Y: -5841.06592
+      Z: 2354.19751
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 4089793586574305372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Corn"
+  }
+}
+Objects {
+  Id: 13041022592263780380
+  Name: "Lemons"
+  Transform {
+    Location {
+      X: -2890.99438
+      Y: -10033.7285
+      Z: 3037.67114
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.64646149
+      Y: 3.64646149
+      Z: 3.64646149
+    }
+  }
+  ParentId: 4089793586574305372
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Lemons"
+  }
+}
+Objects {
+  Id: 11858432134105710824
+  Name: "Exit"
+  Transform {
+    Location {
+      X: 13765.9795
+      Y: -366.599121
       Z: -166.209122
     }
     Rotation {
+      Pitch: 0.870213866
+      Yaw: 92.1960297
+      Roll: -19.6629887
     }
     Scale {
       X: 1
@@ -222,7 +283,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Never Unload"
+    FilePartitionName: "Exit_1"
   }
 }
 Objects {

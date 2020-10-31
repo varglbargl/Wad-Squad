@@ -39,15 +39,15 @@ Objects {
   Transform {
     Location {
       X: -0.595705152
-      Y: 1.50817811
-      Z: 89.8728943
+      Y: 1.50805604
+      Z: 95.2202759
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 4886249285614310044
@@ -79,11 +79,19 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
     }
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -438,23 +446,23 @@ Objects {
   Name: "Water Jet VFX"
   Transform {
     Location {
-      X: -0.595720351
-      Y: 1.50817132
+      X: -0.87722218
+      Y: 6.84819889
       Z: 89.872879
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 2236620340811913089
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -483,7 +491,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -838,23 +854,23 @@ Objects {
   Name: "Water Jet VFX"
   Transform {
     Location {
-      X: -0.595706344
+      X: -0.595525
       Y: 1.50803173
-      Z: 89.8728943
+      Z: 93.8448181
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 11406694838019564065
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -883,7 +899,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -1236,23 +1260,23 @@ Objects {
   Name: "Water Jet VFX"
   Transform {
     Location {
-      X: -0.595655262
+      X: -0.595751584
       Y: 1.5082581
-      Z: 89.8728867
+      Z: 94.0930176
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 6355502903580197377
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -1281,7 +1305,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -1634,23 +1666,23 @@ Objects {
   Name: "Water Jet VFX"
   Transform {
     Location {
-      X: -0.595655262
+      X: -0.595558941
       Y: 1.5082581
-      Z: 89.8728867
+      Z: 94.0930176
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 3732420539204481315
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -1679,7 +1711,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -2034,23 +2074,23 @@ Objects {
   Name: "Water Jet VFX"
   Transform {
     Location {
-      X: -0.595549703
-      Y: 1.50819731
-      Z: 89.8728485
+      X: -0.272401184
+      Y: -4.6217351
+      Z: 89.8729172
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 2240337891321675599
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -2079,7 +2119,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -2436,23 +2484,23 @@ Objects {
   Name: "Water Jet VFX"
   Transform {
     Location {
-      X: -0.595522046
-      Y: 1.50820518
-      Z: 89.8728943
+      X: -0.272836119
+      Y: 1.52549577
+      Z: 96.0028229
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 14336612104054449496
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -2481,7 +2529,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -2838,21 +2894,21 @@ Objects {
     Location {
       X: -0.595704675
       Y: 1.50830042
-      Z: 89.8728943
+      Z: 95.2202759
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 1972310465623940135
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -2881,7 +2937,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -3235,22 +3299,22 @@ Objects {
   Transform {
     Location {
       X: -0.59575057
-      Y: 1.50816214
-      Z: 89.8728867
+      Y: 1.50806582
+      Z: 94.0930176
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 2945815772184654201
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -3279,7 +3343,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -3634,23 +3706,23 @@ Objects {
   Name: "Water Jet VFX"
   Transform {
     Location {
-      X: -0.595723212
-      Y: 1.50817895
-      Z: 89.8728867
+      X: -0.877226233
+      Y: 6.848176
+      Z: 89.8728943
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 3436465965601843729
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -3679,7 +3751,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -4035,22 +4115,22 @@ Objects {
   Transform {
     Location {
       X: -0.595706403
-      Y: 1.50817764
-      Z: 89.8728943
+      Y: 1.50829971
+      Z: 95.2202759
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 15265241630317653589
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -4079,7 +4159,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -4432,23 +4520,23 @@ Objects {
   Name: "Water Jet VFX"
   Transform {
     Location {
-      X: -0.595856965
-      Y: 1.50816834
-      Z: 89.8728943
+      X: -0.595859766
+      Y: 1.50821972
+      Z: 94.374382
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 5528020075945087470
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -4477,7 +4565,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -4830,23 +4926,23 @@ Objects {
   Name: "Water Jet VFX"
   Transform {
     Location {
-      X: -0.595856607
-      Y: 1.5081681
-      Z: 89.8728943
+      X: -0.595848143
+      Y: 1.5080142
+      Z: 94.374382
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 800691777262918142
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -4875,7 +4971,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -5228,23 +5332,23 @@ Objects {
   Name: "Water Jet VFX"
   Transform {
     Location {
-      X: -0.595859706
-      Y: 1.50821924
-      Z: 89.8728943
+      X: -0.595859766
+      Y: 1.50821972
+      Z: 94.3744049
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 7104685823380608398
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -5273,7 +5377,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {
@@ -5628,21 +5740,21 @@ Objects {
     Location {
       X: -0.595495164
       Y: 1.50800121
-      Z: 89.8728867
+      Z: 95.4997177
     }
     Rotation {
     }
     Scale {
-      X: 2.69999957
-      Y: 2.69999957
-      Z: 2.69999957
+      X: 4.5
+      Y: 4.5
+      Z: 4.5
     }
   }
   ParentId: 6173076133576419263
   UnregisteredParameters {
     Overrides {
       Name: "bp:Particle Scale Multiplier"
-      Float: 10
+      Float: 2
     }
     Overrides {
       Name: "bp:Angle Max"
@@ -5671,7 +5783,15 @@ Objects {
     }
     Overrides {
       Name: "bp:Density"
-      Float: 0.3
+      Float: 0.1
+    }
+    Overrides {
+      Name: "bp:Velocity Min"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Velocity Max"
+      Float: 3
     }
   }
   Collidable_v2 {

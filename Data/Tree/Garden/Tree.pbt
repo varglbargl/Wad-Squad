@@ -1,6 +1,166 @@
 ﻿Name: "Garden"
 RootId: 3092004872852450116
 Objects {
+  Id: 16236285497942867476
+  Name: "Moundhog"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1420978674881812787
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Moundhog"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3324.63599
+            Y: -7554.99902
+            Z: -15
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.899999857
+            Y: 0.899999857
+            Z: 0.899999857
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4388860446912945076
+    }
+  }
+}
+Objects {
+  Id: 13130517707376070952
+  Name: "Moundhog"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1420978674881812787
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Moundhog"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 41.5307617
+            Y: -1709.12866
+            Z: 116.68988
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.899999857
+            Y: 0.899999857
+            Z: 0.899999857
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4388860446912945076
+    }
+  }
+}
+Objects {
+  Id: 15068739262532153631
+  Name: "Invisible Ramp - trellis"
+  Transform {
+    Location {
+      X: -185.354
+      Y: -2965.00024
+      Z: 0.000122070313
+    }
+    Rotation {
+      Yaw: 180
+    }
+    Scale {
+      X: 14.1
+      Y: 4.7
+      Z: 2.3
+    }
+  }
+  ParentId: 3092004872852450116
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 11251994733772007315
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9256376963641243765
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 12859885782421975199
   Name: "Invisible Ramp"
   Transform {

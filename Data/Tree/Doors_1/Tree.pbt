@@ -556,12 +556,12 @@ Objects {
   Name: "Craftsman Interior Door 01"
   Transform {
     Location {
-      X: 309.999268
+      X: 309.987457
       Y: -1604.92041
       Z: 630
     }
     Rotation {
-      Yaw: -30.8961487
+      Yaw: -82.4104614
     }
     Scale {
       X: 1

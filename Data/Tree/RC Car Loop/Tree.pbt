@@ -227,10 +227,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "cs:Running"
-          Bool: false
-        }
       }
     }
     TemplateAsset {

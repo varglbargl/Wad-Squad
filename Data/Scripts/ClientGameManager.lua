@@ -76,6 +76,10 @@ function loadItem(itemInfo)
 
   item.name = itemInfo.name
 
+  if itemInfo.name == "Pickup Sphere" or itemInfo.name == "Pickup Box" then
+    return
+  end
+
   for _, script in ipairs(scripts) do
     if script.context and script.context.runScript then
       script.context.runScript(item)
@@ -125,6 +129,8 @@ function unloadChunk(chunks, chunkName)
         if Object.IsValid(itemToUnload) then
           storeItem(itemToUnload, node.parent, chunkName)
           itemToUnload:Destroy()
+          storeItem(node, node.parent, chunkName)
+          node:Destroy()
           return true
         end
       end
@@ -147,18 +153,24 @@ end
 function unloadChunkTwo(thisTrigger, thingHittingIt)
   if thingHittingIt.name ~= "Wad" then return end
   chunkUnloaderTwoEvent:Disconnect()
+
+  local sandbox = ITEMS:FindDescendantByName("Sandbox")
+
   unloadChunk(chunk2, "chunk2")
+  unloadChunk({sandbox}, "sandbox")
 end
 
-function unloadChunkThree(thisTrigger, thingHittingIt)
+function unloadWholeYard(thisTrigger, thingHittingIt)
   if thingHittingIt.name ~= "Wad" then return end
   chunkUnloaderThreeEvent:Disconnect()
-  unloadChunk(chunk3, "chunk3")
+
+  local yard = ITEMS:FindDescendantByName("Yard")
+  unloadChunk({yard}, "yard")
 end
 
 chunkUnloaderOneEvent = CHUNK_UNLOADER_1.endOverlapEvent:Connect(unloadChunkOne)
 chunkUnloaderTwoEvent = CHUNK_UNLOADER_2.beginOverlapEvent:Connect(unloadChunkTwo)
-chunkUnloaderThreeEvent = CHUNK_UNLOADER_3.beginOverlapEvent:Connect(unloadChunkThree)
+chunkUnloaderThreeEvent = CHUNK_UNLOADER_3.beginOverlapEvent:Connect(unloadWholeYard)
 
 Events.Connect("LoadChunk", loadChunk)
 Events.Connect("StoreItem", storeItem)

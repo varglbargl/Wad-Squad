@@ -93,11 +93,11 @@
           }
           Overrides {
             Name: "bp:Angle Max"
-            Float: 114.149506
+            Float: 115
           }
           Overrides {
             Name: "bp:Angle Min"
-            Float: 103.297462
+            Float: 100
           }
           Overrides {
             Name: "bp:color"
@@ -110,11 +110,11 @@
           }
           Overrides {
             Name: "bp:Particle Scale Multiplier"
-            Float: 1
+            Float: 1.2
           }
           Overrides {
             Name: "bp:Density"
-            Float: 0.464248
+            Float: 0.3
           }
           Overrides {
             Name: "bp:Emissive Boost"

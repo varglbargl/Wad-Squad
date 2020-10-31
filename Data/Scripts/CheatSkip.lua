@@ -9,7 +9,7 @@ if cheatsAllowed then
 end
 
 if cheatsAllowed and ACTIVATE then
-  Task.Wait(2)
+  Task.Wait(1 + 0.02 * SIZE_BOOST)
   print("Activating skip: " .. script.name)
 
   local player = Game.GetLocalPlayer()

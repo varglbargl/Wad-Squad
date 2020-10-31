@@ -15,7 +15,7 @@
             Z: 1
           }
         }
-        ParentId: 8909439565200493764
+        ParentId: 8003834644062806671
         ChildIds: 6540239442136873952
         UnregisteredParameters {
           Overrides {
@@ -55,8 +55,6 @@
           }
         }
         ParentId: 641782157834898702
-        ChildIds: 13629517742462467352
-        ChildIds: 4873131649825978065
         ChildIds: 16359435145317190663
         ChildIds: 18303820823697336672
         Collidable_v2 {
@@ -66,86 +64,6 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         NetworkContext {
-        }
-      }
-      Objects {
-        Id: 13629517742462467352
-        Name: "CarJiggle"
-        Transform {
-          Location {
-            X: -5770
-            Y: -10950
-            Z: -200
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6540239442136873952
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:NotWheels"
-            ObjectReference {
-              SubObjectId: 18303820823697336672
-            }
-          }
-          Overrides {
-            Name: "cs:SoundEffect"
-            ObjectReference {
-              SubObjectId: 4873131649825978065
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Script {
-          ScriptAsset {
-            Id: 6157055518895233011
-          }
-        }
-      }
-      Objects {
-        Id: 4873131649825978065
-        Name: "Electricity Neon Light Humming Buzzing Loop 01 SFX"
-        Transform {
-          Location {
-            Z: 6.92071533
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6540239442136873952
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        AudioInstance {
-          AudioAsset {
-            Id: 17229907203175613923
-          }
-          Repeat: true
-          Pitch: 2400
-          Volume: 0.3
-          Falloff: 2000
-          Radius: 1000
-          EnableOcclusion: true
-          IsSpatializationEnabled: true
-          IsAttenuationEnabled: true
         }
       }
       Objects {
@@ -4848,15 +4766,6 @@
       PrimaryAsset {
         AssetType: "AudioAssetRef"
         AssetId: "sfx_vehicle_car_tire_skid_screech_drift_short_01a_Cue_ref"
-      }
-    }
-    Assets {
-      Id: 17229907203175613923
-      Name: "Electricity Neon Light Humming Buzzing Loop 01 SFX"
-      PlatformAssetType: 7
-      PrimaryAsset {
-        AssetType: "AudioAssetRef"
-        AssetId: "sfx_electricity_neon_light_humming_buzzing_loop_01_Cue_ref"
       }
     }
     Assets {

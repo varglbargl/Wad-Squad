@@ -98,15 +98,6 @@ Assets {
   }
 }
 Assets {
-  Id: 1490857703873336751
-  Name: "Small Open Crate"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_crate_narrow_open_simple_160cm_001"
-  }
-}
-Assets {
   Id: 770075343852138772
   Name: "Pipe - Quarter Thick"
   PlatformAssetType: 1

@@ -189,6 +189,7 @@ function handleGrabberOverlap (grabber, trigger)
       end
 
       Events.Broadcast("StoreItem", item, item.parent, "grabbed")
+      Events.Broadcast("StoreItem", trigger, trigger.parent, "grabbed")
 
       -- The big important part:
       item.parent = WAD
@@ -221,6 +222,7 @@ function handleGrabberOverlap (grabber, trigger)
       end
 
       -- whatever feels right, I guess.
+      local oldWadSize = wadSize
       wadSize = wadSize + itemSize / 48
 
       -- increase size of the wad and the grabber and update score
@@ -230,11 +232,11 @@ function handleGrabberOverlap (grabber, trigger)
       Events.Broadcast("DisplayItem", item)
 
       -- check if next chunk should load
-      if wadSize * 2 >= 75 then
+      if oldWadSize * 2 < 50 and wadSize * 2 >= 50 then
         Events.Broadcast("LoadChunk", "chunk4")
-      elseif wadSize * 2 >= 25 then
+      elseif oldWadSize * 2 < 25 and  wadSize * 2 >= 25 then
         Events.Broadcast("LoadChunk", "chunk3")
-      elseif wadSize * 2 >= 5 then
+      elseif oldWadSize * 2 < 5 and  wadSize * 2 >= 5 then
         Events.Broadcast("LoadChunk", "chunk2")
       end
 

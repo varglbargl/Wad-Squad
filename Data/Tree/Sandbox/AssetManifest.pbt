@@ -8,6 +8,24 @@
   }
 }
 Assets {
+  Id: 18133699642558591580
+  Name: "Plastic Shiny"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "plastic_shiny_001"
+  }
+}
+Assets {
+  Id: 17938528237073520770
+  Name: "Sphere"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_sphere_002"
+  }
+}
+Assets {
   Id: 17512052449164844187
   Name: "Hill 01"
   PlatformAssetType: 1
@@ -26,12 +44,30 @@ Assets {
   }
 }
 Assets {
+  Id: 14806266208058583659
+  Name: "Cylinder - Bottom-Aligned"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_001"
+  }
+}
+Assets {
   Id: 14738121030007239017
   Name: "Hill 04"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_hill_004"
+  }
+}
+Assets {
+  Id: 13868520492667527067
+  Name: "Fantasy Potion Liquid Drink 01 SFX"
+  PlatformAssetType: 7
+  PrimaryAsset {
+    AssetType: "AudioAssetRef"
+    AssetId: "sfx_fantasy_potion_liquid_drink_01a_Cue_ref"
   }
 }
 Assets {
@@ -44,12 +80,30 @@ Assets {
   }
 }
 Assets {
-  Id: 12827530473249900764
-  Name: "Opaque Emissive"
+  Id: 13085649403798880887
+  Name: "Rock Hexagonal"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rock_generic_008"
+  }
+}
+Assets {
+  Id: 12958418888698964831
+  Name: "Frosted Glass No Distortion"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "fxma_opaque_emissive"
+    AssetId: "fxma_frosted_glass_nodistortion"
+  }
+}
+Assets {
+  Id: 12657791796308583219
+  Name: "Pipe - Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_003"
   }
 }
 Assets {
@@ -59,6 +113,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cube_002"
+  }
+}
+Assets {
+  Id: 11824111773139805055
+  Name: "Rock Obsidian 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_fresnel_rock_obsidian_001_uv"
   }
 }
 Assets {
@@ -80,12 +143,30 @@ Assets {
   }
 }
 Assets {
+  Id: 10137463613876257458
+  Name: "Cone - Truncated Wide"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cone_truncated_003"
+  }
+}
+Assets {
   Id: 9754950629206105799
   Name: "Rock Pile 001"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_rocks_small_001"
+  }
+}
+Assets {
+  Id: 9693133565758539692
+  Name: "2D Basic Shapes Decal"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "dcl_basicShapes"
   }
 }
 Assets {
@@ -203,14 +284,5 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_large_board_6m"
-  }
-}
-Assets {
-  Id: 1691350013116986910
-  Name: "Ring - Thick"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_torus_005"
   }
 }

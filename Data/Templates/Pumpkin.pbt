@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 14021019340385318905
+  Id: 3256040412745731415
   Name: "Pumpkin"
   PlatformAssetType: 5
   TemplateAsset {

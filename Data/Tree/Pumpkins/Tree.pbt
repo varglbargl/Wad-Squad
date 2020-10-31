@@ -186,7 +186,7 @@ Objects {
 }
 Objects {
   Id: 4397253501379433323
-  Name: "Pumpkin"
+  Name: "Weird Pumpkin"
   Transform {
     Scale {
       X: 1
@@ -203,165 +203,6 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 496962078720551281
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pump"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 509910703645694809
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pumps"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 519785041950623065
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kin"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -15.6069336
-            Y: -27.5532227
-            Z: 6.57437134
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5865547246808840557
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pump"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 6379108772762058093
-      value {
-        Overrides {
-          Name: "Name"
-          String: "but pumkins grow on vines."
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 7779571630916258479
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pump"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 9023513524114145605
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kin"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10137293907928392967
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pump"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10643966281234926733
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kin"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11546670234831711915
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kin"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3.85595703
-            Y: -20.9067383
-            Z: 7.09957886
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 13015121163767444283
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pump"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 13618457477999162277
-      value {
-        Overrides {
-          Name: "Name"
-          String: "A lot of people forget to"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 14076361892592167840
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kin"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 14951629306127004873
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kin"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -7.1105957
-            Y: 23.0415039
-            Z: 6.43499756
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 14954439676380370089
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kin"
-        }
-      }
-    }
-    ParameterOverrideMap {
       key: 15150569830996609776
       value {
         Overrides {
@@ -369,89 +210,14 @@ Objects {
           String: "Weird Pumpkin"
         }
         Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.76112425
-            Y: 1.76112425
-            Z: 1.76112425
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15175805404740013669
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kin"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15429159851391793583
-      value {
-        Overrides {
-          Name: "Name"
-          String: "incorporate this into their models"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15867261003414797838
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kin"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15902942683853266388
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pump"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16951397924029988557
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pump"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17542453737581558591
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Pump"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17668826615309014399
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kin"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 18265398441977063570
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kin"
         }
       }
     }

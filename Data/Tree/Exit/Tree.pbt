@@ -1,13 +1,218 @@
 ﻿Name: "Exit"
 RootId: 10154695304200025045
 Objects {
+  Id: 6379128825298397754
+  Name: "Wad Stopper"
+  Transform {
+    Location {
+      X: 350.285797
+      Y: 155.531723
+      Z: 169.941422
+    }
+    Rotation {
+      Pitch: 9.72422886
+      Yaw: -91.2949524
+      Roll: -1.0475769
+    }
+    Scale {
+      X: 4.443
+      Y: 4.443
+      Z: 4.443
+    }
+  }
+  ParentId: 10154695304200025045
+  ChildIds: 15287323823059299877
+  ChildIds: 5420770298331648457
+  ChildIds: 16843049341879015708
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16843049341879015708
+  Name: "Size Blocker"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6379128825298397754
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1993258957397297549
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 5
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3945394699384787111
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7850039474666247473
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Wad Stopper"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2.06344557
+            Y: -12.9974689
+            Z: 184.135147
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.866899967
+            Y: 0.866899967
+            Z: 0.866899967
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17479186517724089539
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17479637215308043289
+    }
+  }
+}
+Objects {
+  Id: 5420770298331648457
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6379128825298397754
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 18.7020721
+            Y: 1.12552857
+            Z: 190.049118
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.900000036
+            Y: 2.9
+            Z: 3.10000014
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 15287323823059299877
+  Name: "SetSize"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6379128825298397754
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:Size"
+      ObjectReference {
+        SelfId: 7040765937772892087
+        SubObjectId: 4370332555789010836
+        InstanceId: 16843049341879015708
+        TemplateId: 17479637215308043289
+      }
+    }
+    Overrides {
+      Name: "cs:PickupBox"
+      ObjectReference {
+        SelfId: 13548660369256462902
+        SubObjectId: 1516960025473174507
+        InstanceId: 5420770298331648457
+        TemplateId: 16607685206915228970
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 6213630551292091443
+    }
+  }
+}
+Objects {
   Id: 9487854863101144078
   Name: "Wad Stopper"
   Transform {
     Location {
-      X: -493.34
-      Y: 166.562225
-      Z: 179.607498
+      X: -1226.53308
+      Y: 176.149
+      Z: 188.008255
     }
     Rotation {
       Pitch: 9.72423553
@@ -15,9 +220,9 @@ Objects {
       Roll: -1.0475769
     }
     Scale {
-      X: 6.66527796
-      Y: 6.66527796
-      Z: 6.66527796
+      X: 4.443
+      Y: 4.443
+      Z: 4.443
     }
   }
   ParentId: 10154695304200025045
@@ -220,9 +425,9 @@ Objects {
       Roll: -1.33895874
     }
     Scale {
-      X: 6.66527271
-      Y: 6.66527271
-      Z: 6.66527271
+      X: 4.443
+      Y: 4.443
+      Z: 4.443
     }
   }
   ParentId: 10154695304200025045
@@ -396,9 +601,9 @@ Objects {
       Roll: 8.40154839
     }
     Scale {
-      X: 6.66528
-      Y: 6.66528
-      Z: 6.66528
+      X: 4.443
+      Y: 4.443
+      Z: 4.443
     }
   }
   ParentId: 10154695304200025045

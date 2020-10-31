@@ -1,21 +1,161 @@
 ﻿Name: "Skateboards"
 RootId: 11846206752070718632
 Objects {
+  Id: 7938744581489419268
+  Name: "Skateboard"
+  Transform {
+    Location {
+      X: 6526.0957
+      Y: -505.137695
+      Z: -8.25683594
+    }
+    Rotation {
+      Yaw: 70
+    }
+    Scale {
+      X: 0.82157
+      Y: 0.82157
+      Z: 0.82157
+    }
+  }
+  ParentId: 11846206752070718632
+  ChildIds: 14565112201821313860
+  ChildIds: 5629473313694686308
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 5629473313694686308
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7938744581489419268
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 8.8
+            Y: 2.9
+            Z: 0.6
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 49.9999962
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 14565112201821313860
+  Name: "Skateboard"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7938744581489419268
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1235895229355478910
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 13023332803462220738
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8996480176907407883
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Skateboard"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15444590702819262488
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 13023332803462220738
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6213516541446688986
+    }
+  }
+}
+Objects {
   Id: 12186981851060045477
   Name: "Skateboard"
   Transform {
     Location {
       X: 5925
       Y: 2590
-      Z: -0.000244140625
+      Z: -8.25708
     }
     Rotation {
       Yaw: -70
     }
     Scale {
-      X: 0.900000036
-      Y: 0.900000036
-      Z: 0.900000036
+      X: 0.82157
+      Y: 0.82157
+      Z: 0.82157
     }
   }
   ParentId: 11846206752070718632
@@ -147,14 +287,15 @@ Objects {
     Location {
       X: 1155
       Y: 6540
+      Z: -8.25683594
     }
     Rotation {
       Yaw: 70
     }
     Scale {
-      X: 0.900000036
-      Y: 0.900000036
-      Z: 0.900000036
+      X: 0.82157
+      Y: 0.82157
+      Z: 0.82157
     }
   }
   ParentId: 11846206752070718632
@@ -286,15 +427,15 @@ Objects {
     Location {
       X: -820
       Y: 295
-      Z: -0.000244140625
+      Z: -8.25708
     }
     Rotation {
       Yaw: -20
     }
     Scale {
-      X: 0.900000036
-      Y: 0.900000036
-      Z: 0.900000036
+      X: 0.82157
+      Y: 0.82157
+      Z: 0.82157
     }
   }
   ParentId: 11846206752070718632
@@ -426,15 +567,15 @@ Objects {
     Location {
       X: 12465
       Y: -6300
-      Z: -940
+      Z: -948.256836
     }
     Rotation {
       Yaw: 20
     }
     Scale {
-      X: 0.900000036
-      Y: 0.900000036
-      Z: 0.900000036
+      X: 0.82157
+      Y: 0.82157
+      Z: 0.82157
     }
   }
   ParentId: 11846206752070718632
@@ -566,14 +707,15 @@ Objects {
     Location {
       X: 1075
       Y: 4425
+      Z: -8.25683594
     }
     Rotation {
       Yaw: 35
     }
     Scale {
-      X: 0.900000036
-      Y: 0.900000036
-      Z: 0.900000036
+      X: 0.82157
+      Y: 0.82157
+      Z: 0.82157
     }
   }
   ParentId: 11846206752070718632

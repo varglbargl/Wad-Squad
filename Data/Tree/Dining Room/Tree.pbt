@@ -1,6 +1,77 @@
 ﻿Name: "Dining Room"
 RootId: 7483335700504436817
 Objects {
+  Id: 5574570335026265816
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 5320.49609
+      Y: 3025.20044
+      Z: 2440.83936
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 9.99999905
+      Z: 18.5668163
+    }
+  }
+  ParentId: 7483335700504436817
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15425559672844353905
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.4
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.72
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.601
+        G: 0.113000005
+        B: 0.0395599715
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    DisableCastShadows: true
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 2092282330107505152
   Name: "Witch\'s Book"
   Transform {
@@ -1398,62 +1469,20 @@ Objects {
   }
 }
 Objects {
-  Id: 5428562837743660362
-  Name: "Small Open Crate"
-  Transform {
-    Location {
-      X: 5634.99805
-      Y: 150
-      Z: 2340
-    }
-    Rotation {
-      Yaw: -89.9999771
-      Roll: -89.9999619
-    }
-    Scale {
-      X: 15.000001
-      Y: 15.000001
-      Z: 8
-    }
-  }
-  ParentId: 7483335700504436817
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1490857703873336751
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
   Id: 9938088633092111023
   Name: "Cube"
   Transform {
     Location {
-      X: 5314.99805
-      Y: 165.000488
-      Z: 2350
+      X: 5320.49609
+      Y: 1384.2146
+      Z: 2440.83936
     }
     Rotation {
-      Yaw: -1.02452805e-05
     }
     Scale {
       X: 1
       Y: 9.99999905
-      Z: 22
+      Z: 18.5668163
     }
   }
   ParentId: 7483335700504436817
@@ -1474,14 +1503,14 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 0.85
+      Float: 0.72
     }
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.230000019
-        G: 0.107664369
-        B: 0.0395599864
+        R: 0.601
+        G: 0.113000005
+        B: 0.0395599715
         A: 1
       }
     }
@@ -1501,117 +1530,8 @@ Objects {
       IsEnemyCollisionEnabled: true
     }
     DisableDistanceFieldLighting: true
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 8540930734419538424
-  Name: "Cube"
-  Transform {
-    Location {
-      X: 5314.99805
-      Y: 1695
-      Z: 2350
-    }
-    Rotation {
-      Yaw: -1.02452805e-05
-    }
-    Scale {
-      X: 1
-      Y: 9.99999905
-      Z: 22
-    }
-  }
-  ParentId: 7483335700504436817
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 15425559672844353905
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.4
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 0.85
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.230000019
-        G: 0.107664369
-        B: 0.0395599864
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    DisableDistanceFieldLighting: true
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 10425641124311609832
-  Name: "Small Open Crate"
-  Transform {
-    Location {
-      X: 5634.99805
-      Y: 1679.99951
-      Z: 2340
-    }
-    Rotation {
-      Yaw: -89.9999771
-      Roll: -89.9999619
-    }
-    Scale {
-      X: 15.000001
-      Y: 15.000001
-      Z: 8
-    }
-  }
-  ParentId: 7483335700504436817
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1490857703873336751
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
+    DisableCastShadows: true
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {

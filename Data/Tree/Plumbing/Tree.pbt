@@ -2155,7 +2155,7 @@ Objects {
 }
 Objects {
   Id: 16996550052182192729
-  Name: "Hose Faucet"
+  Name: "Plumbing Piece"
   Transform {
     Scale {
       X: 1
