@@ -1627,6 +1627,6 @@
   Marketplace {
     Description: "Just a simple treehouse"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

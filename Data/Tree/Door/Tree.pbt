@@ -29,12 +29,6 @@ Objects {
   Folder {
     IsGroup: true
   }
-  InstanceHistory {
-    SelfId: 4284949225475639016
-    SubobjectId: 14191066203012343486
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 13653698059338668046
@@ -77,12 +71,6 @@ Objects {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 13653698059338668046
-    SubobjectId: 4826828641743140952
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -130,11 +118,5 @@ Objects {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 7412162124191564962
-    SubobjectId: 11050341680780584180
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }

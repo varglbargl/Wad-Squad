@@ -36,9 +36,9 @@
   Marketplace {
     Id: "422ec866059842ab901016737001a3ae"
     OwnerAccountId: "5589656a53644c90a21ca17fef459ed2"
-    OwnerName: "PunkerellaSummers"
+    OwnerName: "ChimericArts"
     Version: "1.1.0"
     Description: "Wrought iron and wood version of the core bench.  It will look good in steampunk/victorian enviroments and will probably match with some fantasy settings as well. We left in the script for two sit spots, thought it might be useful to people just starting out, but take it out if you don\'t like it or have something else you would rather use :)\r\n\r\nEnjoy!\r\n\r\n(Script by Booradley)"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

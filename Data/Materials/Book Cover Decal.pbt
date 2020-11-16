@@ -2,7 +2,7 @@
   Id: 5124353486519681308
   Name: "Book Cover Decal"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 12827530473249900764
     ParameterOverrides {

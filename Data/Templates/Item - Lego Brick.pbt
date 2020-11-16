@@ -15,8 +15,8 @@
             Z: 1.00000024
           }
         }
-        ParentId: 12369859827094797545
-        ChildIds: 10505543911066477400
+        ParentId: 16585569091184106356
+        ChildIds: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "cs:PickupSound"
@@ -36,8 +36,8 @@
         }
       }
       Objects {
-        Id: 10505543911066477400
-        Name: "Geo"
+        Id: 3170802009641059280
+        Name: "ClientContext"
         Transform {
           Location {
           }
@@ -90,7 +90,7 @@
             Z: 0.100000009
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -120,6 +120,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -132,8 +134,8 @@
         Name: "Cube"
         Transform {
           Location {
-            X: -94.9999466
-            Y: 3.9537721e-05
+            X: -95
+            Y: 3.37759629e-05
             Z: 9.2728653
           }
           Rotation {
@@ -144,7 +146,7 @@
             Z: 0.600000083
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -174,6 +176,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -186,8 +190,8 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 94.9999466
-            Y: -3.9537721e-05
+            X: 95
+            Y: -3.37759629e-05
             Z: 9.2728653
           }
           Rotation {
@@ -198,7 +202,7 @@
             Z: 0.600000083
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -228,6 +232,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -240,8 +246,8 @@
         Name: "Cube"
         Transform {
           Location {
-            X: -0.000808437471
-            Y: -44.9981918
+            X: -0.000781616895
+            Y: -44.9981689
             Z: 9.2728653
           }
           Rotation {
@@ -252,7 +258,7 @@
             Z: 0.600000083
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -282,6 +288,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -294,8 +302,8 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 0.000808437471
-            Y: 44.9981918
+            X: 0.000781616895
+            Y: 44.9981689
             Z: 9.2728653
           }
           Rotation {
@@ -306,7 +314,7 @@
             Z: 0.600000083
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -336,6 +344,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -348,8 +358,8 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: -74.9999695
-            Y: -24.9998951
+            X: -74.9999771
+            Y: -24.9999
             Z: 44.2729607
           }
           Rotation {
@@ -360,7 +370,7 @@
             Z: 0.200000018
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -390,6 +400,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -403,7 +415,7 @@
         Transform {
           Location {
             X: -24.9999828
-            Y: -24.9998379
+            Y: -24.9998131
             Z: 44.2729607
           }
           Rotation {
@@ -414,7 +426,7 @@
             Z: 0.200000018
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -444,6 +456,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -456,8 +470,8 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: 24.9999905
-            Y: -25.0000858
+            X: 25.0000172
+            Y: -25.0000839
             Z: 44.2729607
           }
           Rotation {
@@ -468,7 +482,7 @@
             Z: 0.200000018
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -498,6 +512,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -510,8 +526,8 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: 74.9999695
-            Y: -25.0000286
+            X: 75.0000153
+            Y: -25.0000477
             Z: 44.2729607
           }
           Rotation {
@@ -522,7 +538,7 @@
             Z: 0.200000018
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -552,6 +568,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -564,8 +582,8 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: 74.9999695
-            Y: 24.9998951
+            X: 74.9999771
+            Y: 24.9999
             Z: 44.2729607
           }
           Rotation {
@@ -576,7 +594,7 @@
             Z: 0.200000018
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -606,6 +624,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -619,7 +639,7 @@
         Transform {
           Location {
             X: 24.9999828
-            Y: 24.9998379
+            Y: 24.9998131
             Z: 44.2729607
           }
           Rotation {
@@ -630,7 +650,7 @@
             Z: 0.200000018
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -660,6 +680,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -672,8 +694,8 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: -24.9999905
-            Y: 25.0000858
+            X: -25.0000172
+            Y: 25.0000839
             Z: 44.2729607
           }
           Rotation {
@@ -684,7 +706,7 @@
             Z: 0.200000018
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -714,6 +736,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -726,8 +750,8 @@
         Name: "Cylinder"
         Transform {
           Location {
-            X: -74.9999695
-            Y: 25.0000286
+            X: -75.0000153
+            Y: 25.0000477
             Z: 44.2729607
           }
           Rotation {
@@ -738,7 +762,7 @@
             Z: 0.200000018
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -768,6 +792,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -780,8 +806,8 @@
         Name: "Pipe"
         Transform {
           Location {
-            X: -49.9999733
-            Y: -0.000107685672
+            X: -50
+            Y: -8.66254122e-05
             Z: -15.7270269
           }
           Rotation {
@@ -792,7 +818,7 @@
             Z: 0.514285803
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -822,6 +848,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -844,7 +872,7 @@
             Z: 0.514285803
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -874,6 +902,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -886,8 +916,8 @@
         Name: "Pipe"
         Transform {
           Location {
-            X: 49.9999733
-            Y: 0.000107685672
+            X: 50
+            Y: 8.66254122e-05
             Z: -15.7270269
           }
           Rotation {
@@ -898,7 +928,7 @@
             Z: 0.514285803
           }
         }
-        ParentId: 10505543911066477400
+        ParentId: 3170802009641059280
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -928,6 +958,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -986,5 +1018,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

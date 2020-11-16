@@ -1,6 +1,463 @@
 ﻿Name: "Cool Tapes"
 RootId: 2342065385221566557
 Objects {
+  Id: 3787249567051078374
+  Name: "Tape"
+  Transform {
+    Location {
+      X: 3882.1084
+      Y: 1319.1582
+      Z: -35.4039154
+    }
+    Rotation {
+      Pitch: -90
+      Roll: 66.3198929
+    }
+    Scale {
+      X: 2.3
+      Y: 2.3
+      Z: 2.3
+    }
+  }
+  ParentId: 2342065385221566557
+  ChildIds: 7092824745361387674
+  ChildIds: 3353228302723490524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3353228302723490524
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3787249567051078374
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.156977549
+            Y: 1.57908273
+            Z: 0.766206
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 20.2600098
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 7092824745361387674
+  Name: "VHS Tape"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3787249567051078374
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10811934779178156488
+      value {
+        Overrides {
+          Name: "Name"
+          String: "VHS Tape"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16262185139105001288
+    }
+  }
+}
+Objects {
+  Id: 2533805229861596487
+  Name: "Tape"
+  Transform {
+    Location {
+      X: 7069.22168
+      Y: 625.59668
+      Z: -35.4044037
+    }
+    Rotation {
+      Pitch: -90
+      Roll: 163.594421
+    }
+    Scale {
+      X: 2.3
+      Y: 2.3
+      Z: 2.3
+    }
+  }
+  ParentId: 2342065385221566557
+  ChildIds: 17444098930797619242
+  ChildIds: 10560433070875584403
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10560433070875584403
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2533805229861596487
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.156977549
+            Y: 1.57908273
+            Z: 0.766206
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 20.2600098
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 17444098930797619242
+  Name: "VHS Tape"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2533805229861596487
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10811934779178156488
+      value {
+        Overrides {
+          Name: "Name"
+          String: "VHS Tape"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16262185139105001288
+    }
+  }
+}
+Objects {
+  Id: 6697079134066518770
+  Name: "Tape"
+  Transform {
+    Location {
+      X: 6041.52441
+      Y: -674.719727
+      Z: -35.4041595
+    }
+    Rotation {
+      Pitch: -90
+      Roll: -84.9516602
+    }
+    Scale {
+      X: 2.3
+      Y: 2.3
+      Z: 2.3
+    }
+  }
+  ParentId: 2342065385221566557
+  ChildIds: 5905547615337893186
+  ChildIds: 5014676869113451845
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 5014676869113451845
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6697079134066518770
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.156977549
+            Y: 1.57908273
+            Z: 0.766206
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 20.2600098
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 5905547615337893186
+  Name: "VHS Tape"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6697079134066518770
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10811934779178156488
+      value {
+        Overrides {
+          Name: "Name"
+          String: "VHS Tape"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16262185139105001288
+    }
+  }
+}
+Objects {
+  Id: 13357022914731482134
+  Name: "Tape"
+  Transform {
+    Location {
+      X: 3745.91309
+      Y: 142.979492
+      Z: -35.4039154
+    }
+    Rotation {
+      Pitch: -90
+      Yaw: 165.96373
+      Roll: 152.815567
+    }
+    Scale {
+      X: 2.3
+      Y: 2.3
+      Z: 2.3
+    }
+  }
+  ParentId: 2342065385221566557
+  ChildIds: 11046742133252779863
+  ChildIds: 9097573738742406000
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 9097573738742406000
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13357022914731482134
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.156977549
+            Y: 1.57908273
+            Z: 0.766206
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 20.2600098
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 11046742133252779863
+  Name: "VHS Tape"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13357022914731482134
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10811934779178156488
+      value {
+        Overrides {
+          Name: "Name"
+          String: "VHS Tape"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16262185139105001288
+    }
+  }
+}
+Objects {
   Id: 5481886666004814231
   Name: "Tape"
   Transform {

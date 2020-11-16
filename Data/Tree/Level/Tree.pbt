@@ -1,8 +1,169 @@
 ﻿Name: "Level"
 RootId: 15764376009576159070
 Objects {
+  Id: 16236285497942867476
+  Name: "Moundhog"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15764376009576159070
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16399260293307633266
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Moundhog"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1890.01
+            Y: -11189.999
+            Z: 120
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999542
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4388860446912945076
+    }
+  }
+}
+Objects {
+  Id: 13130517707376070952
+  Name: "Moundhog"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15764376009576159070
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16399260293307633266
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Moundhog"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -5175
+            Y: -5345
+            Z: 250
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4388860446912945076
+    }
+  }
+}
+Objects {
+  Id: 15364875643489798001
+  Name: "Backyard Forcefield"
+  Transform {
+    Location {
+      X: 5184.37158
+      Y: 880.791
+      Z: -4960.25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 382.985168
+      Y: 404.243469
+      Z: 404.243469
+    }
+  }
+  ParentId: 15764376009576159070
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13900332991610886118
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    DisableCastShadows: true
+    DisableReceiveDecals: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10082181990223902581
+  Name: "Neighborhood"
+  Transform {
+    Location {
+      X: -4922.18164
+      Y: -7765.14307
+      Z: 43.7646484
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15764376009576159070
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Neighborhood"
+  }
+}
+Objects {
   Id: 11789853748847975752
-  Name: "Outside"
+  Name: "Neighbor Yard (Green)"
   Transform {
     Location {
     }
@@ -23,7 +184,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Outside"
+    FilePartitionName: "Neighbor Yard (Green)"
   }
 }
 Objects {
@@ -3568,13 +3729,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Craftsman House 01"
-  }
-  InstanceHistory {
-    SelfId: 11644041400775637754
-    SubobjectId: 6777927257701341868
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-    WasRoot: true
   }
 }
 Objects {

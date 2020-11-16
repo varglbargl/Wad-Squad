@@ -569,5 +569,5 @@
       AssetId: "SciFi_Ship_Cockpit__Prop_"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

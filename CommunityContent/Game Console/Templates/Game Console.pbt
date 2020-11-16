@@ -1791,6 +1791,6 @@
   Marketplace {
     Description: "A game console"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

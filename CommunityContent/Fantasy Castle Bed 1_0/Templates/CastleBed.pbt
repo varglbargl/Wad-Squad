@@ -1429,6 +1429,6 @@
   Marketplace {
     Description: "Fantasy Castle Bed to match Fantasy Chest design"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

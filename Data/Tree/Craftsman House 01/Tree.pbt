@@ -27,12 +27,6 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Garage"
   }
-  InstanceHistory {
-    SelfId: 15246713033609770769
-    SubobjectId: 3175263829327435591
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 4496904792708705229
@@ -61,12 +55,6 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Roof"
   }
-  InstanceHistory {
-    SelfId: 4496904792708705229
-    SubobjectId: 13974614725220289435
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 13963544247788420637
@@ -94,12 +82,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Porch and Foundation"
-  }
-  InstanceHistory {
-    SelfId: 13963544247788420637
-    SubobjectId: 4489948756610195019
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -132,12 +114,6 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "3rd Floor"
   }
-  InstanceHistory {
-    SelfId: 13012280526541322190
-    SubobjectId: 5409686451529963416
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 10485274625106130613
@@ -165,12 +141,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "2nd Floor"
-  }
-  InstanceHistory {
-    SelfId: 10485274625106130613
-    SubobjectId: 7927695095490123491
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -200,12 +170,6 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "1st Floor"
   }
-  InstanceHistory {
-    SelfId: 3460101116638931201
-    SubobjectId: 14952872952606460247
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 586838542259584836
@@ -233,11 +197,5 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Doors_1"
-  }
-  InstanceHistory {
-    SelfId: 586838542259584836
-    SubobjectId: 17844149663510716178
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }

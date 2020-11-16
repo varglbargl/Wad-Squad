@@ -2,7 +2,7 @@
   Id: 55032245642692925
   Name: "blue"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 15272449388967041284
     ParameterOverrides {

@@ -2597,6 +2597,6 @@
   Marketplace {
     Description: "A decorative cart for medieval settings. Can be filled with cabbage for example."
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

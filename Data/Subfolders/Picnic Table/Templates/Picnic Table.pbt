@@ -48,5 +48,5 @@
     Version: "1.0.0"
     Description: "For all of your outdoorsy gatherings."
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "straight from the core!\r\n\r\na soft drink made from core shards, Core Cola tastes great and its satisfying to consume"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

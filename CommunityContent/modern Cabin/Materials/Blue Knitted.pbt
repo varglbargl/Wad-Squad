@@ -2,7 +2,7 @@
   Id: 8555678261787299753
   Name: "Blue Knitted"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 3758022852163345
     ParameterOverrides {

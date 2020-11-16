@@ -27,12 +27,6 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Floor 1"
   }
-  InstanceHistory {
-    SelfId: 15843593894138464450
-    SubobjectId: 2618906595123161236
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 5330399191935999994
@@ -64,12 +58,6 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Walls_2"
   }
-  InstanceHistory {
-    SelfId: 5330399191935999994
-    SubobjectId: 13150115958906060716
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 13860476018903551440
@@ -99,11 +87,5 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Stairs_1"
-  }
-  InstanceHistory {
-    SelfId: 13860476018903551440
-    SubobjectId: 4602032962576625030
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }

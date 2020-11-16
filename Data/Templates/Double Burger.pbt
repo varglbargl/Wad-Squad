@@ -15,7 +15,7 @@
             Z: 1
           }
         }
-        ParentId: 16810207094056520665
+        ParentId: 707770824302081837
         ChildIds: 4004564727446880893
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -274,7 +274,6 @@
           }
         }
         ParentId: 141779590229352037
-        ChildIds: 9415582962266232697
         ChildIds: 9555882418776847606
         ChildIds: 13647285487823077481
         UnregisteredParameters {
@@ -287,60 +286,6 @@
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 9415582962266232697
-        Name: "Cylinder"
-        Transform {
-          Location {
-            Z: 6.21055603
-          }
-          Rotation {
-          }
-          Scale {
-            X: 0.95
-            Y: 0.95
-            Z: 0.01
-          }
-        }
-        ParentId: 17118611916567285533
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 9935103284485825042
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 1
-              G: 0.755099297
-              B: 0.139999986
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 17164668289428711060
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
         }
       }
       Objects {
@@ -980,10 +925,6 @@
         }
         ParentId: 12113679354916931658
         ChildIds: 18019660016643126667
-        ChildIds: 17968416494768651409
-        ChildIds: 1571938458064531860
-        ChildIds: 16319744149344319814
-        ChildIds: 2910771193043089184
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1052,181 +993,6 @@
           StaticMesh {
             Physics {
             }
-          }
-        }
-      }
-      Objects {
-        Id: 17968416494768651409
-        Name: "Decal Painted Lines 01"
-        Transform {
-          Location {
-            Z: 1.56059623
-          }
-          Rotation {
-            Yaw: 89.9999771
-          }
-          Scale {
-            X: 0.0104492139
-            Y: 0.00900001
-            Z: 0.002
-          }
-        }
-        ParentId: 14564873399538221603
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Shape Index"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 7986503471082563620
-          }
-          DecalBP {
-          }
-        }
-      }
-      Objects {
-        Id: 1571938458064531860
-        Name: "Decal Painted Lines 01"
-        Transform {
-          Location {
-            X: 3.99999857
-            Z: 1.56059623
-          }
-          Rotation {
-            Yaw: 89.9999771
-          }
-          Scale {
-            X: 0.0104492139
-            Y: 0.00900001
-            Z: 0.002
-          }
-        }
-        ParentId: 14564873399538221603
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Shape Index"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 7986503471082563620
-          }
-          DecalBP {
-          }
-        }
-      }
-      Objects {
-        Id: 16319744149344319814
-        Name: "Decal Painted Lines 01"
-        Transform {
-          Location {
-            X: -3.99999857
-            Z: 1.56059623
-          }
-          Rotation {
-            Yaw: 89.9999619
-          }
-          Scale {
-            X: 0.0104492139
-            Y: 0.00900000706
-            Z: 0.002
-          }
-        }
-        ParentId: 14564873399538221603
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Shape Index"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 7986503471082563620
-          }
-          DecalBP {
-          }
-        }
-      }
-      Objects {
-        Id: 2910771193043089184
-        Name: "Decal Painted Lines 01"
-        Transform {
-          Location {
-            X: 7.75574207
-            Z: 1.56059623
-          }
-          Rotation {
-            Yaw: 89.9999542
-          }
-          Scale {
-            X: 0.0104492139
-            Y: 0.0090000052
-            Z: 0.002
-          }
-        }
-        ParentId: 14564873399538221603
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Shape Index"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 7986503471082563620
-          }
-          DecalBP {
           }
         }
       }
@@ -1312,10 +1078,6 @@
         }
         ParentId: 12113679354916931658
         ChildIds: 7354596010057360622
-        ChildIds: 2321068063375265589
-        ChildIds: 14619681642385655804
-        ChildIds: 5179746057841472500
-        ChildIds: 13569865548248048975
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -1384,181 +1146,6 @@
           StaticMesh {
             Physics {
             }
-          }
-        }
-      }
-      Objects {
-        Id: 2321068063375265589
-        Name: "Decal Painted Lines 01"
-        Transform {
-          Location {
-            Z: 1.56059623
-          }
-          Rotation {
-            Yaw: 89.9999771
-          }
-          Scale {
-            X: 0.0104492139
-            Y: 0.00900001
-            Z: 0.002
-          }
-        }
-        ParentId: 7245033544040591080
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Shape Index"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 7986503471082563620
-          }
-          DecalBP {
-          }
-        }
-      }
-      Objects {
-        Id: 14619681642385655804
-        Name: "Decal Painted Lines 01"
-        Transform {
-          Location {
-            X: 3.99999857
-            Z: 1.56059623
-          }
-          Rotation {
-            Yaw: 89.9999771
-          }
-          Scale {
-            X: 0.0104492139
-            Y: 0.00900001
-            Z: 0.002
-          }
-        }
-        ParentId: 7245033544040591080
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Shape Index"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 7986503471082563620
-          }
-          DecalBP {
-          }
-        }
-      }
-      Objects {
-        Id: 5179746057841472500
-        Name: "Decal Painted Lines 01"
-        Transform {
-          Location {
-            X: -3.99999857
-            Z: 1.56059623
-          }
-          Rotation {
-            Yaw: 89.9999619
-          }
-          Scale {
-            X: 0.0104492139
-            Y: 0.00900000706
-            Z: 0.002
-          }
-        }
-        ParentId: 7245033544040591080
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Shape Index"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 7986503471082563620
-          }
-          DecalBP {
-          }
-        }
-      }
-      Objects {
-        Id: 13569865548248048975
-        Name: "Decal Painted Lines 01"
-        Transform {
-          Location {
-            X: 7.75574207
-            Z: 1.56059623
-          }
-          Rotation {
-            Yaw: 89.9999542
-          }
-          Scale {
-            X: 0.0104492139
-            Y: 0.0090000052
-            Z: 0.002
-          }
-        }
-        ParentId: 7245033544040591080
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Shape Index"
-            Int: 1
-          }
-          Overrides {
-            Name: "bp:color"
-            Color {
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 7986503471082563620
-          }
-          DecalBP {
           }
         }
       }
@@ -2440,15 +2027,6 @@
       }
     }
     Assets {
-      Id: 9935103284485825042
-      Name: "Stucco Tintable"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_stucco_tint_001_uv"
-      }
-    }
-    Assets {
       Id: 12825569806274041505
       Name: "Ring - Beveled Thin"
       PlatformAssetType: 1
@@ -2539,15 +2117,6 @@
       }
     }
     Assets {
-      Id: 7986503471082563620
-      Name: "Decal Painted Lines 01"
-      PlatformAssetType: 14
-      PrimaryAsset {
-        AssetType: "DecalBlueprintAssetRef"
-        AssetId: "bp_decal_lines_001"
-      }
-    }
-    Assets {
       Id: 4846662083301446138
       Name: "Craftsman Part - Stair Balust"
       PlatformAssetType: 1
@@ -2615,5 +2184,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

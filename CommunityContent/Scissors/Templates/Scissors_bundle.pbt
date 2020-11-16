@@ -46,5 +46,5 @@
     Version: "1.0.0"
     Description: "Scissors. The two blades can be rotated at the centre rivet to make them open and close scissor-fashioned!"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "beautiful modern Cabin built off the headhunter cabin this cabin has 1 bedroom 1 bath room and a kitchen plz leave a like too keep me makeing thing thank you"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

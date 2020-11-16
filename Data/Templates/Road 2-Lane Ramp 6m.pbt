@@ -621,5 +621,5 @@
       AssetId: "Road_2-Lane_Ramp_6m"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

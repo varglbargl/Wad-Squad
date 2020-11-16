@@ -2,7 +2,7 @@
   Id: 11291514342701675893
   Name: "Knifejaw Scales"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 18034974964752450918
     ParameterOverrides {

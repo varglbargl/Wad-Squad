@@ -1,16 +1,18 @@
 ﻿local Utils = require(script:GetCustomProperty("Utils"))
 
 local UI3D = script:GetCustomProperty("UI3D"):WaitForObject()
-local UI2D = script:GetCustomProperty("UI"):WaitForObject()
-local SUN_RAYS = script:GetCustomProperty("SunRays"):WaitForObject()
+local UI2D = script:GetCustomProperty("UI2D"):WaitForObject()
 local ITEM_DISPLAY = script:GetCustomProperty("ItemDisplay"):WaitForObject()
-
+local WAD_CIRCLE = script:GetCustomProperty("WadCircle"):WaitForObject()
+local MULTIPLAYER_SCORES = script:GetCustomProperty("MultiplayerScores"):WaitForObject()
+local BEETLE_FACE = script:GetCustomProperty("BeetleFace")
+local MY_BUG_FACE = script:GetCustomProperty("MyBugFace"):WaitForObject()
 
 UI3D:AttachToLocalView()
 UI3D:SetPosition(Vector3.New(11, 0, 0))
 UI3D:SetScale(Vector3.ONE * 0.035)
-SUN_RAYS:RotateContinuous(Vector3.New(-0.25, 0, 0), true)
 
+local player = Game.GetLocalPlayer()
 local currentItem = nil
 local itemNameBox = UI2D:FindDescendantByName("Item Name")
 local itemBackground = UI3D:FindDescendantByName("Item Background")
@@ -25,7 +27,6 @@ function displayItem(item)
   itemBackground.visibility = Visibility.INHERIT
 
   local itemSize = item:GetWorldScale() / item.clientUserData["Size"] * 0.03
-  -- local itemSize = item:GetWorldScale() * 0.03
   currentItem = World.SpawnAsset(item.sourceTemplateId, {scale = itemSize})
 
   local itemColor = item.clientUserData["Color"]
@@ -68,36 +69,100 @@ local wadSizeBox = UI2D:FindDescendantByName("Wad Size")
 wadSizeBox.text = "2cm"
 
 function updateScore(wadSize)
-  local metricUnit = "cm"
 
-  if wadSize >= 100 then
-    wadSize = wadSize / 100
-    metricUnit = "m"
-  end
-
-  local formattedSize = string.format("%.2f", wadSize * 2)
-
-  wadSizeBox.text = formattedSize .. metricUnit
+  wadSizeBox.text = Utils.formatWadSize(wadSize)
+  WAD_CIRCLE.width = math.floor(150 + (50 * wadSize))
+  WAD_CIRCLE.height = math.floor(150 + (50 * wadSize))
+  WAD_CIRCLE.x = math.floor(-245 - (13 * wadSize ^ 0.87))
+  WAD_CIRCLE.y = math.floor(180 + (13 * wadSize ^ 0.87))
 end
-
-local eyesClosed = UI3D:FindDescendantByName("Eyes Closed")
-local eyesOpen = UI3D:FindDescendantByName("Eyes Open")
-
-function sunBlink()
-  Task.Wait(6)
-
-  eyesOpen.visibility = Visibility.FORCE_OFF
-  eyesClosed.visibility = Visibility.INHERIT
-
-  Task.Wait(0.07)
-
-  eyesOpen.visibility = Visibility.INHERIT
-  eyesClosed.visibility = Visibility.FORCE_OFF
-
-  sunBlink()
-end
-
-Task.Spawn(sunBlink)
 
 Events.Connect("DisplayItem", displayItem)
 Events.Connect("UpdateWadSize", updateScore)
+
+local multiplayerWads = {}
+
+function initMultiplayerScores()
+
+  local colors = {
+    Color.FromStandardHex("59B6F6"),
+    Color.FromStandardHex("FFF040"),
+    Color.FromStandardHex("D54040"),
+    Color.FromStandardHex("8E4DC1"),
+    Color.FromStandardHex("EE8D46"),
+    Color.FromStandardHex("55B700"),
+    Color.FromStandardHex("D6F5FF"),
+    Color.FromStandardHex("5D5053")
+  }
+
+  local players = Game.GetPlayers()
+
+  if Environment.IsSinglePlayerPreview() then
+    table.insert(players, 1, {name = "Slinkous", id = "21c0b4284eff4bb091ce80a75c984fd1", size = 1})
+    table.insert(players, 1, {name = "Pandermand", id = "21c0b4284eff4bb091ce80a75c984fd2", size = 1})
+    table.insert(players, 1, {name = "SlamJammer6669", id = "21c0b4284eff4bb091ce80a75c984fd3", size = 1})
+    table.insert(players, {name = "Womp", id = "21c0b4284eff4bb091ce80a75c984fg4", size = 1})
+    table.insert(players, {name = "GrongleDobus", id = "21c0b4284eff4bb091ce80a75c984fd5", size = 1})
+    table.insert(players, {name = "ApuLover69", id = "21c0b4284eff4bb091ce80a75c984fd6", size = 1})
+    table.insert(players, {name = "nohandseyman", id = "21c0b4284eff4bb091ce80a75c984fd7", size = 1})
+  end
+
+  local placementIndex = 0
+
+  for realIndex, otherPlayer in ipairs(players) do
+    if otherPlayer. id ~= player.id then
+      local bugFace = World.SpawnAsset(BEETLE_FACE, {parent = MULTIPLAYER_SCORES})
+
+      bugFace.x = 0
+      bugFace.y = placementIndex * 120
+
+      local chitinBits = bugFace:FindDescendantsByName("Color")
+
+      for _, bit in ipairs(chitinBits) do
+        bit:SetColor(colors[realIndex])
+      end
+
+      local nameText = bugFace:FindDescendantByName("Name")
+      nameText.text = otherPlayer.name
+
+      table.insert(multiplayerWads, {
+        bugFace = bugFace,
+        scoreText = bugFace:FindDescendantByName("Size"),
+        playerName = otherPlayer.name,
+        playerID = otherPlayer.id,
+        color = colors[realIndex]
+      })
+
+      placementIndex = placementIndex + 1
+    else
+      local chitinBits = MY_BUG_FACE:FindDescendantsByName("Color")
+
+      for _, bit in ipairs(chitinBits) do
+        bit:SetColor(colors[realIndex])
+      end
+    end
+  end
+end
+
+function updateMultiplayerScores(playerID, playerWad)
+
+  local wadToUpdate = nil
+
+  for _, multiplayerWad in ipairs(multiplayerWads) do
+    if multiplayerWad.playerID == playerID then
+      wadToUpdate = multiplayerWad
+      break
+    end
+  end
+
+  if not wadToUpdate then
+    return
+  end
+
+  wadToUpdate.scoreText.text = Utils.formatWadSize(playerWad.s)
+end
+
+Events.Connect("PtUp", updateMultiplayerScores)
+
+Task.Wait(3)
+initMultiplayerScores()

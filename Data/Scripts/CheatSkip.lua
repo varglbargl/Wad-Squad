@@ -2,13 +2,7 @@
 local SIZE_BOOST = script:GetCustomProperty("SizeBoost")
 local CHUNK_TO_LOAD = script:GetCustomProperty("ChunkToLoad")
 
-local cheatsAllowed = script.parent:GetCustomProperty("Allow")
-
-if cheatsAllowed then
-  print("Cheats allowed.")
-end
-
-if cheatsAllowed and ACTIVATE then
+if ACTIVATE then
   Task.Wait(1 + 0.02 * SIZE_BOOST)
   print("Activating skip: " .. script.name)
 

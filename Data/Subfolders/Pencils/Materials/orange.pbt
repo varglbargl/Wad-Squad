@@ -2,7 +2,7 @@
   Id: 2365366574428697000
   Name: "orange"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 15272449388967041284
     ParameterOverrides {

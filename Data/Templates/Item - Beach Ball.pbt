@@ -103,7 +103,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
@@ -157,7 +156,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
@@ -213,7 +211,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
@@ -268,7 +265,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
@@ -324,7 +320,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           DisableReceiveDecals: true
           EnableCameraCollision: true
           StaticMesh {
@@ -357,5 +352,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

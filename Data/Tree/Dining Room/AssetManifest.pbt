@@ -80,6 +80,24 @@ Assets {
   }
 }
 Assets {
+  Id: 6263081572479807214
+  Name: "Dresser 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_dresser_001"
+  }
+}
+Assets {
+  Id: 5774597735606372259
+  Name: "Carpet Tile 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_carpet_tile_002"
+  }
+}
+Assets {
   Id: 5736808557697225520
   Name: "Craftsman Couch"
   PlatformAssetType: 1
@@ -95,6 +113,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cube_arched_001"
+  }
+}
+Assets {
+  Id: 2619013598545263236
+  Name: "Wallpaper Geometric 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wallpaper_abstract_003_uv"
   }
 }
 Assets {

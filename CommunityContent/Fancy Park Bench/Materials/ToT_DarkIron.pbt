@@ -2,7 +2,7 @@
   Id: 9359722296281869050
   Name: "ToT_DarkIron"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 17345051954028160289
     ParameterOverrides {

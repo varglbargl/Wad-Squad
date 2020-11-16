@@ -2,7 +2,7 @@
   Id: 17590716304218676130
   Name: "Custom Sides from Text 04: )"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 10184847056121543272
     ParameterOverrides {

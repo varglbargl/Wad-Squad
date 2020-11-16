@@ -2,7 +2,7 @@
   Id: 4732783643841100856
   Name: "Goldfish Scales"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 14542716416382345847
     ParameterOverrides {

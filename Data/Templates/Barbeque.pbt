@@ -89,7 +89,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -409,7 +408,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -583,6 +581,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -654,6 +654,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -725,6 +727,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -796,6 +800,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -867,6 +873,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -938,6 +946,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -1009,6 +1019,8 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
+          DisableDistanceFieldLighting: true
+          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2535,7 +2547,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2792,5 +2803,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

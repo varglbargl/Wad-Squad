@@ -7,12 +7,12 @@ Objects {
     Location {
       X: -30502.9883
       Y: 3396.00586
-      Z: 3349.82935
+      Z: 16139.5078
     }
     Rotation {
       Pitch: 0.870213866
-      Yaw: -89.5155106
-      Roll: -19.6629906
+      Yaw: -89.5155
+      Roll: -19.6629944
     }
     Scale {
       X: 1.66037345
@@ -22,10 +22,10 @@ Objects {
   }
   ParentId: 6431626364843959558
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
+    Value: "mc:evisibilitysetting:forceoff"
   }
   Folder {
     IsFilePartition: true
@@ -474,9 +474,9 @@ Objects {
       Roll: 60.5264435
     }
     Scale {
-      X: 5.89999962
-      Y: 5.89999962
-      Z: 5.89999962
+      X: 7.29999542
+      Y: 7.29999542
+      Z: 7.29999542
     }
   }
   ParentId: 6431626364843959558

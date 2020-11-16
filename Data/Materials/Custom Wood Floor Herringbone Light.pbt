@@ -2,7 +2,7 @@
   Id: 3548673563685794940
   Name: "Wood Lattice"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 11613036252021123664
     ParameterOverrides {

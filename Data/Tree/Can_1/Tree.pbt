@@ -1,7 +1,7 @@
 ﻿Name: "Can_1"
-RootId: 16087942404271881111
+RootId: 286793417854012698
 Objects {
-  Id: 13505016154262305135
+  Id: 8156925093713236639
   Name: "Cone - Truncated Hollow Wide Thin"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 1.00699639
     }
   }
-  ParentId: 16087942404271881111
+  ParentId: 286793417854012698
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -44,10 +44,6 @@ Objects {
         B: 0.59800005
         A: 1
       }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.4
     }
   }
   Collidable_v2 {
@@ -64,7 +60,6 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    DisableDistanceFieldLighting: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -73,75 +68,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8640687972624853052
-  Name: "Cone - Truncated Hollow Wide Thin"
-  Transform {
-    Location {
-      X: 9.71755298e-08
-      Y: -0.563964844
-      Z: -2.01220246e-06
-    }
-    Rotation {
-      Pitch: 6.83018879e-06
-      Yaw: 6.51377563e-12
-      Roll: 6.51377563e-12
-    }
-    Scale {
-      X: 10.95
-      Y: 10.95
-      Z: 1.22933924
-    }
-  }
-  ParentId: 16087942404271881111
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 13735964988824407627
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 0.16
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.59800005
-        G: 0.59800005
-        B: 0.59800005
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12657791796308583219
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    DisableDistanceFieldLighting: true
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 15326315568240391162
+  Id: 4655728473864218062
   Name: "Cone - Truncated Hollow Wide Thin"
   Transform {
     Location {
@@ -160,7 +87,7 @@ Objects {
       Z: 22.000021
     }
   }
-  ParentId: 16087942404271881111
+  ParentId: 286793417854012698
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -191,7 +118,6 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    DisableDistanceFieldLighting: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {

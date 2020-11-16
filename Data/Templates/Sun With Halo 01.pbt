@@ -257,5 +257,5 @@
       AssetId: "Sun_With_Halo_01"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

@@ -48,5 +48,5 @@
     Version: "1.0.0"
     Description: "A game console"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

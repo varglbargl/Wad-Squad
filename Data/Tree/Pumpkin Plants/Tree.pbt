@@ -28,8 +28,8 @@ Objects {
     Overrides {
       Name: "ma:Nature_Leaves:color"
       Color {
-        R: 0.0520132184
-        G: 0.102000006
+        R: 0.0205833316
+        G: 0.0650000051
         A: 1
       }
     }
@@ -2281,8 +2281,8 @@ Objects {
     Overrides {
       Name: "ma:Nature_Leaves:color"
       Color {
-        R: 0.0520132184
-        G: 0.102000006
+        R: 0.0205833316
+        G: 0.0650000051
         A: 1
       }
     }
@@ -2337,8 +2337,8 @@ Objects {
     Overrides {
       Name: "ma:Nature_Leaves:color"
       Color {
-        R: 0.0520132184
-        G: 0.102000006
+        R: 0.0205833316
+        G: 0.0650000051
         A: 1
       }
     }

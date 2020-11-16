@@ -2,7 +2,7 @@
   Id: 16663001673341662745
   Name: "Lynchian Linoleum"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 12782940202352343062
     ParameterOverrides {

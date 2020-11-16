@@ -745,9 +745,9 @@ Objects {
     Overrides {
       Name: "bp:Color Gain"
       Color {
-        R: 0.471000016
-        G: 0.414197
-        B: 0.749
+        R: 0.407824099
+        G: 0.343425
+        B: 0.72300005
         A: 1
       }
     }
@@ -758,6 +758,15 @@ Objects {
     Overrides {
       Name: "bp:Blend Radius"
       Float: 500
+    }
+    Overrides {
+      Name: "bp:Scene Tint"
+      Color {
+        R: 0.91
+        G: 0.483999968
+        B: 1
+        A: 1
+      }
     }
   }
   Collidable_v2 {
@@ -894,7 +903,7 @@ Objects {
   ChildIds: 15073380752163141119
   ChildIds: 12953120646362905967
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"

@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "Fantasy Castle Bed to match Fantasy Chest design"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

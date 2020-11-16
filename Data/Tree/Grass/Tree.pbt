@@ -1,6 +1,126 @@
 ﻿Name: "Grass"
 RootId: 6216154186127255500
 Objects {
+  Id: 14689653951045609497
+  Name: "Grass Short"
+  Transform {
+    Location {
+      X: 872.113
+      Y: -7939.33496
+      Z: 20.524704
+    }
+    Rotation {
+      Yaw: 44.9999924
+    }
+    Scale {
+      X: 6.66727
+      Y: 6.66727
+      Z: 9.86516476
+    }
+  }
+  ParentId: 6216154186127255500
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15292310889241014565
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11452281417796616786
+  Name: "Grass Short"
+  Transform {
+    Location {
+      X: -4820.85742
+      Y: -7699.2373
+      Z: 40.4489136
+    }
+    Rotation {
+      Yaw: 44.9999924
+    }
+    Scale {
+      X: 6.66727
+      Y: 6.66727
+      Z: 13.2095575
+    }
+  }
+  ParentId: 6216154186127255500
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15292310889241014565
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7167216463170718332
+  Name: "Grass Short"
+  Transform {
+    Location {
+      X: -3321.30664
+      Y: -7699.2373
+      Z: 40.4489136
+    }
+    Rotation {
+      Yaw: 44.9999924
+    }
+    Scale {
+      X: 6.66727
+      Y: 6.66727
+      Z: 6.66727
+    }
+  }
+  ParentId: 6216154186127255500
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15292310889241014565
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 15483423752803769805
   Name: "Clover Patch 01"
   Transform {
@@ -616,7 +736,7 @@ Objects {
     Location {
       X: -1576.43091
       Y: 1137.41772
-      Z: 40.4489136
+      Z: 30
     }
     Rotation {
       Yaw: 44.9999924

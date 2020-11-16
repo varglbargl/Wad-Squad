@@ -214,9 +214,9 @@
         Name: "Left Joycon"
         Transform {
           Location {
-            X: -69.848175
-            Y: -29.1997681
-            Z: 13.5
+            X: -69.8486176
+            Y: -32.7899933
+            Z: 13.4999838
           }
           Rotation {
             Yaw: 89.9999847
@@ -1817,6 +1817,6 @@
   Marketplace {
     Description: "A game console"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

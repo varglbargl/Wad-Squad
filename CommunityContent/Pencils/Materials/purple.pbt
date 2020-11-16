@@ -2,7 +2,7 @@
   Id: 15417841194756991339
   Name: "purple"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 15272449388967041284
     ParameterOverrides {

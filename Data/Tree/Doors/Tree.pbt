@@ -31,12 +31,6 @@ Objects {
   Folder {
     IsGroup: true
   }
-  InstanceHistory {
-    SelfId: 10986415435840400508
-    SubobjectId: 7489609022819470378
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 2045771609529762016
@@ -65,12 +59,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Door"
-  }
-  InstanceHistory {
-    SelfId: 2045771609529762016
-    SubobjectId: 16421236296506958006
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -103,12 +91,6 @@ Objects {
   Folder {
     IsGroup: true
   }
-  InstanceHistory {
-    SelfId: 16052050656914783241
-    SubobjectId: 2396950872550448223
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 16058646882974920309
@@ -136,11 +118,5 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Door_1"
-  }
-  InstanceHistory {
-    SelfId: 16058646882974920309
-    SubobjectId: 2403865956464119331
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }

@@ -2,7 +2,7 @@
   Id: 16983435596961755547
   Name: "Green Flame"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 17365916538357422122
     ParameterOverrides {

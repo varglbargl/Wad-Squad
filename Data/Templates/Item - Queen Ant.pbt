@@ -2379,9 +2379,9 @@
         Name: "Plane Kite - One Sided"
         Transform {
           Location {
-            X: 1.28125
-            Y: -0.466796875
-            Z: 30.8833313
+            X: 1.27929688
+            Y: -0.466552734
+            Z: 30.8837891
           }
           Rotation {
             Pitch: 37.6912842
@@ -2389,9 +2389,9 @@
             Roll: 34.8959351
           }
           Scale {
-            X: 1.4
-            Y: -3.8
-            Z: 0.02
+            X: 1.40000033
+            Y: -3.80000043
+            Z: 0.0388349667
           }
         }
         ParentId: 5042059804408862232
@@ -2482,9 +2482,9 @@
         Name: "Plane Kite - One Sided"
         Transform {
           Location {
-            X: 1.28125
-            Y: 0.421875
-            Z: 31.7432556
+            X: 1.27539063
+            Y: 0.422607422
+            Z: 31.7441406
           }
           Rotation {
             Pitch: 37.6913109
@@ -2492,9 +2492,9 @@
             Roll: 34.895916
           }
           Scale {
-            X: 1.4
+            X: 1.40000021
             Y: -3.8
-            Z: 0.02
+            Z: 0.0664014071
           }
         }
         ParentId: 13340012539320690448
@@ -3595,5 +3595,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

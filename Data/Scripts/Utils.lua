@@ -67,4 +67,17 @@ function UTILS.lerpNSlurp(object, targetObject, lerp, steps, time)
   Task.Spawn(function() slurp(object, targetObject, lerp, steps, time, 0) end)
 end
 
+function UTILS.formatWadSize(wadSize)
+  local metricUnit = "cm"
+
+  if wadSize >= 200 then
+    wadSize = wadSize / 200
+    metricUnit = "m"
+  end
+
+  local formattedSize = string.format("%.2f", wadSize * 2)
+
+  return formattedSize .. metricUnit
+end
+
 return UTILS

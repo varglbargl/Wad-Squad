@@ -2,7 +2,7 @@
   Id: 15977550020179351625
   Name: "Super Soaker Orange"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 12335764283652779794
     ParameterOverrides {

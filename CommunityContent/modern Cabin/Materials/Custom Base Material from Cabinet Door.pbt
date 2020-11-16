@@ -2,7 +2,7 @@
   Id: 2195404376921478468
   Name: "Custom Base Material from Cabinet Door"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 7987177350447574383
     ParameterOverrides {

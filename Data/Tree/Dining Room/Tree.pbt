@@ -1,8 +1,234 @@
 ﻿Name: "Dining Room"
 RootId: 7483335700504436817
 Objects {
+  Id: 4401973114718359944
+  Name: "Carpet"
+  Transform {
+    Location {
+      X: 2003.72656
+      Y: -335.090576
+      Z: 1113.82849
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 3.99999952
+      Y: 3.99999952
+      Z: 3.99999952
+    }
+  }
+  ParentId: 7483335700504436817
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 2619013598545263236
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5774597735606372259
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7796191891926360709
+  Name: "Bookshelf"
+  Transform {
+    Location {
+      X: 5562.35938
+      Y: 3015.14844
+      Z: 1032.0249
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 7.03711319
+      Y: 8.28027153
+      Z: 17.2
+    }
+  }
+  ParentId: 7483335700504436817
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.110000014
+        G: 0.0131125841
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6263081572479807214
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    DisableCastShadows: true
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16121150984004227946
+  Name: "Bookshelf"
+  Transform {
+    Location {
+      X: 5562.35938
+      Y: 1374.1626
+      Z: 1032.0249
+    }
+    Rotation {
+      Yaw: 89.9999771
+    }
+    Scale {
+      X: 7.03711319
+      Y: 8.28027153
+      Z: 17.2
+    }
+  }
+  ParentId: 7483335700504436817
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.110000014
+        G: 0.0131125841
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6263081572479807214
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    DisableCastShadows: true
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 9938088633092111023
+  Name: "Books"
+  Transform {
+    Location {
+      X: 5320.49609
+      Y: 1384.2146
+      Z: 2440.83936
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 9.99999905
+      Z: 18.5668163
+    }
+  }
+  ParentId: 7483335700504436817
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 15425559672844353905
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:utile"
+      Float: 0.4
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:vtile"
+      Float: 0.72
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.601
+        G: 0.113000005
+        B: 0.0395599715
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    DisableCastShadows: true
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 5574570335026265816
-  Name: "Cube"
+  Name: "Books"
   Transform {
     Location {
       X: 5320.49609
@@ -1465,77 +1691,6 @@ Objects {
     }
     TemplateAsset {
       Id: 8929365538719126979
-    }
-  }
-}
-Objects {
-  Id: 9938088633092111023
-  Name: "Cube"
-  Transform {
-    Location {
-      X: 5320.49609
-      Y: 1384.2146
-      Z: 2440.83936
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 9.99999905
-      Z: 18.5668163
-    }
-  }
-  ParentId: 7483335700504436817
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 15425559672844353905
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 0.4
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 0.72
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.601
-        G: 0.113000005
-        B: 0.0395599715
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    DisableDistanceFieldLighting: true
-    DisableCastShadows: true
-    DisableReceiveDecals: true
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
     }
   }
 }

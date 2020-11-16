@@ -6979,6 +6979,6 @@
   Marketplace {
     Description: "A hamburger model complete with a fully modeled hamburger bun, patty, lettuce, and almost believable tomato slices."
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

@@ -3755,7 +3755,7 @@ Objects {
 }
 Objects {
   Id: 17095489483256547177
-  Name: "Item - Lego Brick"
+  Name: "Lego Brick"
   Transform {
     Scale {
       X: 1
@@ -3764,6 +3764,12 @@ Objects {
     }
   }
   ParentId: 304738270029228968
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
       key: 15626392067336189312
@@ -3773,14 +3779,14 @@ Objects {
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
           Name: "Position"
           Vector {
             Z: 25.6550083
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -3912,7 +3918,7 @@ Objects {
 }
 Objects {
   Id: 7522635613110884918
-  Name: "Item - Lego Brick"
+  Name: "Lego Brick"
   Transform {
     Scale {
       X: 1
@@ -3921,6 +3927,12 @@ Objects {
     }
   }
   ParentId: 16585569091184106356
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
       key: 15626392067336189312
@@ -3930,14 +3942,14 @@ Objects {
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
           Name: "Position"
           Vector {
             Z: 25.6550083
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }
@@ -5814,14 +5826,14 @@ Objects {
           String: "Lego Brick"
         }
         Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
           Name: "Position"
           Vector {
             Z: 25.6550083
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
           }
         }
       }

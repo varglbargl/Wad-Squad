@@ -602,9 +602,9 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 0.15
-              G: 0.0375
-              A: 0.35
+              R: 0.118000008
+              G: 0.029500002
+              A: 1
             }
           }
         }
@@ -660,9 +660,9 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:color"
             Color {
-              R: 0.15
-              G: 0.0375
-              A: 0.35
+              R: 0.118000008
+              G: 0.029500002
+              A: 1
             }
           }
         }
@@ -774,5 +774,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

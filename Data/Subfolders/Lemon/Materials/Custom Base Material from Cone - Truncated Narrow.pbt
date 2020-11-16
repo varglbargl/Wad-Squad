@@ -2,7 +2,7 @@
   Id: 5158239401665083341
   Name: "Custom Base Material from Cone - Truncated Narrow"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 10118603938789951675
     ParameterOverrides {

@@ -3016,6 +3016,6 @@
   Marketplace {
     Description: "Telescope Model\r\n"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

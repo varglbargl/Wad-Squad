@@ -1627,6 +1627,6 @@
   Marketplace {
     Description: "sLight weight beach chair"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

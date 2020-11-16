@@ -46,5 +46,5 @@
     Version: "1.0.0"
     Description: "Doesn\'t fold yet. Also can\'t sit in it yet. "
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

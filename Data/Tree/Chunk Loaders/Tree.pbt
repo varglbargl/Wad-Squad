@@ -5,9 +5,9 @@ Objects {
   Name: "Chunk Unloader 3"
   Transform {
     Location {
-      X: -5932.55566
-      Y: 6666.90674
-      Z: 789.991821
+      X: -10415
+      Y: 5357.14
+      Z: 1195
     }
     Rotation {
     }
@@ -39,9 +39,9 @@ Objects {
   Name: "Chunk Unloader 2"
   Transform {
     Location {
-      X: 13357.4443
-      Y: -3658.57324
-      Z: 445.377319
+      X: 8875
+      Y: -4968.34
+      Z: 850.385498
     }
     Rotation {
     }
@@ -73,9 +73,9 @@ Objects {
   Name: "Chunk Unloader 1"
   Transform {
     Location {
-      X: 267.932617
-      Y: 496.020935
-      Z: 167.340088
+      X: -4214.51172
+      Y: -813.745667
+      Z: 572.348267
     }
     Rotation {
     }

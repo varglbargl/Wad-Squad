@@ -4573,6 +4573,6 @@
   Marketplace {
     Description: "A bicycle"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

@@ -2,7 +2,7 @@
   Id: 4962218890703102565
   Name: "Yarn"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 3090596827184957478
     ParameterOverrides {

@@ -1,6 +1,670 @@
 ﻿Name: "Flower Pots"
 RootId: 12691869519873819060
 Objects {
+  Id: 11111382625282331120
+  Name: "Flower Pot"
+  Transform {
+    Location {
+      X: -26614.7129
+      Y: 11480.9082
+      Z: 698.758911
+    }
+    Rotation {
+      Yaw: 105.939972
+    }
+    Scale {
+      X: 20.0000038
+      Y: 20.0000038
+      Z: 20.0000038
+    }
+  }
+  ParentId: 12691869519873819060
+  ChildIds: 6436796708609110718
+  ChildIds: 13768185263202565042
+  ChildIds: 15409822814470166455
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15409822814470166455
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 0.949038
+      Y: 0.949038
+      Z: 0.949038
+    }
+  }
+  ParentId: 11111382625282331120
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.20353138
+            Y: 1.20353138
+            Z: 1.20353138
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 14.6095333
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 13768185263202565042
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.949038
+      Y: 0.949038
+      Z: 0.949038
+    }
+  }
+  ParentId: 11111382625282331120
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 6436796708609110718
+  Name: "Flower Pot"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11111382625282331120
+  Collidable_v2 {
+  }
+  Visible_v2 {
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5033184760075631004
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Flower Pot"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5197515192457841337
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12157286093802901598
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15275168510168705116
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11292950856964108271
+    }
+  }
+}
+Objects {
+  Id: 11972549251681016535
+  Name: "Flower Pot"
+  Transform {
+    Location {
+      X: -26614.7129
+      Y: 8180.9082
+      Z: 582.092285
+    }
+    Rotation {
+      Yaw: 15.9401817
+    }
+    Scale {
+      X: 17.3714275
+      Y: 17.3714275
+      Z: 17.3714275
+    }
+  }
+  ParentId: 12691869519873819060
+  ChildIds: 3978416071429939393
+  ChildIds: 12259026874917844950
+  ChildIds: 10319567970007676186
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10319567970007676186
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 0.949038
+      Y: 0.949038
+      Z: 0.949038
+    }
+  }
+  ParentId: 11972549251681016535
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.20353138
+            Y: 1.20353138
+            Z: 1.20353138
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 14.6095333
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 12259026874917844950
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.949038
+      Y: 0.949038
+      Z: 0.949038
+    }
+  }
+  ParentId: 11972549251681016535
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 3978416071429939393
+  Name: "Flower Pot"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11972549251681016535
+  Collidable_v2 {
+  }
+  Visible_v2 {
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5033184760075631004
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Flower Pot"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5197515192457841337
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12157286093802901598
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15275168510168705116
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11292950856964108271
+    }
+  }
+}
+Objects {
+  Id: 3978701697179684256
+  Name: "Flower Pot"
+  Transform {
+    Location {
+      X: -26614.7227
+      Y: 4814.24121
+      Z: 698.758911
+    }
+    Rotation {
+      Yaw: -131.636871
+    }
+    Scale {
+      X: 20.0000038
+      Y: 20.0000038
+      Z: 20.0000038
+    }
+  }
+  ParentId: 12691869519873819060
+  ChildIds: 13232042111553378000
+  ChildIds: 17343651993291499045
+  ChildIds: 15727847847165733246
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15727847847165733246
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 0.949038
+      Y: 0.949038
+      Z: 0.949038
+    }
+  }
+  ParentId: 3978701697179684256
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.20353138
+            Y: 1.20353138
+            Z: 1.20353138
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 14.6095333
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 17343651993291499045
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.949038
+      Y: 0.949038
+      Z: 0.949038
+    }
+  }
+  ParentId: 3978701697179684256
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 13232042111553378000
+  Name: "Flower Pot"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3978701697179684256
+  Collidable_v2 {
+  }
+  Visible_v2 {
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5033184760075631004
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Flower Pot"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5197515192457841337
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12157286093802901598
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15275168510168705116
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11292950856964108271
+    }
+  }
+}
+Objects {
+  Id: 2695359076294397542
+  Name: "Flower Pot"
+  Transform {
+    Location {
+      X: -26614.7227
+      Y: 1480.9082
+      Z: 582.092285
+    }
+    Rotation {
+      Yaw: -31.7236938
+    }
+    Scale {
+      X: 17.3714275
+      Y: 17.3714275
+      Z: 17.3714275
+    }
+  }
+  ParentId: 12691869519873819060
+  ChildIds: 12480862149521840736
+  ChildIds: 10981517315743209746
+  ChildIds: 3284195402445367723
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3284195402445367723
+  Name: "Pickup Sphere"
+  Transform {
+    Scale {
+      X: 0.949038
+      Y: 0.949038
+      Z: 0.949038
+    }
+  }
+  ParentId: 2695359076294397542
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.20353138
+            Y: 1.20353138
+            Z: 1.20353138
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 14.6095333
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 10981517315743209746
+  Name: "Item Mod - Random Color"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.949038
+      Y: 0.949038
+      Z: 0.949038
+    }
+  }
+  ParentId: 2695359076294397542
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5225203412715387101
+    }
+  }
+}
+Objects {
+  Id: 12480862149521840736
+  Name: "Flower Pot"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2695359076294397542
+  Collidable_v2 {
+  }
+  Visible_v2 {
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5033184760075631004
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Flower Pot"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5197515192457841337
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12157286093802901598
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15275168510168705116
+      value {
+        Overrides {
+          Name: "DisableCastShadows"
+          Bool: true
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11292950856964108271
+    }
+  }
+}
+Objects {
   Id: 6239095985374671042
   Name: "Flower Pot"
   Transform {
@@ -139,7 +803,7 @@ Objects {
       value {
         Overrides {
           Name: "DisableDistanceFieldLighting"
-          Bool: true
+          Bool: false
         }
       }
     }
@@ -148,7 +812,7 @@ Objects {
       value {
         Overrides {
           Name: "DisableDistanceFieldLighting"
-          Bool: true
+          Bool: false
         }
       }
     }
@@ -305,7 +969,7 @@ Objects {
       value {
         Overrides {
           Name: "DisableDistanceFieldLighting"
-          Bool: true
+          Bool: false
         }
       }
     }
@@ -314,7 +978,7 @@ Objects {
       value {
         Overrides {
           Name: "DisableDistanceFieldLighting"
-          Bool: true
+          Bool: false
         }
       }
     }
@@ -471,7 +1135,7 @@ Objects {
       value {
         Overrides {
           Name: "DisableDistanceFieldLighting"
-          Bool: true
+          Bool: false
         }
       }
     }
@@ -637,7 +1301,7 @@ Objects {
       value {
         Overrides {
           Name: "DisableDistanceFieldLighting"
-          Bool: true
+          Bool: false
         }
       }
     }
@@ -1632,33 +2296,6 @@ Objects {
         }
       }
     }
-    ParameterOverrideMap {
-      key: 5197515192457841337
-      value {
-        Overrides {
-          Name: "DisableDistanceFieldLighting"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12157286093802901598
-      value {
-        Overrides {
-          Name: "DisableDistanceFieldLighting"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15275168510168705116
-      value {
-        Overrides {
-          Name: "DisableCastShadows"
-          Bool: true
-        }
-      }
-    }
     TemplateAsset {
       Id: 11292950856964108271
     }
@@ -1795,33 +2432,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5197515192457841337
-      value {
-        Overrides {
-          Name: "DisableDistanceFieldLighting"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12157286093802901598
-      value {
-        Overrides {
-          Name: "DisableDistanceFieldLighting"
-          Bool: true
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15275168510168705116
-      value {
-        Overrides {
-          Name: "DisableCastShadows"
-          Bool: true
         }
       }
     }

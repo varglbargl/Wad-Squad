@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "A little BabyManti to accompany you on your journeys!\r\nJust place in the world and walk over to  pick up! BabyManti will circle the player with maximum chill.\r\nOr remove the trigger and leave in the world! BabyManti is the perfect centerpiece for any social gathering.\r\nEnjoy!"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

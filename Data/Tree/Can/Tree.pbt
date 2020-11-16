@@ -1,7 +1,7 @@
 ﻿Name: "Can"
-RootId: 5510657526134764500
+RootId: 7939802753063363892
 Objects {
-  Id: 12425180853909624940
+  Id: 3209755326143619728
   Name: "Cone - Truncated Hollow Wide Thin"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 1.00699639
     }
   }
-  ParentId: 5510657526134764500
+  ParentId: 7939802753063363892
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -60,7 +60,6 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    DisableDistanceFieldLighting: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -69,7 +68,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3768151633484536320
+  Id: 16187802307984408416
   Name: "Cone - Truncated Hollow Wide Thin"
   Transform {
     Location {
@@ -88,7 +87,7 @@ Objects {
       Z: 22.000021
     }
   }
-  ParentId: 5510657526134764500
+  ParentId: 7939802753063363892
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -119,7 +118,6 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    DisableDistanceFieldLighting: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {

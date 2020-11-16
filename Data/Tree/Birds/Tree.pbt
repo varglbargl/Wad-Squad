@@ -840,10 +840,6 @@ Objects {
           Rotator {
           }
         }
-        Overrides {
-          Name: "cs:Chirp"
-          Bool: true
-        }
       }
     }
     TemplateAsset {
@@ -1440,10 +1436,6 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
-        }
-        Overrides {
-          Name: "cs:Chirp"
-          Bool: true
         }
       }
     }

@@ -2,7 +2,7 @@
   Id: 6441381156633961643
   Name: "Headlight Material"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 4232915978058232839
     ParameterOverrides {

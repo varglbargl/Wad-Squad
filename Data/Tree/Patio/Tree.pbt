@@ -1,13 +1,21 @@
 ﻿Name: "Patio"
 RootId: 4136761900868238697
 Objects {
-  Id: 17149370810057763325
-  Name: "Table Saw"
+  Id: 17360862086449303458
+  Name: "Kelp Tall Bush 01"
   Transform {
+    Location {
+      X: 1530
+      Y: -3250
+      Z: -2230
+    }
+    Rotation {
+      Yaw: -135
+    }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 3.40000057
+      Y: 3.40000057
+      Z: 4.89999962
     }
   }
   ParentId: 4136761900868238697
@@ -17,73 +25,242 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 10168228433512318985
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Table Saw"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -26446.9863
-            Y: 6708.54785
-            Z: 3.86662292
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999542
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.53244197
-            Y: 1.53244197
-            Z: 1.53244197
-          }
-        }
+  CoreMesh {
+    MeshAsset {
+      Id: 3478801788025380391
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
       }
     }
-    ParameterOverrideMap {
-      key: 13383007319418518027
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2.14230108
-            Y: 2.14230132
-            Z: 2.14230132
-          }
-        }
+  }
+}
+Objects {
+  Id: 11307145192337620924
+  Name: "Kelp Tall Bush 01"
+  Transform {
+    Location {
+      X: 4930
+      Y: -4350
+      Z: -2230
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.4
+      Y: 2.4
+      Z: 3.5
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3478801788025380391
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
       }
     }
-    ParameterOverrideMap {
-      key: 15507695667205210407
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 300.000031
-            Y: -389.999817
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.535575271
-            Y: 2.14230156
-            Z: 2.14230156
-          }
-        }
+  }
+}
+Objects {
+  Id: 14739014368933709683
+  Name: "Kelp Tall Bush 01"
+  Transform {
+    Location {
+      X: 6330
+      Y: -3250
+      Z: -2230
+    }
+    Rotation {
+      Yaw: -135
+    }
+    Scale {
+      X: 3.40000057
+      Y: 3.40000057
+      Z: 4.89999962
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3478801788025380391
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
       }
     }
-    TemplateAsset {
-      Id: 2979921497049182247
+  }
+}
+Objects {
+  Id: 3027266447405410063
+  Name: "Flower Daisy Patch 01"
+  Transform {
+    Location {
+      X: 10071.2158
+      Y: -7402.59277
+      Z: 754.004578
+    }
+    Rotation {
+      Pitch: 56.2245064
+      Yaw: 57.184391
+      Roll: 20.2205467
+    }
+    Scale {
+      X: 6.29581356
+      Y: 6.29581356
+      Z: 6.29581356
+    }
+  }
+  ParentId: 4136761900868238697
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Flower:color"
+      Color {
+        R: 0.523178816
+        G: 0.100000024
+        B: 1
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9667233404773643954
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16826529068932397702
+  Name: "Flower Daisy Patch 01"
+  Transform {
+    Location {
+      X: 10332.2275
+      Y: -6600.63
+      Z: 754.004578
+    }
+    Rotation {
+      Pitch: 56.22509
+      Yaw: -28.4502506
+      Roll: 20.2209625
+    }
+    Scale {
+      X: 6.29581356
+      Y: 6.29581356
+      Z: 6.29581356
+    }
+  }
+  ParentId: 4136761900868238697
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Nature_Flower:color"
+      Color {
+        R: 0.523178816
+        G: 0.100000024
+        B: 1
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9667233404773643954
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8534889571348598154
+  Name: "Bush 01"
+  Transform {
+    Location {
+      X: 10402.5605
+      Y: -7209.27539
+      Z: 5.44885254
+    }
+    Rotation {
+    }
+    Scale {
+      X: 8.81195736
+      Y: 8.81195736
+      Z: 8.81195736
+    }
+  }
+  ParentId: 4136761900868238697
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12069358021327041572
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
     }
   }
 }
@@ -2125,7 +2302,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Lid_1"
+    FilePartitionName: "Lid_2"
   }
 }
 Objects {
@@ -2157,7 +2334,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Can_1"
+    FilePartitionName: "Can_2"
   }
 }
 Objects {
@@ -2324,7 +2501,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Can"
+    FilePartitionName: "Can_3"
   }
 }
 Objects {
@@ -2356,7 +2533,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Lid"
+    FilePartitionName: "Lid_3"
   }
 }
 Objects {
@@ -2417,7 +2594,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Lid_2"
+    FilePartitionName: "Lid_4"
   }
 }
 Objects {
@@ -2449,7 +2626,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Can_2"
+    FilePartitionName: "Can_4"
   }
 }
 Objects {

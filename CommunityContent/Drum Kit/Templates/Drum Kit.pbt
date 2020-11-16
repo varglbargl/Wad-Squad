@@ -32917,6 +32917,6 @@
   Marketplace {
     Description: "Standard drum kit for @Daddio, using the folding chair Slinkous put in CC. \r\nEnjoy!"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

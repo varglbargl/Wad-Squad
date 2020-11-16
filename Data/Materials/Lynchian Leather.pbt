@@ -2,7 +2,7 @@
   Id: 5180460742839504330
   Name: "Lynchian Leather"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 6488379144617864745
     ParameterOverrides {

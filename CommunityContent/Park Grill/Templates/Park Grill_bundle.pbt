@@ -48,5 +48,5 @@
     Version: "1.1.0"
     Description: "An interactable park grill. If you turn it on, you enable the fire, sound, embers, hotdogs and burgers!\r\n\r\nCan disable interaction.\r\nCan set default to ON or OFF."
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

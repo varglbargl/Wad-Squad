@@ -39,5 +39,5 @@
     OwnerName: "varglbargl"
     Description: "Just a sandwich. Nothin\' fancy.\r\n\r\nupdate: Fixed some colors. I originally picked them under a custom skybox and they looked a little weird under default lighting. No more purple ham!"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

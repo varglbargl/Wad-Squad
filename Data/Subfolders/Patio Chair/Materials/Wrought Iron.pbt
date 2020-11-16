@@ -2,7 +2,7 @@
   Id: 12613628859385544766
   Name: "Wrought Iron"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 1159810772812533036
     ParameterOverrides {

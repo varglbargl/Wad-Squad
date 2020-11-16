@@ -2,7 +2,7 @@
   Id: 13666917140917277013
   Name: "Super Soaker Yellow"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 11421083048509379630
     ParameterOverrides {

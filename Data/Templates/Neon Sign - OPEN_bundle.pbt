@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "A neon OPEN sign for your storefront!\r\n\r\nFEATURES:\r\n\r\n - A script for making one (or more) of the letters flicker\r\n - Faint but annoying neon light buzzing sound\r\n - An object heirarchy that actually makes sense this time\r\n\r\nIf you wanna see more stuff from me please give this a like~!"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

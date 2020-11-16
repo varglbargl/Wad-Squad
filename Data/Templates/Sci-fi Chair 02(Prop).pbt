@@ -165,5 +165,5 @@
       AssetId: "Sci-fi_Chair_02_Prop_"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

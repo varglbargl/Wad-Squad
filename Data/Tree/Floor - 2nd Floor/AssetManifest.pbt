@@ -34,3 +34,12 @@ Assets {
     AssetId: "sm_urb_sub_craftsman_floor_001_4x4"
   }
 }
+Assets {
+  Id: 2971947114929493625
+  Name: "Ceramic Tiles Square 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_ceramic_tile_square_001"
+  }
+}

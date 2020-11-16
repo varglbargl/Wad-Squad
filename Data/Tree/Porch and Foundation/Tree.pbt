@@ -27,12 +27,6 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Porch Floor"
   }
-  InstanceHistory {
-    SelfId: 13916967358786576450
-    SubobjectId: 4514006555472658452
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 11357932416347733773
@@ -61,12 +55,6 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Porch Stairs"
   }
-  InstanceHistory {
-    SelfId: 11357932416347733773
-    SubobjectId: 7068542839647985499
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 3782625668894485684
@@ -94,12 +82,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Porch Roof"
-  }
-  InstanceHistory {
-    SelfId: 3782625668894485684
-    SubobjectId: 14697901012856818914
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -130,12 +112,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Porch Pillars"
-  }
-  InstanceHistory {
-    SelfId: 317162232110073074
-    SubobjectId: 18149841053614793892
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -168,12 +144,6 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Porch Foundation"
   }
-  InstanceHistory {
-    SelfId: 6160406176841482076
-    SubobjectId: 12320109012654202634
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 5782887584467728767
@@ -204,12 +174,6 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Porch Floor_1"
   }
-  InstanceHistory {
-    SelfId: 5782887584467728767
-    SubobjectId: 12666101850360158505
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 8134618401458579895
@@ -239,11 +203,5 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Porch Fence"
-  }
-  InstanceHistory {
-    SelfId: 8134618401458579895
-    SubobjectId: 10332384881054501345
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }

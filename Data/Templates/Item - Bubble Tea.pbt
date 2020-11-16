@@ -105,6 +105,7 @@
         Name: "Cylinder - Bottom-Aligned"
         Transform {
           Location {
+            Z: 1.17763245
           }
           Rotation {
             Yaw: -179.999954
@@ -113,7 +114,7 @@
           Scale {
             X: 2.13795877
             Y: 2.13795757
-            Z: -0.011972826
+            Z: 0.0376615748
           }
         }
         ParentId: 4138200491960846212
@@ -148,7 +149,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2941,5 +2941,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

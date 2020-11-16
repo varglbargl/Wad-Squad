@@ -46,5 +46,5 @@
     Version: "1.2.0"
     Description: "Basic key"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

@@ -1,6 +1,234 @@
 ﻿Name: "Milk Cartons"
 RootId: 17790505880284809175
 Objects {
+  Id: 11931161238970600690
+  Name: "Milk Carton"
+  Transform {
+    Location {
+      X: 8140.55664
+      Y: 1477.87891
+      Z: -158.81662
+    }
+    Rotation {
+      Pitch: 90
+      Roll: -54.3278198
+    }
+    Scale {
+      X: 1.11523986
+      Y: 1.11523986
+      Z: 1.11523986
+    }
+  }
+  ParentId: 17790505880284809175
+  ChildIds: 9247998035000729280
+  ChildIds: 2537590815677315179
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2537590815677315179
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11931161238970600690
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.80000007
+            Y: 1.80000007
+            Z: 4.20000029
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 20
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 9247998035000729280
+  Name: "Milk Carton"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11931161238970600690
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4114298466500049233
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Milk Carton"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11474129495599819933
+    }
+  }
+}
+Objects {
+  Id: 10299438719793212333
+  Name: "Milk Carton"
+  Transform {
+    Location {
+      X: 9736.21484
+      Y: 1407.71191
+      Z: -158.81662
+    }
+    Rotation {
+      Pitch: 90
+      Roll: -163.815765
+    }
+    Scale {
+      X: 1.11523986
+      Y: 1.11523986
+      Z: 1.11523986
+    }
+  }
+  ParentId: 17790505880284809175
+  ChildIds: 15068342517744083994
+  ChildIds: 15943711484901201853
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 15943711484901201853
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10299438719793212333
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.80000007
+            Y: 1.80000007
+            Z: 4.20000029
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 20
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 15068342517744083994
+  Name: "Milk Carton"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10299438719793212333
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4114298466500049233
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Milk Carton"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11474129495599819933
+    }
+  }
+}
+Objects {
   Id: 4579003875089964947
   Name: "Milk Carton"
   Transform {

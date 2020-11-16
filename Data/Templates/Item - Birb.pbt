@@ -15,7 +15,7 @@
             Z: 4.20000029
           }
         }
-        ParentId: 3722140968925369650
+        ParentId: 3504299184705829141
         ChildIds: 7062971213659982494
         UnregisteredParameters {
           Overrides {
@@ -202,8 +202,8 @@
         ParentId: 15909127317111503671
         ChildIds: 15199952586169908909
         ChildIds: 2882267073350397805
-        ChildIds: 7993121425999782053
-        ChildIds: 7225359331013269434
+        ChildIds: 5343265039397292548
+        ChildIds: 13939560491293143362
         ChildIds: 10971686375619678233
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -906,18 +906,15 @@
         }
       }
       Objects {
-        Id: 7993121425999782053
-        Name: "Left Wing"
+        Id: 5343265039397292548
+        Name: "Wing"
         Transform {
           Location {
-            X: 47.0512695
-            Y: 37.9619141
-            Z: 21.0318
+            X: 45
+            Y: 40
+            Z: 20
           }
           Rotation {
-            Pitch: 10.8381023
-            Yaw: -8.17904663
-            Roll: -1.54803467
           }
           Scale {
             X: 1
@@ -939,8 +936,7 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         Folder {
-          Model {
-          }
+          IsFilePartition: true
         }
       }
       Objects {
@@ -948,14 +944,14 @@
         Name: "Lense"
         Transform {
           Location {
-            X: -31.4746952
-            Y: -3.46099806
-            Z: 17.9395142
+            X: -32.4285278
+            Y: -1.0667851
+            Z: 12.6348944
           }
           Rotation {
-            Pitch: -6.49734497
-            Yaw: 13.7900782
-            Roll: 63.8475876
+            Pitch: 4.39472771
+            Yaw: 5.73770428
+            Roll: 64.9425201
           }
           Scale {
             X: 1.00000238
@@ -963,7 +959,7 @@
             Z: 0.602742255
           }
         }
-        ParentId: 7993121425999782053
+        ParentId: 5343265039397292548
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1019,14 +1015,14 @@
         Name: "Lense"
         Transform {
           Location {
-            X: 24.8729897
-            Y: 8.24863625
-            Z: 2.80032063
+            X: 26.8325691
+            Y: 2.65529847
+            Z: 8.67721
           }
           Rotation {
-            Pitch: 4.83940744
-            Yaw: -3.85525513
-            Roll: 90.0542526
+            Pitch: 15.5447311
+            Yaw: -12.3010664
+            Roll: 87.727356
           }
           Scale {
             X: 1.09778309
@@ -1034,7 +1030,7 @@
             Z: 0.308272719
           }
         }
-        ParentId: 7993121425999782053
+        ParentId: 5343265039397292548
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1090,22 +1086,22 @@
         Name: "Lense"
         Transform {
           Location {
-            X: 19.3069725
-            Y: 10.060976
-            Z: 16.6403332
+            X: 19.0419579
+            Y: 5.22708941
+            Z: 21.2668934
           }
           Rotation {
-            Pitch: 0.13116695
-            Yaw: -0.527496338
-            Roll: 66.7118301
+            Pitch: 10.9544954
+            Yaw: -8.71976471
+            Roll: 65.0622101
           }
           Scale {
             X: 0.820502818
             Y: 0.195599705
-            Z: 0.0894791707
+            Z: 0.0894791782
           }
         }
-        ParentId: 7993121425999782053
+        ParentId: 5343265039397292548
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1161,22 +1157,22 @@
         Name: "Lense"
         Transform {
           Location {
-            X: 12.8768349
-            Y: 5.17811394
-            Z: 25.9908657
+            X: 10.3453693
+            Y: 1.29080188
+            Z: 29.1086922
           }
           Rotation {
-            Pitch: -3.14709473
-            Yaw: 1.92170119
-            Roll: 53.2051239
+            Pitch: 7.73740196
+            Yaw: -6.15751648
+            Roll: 52.0363045
           }
           Scale {
             X: 0.772977
-            Y: 0.174957201
+            Y: 0.174957186
             Z: 0.0894473642
           }
         }
-        ParentId: 7993121425999782053
+        ParentId: 5343265039397292548
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1232,14 +1228,14 @@
         Name: "Lense"
         Transform {
           Location {
-            X: 1.50388134
-            Y: -2.65182352
-            Z: 34.6095848
+            X: -3.42220449
+            Y: -4.87350893
+            Z: 35.2242279
           }
           Rotation {
-            Pitch: -3.58450317
-            Yaw: 3.11191297
-            Roll: 36.1022377
+            Pitch: 7.32194853
+            Yaw: -4.95110321
+            Roll: 35.1613884
           }
           Scale {
             X: 0.603388488
@@ -1247,7 +1243,7 @@
             Z: 0.0894449279
           }
         }
-        ParentId: 7993121425999782053
+        ParentId: 5343265039397292548
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1303,22 +1299,22 @@
         Name: "Lense"
         Transform {
           Location {
-            X: -7.30947495
-            Y: -8.15797
-            Z: 40.284874
+            X: -13.8233166
+            Y: -9.09440708
+            Z: 38.9929733
           }
           Rotation {
-            Pitch: -1.16815186
-            Yaw: 6.50671148
-            Roll: 33.399662
+            Pitch: 9.77472401
+            Yaw: -1.54763281
+            Roll: 33.1058273
           }
           Scale {
             X: 0.471101224
             Y: 0.11513453
-            Z: 0.0588643812
+            Z: 0.0588643849
           }
         }
-        ParentId: 7993121425999782053
+        ParentId: 5343265039397292548
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1370,22 +1366,19 @@
         }
       }
       Objects {
-        Id: 7225359331013269434
-        Name: "Right Wing"
+        Id: 13939560491293143362
+        Name: "Wing"
         Transform {
           Location {
-            X: 47.0463867
-            Y: -39.8522949
-            Z: 21.0288086
+            X: 45
+            Y: -40
+            Z: 20
           }
           Rotation {
-            Pitch: 10.9287186
-            Yaw: 5.55661
-            Roll: 2.48575282
           }
           Scale {
             X: 1
-            Y: -1
+            Y: 1
             Z: 1
           }
         }
@@ -1403,8 +1396,7 @@
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         Folder {
-          Model {
-          }
+          IsFilePartition: true
         }
       }
       Objects {
@@ -1412,22 +1404,22 @@
         Name: "Lense"
         Transform {
           Location {
-            X: -31.4746952
-            Y: -3.46099806
-            Z: 17.9395142
+            X: -32.4775391
+            Y: 1.04394531
+            Z: 12.5117188
           }
           Rotation {
-            Pitch: -6.49734497
-            Yaw: 13.7900782
-            Roll: 63.8475876
+            Pitch: 4.70498228
+            Yaw: -8.46783543
+            Roll: -64.0680161
           }
           Scale {
             X: 1.00000238
-            Y: 0.615098596
+            Y: -0.615098596
             Z: 0.602742255
           }
         }
-        ParentId: 7225359331013269434
+        ParentId: 13939560491293143362
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1483,22 +1475,22 @@
         Name: "Lense"
         Transform {
           Location {
-            X: 24.8729897
-            Y: 8.24863625
-            Z: 2.80032063
+            X: 26.5424805
+            Y: -5.62792969
+            Z: 8.8425293
           }
           Rotation {
-            Pitch: 4.83940744
-            Yaw: -3.85525513
-            Roll: 90.0542526
+            Pitch: 15.5682611
+            Yaw: 9.75907612
+            Roll: -86.7671738
           }
           Scale {
             X: 1.09778309
-            Y: 0.271609277
+            Y: -0.271609277
             Z: 0.308272719
           }
         }
-        ParentId: 7225359331013269434
+        ParentId: 13939560491293143362
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1554,22 +1546,22 @@
         Name: "Lense"
         Transform {
           Location {
-            X: 19.3069725
-            Y: 10.060976
-            Z: 16.6403332
+            X: 18.5966797
+            Y: -7.61816406
+            Z: 21.4407959
           }
           Rotation {
-            Pitch: 0.13116695
-            Yaw: -0.527496338
-            Roll: 66.7118301
+            Pitch: 11.036397
+            Yaw: 6.09933949
+            Roll: -64.1233
           }
           Scale {
             X: 0.820502818
-            Y: 0.195599705
-            Z: 0.0894791707
+            Y: -0.195599705
+            Z: 0.0894791782
           }
         }
-        ParentId: 7225359331013269434
+        ParentId: 13939560491293143362
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1625,22 +1617,22 @@
         Name: "Lense"
         Transform {
           Location {
-            X: 12.8768349
-            Y: 5.17811394
-            Z: 25.9908657
+            X: 10.0786133
+            Y: -3.13769531
+            Z: 29.1859131
           }
           Rotation {
-            Pitch: -3.14709473
-            Yaw: 1.92170119
-            Roll: 53.2051239
+            Pitch: 7.86085081
+            Yaw: 3.48362422
+            Roll: -51.1107254
           }
           Scale {
             X: 0.772977
-            Y: 0.174957201
+            Y: -0.174957186
             Z: 0.0894473642
           }
         }
-        ParentId: 7225359331013269434
+        ParentId: 13939560491293143362
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1696,22 +1688,22 @@
         Name: "Lense"
         Transform {
           Location {
-            X: 1.50388134
-            Y: -2.65182352
-            Z: 34.6095848
+            X: -3.390625
+            Y: 3.78710938
+            Z: 35.1508789
           }
           Rotation {
-            Pitch: -3.58450317
-            Yaw: 3.11191297
-            Roll: 36.1022377
+            Pitch: 7.4647336
+            Yaw: 2.2702353
+            Roll: -34.2395248
           }
           Scale {
             X: 0.603388488
-            Y: 0.174953312
+            Y: -0.174953312
             Z: 0.0894449279
           }
         }
-        ParentId: 7225359331013269434
+        ParentId: 13939560491293143362
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -1767,22 +1759,22 @@
         Name: "Lense"
         Transform {
           Location {
-            X: -7.30947495
-            Y: -8.15797
-            Z: 40.284874
+            X: -13.5839844
+            Y: 8.56933594
+            Z: 38.8125
           }
           Rotation {
-            Pitch: -1.16815186
-            Yaw: 6.50671148
-            Roll: 33.399662
+            Pitch: 9.9712286
+            Yaw: -1.09449315
+            Roll: -32.1880417
           }
           Scale {
             X: 0.471101224
-            Y: 0.11513453
-            Z: 0.0588643812
+            Y: -0.11513453
+            Z: 0.0588643849
           }
         }
-        ParentId: 7225359331013269434
+        ParentId: 13939560491293143362
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
@@ -3553,5 +3545,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

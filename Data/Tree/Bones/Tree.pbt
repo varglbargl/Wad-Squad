@@ -1,6 +1,216 @@
 ﻿Name: "Bones"
 RootId: 12853421460878320840
 Objects {
+  Id: 17629338891114011946
+  Name: "Bone"
+  Transform {
+    Location {
+      X: 4953.35254
+      Y: 2251.71387
+      Z: -22.7989807
+    }
+    Rotation {
+      Yaw: -152.601669
+    }
+    Scale {
+      X: 1.95853758
+      Y: 1.95853758
+      Z: 1.95853758
+    }
+  }
+  ParentId: 12853421460878320840
+  ChildIds: 7707295164837244268
+  ChildIds: 16378263203357475259
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 16378263203357475259
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17629338891114011946
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.5
+            Y: 2.5
+            Z: 0.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 7707295164837244268
+  Name: "Bone"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17629338891114011946
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16526496325267702077
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bone"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 6.00000048
+            Y: 6.00000048
+            Z: 6.00000048
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1487155703953117817
+    }
+  }
+}
+Objects {
+  Id: 2559443893506704644
+  Name: "Bone"
+  Transform {
+    Location {
+      X: 7098.31445
+      Y: 86.5263672
+      Z: -22.7989807
+    }
+    Rotation {
+      Yaw: 73.5834045
+    }
+    Scale {
+      X: 1.95853758
+      Y: 1.95853758
+      Z: 1.95853758
+    }
+  }
+  ParentId: 12853421460878320840
+  ChildIds: 13884628534938206299
+  ChildIds: 2042904434556632935
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2042904434556632935
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2559443893506704644
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.5
+            Y: 2.5
+            Z: 0.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 13884628534938206299
+  Name: "Bone"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2559443893506704644
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16526496325267702077
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bone"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -90
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 6.00000048
+            Y: 6.00000048
+            Z: 6.00000048
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1487155703953117817
+    }
+  }
+}
+Objects {
   Id: 16248523244046548540
   Name: "Bone"
   Transform {

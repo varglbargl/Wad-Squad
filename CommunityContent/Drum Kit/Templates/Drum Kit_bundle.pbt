@@ -46,5 +46,5 @@
     Version: "1.0.0"
     Description: "Standard drum kit for @Daddio, using the folding chair Slinkous put in CC. \r\nEnjoy!"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

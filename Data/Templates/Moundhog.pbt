@@ -4,28 +4,27 @@
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 1420978674881812787
+      RootId: 16399260293307633266
       Objects {
-        Id: 1420978674881812787
+        Id: 16399260293307633266
         Name: "Moundhog"
         Transform {
           Scale {
-            X: 0.899999857
-            Y: 0.899999857
-            Z: 0.899999857
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ParentId: 15764376009576159070
         ChildIds: 4105729592059083651
         ChildIds: 8264928258499864418
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
-        Folder {
-          IsGroup: true
+        NetworkContext {
         }
       }
       Objects {
@@ -33,21 +32,22 @@
         Name: "The Boy"
         Transform {
           Location {
-            Z: -200
+            X: 1.88476563
+            Y: 0.871582031
+            Z: -178.310089
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.899999857
+            Y: 0.899999857
+            Z: 0.899999857
           }
         }
-        ParentId: 1420978674881812787
+        ParentId: 16399260293307633266
         ChildIds: 5794715425047713933
-        ChildIds: 1829280154154945263
-        ChildIds: 18309023897076090799
-        WantsNetworking: true
+        ChildIds: 8962976922235855878
+        ChildIds: 7229249939894240784
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -60,7 +60,7 @@
       }
       Objects {
         Id: 5794715425047713933
-        Name: "Animation - Bumperhog"
+        Name: "Bumperhog"
         Transform {
           Location {
             Y: 62.3613281
@@ -77,11 +77,18 @@
         ParentId: 4105729592059083651
         UnregisteredParameters {
           Overrides {
-            Name: "cs:Force"
-            Float: 15
+            Name: "cs:Launcher"
+            ObjectReference {
+              SubObjectId: 8962976922235855878
+            }
+          }
+          Overrides {
+            Name: "cs:LaunchingForce"
+            Vector {
+              Z: 500
+            }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -95,7 +102,7 @@
         }
       }
       Objects {
-        Id: 1829280154154945263
+        Id: 8962976922235855878
         Name: "Launcher"
         Transform {
           Location {
@@ -104,39 +111,12 @@
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 2.49999976
+            Y: 2.49999976
+            Z: 2.49999976
           }
         }
         ParentId: 4105729592059083651
-        ChildIds: 8962976922235855878
-        ChildIds: 17974180968792563901
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
-        Id: 8962976922235855878
-        Name: "Trigger"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 2.5
-            Y: 2.5
-            Z: 2.5
-          }
-        }
-        ParentId: 1829280154154945263
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceon"
         }
@@ -154,95 +134,24 @@
         }
       }
       Objects {
-        Id: 17974180968792563901
-        Name: "LaunchWad"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Yaw: -89.9999542
-          }
-          Scale {
-            X: 1.11111116
-            Y: 1.11111116
-            Z: 1.11111128
-          }
-        }
-        ParentId: 1829280154154945263
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:Trigger"
-            ObjectReference {
-              SubObjectId: 8962976922235855878
-            }
-          }
-          Overrides {
-            Name: "cs:Velocity"
-            Vector {
-              Z: 500
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Script {
-          ScriptAsset {
-            Id: 6347147644773148053
-          }
-        }
-      }
-      Objects {
-        Id: 18309023897076090799
-        Name: "Geo"
-        Transform {
-          Location {
-            X: 89.7441406
-            Y: 8.88476563
-            Z: -260.561127
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4105729592059083651
-        ChildIds: 7229249939894240784
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        NetworkContext {
-        }
-      }
-      Objects {
         Id: 7229249939894240784
         Name: "Boy based on Baby Manti by WitcherSilver"
         Transform {
           Location {
-            X: -95.6770782
-            Y: 0.371907532
-            Z: -115.446571
+            X: -5.93316078
+            Y: 9.25618649
+            Z: -376.007721
           }
           Rotation {
             Yaw: 132.002441
           }
           Scale {
-            X: 10.4530621
-            Y: 10.4530621
-            Z: 10.4530621
+            X: 10.4530611
+            Y: 10.4530611
+            Z: 10.4530611
           }
         }
-        ParentId: 18309023897076090799
+        ParentId: 4105729592059083651
         ChildIds: 15711694822830796512
         ChildIds: 10168153825769841906
         ChildIds: 6483681959869993792
@@ -4679,19 +4588,19 @@
         Name: "Dirt"
         Transform {
           Location {
-            X: -13.8472729
-            Y: 26.5406799
-            Z: -17.4996128
+            X: -10.5776367
+            Y: 24.7583
+            Z: -14.0597687
           }
           Rotation {
           }
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.899999857
+            Y: 0.899999857
+            Z: 0.899999857
           }
         }
-        ParentId: 1420978674881812787
+        ParentId: 16399260293307633266
         ChildIds: 5603632822265572936
         ChildIds: 5555750443510566441
         ChildIds: 12202788165029807880
@@ -6006,5 +5915,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

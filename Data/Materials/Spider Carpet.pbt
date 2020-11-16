@@ -2,7 +2,7 @@
   Id: 3726680219351911737
   Name: "Spider Carpet"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 13055509880114729618
     ParameterOverrides {

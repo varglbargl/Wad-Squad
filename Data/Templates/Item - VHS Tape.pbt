@@ -111,6 +111,8 @@
         ChildIds: 12473566848762277631
         ChildIds: 13886082447954813890
         ChildIds: 9762274323586161946
+        ChildIds: 15920187624102948779
+        ChildIds: 16843083478511423761
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceoff"
         }
@@ -3718,19 +3720,19 @@
         Name: "Cube - Bottom-Aligned"
         Transform {
           Location {
-            X: -41.0802
-            Y: -2.80859375
-            Z: 104.998779
+            X: -31.4441071
+            Y: -2.80806017
+            Z: 96.6804199
           }
           Rotation {
             Pitch: 2.04905664e-05
             Yaw: 4.66532356e-06
-            Roll: -0.000115887284
+            Roll: -0.000122070313
           }
           Scale {
-            X: -0.0306431223
+            X: 0.222523734
             Y: 3.25108337
-            Z: 1.8999989
+            Z: 2.07297897
           }
         }
         ParentId: 15188619149079723933
@@ -3769,6 +3771,118 @@
           StaticMesh {
             Physics {
             }
+          }
+        }
+      }
+      Objects {
+        Id: 15920187624102948779
+        Name: "Decal Sci-fi Details 01"
+        Transform {
+          Location {
+            X: 11.5642176
+            Y: 397.395233
+            Z: 350.613
+          }
+          Rotation {
+            Pitch: 90
+            Yaw: -82.8749771
+            Roll: 7.12494659
+          }
+          Scale {
+            X: 0.352695048
+            Y: 0.352695048
+            Z: 0.00429111207
+          }
+        }
+        ParentId: 15188619149079723933
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:color"
+            Color {
+              R: 0.02
+              G: 0.02
+              B: 0.02
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 11
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 0
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 8828784660932940028
+          }
+          TeamSettings {
+          }
+          DecalBP {
+          }
+        }
+      }
+      Objects {
+        Id: 16843083478511423761
+        Name: "Decal Sci-fi Details 01"
+        Transform {
+          Location {
+            X: 11.5644836
+            Y: -404.878906
+            Z: 350.658691
+          }
+          Rotation {
+            Pitch: 90
+            Yaw: -77.4711609
+            Roll: 12.528801
+          }
+          Scale {
+            X: -0.353001148
+            Y: 0.352697611
+            Z: 0.0316461027
+          }
+        }
+        ParentId: 15188619149079723933
+        UnregisteredParameters {
+          Overrides {
+            Name: "bp:color"
+            Color {
+              R: 0.02
+              G: 0.02
+              B: 0.02
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "bp:Shape Index"
+            Int: 11
+          }
+          Overrides {
+            Name: "bp:Emissive Boost"
+            Float: 0
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Blueprint {
+          BlueprintAsset {
+            Id: 8828784660932940028
+          }
+          TeamSettings {
+          }
+          DecalBP {
           }
         }
       }
@@ -4021,5 +4135,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

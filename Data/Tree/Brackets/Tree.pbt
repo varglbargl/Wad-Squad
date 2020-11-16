@@ -41,12 +41,6 @@ Objects {
       }
     }
   }
-  InstanceHistory {
-    SelfId: 5902808508322500160
-    SubobjectId: 12568706568610311702
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 2806994804029506981
@@ -88,12 +82,6 @@ Objects {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 2806994804029506981
-    SubobjectId: 15669021455534679539
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -137,12 +125,6 @@ Objects {
       }
     }
   }
-  InstanceHistory {
-    SelfId: 15925135721717090330
-    SubobjectId: 2487829261528950860
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 11032142101281558676
@@ -184,12 +166,6 @@ Objects {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 11032142101281558676
-    SubobjectId: 7394334247773892802
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -233,12 +209,6 @@ Objects {
       }
     }
   }
-  InstanceHistory {
-    SelfId: 6636593361849234942
-    SubobjectId: 11789882418128262568
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 14630057079874702866
@@ -280,12 +250,6 @@ Objects {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 14630057079874702866
-    SubobjectId: 3787420077893840452
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -329,12 +293,6 @@ Objects {
       }
     }
   }
-  InstanceHistory {
-    SelfId: 15268851889887948484
-    SubobjectId: 3198157157543906962
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 15046967319755833208
@@ -375,11 +333,5 @@ Objects {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 15046967319755833208
-    SubobjectId: 3411028211602071342
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }

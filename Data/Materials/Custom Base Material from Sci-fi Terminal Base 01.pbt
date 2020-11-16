@@ -2,7 +2,7 @@
   Id: 16136145697857495873
   Name: "Car"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 5869595359205650870
     ParameterOverrides {

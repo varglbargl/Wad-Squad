@@ -1,6 +1,426 @@
 ﻿Name: "Cones"
 RootId: 2695574426074770760
 Objects {
+  Id: 14551055537149131872
+  Name: "Cone"
+  Transform {
+    Location {
+      X: 8772.97656
+      Y: 9052.11816
+      Z: -64.1339111
+    }
+    Rotation {
+      Yaw: 9.69542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2695574426074770760
+  ChildIds: 10962781176535368404
+  ChildIds: 1532556274806436094
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 1532556274806436094
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14551055537149131872
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.992875099
+            Y: 0.992875099
+            Z: 3.64229393
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 219.471436
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 10962781176535368404
+  Name: "Road Cone"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14551055537149131872
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9311566161441064999
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Safety Cone"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 4.81078815
+            Y: 4.81078815
+            Z: 4.81078815
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8795508647532736773
+    }
+  }
+}
+Objects {
+  Id: 7464691527176064368
+  Name: "Cone"
+  Transform {
+    Location {
+      X: 8782.80273
+      Y: 11046.2539
+      Z: -64.1339111
+    }
+    Rotation {
+      Yaw: 9.69539452
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2695574426074770760
+  ChildIds: 7150879433843038998
+  ChildIds: 17726742379833749322
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 17726742379833749322
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7464691527176064368
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.992875099
+            Y: 0.992875099
+            Z: 3.64229393
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 219.471436
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 7150879433843038998
+  Name: "Road Cone"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7464691527176064368
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9311566161441064999
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Safety Cone"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 4.81078815
+            Y: 4.81078815
+            Z: 4.81078815
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8795508647532736773
+    }
+  }
+}
+Objects {
+  Id: 12033204668595051296
+  Name: "Cone"
+  Transform {
+    Location {
+      X: 11218.915
+      Y: 10870.959
+      Z: -64.1339111
+    }
+    Rotation {
+      Yaw: 9.69536781
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2695574426074770760
+  ChildIds: 2641916782308360977
+  ChildIds: 12720558424664315548
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 12720558424664315548
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12033204668595051296
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.992875099
+            Y: 0.992875099
+            Z: 3.64229393
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 219.471436
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 2641916782308360977
+  Name: "Road Cone"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12033204668595051296
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9311566161441064999
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Safety Cone"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 4.81078815
+            Y: 4.81078815
+            Z: 4.81078815
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8795508647532736773
+    }
+  }
+}
+Objects {
+  Id: 2035426062068135416
+  Name: "Cone"
+  Transform {
+    Location {
+      X: 13277.3984
+      Y: 10155.083
+      Z: -64.1339111
+    }
+    Rotation {
+      Yaw: 9.6953392
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2695574426074770760
+  ChildIds: 3669842905907514243
+  ChildIds: 10740422301197483312
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 10740422301197483312
+  Name: "Pickup Box"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2035426062068135416
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Box"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.992875099
+            Y: 0.992875099
+            Z: 3.64229393
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 219.471436
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16607685206915228970
+    }
+  }
+}
+Objects {
+  Id: 3669842905907514243
+  Name: "Road Cone"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2035426062068135416
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9311566161441064999
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Safety Cone"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 4.81078815
+            Y: 4.81078815
+            Z: 4.81078815
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8795508647532736773
+    }
+  }
+}
+Objects {
   Id: 7080871461729816211
   Name: "Cone"
   Transform {

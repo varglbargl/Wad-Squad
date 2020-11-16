@@ -15,7 +15,7 @@
             Z: 1
           }
         }
-        ParentId: 15710427854772097542
+        ParentId: 4740243937932559950
         ChildIds: 1108066968565743376
         UnregisteredParameters {
           Overrides {
@@ -90,6 +90,10 @@
         ParentId: 1108066968565743376
         UnregisteredParameters {
           Overrides {
+            Name: "cs:SkipMod"
+            Bool: true
+          }
+          Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
               Id: 15320790947018959030
@@ -146,9 +150,9 @@
             Roll: 165.580612
           }
           Scale {
-            X: 0.521242917
-            Y: 0.521220565
-            Z: 0.602917
+            X: 0.521241605
+            Y: 0.521220505
+            Z: 1.12292743
           }
         }
         ParentId: 1108066968565743376
@@ -346,9 +350,9 @@
         Name: "Coral Table 02"
         Transform {
           Location {
-            X: 45.8729897
-            Y: -31.6870098
-            Z: 78.2463913
+            X: 47.4524536
+            Y: -33.9991226
+            Z: 79.3867722
           }
           Rotation {
             Pitch: -27.1301575
@@ -745,5 +749,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

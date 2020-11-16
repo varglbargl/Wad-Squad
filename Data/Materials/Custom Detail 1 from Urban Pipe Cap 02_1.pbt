@@ -2,7 +2,7 @@
   Id: 7152487209973297883
   Name: "Urban Pipe Paint"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 10160309041170497877
     ParameterOverrides {

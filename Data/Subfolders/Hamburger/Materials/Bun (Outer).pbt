@@ -2,7 +2,7 @@
   Id: 1865972497309286436
   Name: "Bun (Outer)"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 1316104261634755355
     ParameterOverrides {

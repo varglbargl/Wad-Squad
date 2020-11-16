@@ -10,9 +10,9 @@
         Name: "Picnic Table"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 8.5505228
+            Y: 8.5505228
+            Z: 8.5505228
           }
         }
         ParentId: 4781671109827199097
@@ -667,15 +667,15 @@
         Name: "Stud"
         Transform {
           Location {
-            X: 117.642822
-            Y: -82.3920898
+            X: 117.64283
+            Y: -82.3920822
           }
           Rotation {
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -686,6 +686,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -695,7 +699,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -713,15 +717,15 @@
         Name: "Stud"
         Transform {
           Location {
-            X: -117.642822
+            X: -117.642815
             Y: -102.662109
           }
           Rotation {
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -732,6 +736,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -741,7 +749,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -759,15 +767,15 @@
         Name: "Stud"
         Transform {
           Location {
-            X: -117.642822
-            Y: -81.6782227
+            X: -117.64283
+            Y: -81.6782303
           }
           Rotation {
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -778,6 +786,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -787,7 +799,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -805,15 +817,15 @@
         Name: "Stud"
         Transform {
           Location {
-            X: -117.642822
-            Y: 103.019043
+            X: -117.642845
+            Y: 103.019051
           }
           Rotation {
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -824,6 +836,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -833,7 +849,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -851,15 +867,15 @@
         Name: "Stud"
         Transform {
           Location {
-            X: -117.642822
-            Y: 82.0351563
+            X: -117.64283
+            Y: 82.0351791
           }
           Rotation {
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -870,6 +886,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -879,7 +899,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -897,15 +917,15 @@
         Name: "Stud"
         Transform {
           Location {
-            X: 117.642822
+            X: 117.642815
             Y: 103.019043
           }
           Rotation {
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -916,6 +936,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -925,7 +949,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -943,15 +967,15 @@
         Name: "Stud"
         Transform {
           Location {
-            X: 117.642822
-            Y: 82.0351563
+            X: 117.64283
+            Y: 82.0351715
           }
           Rotation {
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -962,6 +986,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -971,7 +999,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -989,15 +1017,15 @@
         Name: "Stud"
         Transform {
           Location {
-            X: 117.642822
-            Y: -103.375977
+            X: 117.642845
+            Y: -103.375992
           }
           Rotation {
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -1008,6 +1036,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1017,7 +1049,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1035,9 +1067,9 @@
         Name: "Stud"
         Transform {
           Location {
-            X: 123.787598
-            Y: -54.2900391
-            Z: -22.5975952
+            X: 123.78759
+            Y: -54.2900429
+            Z: -22.5975876
           }
           Rotation {
             Pitch: -90
@@ -1045,9 +1077,9 @@
             Roll: 180
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -1058,6 +1090,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1067,7 +1103,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1085,18 +1121,18 @@
         Name: "Stud"
         Transform {
           Location {
-            X: 123.787598
-            Y: 58.4008789
-            Z: -22.5975952
+            X: 123.787621
+            Y: 58.4008751
+            Z: -22.5975876
           }
           Rotation {
             Pitch: -90
             Roll: 3.20353975e-05
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -1107,6 +1143,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1116,7 +1156,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1134,18 +1174,18 @@
         Name: "Stud"
         Transform {
           Location {
-            X: -125.922852
-            Y: 58.4008789
-            Z: -22.5975952
+            X: -125.922874
+            Y: 58.400898
+            Z: -22.5975876
           }
           Rotation {
             Pitch: -90
             Roll: 3.20353975e-05
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -1156,6 +1196,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1165,7 +1209,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1183,18 +1227,18 @@
         Name: "Stud"
         Transform {
           Location {
-            X: -125.922852
-            Y: -54.2900391
-            Z: -22.5975952
+            X: -125.922905
+            Y: -54.2900429
+            Z: -22.5975876
           }
           Rotation {
             Pitch: -90
             Roll: 3.20353975e-05
           }
           Scale {
-            X: 0.05
-            Y: 0.05
-            Z: 0.05
+            X: 0.0500000156
+            Y: 0.0500000119
+            Z: 0.0195659716
           }
         }
         ParentId: 9752888397960487302
@@ -1205,6 +1249,10 @@
               Id: 453237349022983430
             }
           }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:smart"
+            Bool: true
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1214,7 +1262,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 4758582077876344161
+            Id: 3148092026824077537
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1256,12 +1304,12 @@
       }
     }
     Assets {
-      Id: 4758582077876344161
-      Name: "Gem - Round Polished"
+      Id: 3148092026824077537
+      Name: "Icosahedron - Polished"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_gem_round_polished_001"
+        AssetId: "sm_icosahedron_hq_001"
       }
     }
     Assets {
@@ -1281,6 +1329,6 @@
   Marketplace {
     Description: "For all of your outdoorsy gatherings."
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

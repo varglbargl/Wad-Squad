@@ -40,5 +40,5 @@
     Version: "1.0.0"
     Description: "It\'s a water gun! My first custom weapon but I put a lot of time ito it. It has custom VFX and SFX for everything.\r\n\r\nLemme know what you think! Leave a comment or find me on the Core discord server ~ <3"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

@@ -2,7 +2,7 @@
   Id: 7354378407110903183
   Name: "Concrete Sidewalk XL"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 10468241206327713435
     ParameterOverrides {

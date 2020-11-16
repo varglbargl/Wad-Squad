@@ -2,7 +2,7 @@
   Id: 17207987103563803110
   Name: "Neon Light Glow"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 57316565516507223
     ParameterOverrides {

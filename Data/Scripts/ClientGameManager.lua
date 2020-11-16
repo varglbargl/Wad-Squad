@@ -13,6 +13,7 @@ local ITEMS = script:GetCustomProperty("Items"):WaitForObject()
 local clientPlayer = Game.GetLocalPlayer()
 local clientWad = nil
 local spawnHeight = 600
+local lastPickup = nil
 
 local chunk1 = ITEMS:FindDescendantsByName("Chunk 1")
 local chunk2 = ITEMS:FindDescendantsByName("Chunk 2")
@@ -21,8 +22,6 @@ local chunk3 = ITEMS:FindDescendantsByName("Chunk 3")
 
 function handleJoined(player)
   if player.id ~= clientPlayer.id then return end
-
-  print(player.name .. " joined the WAD SQUAD")
 
   unloadChunk(chunk2, "chunk2")
   unloadChunk(chunk3, "chunk3")
@@ -43,11 +42,10 @@ function handleJoined(player)
 end
 
 function handleLeft(player)
-  print("player left: " .. player.name)
 end
 
 function tellServerAboutWad()
-  Events.BroadcastToServer("WadUpdate", clientPlayer.id, clientWad.clientUserData["Size"])
+  Events.BroadcastToServer("WadUp", clientPlayer.id, clientWad.clientUserData["Size"], lastPickup)
   Task.Wait(3)
   tellServerAboutWad()
 end
@@ -88,6 +86,11 @@ function loadItem(itemInfo)
 end
 
 function pickUpItem(item, wadSize)
+  lastPickup = {
+    id = item.sourceTemplateId,
+    s = item:GetScale()
+  }
+
   UI_MANAGER.context.displayItem(item)
   UI_MANAGER.context.updateScore(wadSize)
 end

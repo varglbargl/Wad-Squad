@@ -2,7 +2,7 @@
   Id: 8047540743994800399
   Name: "Custom Screen Overlay 04"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 14685733966089949701
     ParameterOverrides {

@@ -2,7 +2,7 @@
 RootId: 12276776014136101490
 Objects {
   Id: 4893072624173428966
-  Name: "Patio (25-50cm)"
+  Name: "Patio"
   Transform {
     Location {
       X: 7938.90625
@@ -26,12 +26,12 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Patio (25-50cm)"
+    FilePartitionName: "Patio_1"
   }
 }
 Objects {
   Id: 4089793586574305372
-  Name: "Garden (5-25cm)"
+  Name: "Garden"
   Transform {
     Location {
       X: -4823.45117
@@ -55,12 +55,12 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Garden (5-25cm)"
+    FilePartitionName: "Garden_1"
   }
 }
 Objects {
   Id: 18301322653486220240
-  Name: "Spidertown (5-8cm)"
+  Name: "Spidertown"
   Transform {
     Location {
       X: -5925
@@ -84,12 +84,12 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Spidertown (5-8cm)"
+    FilePartitionName: "Spidertown_1"
   }
 }
 Objects {
   Id: 15606680952095223532
-  Name: "Sandbox (2-5cm)"
+  Name: "Sandbox"
   Transform {
     Location {
     }
@@ -110,6 +110,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Sandbox (2-5cm)"
+    FilePartitionName: "Sandbox_1"
   }
 }

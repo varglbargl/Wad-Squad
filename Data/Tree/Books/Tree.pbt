@@ -592,6 +592,15 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 1716694036030170369
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 7814566350784719305
       value {
         Overrides {

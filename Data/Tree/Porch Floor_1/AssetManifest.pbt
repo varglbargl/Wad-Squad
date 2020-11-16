@@ -26,15 +26,6 @@ Assets {
   }
 }
 Assets {
-  Id: 6317093348408192352
-  Name: "Concrete Panels 02"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_gen_concrete_panels_002"
-  }
-}
-Assets {
   Id: 1287203782625704153
   Name: "Concrete Rough"
   PlatformAssetType: 2

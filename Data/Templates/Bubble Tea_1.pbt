@@ -39,5 +39,5 @@
     OwnerName: "varglbargl"
     Description: "A plastic cup of milk tea with boba AKA bubble tea AKA pearl milk tea. I\'m not sure if this is a regional thing or what but this stuff has a lot of names.\r\n\r\nAnyway, ENJOY ~ <3"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

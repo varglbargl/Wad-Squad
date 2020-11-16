@@ -14813,6 +14813,6 @@
   Marketplace {
     Description: "An item package containing 17 detailed and down-scaled items.\r\nThis includes:\r\n - Two plates\r\n - A basket\r\n - Apples and a pumpkin\r\n - Ink Vial and Pen\r\n - Fork and Knive\r\n - A glass and two mugs\r\n - Two flowerpots\r\n - And a large kitchen knife\r\n\r\nEnjoy!\r\n\r\n - Fexelitche\r\n"
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
   DirectlyPublished: true
 }

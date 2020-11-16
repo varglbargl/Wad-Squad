@@ -2,7 +2,7 @@
   Id: 10586783170395201230
   Name: "Beetle Chitin"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 4626198180408444054
     ParameterOverrides {
@@ -52,10 +52,6 @@
         Float: 1
       }
       Overrides {
-        Name: "gradient_shift"
-        Float: 0.25
-      }
-      Overrides {
         Name: "gradient_falloff"
         Float: 1
       }
@@ -73,6 +69,10 @@
       Overrides {
         Name: "clear_coat_roughness"
         Float: 1
+      }
+      Overrides {
+        Name: "gradient_shift"
+        Float: 0.25
       }
     }
     Assets {

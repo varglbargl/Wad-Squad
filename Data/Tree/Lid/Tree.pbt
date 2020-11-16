@@ -1,7 +1,7 @@
 ﻿Name: "Lid"
-RootId: 14896278372054038972
+RootId: 4149053738250050273
 Objects {
-  Id: 9720252017179846595
+  Id: 9898482473196363399
   Name: "Sci-fi Chair Armrest 01"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 2.9
     }
   }
-  ParentId: 14896278372054038972
+  ParentId: 4149053738250050273
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -52,7 +52,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14687288974115986394
+  Id: 13326663630362541656
   Name: "Cylinder - Polished"
   Transform {
     Location {
@@ -68,7 +68,7 @@ Objects {
       Z: 0.390094399
     }
   }
-  ParentId: 14896278372054038972
+  ParentId: 4149053738250050273
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -109,7 +109,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11972184372748939669
+  Id: 7270136857822647929
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -128,7 +128,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 14896278372054038972
+  ParentId: 4149053738250050273
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -168,7 +168,6 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    DisableDistanceFieldLighting: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -177,7 +176,7 @@ Objects {
   }
 }
 Objects {
-  Id: 218106513451907364
+  Id: 12848168388505154940
   Name: "Cone - Truncated Hollow Wide Thin"
   Transform {
     Location {
@@ -195,7 +194,7 @@ Objects {
       Z: 0.920303464
     }
   }
-  ParentId: 14896278372054038972
+  ParentId: 4149053738250050273
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -235,7 +234,6 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    DisableDistanceFieldLighting: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {

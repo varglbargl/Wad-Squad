@@ -2,7 +2,7 @@
   Id: 13431749890493059467
   Name: "Carpet Stripes"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 14722796561991146384
     ParameterOverrides {

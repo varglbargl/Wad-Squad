@@ -846,14 +846,14 @@ Objects {
   Name: "Honey Bee"
   Transform {
     Location {
-      X: -143.561188
-      Y: -6903.19336
+      X: -692.552063
+      Y: -4720.99902
       Z: 223.865356
     }
     Rotation {
-      Pitch: 1.19440198
-      Yaw: -87.7623596
-      Roll: -71.2569
+      Pitch: -1.73318481
+      Yaw: 118.429802
+      Roll: -0.091796875
     }
     Scale {
       X: 1

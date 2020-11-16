@@ -2,7 +2,7 @@
   Id: 540120594504473981
   Name: "Ground Burger"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 5212272354503594506
     ParameterOverrides {

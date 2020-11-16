@@ -5,12 +5,12 @@ Objects {
   Name: "Craftsman Interior Door 01"
   Transform {
     Location {
-      X: 799.999512
-      Y: -1909.99963
+      X: 799.996338
+      Y: -1102.98206
       Z: 630
     }
     Rotation {
-      Yaw: -89.9999542
+      Yaw: -1.04342651
     }
     Scale {
       X: 1
@@ -35,17 +35,12 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableDistanceFieldLighting: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 5974793310715663133
-    SubobjectId: 12496719050719884107
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -89,12 +84,6 @@ Objects {
       }
     }
   }
-  InstanceHistory {
-    SelfId: 11070635433842945687
-    SubobjectId: 7360347842367065793
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 11552184815480784308
@@ -136,12 +125,6 @@ Objects {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 11552184815480784308
-    SubobjectId: 6905817004783003106
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -185,12 +168,6 @@ Objects {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 15627084117795190362
-    SubobjectId: 2835428477908358668
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -239,12 +216,6 @@ Objects {
       }
     }
   }
-  InstanceHistory {
-    SelfId: 8872696393400958544
-    SubobjectId: 9558291267970407942
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 13252587976959926638
@@ -287,12 +258,6 @@ Objects {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 13252587976959926638
-    SubobjectId: 5218932636190933304
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -341,12 +306,6 @@ Objects {
       }
     }
   }
-  InstanceHistory {
-    SelfId: 2418249011005680743
-    SubobjectId: 15999215460515793969
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 12947699847124412559
@@ -389,12 +348,6 @@ Objects {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 12947699847124412559
-    SubobjectId: 5487778468847372505
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -443,12 +396,6 @@ Objects {
       }
     }
   }
-  InstanceHistory {
-    SelfId: 1437652053799961573
-    SubobjectId: 17038359791619941299
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 5101633885942886208
@@ -490,12 +437,6 @@ Objects {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 5101633885942886208
-    SubobjectId: 13351868759576219414
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }
 Objects {
@@ -544,12 +485,6 @@ Objects {
       }
     }
   }
-  InstanceHistory {
-    SelfId: 9348214992347058645
-    SubobjectId: 9096269702543864195
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
-  }
 }
 Objects {
   Id: 8391511582567700400
@@ -586,16 +521,11 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableDistanceFieldLighting: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
       }
     }
-  }
-  InstanceHistory {
-    SelfId: 8391511582567700400
-    SubobjectId: 10084503268246140902
-    InstanceId: 2275901482220386584
-    TemplateId: 7889523534815795225
   }
 }

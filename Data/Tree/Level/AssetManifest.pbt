@@ -80,6 +80,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13900332991610886118
+  Name: "Container - Square Thick 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_container_square_thick_ref"
+  }
+}
+Assets {
   Id: 13282259600726273799
   Name: "Cylinder"
   PlatformAssetType: 1

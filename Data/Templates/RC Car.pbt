@@ -1560,7 +1560,7 @@
         }
         CoreMesh {
           MeshAsset {
-            Id: 10950495339320142836
+            Id: 9875190888854944490
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -4868,6 +4868,15 @@
       }
     }
     Assets {
+      Id: 9875190888854944490
+      Name: "Prism - 6-Sided Polished"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_prism_hexagon_hq_001"
+      }
+    }
+    Assets {
       Id: 16519203812812403109
       Name: "Cube - Chamfered Large Polished"
       PlatformAssetType: 1
@@ -5016,5 +5025,5 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 65
+  SerializationVersion: 68
 }

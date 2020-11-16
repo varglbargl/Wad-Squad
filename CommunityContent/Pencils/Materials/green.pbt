@@ -2,7 +2,7 @@
   Id: 12842055960412120939
   Name: "green"
   PlatformAssetType: 13
-  SerializationVersion: 65
+  SerializationVersion: 68
   CustomMaterialAsset {
     BaseMaterialId: 15272449388967041284
     ParameterOverrides {
