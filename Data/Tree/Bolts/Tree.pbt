@@ -7,7 +7,7 @@ Objects {
     Location {
       X: -4309.62939
       Y: -2138.22803
-      Z: 414
+      Z: 390.335022
     }
     Rotation {
       Pitch: 90
@@ -161,7 +161,7 @@ Objects {
     Location {
       X: -4370.86377
       Y: -2138.22754
-      Z: 396
+      Z: 372.335022
     }
     Rotation {
       Pitch: 90
@@ -315,7 +315,7 @@ Objects {
     Location {
       X: -4183.63
       Y: -2138.23193
-      Z: 414
+      Z: 390.335022
     }
     Rotation {
       Pitch: 90
@@ -469,7 +469,7 @@ Objects {
     Location {
       X: -4244.86426
       Y: -2138.22803
-      Z: 396
+      Z: 372.335022
     }
     Rotation {
       Pitch: 90
@@ -623,7 +623,7 @@ Objects {
     Location {
       X: -4060.63086
       Y: -2138.22974
-      Z: 414
+      Z: 390.335022
     }
     Rotation {
       Pitch: 90
@@ -777,7 +777,7 @@ Objects {
     Location {
       X: -4121.86377
       Y: -2138.22803
-      Z: 396
+      Z: 372.335022
     }
     Rotation {
       Pitch: 90
@@ -931,7 +931,7 @@ Objects {
     Location {
       X: -4003.63086
       Y: -2138.23047
-      Z: 396
+      Z: 372.335022
     }
     Rotation {
       Pitch: 90
@@ -1085,7 +1085,7 @@ Objects {
     Location {
       X: -3942.39844
       Y: -2138.23047
-      Z: 414
+      Z: 390.335022
     }
     Rotation {
       Pitch: 90

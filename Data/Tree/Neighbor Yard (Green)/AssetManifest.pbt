@@ -287,6 +287,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8532218528728211775
+  Name: "Fabric Burlap New 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_fan_fabric_burlap_002_uv"
+  }
+}
+Assets {
   Id: 8438176922749434817
   Name: "Craftsman Roof 02"
   PlatformAssetType: 1
@@ -368,6 +377,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5739790186020624212
+  Name: "Grass Tall"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_grass_generic_001"
+  }
+}
+Assets {
   Id: 5736808557697225520
   Name: "Craftsman Couch"
   PlatformAssetType: 1
@@ -410,6 +428,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_mil_fence_pole_02_connect_002"
+  }
+}
+Assets {
+  Id: 3533190463953898497
+  Name: "Fantasy Chest Treasure Pile 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_chest_treasure_pile_001_ref"
   }
 }
 Assets {

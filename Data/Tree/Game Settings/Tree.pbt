@@ -5,9 +5,6 @@ Objects {
   Name: "GameManager"
   Transform {
     Location {
-      X: 940
-      Y: -115
-      Z: 305
     }
     Rotation {
     }
@@ -20,18 +17,11 @@ Objects {
   ParentId: 11567818435668050114
   UnregisteredParameters {
     Overrides {
-      Name: "cs:WadSimulacrum"
-      AssetReference {
-        Id: 10133624592558789532
-      }
+      Name: "cs:GameState"
+      String: "WaitingForPlayers"
     }
     Overrides {
-      Name: "cs:PlayerOneWad"
-      Vector {
-      }
-    }
-    Overrides {
-      Name: "cs:PlayerOneWad:isrep"
+      Name: "cs:GameState:isrep"
       Bool: true
     }
   }
@@ -2132,7 +2122,7 @@ Objects {
   UnregisteredParameters {
     Overrides {
       Name: "cs:Activate"
-      Bool: true
+      Bool: false
     }
     Overrides {
       Name: "cs:SizeBoost"

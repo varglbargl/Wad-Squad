@@ -1,6 +1,167 @@
 ﻿Name: "Pool"
 RootId: 6303787268404808577
 Objects {
+  Id: 14739014368933709683
+  Name: "Kelp Tall Bush 01"
+  Transform {
+    Location {
+      X: 6800
+      Y: -7200
+      Z: -2100
+    }
+    Rotation {
+      Yaw: -135
+    }
+    Scale {
+      X: 3.40000057
+      Y: 3.40000057
+      Z: 4.89999962
+    }
+  }
+  ParentId: 6303787268404808577
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3478801788025380391
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11307145192337620924
+  Name: "Kelp Tall Bush 01"
+  Transform {
+    Location {
+      X: 5400
+      Y: -8300
+      Z: -2100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.4
+      Y: 2.4
+      Z: 3.5
+    }
+  }
+  ParentId: 6303787268404808577
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3478801788025380391
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17360862086449303458
+  Name: "Kelp Tall Bush 01"
+  Transform {
+    Location {
+      X: 2000
+      Y: -7200
+      Z: -2100
+    }
+    Rotation {
+      Yaw: -135
+    }
+    Scale {
+      X: 3.40000057
+      Y: 3.40000057
+      Z: 4.89999962
+    }
+  }
+  ParentId: 6303787268404808577
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3478801788025380391
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11506695250878080742
+  Name: "Camera Blocker"
+  Transform {
+    Location {
+      X: 4804.82715
+      Y: -4956.12695
+      Z: -2367.77124
+    }
+    Rotation {
+    }
+    Scale {
+      X: 107.389374
+      Y: 50.6872139
+      Z: 24.281023
+    }
+  }
+  ParentId: 6303787268404808577
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13816695316735148984
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    DisableDistanceFieldLighting: true
+    DisableCastShadows: true
+    DisableReceiveDecals: true
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 2072905022161106006
   Name: "Wall Coral"
   Transform {

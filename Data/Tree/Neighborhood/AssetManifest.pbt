@@ -1,10 +1,28 @@
 ﻿Assets {
+  Id: 18440814011778038326
+  Name: "Metal Iron 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_iron_001"
+  }
+}
+Assets {
   Id: 18203793883226836462
   Name: "Urban Pipe Cap 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_urb_pipes_acc_cap_001_ref"
+  }
+}
+Assets {
+  Id: 18133699642558591580
+  Name: "Plastic Shiny"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "plastic_shiny_001"
   }
 }
 Assets {
@@ -77,6 +95,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_pyramid_sixsided_hq_001"
+  }
+}
+Assets {
+  Id: 17654076070235932974
+  Name: "Pipe - Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_004"
   }
 }
 Assets {
@@ -179,6 +206,15 @@ Assets {
   }
 }
 Assets {
+  Id: 15582211909306787822
+  Name: "Small Crate Lid"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crate_narrow_lid_simple_160cm_001"
+  }
+}
+Assets {
   Id: 15402296587404581505
   Name: "Trim 02 Corner Mainstreet"
   PlatformAssetType: 1
@@ -194,6 +230,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_urb_sub_craftsman_floor_001_8x8"
+  }
+}
+Assets {
+  Id: 15320790947018959030
+  Name: "Rubber Basic 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_scf_rubber_panels_004_uv"
   }
 }
 Assets {
@@ -347,6 +392,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_urb_sub_craftsman_roof_eaves_001_end"
+  }
+}
+Assets {
+  Id: 12632251234297570874
+  Name: "Urban Pipe Cap 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_pipes_acc_cap_003_ref"
   }
 }
 Assets {
@@ -539,12 +593,12 @@ Assets {
   }
 }
 Assets {
-  Id: 10321940575207122723
-  Name: "Trim Side 01"
-  PlatformAssetType: 1
+  Id: 10151348392058825738
+  Name: "Metal Frame 01"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_trim_side_6m_001"
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_frames_001_uv"
   }
 }
 Assets {
@@ -764,6 +818,15 @@ Assets {
   }
 }
 Assets {
+  Id: 6812352096070990308
+  Name: "Sci-fi Gear Med 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_sf_gen_gear_med_01"
+  }
+}
+Assets {
   Id: 6188011487576275873
   Name: "Craftsman Part - Window 01"
   PlatformAssetType: 1
@@ -806,6 +869,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_urb_couch_001"
+  }
+}
+Assets {
+  Id: 5381367210591412322
+  Name: "Urban Pipe Elbow 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urb_pipes_elbow_001_ref"
   }
 }
 Assets {

@@ -35,11 +35,11 @@ Assets {
   }
 }
 Assets {
-  Id: 4167375343833664852
-  Name: "Brick Multicolor 01"
+  Id: 4050437425243511619
+  Name: "Wood Raw"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "mi_brick_multicolor_old_001_uv"
+    AssetId: "mi_wood_raw_001_uv"
   }
 }

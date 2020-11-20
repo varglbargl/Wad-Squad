@@ -8,6 +8,15 @@
   }
 }
 Assets {
+  Id: 14306440979922177934
+  Name: "Analog Click 01 SFX"
+  PlatformAssetType: 7
+  PrimaryAsset {
+    AssetType: "AudioAssetRef"
+    AssetId: "sfx_ui_analog_click_01_Cue_ref"
+  }
+}
+Assets {
   Id: 14232399330662554938
   Name: "Basic Material"
   PlatformAssetType: 2
@@ -89,6 +98,15 @@ Assets {
   }
 }
 Assets {
+  Id: 10577491396371571795
+  Name: "Depth of Field Post Process"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "fxbp_post_process_DOF"
+  }
+}
+Assets {
   Id: 9677285518752160121
   Name: "UI Basic Shape Pentagon"
   PlatformAssetType: 9
@@ -98,21 +116,21 @@ Assets {
   }
 }
 Assets {
+  Id: 8799570625505673842
+  Name: "Cube - Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_hq_test_001"
+  }
+}
+Assets {
   Id: 8589104375558144395
   Name: "BG Gradient 007"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "BackgroundFlat_024"
-  }
-}
-Assets {
-  Id: 8532218528728211775
-  Name: "Fabric Burlap New 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_fan_fabric_burlap_002_uv"
   }
 }
 Assets {
@@ -161,21 +179,21 @@ Assets {
   }
 }
 Assets {
+  Id: 5298138064144648909
+  Name: "Prism - 3-Sided Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prism_hq_001"
+  }
+}
+Assets {
   Id: 5117326109845707677
   Name: "Plane"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_plane_4m_001"
-  }
-}
-Assets {
-  Id: 3533190463953898497
-  Name: "Fantasy Chest Treasure Pile 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_fantasy_chest_treasure_pile_001_ref"
   }
 }
 Assets {
@@ -188,12 +206,30 @@ Assets {
   }
 }
 Assets {
+  Id: 1490857703873336751
+  Name: "Small Open Crate"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crate_narrow_open_simple_160cm_001"
+  }
+}
+Assets {
   Id: 1029412034706570307
   Name: "AutoExposure Post Process"
   PlatformAssetType: 20
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "fxbp_post_process_auto_exposure"
+  }
+}
+Assets {
+  Id: 820667487679683835
+  Name: "Outline Object"
+  PlatformAssetType: 20
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "fxbp_local_outline"
   }
 }
 Assets {
@@ -212,5 +248,14 @@ Assets {
   PrimaryAsset {
     AssetType: "AudioBlueprintAssetRef"
     AssetId: "abp_sunny_punk_rock_sections_kit_ref"
+  }
+}
+Assets {
+  Id: 20253322222348443
+  Name: "Dirt 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "dirt_001"
   }
 }

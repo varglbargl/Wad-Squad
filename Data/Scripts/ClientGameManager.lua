@@ -18,14 +18,18 @@ local lastPickup = nil
 local chunk1 = ITEMS:FindDescendantsByName("Chunk 1")
 local chunk2 = ITEMS:FindDescendantsByName("Chunk 2")
 local chunk3 = ITEMS:FindDescendantsByName("Chunk 3")
--- local chunk4 = ITEMS:FindDescendantsByName("Chunk 4")
 
 function handleJoined(player)
   if player.id ~= clientPlayer.id then return end
 
-  unloadChunk(chunk2, "chunk2")
+  -- Chunk 2 is visible behind the start menu so leave it loaded at the start
+  unloadChunk(chunk1, "chunk1")
   unloadChunk(chunk3, "chunk3")
-  -- unloadChunk(chunk4, "chunk4")
+end
+
+function startGame()
+  unloadChunk(chunk2, "chunk2")
+  loadChunk("chunk1")
 
   clientWad = World.SpawnAsset(WAD, {position = player:GetWorldPosition() + Vector3.New(0, 0, spawnHeight)})
   clientWad.clientUserData["Size"] = 1

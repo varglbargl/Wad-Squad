@@ -17,6 +17,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13816695316735148984
+  Name: "Container - Rectangle Thick 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_container_rectangle_thick_ref"
+  }
+}
+Assets {
   Id: 13735964988824407627
   Name: "Metal Basic 01"
   PlatformAssetType: 2
@@ -122,6 +131,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "urb_sub_craftsman_part_stair_001_balust"
+  }
+}
+Assets {
+  Id: 3478801788025380391
+  Name: "Kelp Tall Bush 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_kelp_tall_bush_01"
   }
 }
 Assets {

@@ -4852,6 +4852,12 @@ Objects {
     }
   }
   ParentId: 280905557327166263
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   TemplateInstance {
     ParameterOverrideMap {
       key: 5477705273575205657
@@ -4874,38 +4880,6 @@ Objects {
             Pitch: 1.36603776e-05
             Yaw: -3.05175781e-05
             Roll: 84.9998779
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.540000081
-            Y: 0.540000081
-            Z: 0.540000081
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10437075825040822741
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1.22796587e-06
-            Y: -0.866087317
-            Z: 0.361727178
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15289506591397059754
-      value {
-        Overrides {
-          Name: "StaticMesh"
-          AssetReference {
-            Id: 9258812049024871290
           }
         }
       }

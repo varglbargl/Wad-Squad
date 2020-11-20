@@ -35,7 +35,7 @@
       Overrides {
         Name: "cmp:Material3_Sides"
         AssetReference {
-          Id: 17533668045945297774
+          Id: 17818334485311273062
         }
       }
       Overrides {
@@ -49,6 +49,15 @@
       Overrides {
         Name: "material3side_scale"
         Float: 0.1
+      }
+      Overrides {
+        Name: "cmpc:Material3_Sides"
+        Color {
+          R: 0.50115
+          G: 0.77099973
+          B: 0.771
+          A: 1
+        }
       }
     }
     Assets {
@@ -88,12 +97,12 @@
       }
     }
     Assets {
-      Id: 17533668045945297774
-      Name: "Cliff 03"
+      Id: 17818334485311273062
+      Name: "Snow 01"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "cliff_003"
+        AssetId: "mi_snow_001_uv"
       }
     }
   }

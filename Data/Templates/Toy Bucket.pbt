@@ -10,12 +10,12 @@
         Name: "Toy Bucket"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 0.540000081
+            Y: 0.540000081
+            Z: 0.540000081
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 280905557327166263
         ChildIds: 6339408150271880537
         ChildIds: 13268204437557737595
         Collidable_v2 {
@@ -47,6 +47,7 @@
         ChildIds: 13279660049794496503
         ChildIds: 15289506591397059754
         ChildIds: 15035923191988327335
+        ChildIds: 18345486480206426581
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -279,6 +280,63 @@
         }
       }
       Objects {
+        Id: 18345486480206426581
+        Name: "Cone - Truncated Hollow Wide Thin"
+        Transform {
+          Location {
+            X: 4.23855199e-05
+            Y: -10.0000296
+            Z: 185.79895
+          }
+          Rotation {
+            Pitch: 2.04905664e-05
+            Yaw: 179.999954
+            Roll: 179.999939
+          }
+          Scale {
+            X: 3.89033198
+            Y: 3.89033198
+            Z: 3.5985558
+          }
+        }
+        ParentId: 6339408150271880537
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 18133699642558591580
+            }
+          }
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:color"
+            Color {
+              R: 1
+              A: 1
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 9258812049024871290
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          EnableCameraCollision: true
+          StaticMesh {
+            Physics {
+            }
+          }
+        }
+      }
+      Objects {
         Id: 13268204437557737595
         Name: "Handle"
         Transform {
@@ -315,8 +373,9 @@
         Name: "Pipe - Half Thin"
         Transform {
           Location {
-            Y: -4.99999809
-            Z: 3.57627823e-06
+            X: -1.22796587e-06
+            Y: -0.866087317
+            Z: 0.361727178
           }
           Rotation {
             Roll: 43.6892738

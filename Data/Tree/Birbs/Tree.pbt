@@ -148,6 +148,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
+        }
       }
     }
     TemplateAsset {
@@ -262,6 +266,10 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
+        }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
         }
       }
     }
@@ -378,6 +386,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
+        }
       }
     }
     TemplateAsset {
@@ -493,6 +505,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
+        }
       }
     }
     TemplateAsset {
@@ -607,6 +623,10 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
+        }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
         }
       }
     }
@@ -735,6 +755,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
+        }
       }
     }
     TemplateAsset {
@@ -850,6 +874,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
+        }
       }
     }
     TemplateAsset {
@@ -963,6 +991,10 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
+        }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
         }
       }
     }
@@ -1078,6 +1110,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
+        }
       }
     }
     TemplateAsset {
@@ -1192,6 +1228,10 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
+        }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
         }
       }
     }
@@ -1310,7 +1350,7 @@ Objects {
         }
         Overrides {
           Name: "cs:Chirp"
-          Bool: true
+          Bool: false
         }
       }
     }
@@ -1429,7 +1469,7 @@ Objects {
         }
         Overrides {
           Name: "cs:Chirp"
-          Bool: true
+          Bool: false
         }
       }
     }
@@ -1545,6 +1585,10 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
+        }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
         }
       }
     }
@@ -1784,6 +1828,10 @@ Objects {
           Rotator {
           }
         }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
+        }
       }
     }
     TemplateAsset {
@@ -1901,7 +1949,7 @@ Objects {
         }
         Overrides {
           Name: "cs:Chirp"
-          Bool: true
+          Bool: false
         }
       }
     }
@@ -2014,6 +2062,10 @@ Objects {
           Name: "Rotation"
           Rotator {
           }
+        }
+        Overrides {
+          Name: "cs:Chirp"
+          Bool: false
         }
       }
     }

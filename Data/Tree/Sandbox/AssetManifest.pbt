@@ -179,15 +179,6 @@ Assets {
   }
 }
 Assets {
-  Id: 9258812049024871290
-  Name: "Cone - Truncated Hollow Wide Thin"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cone_truncated_hollow_006"
-  }
-}
-Assets {
   Id: 9256376963641243765
   Name: "Wedge"
   PlatformAssetType: 1

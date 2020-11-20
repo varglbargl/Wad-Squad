@@ -10,6 +10,10 @@ if Environment.IsSinglePlayerPreview() then
   playerWads["21c0b4284eff4bb091ce80a75c984fd7"] = {s = 1, p = "1A742619D79FD136"}
 end
 
+function startGame()
+  script:SetNetworkedCustomProperty("GameState", "Playing")
+end
+
 function handleWadUpdate(playerID, size, lastPickup)
   playerWads[playerID] = {
     s = size,
@@ -33,9 +37,5 @@ function scoreUpdateLoop()
   scoreUpdateLoop()
 end
 
-Task.Spawn(scoreUpdateLoop)
-
 -- handler params: PlayerID, Size
 Events.Connect("WadUp", handleWadUpdate)
-
-

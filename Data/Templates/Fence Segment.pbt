@@ -46,19 +46,19 @@
         Name: "Post"
         Transform {
           Location {
-            X: -77.25
-            Y: 12.1152344
+            X: -77.2493439
+            Y: 12.1158848
             Z: 4301.5166
           }
           Rotation {
             Pitch: 6.83018879e-06
-            Yaw: 2.24821854
+            Yaw: 2.24821901
             Roll: -88.4232788
           }
           Scale {
-            X: 7
-            Y: 7
-            Z: 7
+            X: 7.00000048
+            Y: 7.00000048
+            Z: 7.00000048
           }
         }
         ParentId: 2613302385022587225
@@ -128,7 +128,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -182,7 +181,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -195,19 +193,19 @@
         Name: "Post"
         Transform {
           Location {
-            X: -2.09375
-            Y: 712.115234
+            X: -2.09309888
+            Y: 712.115845
             Z: 4200.8252
           }
           Rotation {
-            Pitch: -0.69342041
-            Yaw: -5.24517822
-            Roll: -90
+            Pitch: -0.693428099
+            Yaw: -5.24518347
+            Roll: -90.0000076
           }
           Scale {
-            X: 7
-            Y: 7
-            Z: 7
+            X: 7.00000048
+            Y: 7.00000048
+            Z: 7.00000048
           }
         }
         ParentId: 2613302385022587225
@@ -287,7 +285,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -349,7 +346,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -362,19 +358,19 @@
         Name: "Post"
         Transform {
           Location {
-            X: -110.816406
-            Y: 1412.11523
+            X: -110.817055
+            Y: 1412.11584
             Z: 4149.26758
           }
           Rotation {
-            Pitch: -0.835113525
-            Yaw: 2.80039358
-            Roll: -91.1652222
+            Pitch: -0.835099876
+            Yaw: 2.80039287
+            Roll: -91.1652
           }
           Scale {
-            X: 7
-            Y: 7
-            Z: 7
+            X: 7.00000048
+            Y: 7.00000048
+            Z: 7.00000048
           }
         }
         ParentId: 2613302385022587225
@@ -453,7 +449,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -516,7 +511,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -529,19 +523,19 @@
         Name: "Post"
         Transform {
           Location {
-            X: -37.859375
-            Y: 2087.11523
+            X: -37.8597
+            Y: 2087.11572
             Z: 4225
           }
           Rotation {
             Pitch: 6.83018879e-06
-            Yaw: -3.73361206
+            Yaw: -3.73361373
             Roll: -90.5800476
           }
           Scale {
-            X: 7
-            Y: 7
-            Z: 7
+            X: 7.00000048
+            Y: 7.00000048
+            Z: 7.00000048
           }
         }
         ParentId: 2613302385022587225
@@ -621,7 +615,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -684,7 +677,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -698,18 +690,18 @@
         Transform {
           Location {
             X: -141.894531
-            Y: 2762.11523
+            Y: 2762.11572
             Z: 4111.02637
           }
           Rotation {
             Pitch: 1.03296363
-            Yaw: -3.0005188
-            Roll: -88.8765869
+            Yaw: -3.00051975
+            Roll: -88.8765717
           }
           Scale {
-            X: 7
-            Y: 7
-            Z: 7
+            X: 7.00000048
+            Y: 7.00000048
+            Z: 7.00000048
           }
         }
         ParentId: 2613302385022587225
@@ -788,7 +780,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -851,7 +842,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -864,19 +854,19 @@
         Name: "Post"
         Transform {
           Location {
-            X: 47.75
-            Y: -2737.88477
+            X: 47.7506485
+            Y: -2737.88403
             Z: 4213.51855
           }
           Rotation {
-            Pitch: -0.69342041
-            Yaw: 4.58270454
+            Pitch: -0.693428099
+            Yaw: 4.58270788
             Roll: -90
           }
           Scale {
-            X: 7
-            Y: 7
-            Z: 7
+            X: 7.00000048
+            Y: 7.00000048
+            Z: 7.00000048
           }
         }
         ParentId: 2613302385022587225
@@ -956,7 +946,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -1017,7 +1006,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -1030,19 +1018,19 @@
         Name: "Post"
         Transform {
           Location {
-            X: -2.25
-            Y: -2037.88477
+            X: -2.24934888
+            Y: -2037.88403
             Z: 4178.16699
           }
           Rotation {
             Pitch: 6.83018879e-06
-            Yaw: -5.24996948
-            Roll: -89.5458374
+            Yaw: -5.24997616
+            Roll: -89.5458527
           }
           Scale {
-            X: 7
-            Y: 7
-            Z: 7
+            X: 7.00000048
+            Y: 7.00000048
+            Z: 7.00000048
           }
         }
         ParentId: 2613302385022587225
@@ -1122,7 +1110,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -1183,7 +1170,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -1196,19 +1182,19 @@
         Name: "Post"
         Transform {
           Location {
-            X: 37.140625
-            Y: -1362.88477
+            X: 37.1402969
+            Y: -1362.88403
             Z: 4280.74365
           }
           Rotation {
             Pitch: 6.83018879e-06
             Yaw: -2.09429932
-            Roll: -90.9545898
+            Roll: -90.9545593
           }
           Scale {
-            X: 7
-            Y: 7
-            Z: 7
+            X: 7.00000048
+            Y: 7.00000048
+            Z: 7.00000048
           }
         }
         ParentId: 2613302385022587225
@@ -1288,7 +1274,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -1349,7 +1334,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -1362,19 +1346,19 @@
         Name: "Post"
         Transform {
           Location {
-            X: -2.25
-            Y: -687.884766
+            X: -2.24934888
+            Y: -687.884094
             Z: 4225
           }
           Rotation {
             Pitch: 6.83018879e-06
-            Yaw: 1.61362076
-            Roll: -90
+            Yaw: 1.61362064
+            Roll: -89.9999924
           }
           Scale {
-            X: 7
-            Y: 7
-            Z: 7
+            X: 7.00000048
+            Y: 7.00000048
+            Z: 7.00000048
           }
         }
         ParentId: 2613302385022587225
@@ -1454,7 +1438,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -1515,7 +1498,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -1529,18 +1511,18 @@
         Transform {
           Location {
             X: 31.1328125
-            Y: -3437.88428
+            Y: -3437.88403
             Z: 4162.72119
           }
           Rotation {
-            Pitch: -2.35678101
-            Yaw: 4.56004858
-            Roll: -91.1774292
+            Pitch: -2.35677028
+            Yaw: 4.56005239
+            Roll: -91.1774368
           }
           Scale {
-            X: 7
-            Y: 7
-            Z: 7
+            X: 7.00000048
+            Y: 7.00000048
+            Z: 7.00000048
           }
         }
         ParentId: 2613302385022587225
@@ -1611,7 +1593,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -1663,7 +1644,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -1676,13 +1656,13 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 77.9648438
-            Y: -412.884766
+            X: 77.9654922
+            Y: -412.884094
             Z: 4675
           }
           Rotation {
             Pitch: -3.4150944e-05
-            Yaw: 7.59518457e-07
+            Yaw: 7.59518343e-07
             Roll: 178.573944
           }
           Scale {
@@ -1740,13 +1720,13 @@
         Transform {
           Location {
             X: 15.6445313
-            Y: 3412.11523
-            Z: 2475.02173
+            Y: 3412.11572
+            Z: 2475.02197
           }
           Rotation {
             Pitch: 6.83018879e-06
-            Yaw: -3.05175781e-05
-            Roll: -89.9999695
+            Yaw: -3.05175727e-05
+            Roll: -89.9999542
           }
           Scale {
             X: 6.99999952
@@ -1794,7 +1774,7 @@
         Transform {
           Location {
             X: 7.3128252
-            Y: 3429.98926
+            Y: 3429.99023
             Z: 5980.33838
           }
           Rotation {
@@ -1802,7 +1782,7 @@
           Scale {
             X: 8.99999809
             Y: 8.99999809
-            Z: 0.313507766
+            Z: 0.313507795
           }
         }
         ParentId: 2613302385022587225
@@ -1838,13 +1818,13 @@
         Name: "Cube"
         Transform {
           Location {
-            X: 77.9648438
-            Y: -412.884766
+            X: 77.9654922
+            Y: -412.884094
             Z: 250
           }
           Rotation {
             Pitch: -3.4150944e-05
-            Yaw: 1.68182385e-06
+            Yaw: 1.6818243e-06
             Roll: -178.610855
           }
           Scale {
@@ -1901,8 +1881,8 @@
         Name: "Nails"
         Transform {
           Location {
-            X: 184.890625
-            Y: 692.494141
+            X: 184.890945
+            Y: 692.493469
           }
           Rotation {
           }
@@ -1993,8 +1973,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2044,8 +2022,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2095,8 +2071,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2146,8 +2120,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2198,8 +2170,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2250,8 +2220,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2302,8 +2270,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2353,8 +2319,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2404,8 +2368,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2455,8 +2417,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2506,8 +2466,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2557,8 +2515,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2608,8 +2564,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2659,8 +2613,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2710,8 +2662,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2761,8 +2711,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2812,8 +2760,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2863,8 +2809,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2915,8 +2859,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -2967,8 +2909,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -3019,8 +2959,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -3071,8 +3009,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -3123,8 +3059,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -3175,8 +3109,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -3227,8 +3159,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -3279,8 +3209,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -3331,8 +3259,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {
@@ -3383,8 +3309,6 @@
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableDistanceFieldLighting: true
-          DisableCastShadows: true
           EnableCameraCollision: true
           StaticMesh {
             Physics {

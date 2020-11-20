@@ -1,6 +1,133 @@
 ﻿Name: "Neighbor Yard (Green)"
 RootId: 11789853748847975752
 Objects {
+  Id: 11750097731271586361
+  Name: "Sandbag"
+  Transform {
+    Location {
+      X: -25859.2734
+      Y: 5243.43945
+      Z: 307.111969
+    }
+    Rotation {
+    }
+    Scale {
+      X: 13.1248026
+      Y: 13.1248026
+      Z: 10.0868092
+    }
+  }
+  ParentId: 11789853748847975752
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 8532218528728211775
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3533190463953898497
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15234346591074014403
+  Name: "Grass Tall"
+  Transform {
+    Location {
+      X: -7359.70215
+      Y: 2539.00073
+      Z: 135.44873
+    }
+    Rotation {
+      Yaw: 4.3105092
+    }
+    Scale {
+      X: 5.50294924
+      Y: 13.119338
+      Z: 16.576767
+    }
+  }
+  ParentId: 11789853748847975752
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5739790186020624212
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10705400741347815347
+  Name: "Grass Tall"
+  Transform {
+    Location {
+      X: -7359.70215
+      Y: 939.269775
+      Z: 135.44873
+    }
+    Rotation {
+      Yaw: -6.42377806
+    }
+    Scale {
+      X: 5.50294924
+      Y: 13.119338
+      Z: 16.576767
+    }
+  }
+  ParentId: 11789853748847975752
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5739790186020624212
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 4811637075001297827
   Name: "Wad Blocker"
   Transform {
