@@ -645,14 +645,14 @@ Objects {
   Name: "Strawberry"
   Transform {
     Location {
-      X: -262.724609
-      Y: -1882.70508
-      Z: 43.0930557
+      X: -299.427063
+      Y: -1940.65259
+      Z: 59.8402901
     }
     Rotation {
-      Pitch: -22.5953922
-      Yaw: -132.420441
-      Roll: 19.0927219
+      Pitch: -30.8444214
+      Yaw: -157.692474
+      Roll: -4.28375244
     }
     Scale {
       X: 1

@@ -320,9 +320,9 @@ Objects {
   Name: "Bone"
   Transform {
     Location {
-      X: -1257.80908
-      Y: -3765.98438
-      Z: 23.7998962
+      X: -1485.82617
+      Y: -2116.78711
+      Z: 23.7991638
     }
     Rotation {
       Yaw: 38.1785355
@@ -1157,8 +1157,8 @@ Objects {
   Name: "Bone"
   Transform {
     Location {
-      X: -68.5537109
-      Y: -5538.37793
+      X: -792.934082
+      Y: -6422.05664
       Z: 23.7998962
     }
     Rotation {

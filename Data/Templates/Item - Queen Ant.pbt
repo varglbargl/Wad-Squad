@@ -2379,9 +2379,9 @@
         Name: "Plane Kite - One Sided"
         Transform {
           Location {
-            X: 1.27929688
-            Y: -0.466552734
-            Z: 30.8837891
+            X: -2.24023438
+            Y: 6.45288086
+            Z: 40.1572266
           }
           Rotation {
             Pitch: 37.6912842
@@ -2482,9 +2482,9 @@
         Name: "Plane Kite - One Sided"
         Transform {
           Location {
-            X: 1.27539063
-            Y: 0.422607422
-            Z: 31.7441406
+            X: -3.203125
+            Y: -3.81103516
+            Z: 15.3486328
           }
           Rotation {
             Pitch: 37.6913109

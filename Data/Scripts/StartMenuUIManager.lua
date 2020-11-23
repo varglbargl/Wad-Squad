@@ -3,6 +3,8 @@ local MENU_CAMERA = script:GetCustomProperty("StartMenuCamera"):WaitForObject()
 local CREDITS_CHECK = script:GetCustomProperty("CreditsCheck"):WaitForObject()
 local ARACHNO_CHECK = script:GetCustomProperty("ArachoCheck"):WaitForObject()
 local TRACKS = script:GetCustomProperty("Tracks"):WaitForObject()
+local PLAY = script:GetCustomProperty("Play"):WaitForObject()
+local STOP = script:GetCustomProperty("Stop"):WaitForObject()
 local CLICK_SFX = script:GetCustomProperty("ClickSFX")
 
 -- button hitboxes
@@ -35,7 +37,9 @@ local drift = Task.Spawn(driftCamera)
 
 _G.clientSettings = {
   creditsShow = false,
-  arachnoMode = false
+  arachnoMode = false,
+  musicTrack = 1,
+  player = "single"
 }
 
 function clickySound(thingClicked)
@@ -43,6 +47,13 @@ function clickySound(thingClicked)
   local click = World.SpawnAsset(CLICK_SFX, {position = thingClicked:GetWorldPosition()})
   click.isTransient = true
   click:Play()
+end
+
+local tracks = TRACKS:GetChildren()
+local playlist = {}
+
+for i, track in ipairs(tracks) do
+  playlist[i] = track:GetCustomProperty("Track"):WaitForObject()
 end
 
 function handleStartClicked()
@@ -57,11 +68,11 @@ function handleStartClicked()
 end
 
 function handleArachnoHovered()
-  -- .visibility = Visibility.FORCE_ON
+  -- .visibility = Visibility.INHERIT
 end
 
 function handleCreditsHovered()
-  -- .visibility = Visibility.FORCE_ON
+  -- .visibility = Visibility.INHERIT
 end
 
 function handleArachnoUnhovered()
@@ -77,7 +88,7 @@ function handleCreditsClicked()
   _G.clientSettings.creditsShow = not _G.clientSettings.creditsShow
 
   if _G.clientSettings.creditsShow then
-    CREDITS_CHECK.visibility = Visibility.FORCE_ON
+    CREDITS_CHECK.visibility = Visibility.INHERIT
   else
     CREDITS_CHECK.visibility = Visibility.FORCE_OFF
   end
@@ -88,7 +99,7 @@ function handleArachnoClicked()
   _G.clientSettings.arachnoMode = not _G.clientSettings.arachnoMode
 
   if _G.clientSettings.arachnoMode then
-    ARACHNO_CHECK.visibility = Visibility.FORCE_ON
+    ARACHNO_CHECK.visibility = Visibility.INHERIT
   else
     ARACHNO_CHECK.visibility = Visibility.FORCE_OFF
   end
@@ -96,14 +107,38 @@ end
 
 function handleMusicBackClicked()
   clickySound(TRACKS)
+  tracks[_G.clientSettings.musicTrack].visibility = Visibility.FORCE_OFF
+  playlist[_G.clientSettings.musicTrack]:Stop()
+  _G.clientSettings.musicTrack = _G.clientSettings.musicTrack - 1
+  if _G.clientSettings.musicTrack == 0 then _G.clientSettings.musicTrack = #playlist end
+  tracks[_G.clientSettings.musicTrack].visibility = Visibility.INHERIT
+  playlist[_G.clientSettings.musicTrack]:Play()
+  PLAY.visibility = Visibility.FORCE_OFF
+  STOP.visibility = Visibility.INHERIT
 end
 
 function handleMusicStopClicked()
   clickySound(TRACKS)
+  if playlist[_G.clientSettings.musicTrack].isPlaying then
+    PLAY.visibility = Visibility.INHERIT
+    STOP.visibility = Visibility.FORCE_OFF
+    playlist[_G.clientSettings.musicTrack]:Stop()
+  else
+    PLAY.visibility = Visibility.FORCE_OFF
+    STOP.visibility = Visibility.INHERIT
+    playlist[_G.clientSettings.musicTrack]:Play()
+  end
 end
 
 function handleMusicNextClicked()
   clickySound(TRACKS)
+  tracks[_G.clientSettings.musicTrack].visibility = Visibility.FORCE_OFF
+  playlist[_G.clientSettings.musicTrack]:Stop()
+  _G.clientSettings.musicTrack = _G.clientSettings.musicTrack % #playlist + 1
+  tracks[_G.clientSettings.musicTrack].visibility = Visibility.INHERIT
+  playlist[_G.clientSettings.musicTrack]:Play()
+  PLAY.visibility = Visibility.FORCE_OFF
+  STOP.visibility = Visibility.INHERIT
 end
 
 START_BUTTON.clickedEvent:Connect(handleStartClicked)

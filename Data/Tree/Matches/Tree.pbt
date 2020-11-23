@@ -1990,9 +1990,9 @@ Objects {
   Name: "Mach"
   Transform {
     Location {
-      X: -3748.64038
-      Y: -1718.89282
-      Z: 363.027557
+      X: -3780.4209
+      Y: -1646.4834
+      Z: 354.864929
     }
     Rotation {
       Pitch: 1.36603776e-05

@@ -59,6 +59,35 @@ Objects {
   }
 }
 Objects {
+  Id: 5376869222424880746
+  Name: "Fire Nation"
+  Transform {
+    Location {
+      X: -6203.24121
+      Y: -517.415222
+      Z: 373.379181
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12276776014136101490
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Fire Nation"
+  }
+}
+Objects {
   Id: 18301322653486220240
   Name: "Spidertown"
   Transform {

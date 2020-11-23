@@ -1,6 +1,182 @@
 ﻿Name: "Garden"
 RootId: 3092004872852450116
 Objects {
+  Id: 16571772899575969465
+  Name: "Grass Tall"
+  Transform {
+    Location {
+      X: -1299.18457
+      Y: 4203.55
+      Z: -3
+    }
+    Rotation {
+      Yaw: -35.0000725
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5739790186020624212
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14536406691193482838
+  Name: "Grass Tall"
+  Transform {
+    Location {
+      X: -881.483887
+      Y: 1234.99976
+      Z: -3
+    }
+    Rotation {
+      Yaw: -35.0000725
+    }
+    Scale {
+      X: 2.3
+      Y: 2.3
+      Z: 2.60000014
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5739790186020624212
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4522653632451730043
+  Name: "Grass Tall"
+  Transform {
+    Location {
+      X: -870.354
+      Y: 4770
+      Z: -3
+    }
+    Rotation {
+      Yaw: -35.0000725
+    }
+    Scale {
+      X: 4.10000086
+      Y: 4.10000086
+      Z: 4.10000086
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5739790186020624212
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12515317524367573095
+  Name: "Flashlight"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3092004872852450116
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8522005989211901481
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Flashlight"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1277.50732
+            Y: 1159.99976
+            Z: 43.5455322
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 41.0890274
+            Yaw: -21.264431
+            Roll: 82.816452
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11834231573820483336
+    }
+  }
+}
+Objects {
   Id: 8716070189404670540
   Name: "Birdhouse"
   Transform {

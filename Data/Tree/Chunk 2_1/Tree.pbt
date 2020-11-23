@@ -1,6 +1,190 @@
 ﻿Name: "Chunk 2_1"
 RootId: 5771214282835980510
 Objects {
+  Id: 13041022592263780380
+  Name: "Lemons"
+  Transform {
+    Location {
+      X: -6020.69873
+      Y: -2952.76025
+      Z: 3042.90283
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.64646149
+      Y: 3.64646149
+      Z: 3.64646149
+    }
+  }
+  ParentId: 5771214282835980510
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Lemons"
+  }
+}
+Objects {
+  Id: 7918873598400975079
+  Name: "Skull"
+  Transform {
+    Location {
+      X: -8651.54199
+      Y: 5239.97461
+      Z: 39.9999466
+    }
+    Rotation {
+      Yaw: -74.9998245
+    }
+    Scale {
+      X: 0.8
+      Y: 0.8
+      Z: 0.8
+    }
+  }
+  ParentId: 5771214282835980510
+  ChildIds: 14382030237100018461
+  ChildIds: 2478898773007134623
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 2478898773007134623
+  Name: "Item Sphere"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7918873598400975079
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1516960025473174507
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pickup Sphere"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 8.79137707
+            Y: 8.79137707
+            Z: 8.79137707
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 65.6076508
+            Y: 85.3532104
+            Z: 392.073608
+          }
+        }
+        Overrides {
+          Name: "cs:Pickup"
+          ObjectReference {
+            SelfId: 9649259103484566523
+            SubObjectId: 11722593964823537590
+            InstanceId: 14382030237100018461
+            TemplateId: 9577761946829181634
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4673312574059639203
+    }
+  }
+}
+Objects {
+  Id: 14382030237100018461
+  Name: "Skull"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7918873598400975079
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 11722593964823537590
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Skull"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -35.0001221
+            Roll: -20.0000916
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9577761946829181634
+    }
+  }
+}
+Objects {
+  Id: 10088547675102830567
+  Name: "Peas"
+  Transform {
+    Location {
+      X: 599.345703
+      Y: 2055.75269
+      Z: 378.427765
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3.33333325
+      Y: 3.33333325
+      Z: 3.33333325
+    }
+  }
+  ParentId: 5771214282835980510
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Peas"
+  }
+}
+Objects {
   Id: 12470371543835454645
   Name: "Bonsai Trees"
   Transform {

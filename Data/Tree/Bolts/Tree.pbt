@@ -1525,9 +1525,9 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: -3731.59106
-      Y: -1461.80273
-      Z: 334.316742
+      X: -3307.49927
+      Y: -987.593
+      Z: 343.721283
     }
     Rotation {
       Yaw: -90
@@ -2677,8 +2677,8 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: -4267.396
-      Y: -1700.66528
+      X: -3881.12695
+      Y: -1977.41138
       Z: 334.316742
     }
     Rotation {
@@ -2965,8 +2965,8 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: -4418.24268
-      Y: -1599.11768
+      X: -4274.125
+      Y: -1948.17163
       Z: 334.316742
     }
     Rotation {
@@ -3109,8 +3109,8 @@ Objects {
   Name: "Hex Bolt"
   Transform {
     Location {
-      X: -4479.62354
-      Y: -1544.39111
+      X: -4479.34521
+      Y: -1619.82678
       Z: 334.316742
     }
     Rotation {

@@ -407,6 +407,7 @@ Objects {
   ChildIds: 14291730773171833760
   ChildIds: 3952633671825917702
   ChildIds: 6295637024824840161
+  ChildIds: 17713331254828916736
   ChildIds: 9658260093137479462
   ChildIds: 16230482950761357726
   ChildIds: 176403562823354935
@@ -428,6 +429,7 @@ Objects {
   Name: "\"Cute Town\" Music Construction Kit (Sections) 01"
   Transform {
     Location {
+      Z: 2566.19897
     }
     Rotation {
     }
@@ -465,7 +467,8 @@ Objects {
       Volume: 1
       Falloff: 3600
       Radius: 400
-      EnableOcclusion: true
+      FadeInTime: 0.25
+      FadeOutTime: 0.25
     }
   }
 }
@@ -474,6 +477,7 @@ Objects {
   Name: "\"Sunny Rock/Punk\" Music Construction Kit (Sections) 01"
   Transform {
     Location {
+      Z: 2566.19897
     }
     Rotation {
     }
@@ -507,10 +511,11 @@ Objects {
     AudioBP {
       Repeat: true
       Pitch: 400
-      Volume: 0.6
+      Volume: 1
       Falloff: 3600
       Radius: 400
-      EnableOcclusion: true
+      FadeInTime: 0.25
+      FadeOutTime: 0.25
     }
   }
 }
@@ -3461,9 +3466,9 @@ Objects {
   Name: "Depth of Field Post Process"
   Transform {
     Location {
-      X: -270
-      Y: -260
-      Z: 235
+      X: -143.320969
+      Y: 81.0898514
+      Z: 27.7020645
     }
     Rotation {
       Pitch: -3.296875
@@ -3483,7 +3488,7 @@ Objects {
     }
     Overrides {
       Name: "bp:Depth Blur Distance For 50%"
-      Float: 75
+      Float: 100
     }
     Overrides {
       Name: "bp:Unbounded"
@@ -4387,6 +4392,59 @@ Objects {
   }
 }
 Objects {
+  Id: 17713331254828916736
+  Name: "ArachnophobiaMode"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15969670120281364747
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:SpidertownItems"
+      ObjectReference {
+        SelfId: 18301322653486220240
+      }
+    }
+    Overrides {
+      Name: "cs:FireNationItems"
+      ObjectReference {
+        SelfId: 5376869222424880746
+      }
+    }
+    Overrides {
+      Name: "cs:SpidertownLevel"
+      ObjectReference {
+        SelfId: 15339566612617490117
+      }
+    }
+    Overrides {
+      Name: "cs:FireNationLevel"
+      ObjectReference {
+        SelfId: 17120468832500024182
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 7876854219936170680
+    }
+  }
+}
+Objects {
   Id: 6295637024824840161
   Name: "StartMenuUIManager"
   Transform {
@@ -4433,6 +4491,18 @@ Objects {
       }
     }
     Overrides {
+      Name: "cs:Play"
+      ObjectReference {
+        SelfId: 6972453697256779849
+      }
+    }
+    Overrides {
+      Name: "cs:Stop"
+      ObjectReference {
+        SelfId: 6731827853554558209
+      }
+    }
+    Overrides {
       Name: "cs:ClickSFX"
       AssetReference {
         Id: 14306440979922177934
@@ -4472,6 +4542,12 @@ Objects {
       Name: "cs:CreditsToggle"
       ObjectReference {
         SelfId: 16560906206772211392
+      }
+    }
+    Overrides {
+      Name: "cs:GameUI"
+      ObjectReference {
+        SelfId: 176403562823354935
       }
     }
   }

@@ -1,6 +1,62 @@
 ﻿Name: "Dining Room"
 RootId: 7483335700504436817
 Objects {
+  Id: 14350228331743194757
+  Name: "Potted Plant"
+  Transform {
+    Location {
+      X: -5600.00781
+      Y: 5732.16357
+      Z: 1312.5802
+    }
+    Rotation {
+      Yaw: 105.939987
+    }
+    Scale {
+      X: 5.20484781
+      Y: 5.20484781
+      Z: 5.20484781
+    }
+  }
+  ParentId: 7483335700504436817
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15765556204724167923
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Potted Plant"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 105.940025
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 8.05647945
+            Y: 8.05647945
+            Z: 8.05647945
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 2533.26563
+            Y: 2904.17
+            Z: 1046.76929
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 882672085295166127
+    }
+  }
+}
+Objects {
   Id: 4401973114718359944
   Name: "Carpet"
   Transform {

@@ -15,7 +15,7 @@
             Z: 1.85934579
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 12186981851060045477
         ChildIds: 5951593109672500756
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -582,7 +582,6 @@
         }
         ParentId: 5951593109672500756
         ChildIds: 999036320403816914
-        ChildIds: 10647520731806418363
         ChildIds: 10556412724209510992
         ChildIds: 13315513743528357048
         ChildIds: 17306126023294341834
@@ -632,80 +631,6 @@
         CoreMesh {
           MeshAsset {
             Id: 10830521042113057013
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          DisableDistanceFieldLighting: true
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 10647520731806418363
-        Name: "Urban Pipe Valve 01"
-        Transform {
-          Location {
-            X: -0.573013186
-            Y: -0.0761566535
-            Z: 23.0997753
-          }
-          Rotation {
-            Yaw: 89.9999847
-            Roll: -179.999985
-          }
-          Scale {
-            X: 1.80000019
-            Y: 1.5
-            Z: 1.5
-          }
-        }
-        ParentId: 12455897180946980733
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 18440814011778038326
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_Detail1:id"
-            AssetReference {
-              Id: 18440814011778038326
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_Detail1:color"
-            Color {
-              R: 0.115
-              G: 0.115
-              B: 0.115
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 0.115
-              G: 0.115
-              B: 0.115
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 13913062282643868615
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -992,7 +917,6 @@
         }
         ParentId: 5951593109672500756
         ChildIds: 8486785602282909952
-        ChildIds: 12413798169476653822
         ChildIds: 8164588248703039813
         ChildIds: 6098659791231743475
         ChildIds: 6294941679113961903
@@ -1042,80 +966,6 @@
         CoreMesh {
           MeshAsset {
             Id: 10830521042113057013
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          DisableDistanceFieldLighting: true
-          EnableCameraCollision: true
-          StaticMesh {
-            Physics {
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 12413798169476653822
-        Name: "Urban Pipe Valve 01"
-        Transform {
-          Location {
-            X: -0.573013186
-            Y: -0.0761566535
-            Z: 23.0997753
-          }
-          Rotation {
-            Yaw: 89.9999847
-            Roll: -179.999985
-          }
-          Scale {
-            X: 1.80000019
-            Y: 1.5
-            Z: 1.5
-          }
-        }
-        ParentId: 16936861716576943446
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 18440814011778038326
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_Detail1:id"
-            AssetReference {
-              Id: 18440814011778038326
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_Detail1:color"
-            Color {
-              R: 0.115
-              G: 0.115
-              B: 0.115
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 0.115
-              G: 0.115
-              B: 0.115
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 13913062282643868615
           }
           Teams {
             IsTeamCollisionEnabled: true

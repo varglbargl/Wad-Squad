@@ -5,8 +5,8 @@ Objects {
   Name: "Bubble Tea"
   Transform {
     Location {
-      X: 1193.5321
-      Y: -1366.33154
+      X: 1281.87451
+      Y: -1371.10095
       Z: 546.953735
     }
     Rotation {

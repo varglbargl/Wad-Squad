@@ -31,18 +31,20 @@ function startGame()
   unloadChunk(chunk2, "chunk2")
   loadChunk("chunk1")
 
-  clientWad = World.SpawnAsset(WAD, {position = player:GetWorldPosition() + Vector3.New(0, 0, spawnHeight)})
+  clientWad = World.SpawnAsset(WAD, {position = clientPlayer:GetWorldPosition() + Vector3.New(0, 0, spawnHeight)})
   clientWad.clientUserData["Size"] = 1
-  player.clientUserData["Wad"] = clientWad
+  clientPlayer.clientUserData["Wad"] = clientWad
 
   local wadControl = clientWad:GetCustomProperty("WadControl"):WaitForObject()
 
   -- lol thank you Task.Spawn
   Task.Spawn(function() CAMERA_FOLLOW.context.handleWadExists(clientWad.id) end)
 
-  Task.Spawn(function() wadControl.context.issueWad(player) end)
+  Task.Spawn(function() wadControl.context.issueWad(clientPlayer) end)
 
-  Task.Spawn(function() tellServerAboutWad() end)
+  if _G.clientSettings.player == "multi" then
+    Task.Spawn(tellServerAboutWad)
+  end
 end
 
 function handleLeft(player)
@@ -180,7 +182,10 @@ chunkUnloaderTwoEvent = CHUNK_UNLOADER_2.beginOverlapEvent:Connect(unloadChunkTw
 chunkUnloaderThreeEvent = CHUNK_UNLOADER_3.beginOverlapEvent:Connect(unloadWholeYard)
 
 Events.Connect("LoadChunk", loadChunk)
+Events.Connect("UnloadChunk", unloadChunk)
 Events.Connect("StoreItem", storeItem)
+
+Events.Connect("StartGame", startGame)
 
 Game.playerJoinedEvent:Connect(handleJoined)
 Game.playerLeftEvent:Connect(handleLeft)

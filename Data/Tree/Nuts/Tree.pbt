@@ -353,8 +353,8 @@ Objects {
   Name: "Hex Nut"
   Transform {
     Location {
-      X: -4164.375
-      Y: -1709.71863
+      X: -4266.31445
+      Y: -1700.5741
       Z: 321.412506
     }
     Rotation {
@@ -469,8 +469,8 @@ Objects {
   Name: "Hex Nut"
   Transform {
     Location {
-      X: -4261.07373
-      Y: -1630.47668
+      X: -4001.58765
+      Y: -1946.9845
       Z: 321.412506
     }
     Rotation {
@@ -586,7 +586,7 @@ Objects {
   Transform {
     Location {
       X: -4664.57666
-      Y: -1343.13916
+      Y: -1003.22235
       Z: 329.319611
     }
     Rotation {
@@ -1013,9 +1013,9 @@ Objects {
   Name: "Hex Nut"
   Transform {
     Location {
-      X: -4896.12402
-      Y: -1346.3811
-      Z: 334.838715
+      X: -4452.61475
+      Y: -952.315308
+      Z: 334.514771
     }
     Rotation {
       Yaw: -90
@@ -1120,13 +1120,14 @@ Objects {
   Name: "Hex Nut"
   Transform {
     Location {
-      X: -4936.01953
-      Y: -1424.38525
-      Z: 335.249695
+      X: -4950
+      Y: -1511.74512
+      Z: 329.120514
     }
     Rotation {
+      Pitch: -2.7104187
       Yaw: -90
-      Roll: 6.30458641
+      Roll: 6.30467939
     }
     Scale {
       X: 0.526317477
@@ -1229,12 +1230,12 @@ Objects {
     Location {
       X: -4997.12305
       Y: -1369.47656
-      Z: 344.875
+      Z: 343.152191
     }
     Rotation {
-      Pitch: 5.18104
-      Yaw: -90
-      Roll: 11.6337109
+      Pitch: -3.9654541
+      Yaw: -89.8499146
+      Roll: 7.94958591
     }
     Scale {
       X: 0.526317477

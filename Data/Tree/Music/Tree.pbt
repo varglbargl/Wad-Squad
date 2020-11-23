@@ -5,9 +5,9 @@ Objects {
   Name: "Text 01: C"
   Transform {
     Location {
-      X: -23.3790283
-      Y: -49.9812927
-      Z: 4.046875
+      X: -22.1644325
+      Y: -50.6358376
+      Z: 4.6425848
     }
     Rotation {
       Pitch: 1.32186007
@@ -94,9 +94,9 @@ Objects {
   Name: "Text 01: I"
   Transform {
     Location {
-      X: -15.3864746
-      Y: -38.6977539
-      Z: 4.96875
+      X: -14.1717958
+      Y: -39.3525238
+      Z: 5.56443596
     }
     Rotation {
       Pitch: 1.32186007
@@ -183,9 +183,9 @@ Objects {
   Name: "Text 01: S"
   Transform {
     Location {
-      X: -0.431945801
-      Y: -9.60769653
-      Z: 1.578125
+      X: 0.782732487
+      Y: -10.2620153
+      Z: 2.17376661
     }
     Rotation {
       Pitch: 1.32186007
@@ -272,9 +272,9 @@ Objects {
   Name: "Text 01: U"
   Transform {
     Location {
-      X: 16.237793
-      Y: 21.8470764
-      Z: 1.53125
+      X: 17.4523239
+      Y: 21.1925659
+      Z: 2.12688208
     }
     Rotation {
       Pitch: 1.32186007
@@ -361,9 +361,9 @@ Objects {
   Name: "Text 01: M"
   Transform {
     Location {
-      X: 38.5527344
-      Y: 68.0429077
-      Z: 1.90625
+      X: 39.7671928
+      Y: 67.3882294
+      Z: 2.50194144
     }
     Rotation {
       Pitch: 1.32186007

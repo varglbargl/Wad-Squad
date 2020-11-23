@@ -2172,12 +2172,12 @@ Objects {
   Name: "Bubble Tea"
   Transform {
     Location {
-      X: 6172.32617
-      Y: 4919.65918
+      X: 6125.36475
+      Y: 4237.96289
       Z: 0.000137329102
     }
     Rotation {
-      Yaw: -63.8356209
+      Yaw: -63.8356323
     }
     Scale {
       X: 1.0838939

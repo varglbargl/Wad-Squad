@@ -57,6 +57,42 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 207288977439347952
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 570800446094956697
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 914034787653641350
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2077273729794354501
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 2613302385022587225
       value {
         Overrides {
@@ -76,6 +112,87 @@ Objects {
           Rotator {
             Yaw: -90
           }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3133781815912520392
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5799722841787625309
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6169059019084179280
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9015903498402348478
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9744691833700516559
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11643510158621878026
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12217572885346121556
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12795759914581086277
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16353795363581297125
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
         }
       }
     }
@@ -105,6 +222,15 @@ Objects {
   ParentId: 5702453975289230257
   TemplateInstance {
     ParameterOverrideMap {
+      key: 207288977439347952
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 2613302385022587225
       value {
         Overrides {
@@ -124,6 +250,24 @@ Objects {
           Rotator {
             Yaw: -90
           }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3133781815912520392
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6169059019084179280
+      value {
+        Overrides {
+          Name: "DisableDistanceFieldLighting"
+          Bool: true
         }
       }
     }

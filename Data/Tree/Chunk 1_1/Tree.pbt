@@ -137,6 +137,17 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 2937438721188151792
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 13735964988824407627
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 13502343614372805169
       value {
         Overrides {
@@ -165,6 +176,17 @@ Objects {
             X: 0.3
             Y: 0.3
             Z: 0.3
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16758933499839826087
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 13735964988824407627
           }
         }
       }

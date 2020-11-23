@@ -206,6 +206,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5739790186020624212
+  Name: "Grass Tall"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_grass_generic_001"
+  }
+}
+Assets {
   Id: 4050437425243511619
   Name: "Wood Raw"
   PlatformAssetType: 2
